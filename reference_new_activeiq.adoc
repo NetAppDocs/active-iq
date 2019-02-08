@@ -1,0 +1,16 @@
+---
+sidebar: sidebar
+permalink: reference_new_occm.html
+keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements
+summary: Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
+---
+
+= What's new in Active IQ
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.

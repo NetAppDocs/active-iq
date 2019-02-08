@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: index.html
+summary: Welcome to the documentation portal for Active IQ.
+---
+
+= Active IQ documentation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud. It delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app.
+
+== Discover what's new
+
+* link:reference_new_activeiq.html[What's new in Active IQ]
+* https://docs.netapp.com/us-en/cloud-volumes-ontap/reference_new_95.html[What's new in Cloud Volumes ONTAP^]
+
+== Get started
+
+* link:task_getting_started_activeiq.html[Getting started]
+* link:concept_customer_dashboard.html[Customer dashboard]
