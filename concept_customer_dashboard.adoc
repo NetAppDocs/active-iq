@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: concept_cloud_central.html
+permalink: concept_customer_dashboard.html
 keywords: dashboard, system inventory, capacity forecasting, storage efficiency, AutoSupport
 summary: The Customer Dashboard is the central portal in Active IQ from which you can view and manage a customer’s installed base.
 ---

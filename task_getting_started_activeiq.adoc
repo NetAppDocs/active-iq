@@ -1,7 +1,7 @@
 ---
 pagenav: false
 sidebar: sidebar
-permalink: task_getting_started_aws.html
+permalink: task_getting_started_activeiq.html
 keywords: access key, secret key, create, active iq, AutoSupport
 summary: Help you to get started using Active IQ.
 ---
@@ -17,7 +17,7 @@ summary: Help you to get started using Active IQ.
 You must be aware of the following to get started with Active IQ.
 
 == Default View
-Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using   dropdown from the top right.
+Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using dropdown from the top right.
 For NetApp internal users, search is the default view upon login, but frequently accessed views can be saved as Favorites and Custom Groups.
 
 == Top Banner
