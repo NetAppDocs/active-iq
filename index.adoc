@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar
 permalink: index.html
-summary: Welcome to the documentation portal for Active IQ.
+summary: Active IQ Documentation.
 ---
 
-= Active IQ
+= Welcome to the documentation portal for Active IQ.
 :hardbreaks:
 :nofooter:
 :icons: font
