@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_new_activeiq.html
-keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements
+keywords: what's new, features, new, release notes, limitations, known issues, enhancements
 summary: Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
 ---
 

@@ -2,7 +2,7 @@
 pagenav: false
 sidebar: sidebar
 permalink: task_getting_started_activeiq.html
-keywords: access key, secret key, create, active iq, AutoSupport
+keywords: access key, secret key, create, active iq, AutoSupport, getting started
 summary: Help you to get started using Active IQ.
 ---
 
