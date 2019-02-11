@@ -11,14 +11,744 @@ summary: Welcome to the documentation portal for Active IQ.
 :linkattrs:
 :imagesdir: ./media/
 
-Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud. It delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app.
+January 2019
 
-== Discover what's new
+== Contents
 
-* link:reference_new_activeiq.html[What's new in Active IQ]
-* https://docs.netapp.com/us-en/cloud-volumes-ontap/reference_new_95.html[What's new in Cloud Volumes ONTAP^]
+== Overview 
 
-== Get started
+Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud. It delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app. NetApp uses community wisdom and peer comparisons gained from its massive installed base to deliver an advanced set of unparalleled analytics services through Active IQ.
 
-* link:task_getting_started_activeiq.html[Getting started]
-* link:concept_customer_dashboard.html[Customer dashboard]
+=== Accessing Active IQ Web Portal and Downloading the Mobile App
+
+[cols=",",options="header",]
+|=======================================================================================================
+|Active IQ Web Portal |https://mysupport.netapp.com/myautosupport/home.html[https://activeiq.netapp.com]
+|Active IQ Mobile App Download |
+|Apple App Store |https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8
+|Google Play |https://play.google.com/store/apps/details?id=com.netapp.myautosupport
+|=======================================================================================================
+
+NOTE: You must have a valid NetApp Support site credential to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
+
+Active IQ shows systems with a valid support contract. If contracts expire, there is a grace period of 90 days in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ.
+
+=== Documentation, Feedback, and Support
+
+[cols=",",options="header",]
+|========================================================================================================================================
+|Documentation Resources |https://www.netapp.com/us/documentation/active-iq.aspx
+|Report Issues |https://mysupport.netapp.com/myautosupport/dist/index.html#/feedback
+|Feedback & Enhancement Requests |ng-activeiq-feedback@netapp.com
+|User Community |http://communities.netapp.com/community/products_and_solutions/efficient_it/my_autosupport_and_autosupport?view=overview
+|Follow us on Twitter |https://twitter.com/NetAppActiveIQ
+|========================================================================================================================================
+
+== Getting Started with Active IQ
+
+=== Default View
+
+Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using dropdown from the top right.
+
+For NetApp internal users, search is the default view upon login, but frequently accessed views can be saved as Favorites and Custom Groups.
+
+=== Top Banner
+
+The top banner of the application provides access to different capabilities in a click.
+
+image:media/media/image2.png[image,width=624,height=211]
+
+It also provides the different options that are available to the user.
+
+image:media/media/image3.png[image,width=602,height=244]
+
+[#_Toc536786142 .anchor]##Newsletter Subscription
+
+To keep yourself updated on the latest features of Active IQ, you can subscribe to Active IQ newsletters by clicking the Subscription option from the top banner.
+
+==== Favorites
+
+Favorites are created upon user selection across the application. Different pages can be marked as favorites using the Favorite option from the top right, and all favorites are then accessible from the login name dropdown as shown in the figure below. With this feature, you don’t need to spend time searching for the same systems each time you use the application.
+
+==== Search and Navigation
+
+Active IQ search is powerful and dynamic – as you start typing, we show search results found in your installed base grouped into different categories including systems, clusters, sites, groups, and customers. A few preliminary results are listed for each category, upon successive drill down, more results are shown. Search is always available from the right side of top banner.
+
+image:media/media/image4.png[image,width=522,height=53]
+
+For NetApp internal users, Search is the default home page.
+
+image:media/media/image5.png[image,width=586,height=227]
+
+You can now search for various categories including OneCollect and Config Advisor by clicking the *Advanced Search results*.
+
+image:media/media/image6.png[image,width=533,height=216]
+
+Active IQ offers two different views of your systems data:
+
+* Single-system view: Search parameters such as serial number, system ID, host name, and cluster name.
+* Group of systems: Search by customer name, site name, or group name.
+
+While viewing a system or a group of systems, menus are available through icons on the left navigation to access available insights from your installed base.
+
+*Note*: Features available at the single-system level differ from features available at the aggregate level. In general, features at the customer level provide an overview and the features at the system level provide more details.
+
+=== Left Navigation
+
+The left navigation of Active IQ provides details of information available from the dashboard. The navigation can be minimized to maximize viewing of information during regular use.
+
+image:media/media/image7.png[image,width=207,height=477]
+
+=== Feedback +
+Guided Problem Solving and Chat
+
+Guided Problem Solving (GPS) is accessible from the feedback option, which is on the right of the screen. It helps you resolve most common technical issues faster. Use it to jump directly to verified knowledge base articles and technical documentation; access commonly needed break-fix procedures, FAQs, and how-to articles; and collaborate with other users on your product by connecting with Community directly from the feature page
+
+Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS
+
+Customers and Partners also have access to chat from the top menu by clicking the image:media/media/image8.png[image,width=59,height=21]icon.
+
+Chat is not available for NetApp Internal users.
+
+==== What’s New?
+
+When you first login after a release, you will see a summary of new features.
+
+This information is also available from the feedback option, which is on the right of the screen.
+
+== Feature Overview
+
+=== Watchlists
+
+Watchlists enable you to access preselected systems inside Active IQ quickly and easily.
+
+Watchlists are accessible from top menu and allow you to group systems within or across customers.
+
+image:media/media/image3.png[image,width=602,height=244]
+
+With this functionality, you can group up to 5,000 systems in a single watchlist. Enter a list name and the serial numbers of the systems you would like to include in the Watchlists dialog box and click Submit. Lists allow inclusion of systems you are entitled to access. After the Watchlist is saved, click list name link for details.
+
+*NEW*: Watchlists also allows you to add systems from one or more customers. When this is done, there is no need to update the list of systems belonging to these customers when systems get added or removed from customers’ installed base. This is a significant productivity savings over adding systems using serial #s. You can add as many customers as you need to as long as the total number of systems is within 5,000.
+
+See *Reports* feature to learn more about reports you can generate using systems in a Watchlist.
+
+image:media/media/image9.png[image,width=623,height=174]
+
+=== Manual AutoSupport Upload
+
+This functionality allows you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the AutoSupport Upload button in the top banner, select the files, and click Upload. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, supported formats, and more.
+
+image:media/media/image10.png[image,width=295,height=402]
+
+=== NEW: Config Compare (BETA) with Popular Configuration Templates
+
+The new Config Compare feature allows you to detect configuration deviations in near real time. It allows you to create a template using a default we provide or selecting one from one of the systems in your installed base. Once a template is created, you can subscribe to create a subscription to get change notifications in near real time via email or on the “Deviation Result” tab of the feature. This feature is still in Beta, we support limited sections for comparison within the template.
+
+You can use Popular Configuration powered by Active IQ Community Wisdom, Default Configuration or System AutoSupport templates to see differences or anomalies in configurations. Instant Compare of Configurations is coming soon.
+
+Seeing comparisons and drifts involve three steps:
+
+[arabic]
+. Selecting a template
+
+_________________________________________________________________________________________________________________________________________
+New in the recent release is the ability to select a popular template based on Active IQ community wisdom from the entire installed base.
+
+image:media/media/image11.png[image,width=415,height=210]
+_________________________________________________________________________________________________________________________________________
+
+[arabic, start=2]
+. Setting up a subscription
+
+_________________________________________________________
+image:media/media/image12.png[image,width=388,height=292]
+_________________________________________________________
+
+[arabic, start=3]
+. Seeing comparisons and drifts
+
+_________________________________________________________
+image:media/media/image13.png[image,width=482,height=437]
+_________________________________________________________
+
+=== Customer Dashboard
+
+The Customer Dashboard is the central portal in Active IQ from which you can view and manage a customer’s installed base. The dashboard has consolidated views of:
+
+* Systems inventory
+* AutoSupport adoption and transmission issues
+* Capacity forecasting
+* ONTAP, shelf, drive, and system firmware upgrade Recommendations
+* Risk Advisory
+* Storage Efficiency Recommendations and Advisory
+* Recent Cases
++
+image:media/media/image14.png[image,width=624,height=445]
+
+==== Capacity Forecasting for ONTAP systems
+
+This widget on the customer dashboard gives you a 1, 3, and 6 months’ view of systems that may have already breached the preset 90% capacity threshold or may be about to breach it within these time-periods.
+
+Clicking the icon you can download details about all impacted systems. In the example capacity forecast below for a customer:
+
+* Three systems are already over 90% capacity
+* There are no systems that will be over 90% capacity in 1 to 6-month timeframe
+* There are 171 systems that will be under 90% capacity in 6 months
++
+*NOTE*: Capacity forecasts are computed based on past usage and growth patterns. If there are materially significant changes in usage or growth, these predictions may not hold, and more systems may be over 90% capacity sooner.
+
+image:media/media/image16.png[image,width=390,height=242]
+
+To ensure that systems do not run out of space, you can request for storage from the Capacity Widget by selecting the systems and clicking the mail icon. You can select multiple systems at once to request capacity.
+
+image:media/media/image17.png[image,width=496,height=138]
+
+Total capacity displayed is the sum of all the aggregate’s total capacity and used capacity is the sum of all the aggregate’s physical used space.
+
+==== Support Contract Renewals Widget
+
+This widget on customer dashboard gives you the list of support contracts expiring. User can request renewals of support contract by clicking on mail icon.
+
+It displays:
+
+* Support Contract already expired
+* Support Contract expiring within 6 months
+
+image:media/media/image18.png[image,width=412,height=256]
+
+==== End of Support (EOS) Hardware (ONTAP) Widget
+
+End of Support Widget shows the list of systems that are reaching end of support. User can request upgrade of systems by selecting systems and clicking on mail icon. Select the download arrow on the upper right corner to download a detail list of end of support systems including shelves and drives.
+
+It displays:
+
+* Systems that have reached EOS
+* Systems reaching EOS in 6 months
+* Systems reaching EOS in 6-12 months
+* Systems reaching EOS > 1 year
+
+image:media/media/image19.png[image,width=404,height=253]
+
+==== Performance Widget
+
+Performance Widget in customer dashboard displays:
+
+* Systems with Incomplete AutoSupport – Displays information about systems which are sending incomplete AutoSupport due to truncation because of budget limits or SMTP transport protocol
+* Systems Over 90% CPU Utilization – Displays information about systems in which CPU utilization is more than 90%. CPU utilization displayed is the hourly averaged maximum utilization in the day based on daily performance AutoSupport data. A performance remediation plan might include setting QoS workload limits, moving volumes or LUNs to another storage controller, or expanding the storage cluster.
+* Systems Over 50% Disk Utilization – Displays information about systems in which disk utilization is more than 50%. Disk utilization shown is the hourly averaged maximum utilization in the day based on daily performance AutoSupport data.
+* Unbalanced Systems (Delta > 40% CPU) – Displays information about systems in a HA pair where one system is 40% more utilized compared to the partner node. NetApp recommends using no more than 50% CPU on system in order to maintain consistent performance in case of a takeover.
+
+image:media/media/image20.png[image,width=341,height=211]
+
+==== Cases Widget
+
+The new cases widget displays the following:
+
+* Trend of recent P1 cases
+* Summary of recent cases
+* Download of recent cases using the download icon ( )
+
+==== Upgrade Recommendations Widget
+
+This widget provides consolidated recommendations for:
+
+* ONTAP upgrades
+* Disk drive firmware upgrades
+* Shelf firmware upgrades
+* System firmware upgrades
+
+==== System Dashboard Widget Preferences
+
+Widgets on the customer dashboard can be customized using settings from the right. The following figure shows a sample screenshot of Settings. Users can uncheck widgets and click Save to save their preferences.
+
+image:media/media/image21.png[image,width=114,height=278]
+
+=== DataCenter View
+
+DataCenter View provides inventory of hosts and switches collected and uploaded using https://mysupport.netapp.com/tools/info/ECMLP2671381I.html?productID=62128&pcfContentID=ECMLP2671381[Active IQ OneCollect], discovers the operating system, capacity, connected storage, applications running on the host, and allows to perform interoperability check with the current configurations.
+
+Host Discovery Dashboard uses hosts, switches and storage AutoSupport information that are collected and uploaded using Active IQ OneCollect.
+
+image:media/media/image22.png[image,width=508,height=263]
+
+===
+
+=== Storage
+
+Storage dashboard shows the storage efficiency ratio, capacity and savings for entire storage systems running ONTAP 9.1 and above. Efficiency ratio and savings can be seen with and without Snapshots and for only AFF, only non-AFF systems or both.
+
+Total savings across customer storage can be seen per efficiency feature such as snapshots, clones, deduplication, compression and compaction.
+
+image:media/media/image23.png[image,width=623,height=393]
+
+=== Active IQ Advisories
+
+==== Flash Advisor
+
+Flash Advisor recommends a list of volumes that contain workloads that will perform better if moved to AFF systems. Users can select volumes and submit a request to upgrade the system to flash.
+
+We determine the list of volumes by looking at characteristic’s other users across the installed base have benefited from. A list of these characteristics is available from the information icon on the top right of this widget.
+
+image:media/media/image24.png[image,width=498,height=272]
+
+===== Criteria for determining Flash candidates
+
+image:media/media/image25.png[image,width=448,height=240]
+
+==== Protection Advisor
+
+Protection Advisor shows the number of SnapMirror protected and unprotected volumes. A detailed list can be downloaded by clicking on the download arrow on the upper right-hand corner.
+
+image:media/media/image26.png[image,width=480,height=249]
+
+==== Performance Guarantee Best Practice Gaps
+
+Performance Guarantee Promotion offers Latency guarantee with select AFF A-series systems. NetApp guarantees 99% of the latency measured hourly over 100-hour period is below 1ms/500μs with select AFF A-series systems.
+
+Performance Guarantee Best Practice Gaps widget helps to identify the systems and volumes that are not following the following best practices that are defined for Performance Guarantee Promotion.
+
+* All volumes are managed by Adaptive QoS in the NetApp Service Level Manager with PS engagement
+* Current ONTAP GA release
+* Each volume size is less than 10% of the usable storage of the node.
+* No aggregate is over 80% full
+* More than 100 average IOPS per volume per hour
+* Random read should be greater than 30 %
+* Average IO block size is equal to 32k or below on all volumes on a node.
+* The host application may not request more IOPS than the greater of 1k IOPs or the IOPS per gigabyte
+* Replication or backup schedule greater than or equal to 4 hours
+* Snapshot schedule greater than or equal to one hour.
+
+image:media/media/image27.png[image,width=481,height=158]
+
+=== System Dashboard
+
+The System Fitness Dashboard offers more detailed information and it includes detail about the following:
+
+* Configuration
+* Capacity Forecasting
+* Performance Chart
+* Storage Efficiency Ratio
+* System Risks and Alerts
+* ONTAP Upgrade Recommendations
+* AutoSupport On Demand enablement
+
+The left side of the dashboard provides access to additional detailed information for above listed items and more, some of which are described later in this document.
+
+=== NEW - Storage Efficiency Peer Comparison
+
+Drawing on diagnostic records from more than 300K devices across NetApp’s user base, Active IQ is constantly learning, giving you insights to unleash the full potential of your data. Storage Efficiency Advisor uses community wisdom of AutoSupport data from all NetApp customers and compares the efficiency number of your system against the latest All-Flash models from NetApp where all best practices are followed.
+
+This feature, available for all Active IQ users, is enabled at a single system level for FAS systems above ONTAP 9.1 and AFF systems above ONTAP 8.3.2. For AFF systems, it also shows the best practice gaps and suggests ways of getting improved efficiency ratios. Also, provides low touch option for customers who wish to upgrade to latest AFF models.
+
+image:media/media/image28.png[image,width=326,height=177]
+
+=== Workload Tagging
+
+This feature allows users to tag volumes within Storage Virtual Machines (SVMs) in ONTAP systems (cDOT only) with workload details. One or more volumes can be tagged to a specific workload using selecting a workload from the pre-defined dropdown list.
+
+Once volumes are tagged, NetApp will make recommendations and best practices available that will help users to improve performance, efficiency, and availability of NetApp systems.
+
+The feature is accessible by clicking the image:media/media/image29.png[image,width=21,height=18] icon from left navigation of ONTAP cluster.
+
+In the Cluster dashboard, summary of total number volumes that are not tagged are shown. image:media/media/image30.png[image,width=106,height=49]
+
+You can tag volumes with the Workload, Application, Protocol and Container. Workload is an enterprise workload and Application is defined as a User Application/Products.
+
+image:media/media/image31.png[image,width=259,height=229]
+
+There are three different type of workload tags:
+
+* *ONTAP tag* is the tag obtained from ONTAP AutoSupport when workload template in System Manager is used to provision.
+* *Auto Generated Tag* is the tag that is tagged by auto detection mechanisms using machine learning. Active IQ can intelligently identify the type of workload running on the volume. Unidentified volumes are tagged as Other.
+* *User Tag* is the tag provided by user manually using tagging feature in workload tagging in Active IQ. Only user tags can be modified or untagged.
+
+Workload Tagging UI is built with rich features including advanced filters. Workload Tag table can be filtered using SVM, Volume Name, Tagged Workloads, Application, Protocol and Container. It helps identifying volumes, workloads and choose multiple volumes to tag at once. You can search for a volume by using a pattern that can match between the volume names. You can also download the entire workload tag list.
+
+image:media/media/image32.png[image,width=624,height=278]
+
+==== Workload and Application Efficiency and Capacity
+
+Once the volumes are tagged, Active IQ provides Total Capacity and Efficiency for each workload and application. It also provides volumes level efficiency and capacity. You can filter the workloads in efficiency dashboard based on tag type.
+
+All the efficiency ratios provided are excluding Snapshots and clones.
+
+==== Comparison with Peer Ratio powered by Community Wisdom
+
+Calculated Workload Efficiency Ratio is compared with Peer / Guaranteed Ratio of each workload defined. Peer Ratio is calculated based on average efficiency ratio of the workloads identified using Active IQ community wisdom. Peer Ratio is defined based for each ONTAP version and compared with the respective ONTAP version running on the cluster.
+
+image:media/media/image33.png[image,width=597,height=327]
+
+Additional features are planned using workload tagging such as showing best practices, performance trends and also tighter integration with other NetApp Products.
+
+=== Performance
+
+From the System Fitness Dashboard, you can click the Performance icon (image:media/media/image34.png[image,width=30,height=30] ) to view the performance history of your system. These charts provide up to 60 days of historical performance data, which is useful for performance trend and pattern analysis. The hourly averages used to prepare these charts are reported in a daily performance AutoSupport data summary.
+
+System interruptions, such as reboots and service disablements, can cause gaps in the chart. These performance charts are intended for trending analysis, and NetApp does not recommend them for detailed performance monitoring or diagnostics; you should use onsite products such as OnCommand products for such use cases.
+
+There are several viewable performance charts including Peak Performance (Headroom), CPU and Disk Utilization, IOPS, Latency and Throughput. Users can check one or more of these charts for selective viewing of performance charts. Charts are downloadable in PDF, SVG, and PNG formats. You can also export all the counter information into a CSV from the menu.
+
+*Peak performance zone* is the area, which is equal to or below the peak performance line. In simple terms, it specifies the limit of good operating behavior for the given storage resource. When a resource's utilization rises above this line, the client latencies increases rapidly.
+
+*Headroom is the difference between peak performance line and current utilization line*. Monitor the performance graphs periodically to identify the nodes that may run out of headroom. If the current resources utilization is above this peak performance line for an extended time, a performance remediation plan might be appropriate. A performance remediation plan might include setting QoS workload limits, moving volumes or LUNs to another storage controller, or expanding the storage cluster.
+
+The confidence factor is used to determine the accuracy of the peak performance line that is used in CPU and aggregate headroom graphs. The confidence factor counter indicates how good the range of utilizations and latencies were observed for a resource in the system. The higher the confidence factor, the more accurate the peak performance line will be. Confidence factors range from 1 (low) to 3 (high).
+
+There are cluster aggregated performance charts in cluster performance dashboard and can view node level graphs.
+
+*Note*: Response Time by Protocol and Concurrency graphs are not available for cDOT systems.
+
+The following is the performance chart at the cluster level:
+
+image:media/media/image35.png[image,width=557,height=248]
+
+The following is the performance chart at the system level:
+
+image:media/media/image36.png[image,width=505,height=262]
+
+=== Health
+
+The Health tab (image:media/media/image37.png[image,width=29,height=30]) contains system risks that identifies configuration or other kinds of issues that may impair system performance, availability, and resiliency. Each risk entry contains information about the specific risk, the potential negative impact, and links to mitigation plans for that risk. Addressing these risks proactively can improve your NetApp storage availability.
+
+Impact Level Definitions:
+
+* *High* – High potential of a system outage or data corruption, address immediately. Examples include HA Takeover Impossible and Shutdown Pending.
+* *Medium* – May cause system downtime such as a panic. Address as soon as possible.
+* *Low* – Minimal impact but should be addressed for increased system stability. Examples include bypass disks present, SnapMirror sync failure, and RSDT not working.
+* *Best Practice* – Recommendation defined by a Technical Report (TR) or Knowledge Base (KB) article.
+
+Case Probability analyzes risk data and technical support case data from the last two to three years. Using machine learning determines the likelihood that a technical support case will be opened for the system within 90 days of the risk being detected. This results in determining strong correlation between the first discovery of a risk and whether a case is opened.
+
+Using the risk’s impact level and the risk to case confidence value to compute a “Case Probability” score. This score is used to rank the risks present on a system for which risk should be mitigated first.
+
+image:media/media/image38.png[image,width=624,height=206]
+
+==== Security Vulnerability
+
+The Security Vulnerability tab identifies systems with security risks. This tab contains information about the specific risk, the potential negative impact and link to the CVE bulletin.
+
+Impact Level Definitions for Security Risks
+
+The Impact level for Security Risks is based on the Common Vulnerability Scoring System (CVSS) and noted in the Impact section of the CVE bulletin. The CVSS provides an open framework for communicating the characteristics and impacts of IT vulnerabilities. Its quantitative model ensures repeatable accurate measurement while enabling users to see the underlying vulnerability characteristics that were used to generate the scores. Thus, CVSS is well suited as a standard measurement system for industries, organizations, and governments that need accurate and consistent vulnerability impact scores. For more information, please visit https://nvd.nist.gov/vuln-metrics/cvss
+
+image:media/media/image39.png[image,width=624,height=231]
+
+*TIP*: If you would like to receive system risk report on a regular basis, click on “*Schedule a Risk Report”.*
+
+==== Best Practices
+
+Best practices are available from the Health Summary tab in the left navigation pane and the Fitness quadrant of the Fitness Dashboard. Gaps in best practices are highlighted, and corrective actions are listed for mitigation. Best practices are available at both the system and aggregate levels (customer, site, and group), helping you to standardize your storage environment and enhance its operational efficiency.
+
+image:media/media/image40.png[image,width=624,height=230]
+
+*TIP*: Review Best Practices for checking whether you have implemented Storage Efficiency Best Practices according to NetApp recommendations.
+
+==== Health Trending
+
+It is extremely important to mitigate risks in a timely manner to prevent critical issues. The Health Trending feature provides up to a 3-month view of System Risks, Best Practices, and End of Support so that as you mitigate these conditions, you can track the progress with weekly reports. These reports show you a summary of trends and allow you to drill down and analyze individual risks. Trending is available at both single system and customer level. You can download these reports in a PDF format.
+
+image:media/media/image41.png[image,width=624,height=249]
+
+==== System Risk Acknowledgement
+
+Use the System Risk Acknowledgement feature to gain the greatest flexibility in managing how risks detected across your systems are displayed in your dashboard. This feature enables you to customize your risk dashboard so that it displays only the risks you deem to be most critical to your environment.
+
+Acknowledging a risk is a way of flagging it in your dashboard. Setting your preferences to “Hide Acknowledged Risks” removes the flagged risks from your active default Health Summary view. All acknowledged risks are still viewable from the “Acknowledged System Health” tab.
+
+*Best Practice:* Complete the “justification” field when you acknowledge a risk to document the rationale behind the acknowledgement.
+
+*Note:* If you are a NetApp Internal user acknowledging on behalf of a customer with their approval, please add the customer’s name in the “Approved By” field for future reference and trackability.
+
+image:media/media/image42.png[image,width=498,height=232]
+
+==== Risk Advisor
+
+By using Risk Advisor, users can see how many risks can be mitigated just by doing an ONTAP upgrade. Only systems that can be upgraded to ONTAP 9.x will be shown.
+
+==== Community Wisdom
+
+Based on other systems with the same risk that upgraded, community wisdom gives the likelihood of the risk being mitigated by upgrading ONTAP along with a level of confidence. This is presented in the last two columns as “Risk present after upgrade” and “% of Risk resolved after ONTAP upgrade” column.
+
+==== Benefits
+
+* Better system availability by lowering risk profile
+* Reduces planning time for upgrades – you know which systems will benefit from upgrade from a single report
+* Additional benefit of newer features in ONTAP 9
+* Your risk mitigation improves the confidence level of our recommendations
+
+image:media/media/image43.png[image,width=614,height=188]
+
+=== Interop Advisor
+
+Interop Advisor allows you to check the compatibility of hosts by using data collected by NetApp OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers and firmware.
+
+[arabic]
+. Start by entering the job id of an uploaded OneCollect file or upload a new one.
+
+image:media/media/image44.png[image,width=623,height=231]
+
+[arabic, start=2]
+. The file is loaded, and the storage controller is shown along with connected hosts and switches. Click NEXT.
+
+image:media/media/image45.png[image,width=592,height=321]
+
+[arabic, start=3]
+. Select the target ONTAP version. Click NEXT
+
+image:media/media/image46.png[image,width=600,height=252]
+
+[arabic, start=4]
+. Enter report name and email address.
+
+image:media/media/image47.png[image,width=444,height=146]
+
+[arabic, start=5]
+. An Excel file is emailed with Current and ONTAP Upgrade Compatibility information.
+
+image:media/media/image48.png[image,width=593,height=150]
+
+=== AutoSupport Viewer
+
+With the AutoSupport Viewer you can view full AutoSupport details, including weekly AutoSupport logs. The left panel contains a menu that lists all the subsections of an AutoSupport message. The most commonly used AutoSupport sections appear at the top, and the rest of the sections are listed in alphabetical order. This is a good place to selectively view individual AutoSupport sections without going through the entire AutoSupport message.
+
+By default, wherever available, the sysconfig –a section of the latest weekly AutoSupport message, is displayed.
+
+You can also download the complete AutoSupport message in either HTML or text format for viewing or troubleshooting.
+
+Newly added functionalities also allow the following:
+
+* Filtering of AutoSupports by type of AutoSupport (Management, Performance, Weekly, Other)
+* Searching by section name
+* Simple tabular viewing of XML sections – you can change column positions, save column preferences, and download the XML section in an Excel file for further use and analysis.
+
+image:media/media/image49.png[image,width=570,height=306]
+
+=== Cluster Viewer (ONTAP Only)
+
+From the Cluster and node dashboards and the AutoSupport viewer, you will now see a link to view configuration details, called Cluster Viewer. Cluster Viewer allows you to see detailed physical and logical configuration details. The details are presented in several easy to view tables across multiple tabs that include a summary of the configuration, stack diagram, network interfaces, summary of SVMs & aggregates, volume and LUN information, and a few visualizations. Visualization is the graphical view available of how the system is cabled showing connectivity between controllers and shelves. The details available from Cluster Viewer are downloadable in DOC, XLS, and PDF. Note that the graphical view download is currently separate from the download of all the tables.
+
+image:media/media/image50.png[image,width=623,height=36]
+
+=== Types of visualizations
+
+image:media/media/image51.png[image,width=165,height=153]
+
+==== Sample Cable Visualization
+
+You can view the cable visualization to see details of how the cluster is cabled. You can zoom in or out, and also options to select parts of the visualization. Additionally, you can export the visualization in SVG, which can then be edited in Visio.
+
+image:media/media/image52.png[image,width=623,height=188]
+
+==== AutoSupport Alerts
+
+AutoSupport alerts, available from the left navigation pane, are notifications sent to you about issues that may affect the health, availability, or uptime of your storage systems. AutoSupport detects known issues and sends you a notification about them so that you can take mitigation measures. These alerts are available in addition to the e-mail notifications sent out to you. You can also see a history of these alerts for the last 90 days.
+
+You can view AutoSupport alerts at the single-system and aggregate levels. You can also turn off e-mail notifications for these events and apply the preferences at a system or a site level.
+
+The AutoSupport Alerts interface includes AutoSupport header details complete with the contact information of the people receiving notifications.
+
+image:media/media/image53.png[image,width=623,height=124]
+
+====
+
+==== AutoSupport Alert Subscriptions
+
+On the AutoSupport Alert Subscriptions tab of the AutoSupport Alerts page, enter the email addresses of all the interested parties and select the types of AutoSupport alerts for them to receive. In addition to single-system and aggregate-level alerts, subscriptions can also be expanded to site-wide or customer-wide alerts by checking the corresponding “Apply same subscriptions to” box.
+
+For more information about AutoSupport alerts, refer to this Knowledge Base article on the NetApp Support site: https://kb.netapp.com/support/index?page=content&id=7010076
+
+image:media/media/image54.png[image,width=552,height=162]
+
+====
+
+==== Notifications
+
+From the Notifications tab, you can select the AutoSupport notifications that you want to receive.
+
+* Enter all e-mail addresses that should receive the notifications.
+* Review all the AutoSupport message types and select the ones that you want to receive.
+* Click Submit to finalize the changes. All selected AutoSupport notifications are sent to the addresses you specified.
+
+*Best practice*: Use a group distribution list or group e-mail address so that, if individuals are away, others can still receive critical AutoSupport notifications by e-mail.
+
+==== Upgrade Advisor
+
+Upgrade Advisor offers a quick, automated, and accurate way to generate a Data ONTAP upgrade plan. From the System or Customer Dashboard, click the image:media/media/image55.png[image,width=27,height=27] icon to open a screen to what is shown in the figure below. By default, if you are clicking this from a system level, all nodes of the cluster or the HA-Pair (for 7-Mode systems) are auto populated.
+
+image:media/media/image56.png[image,width=624,height=266]
+
+In the next step, the recommended version of ONTAP is suggested. In some cases, users may prefer to stay at a higher or a lower version of ONTAP based on the needs of their installed base and standards.
+
+image:media/media/image57.png[image,width=623,height=244]
+
+=== Cluster Dashboard
+
+The new cluster dashboard is the central place to look for information about ONTAP clusters. The dashboard also consolidates health, capacity, storage efficiency and performance insights.
+
+There are two main ways to reach the cluster dashboard:
+
+[arabic]
+. By searching a cluster name
+. By searching for a node within the cluster – by default you land on the cluster dashboard the node belongs to. From there you have shortcuts to reach the individual nodes.
+
+The figure below shows the functionalities and information available from the cluster dashboard.
+
+image:media/media/image58.png[image,width=623,height=564]
+
+Cluster Dashboard has the following components:
+
+At the top of the dashboard, the following critical information about the cluster is summarized:
+
+* High Impact Risks
+* Upgrade Recommendations
+* AutoSupport On Demand Status
+* End of Support details
+
+The cluster dashboard also has more detailed information in the following widgets:
+
+*Configuration* – This widget lists all the nodes in the cluster and also provides hostname, serial number, system ID, ONTAP version, and model of the nodes within the cluster. From the “View Configuration Details” button on top of this widget, you are able to see additional details about the cluster through the new “Cluster Viewer” Beta module, which includes a visualization of how the cluster is cabled.
+
+*Capacity Forecasting* – This widget on the cluster dashboard provides a simple view of whether any nodes within the cluster may be running out of capacity. If there are nodes that are over 90% capacity, or may reach that threshold within 6 months, you can select those nodes and reach out to NetApp to request capacity addition.
+
+*Performance* – Available for Internal Users Only – This new widget at the cluster level identifies issues with performance AutoSupport or other performance characteristics at the cluster level. It looks at the following critical areas:
+
+* Truncation issues with Performance AutoSupport
+* Nodes within the cluster with over 90% CPU utilization
+* Nodes within the cluster with over 50% Disk utilization
+* Unbalanced systems
+
+The information icon on the top of the widget provides additional details about these critical attributes and also provides guidance on how you may be able to mitigate these critical conditions.
+
+*Health Summary* – This widget shows the snapshot of risks, best practice gaps, hardware end of support, and alerts of all the nodes within the cluster. You can click any of the numbers within the widget to drill down into the details of each of these components.
+
+*Storage Efficiency* – This widget shows the cluster level efficiency ratio, and also lists the efficiency ratio of individual nodes. To view efficiency details of individual nodes, you can click the arrow on the top right of the widget.
+
+*Software Upgrade Recommendations* – This widget does a gap analysis of different components including ONTAP, drive firmware, system firmware, and shelf firmware. You can download all the details into a worksheet. You can also click on the different components to upgrade the components. ONTAP upgrade recommendation provide the latest and the most modern version of ONTAP that can be upgraded considering the platform checks.
+
+*Cluster Upgrade Advisor* – You can now generate an Upgrade Plan for a cluster from the cluster dashboard page. Click the image:media/media/image55.png[image,width=27,height=27] icon to open the screen. All the nodes in a cluster will be upgraded to single ONTAP version. Individual nodes cannot be upgraded to different ONTAP version. Choose between ANDU, NDU, DU or Revert plans and click Generate to generate an upgrade plan.
+
+Newly added functionalities to the upgrade plan:
+
+Upgrade Advisor now performs automated interoperability cluster switch checks for a target ONTAP version.
+
+The left navigation of the cluster dashboard allows viewing of the details of information available from the dashboard. Following functionalities are currently available –
+
+[cols=",,",options="header",]
+|============================================================================================================================
+|*Icon* |*Functionality* |*Description*
+| |Performance |This tab allows you to view detailed performance charts of the ONTAP cluster
+| |Upgrade Advisor |Allows you to generate an upgrade plan for the cluster
+| |AutoSupport |This tab allows you to view all AutoSupports from all the nodes coming from the cluster
+| |Health |This tab allows you to view details of the risks, end of support hardware, and best practice gaps of the cluster.
+| |Storage Efficiency |This tab allows you to view the storage efficiency details of the individual nodes within the cluster.
+|============================================================================================================================
+
+=== Cases
+
+The cases widget allows you to view the recent case details of the cluster. You can also download the details of the cases from the top of this widget.
+
+=== New: HCI Expansion Advisor (Beta)
+
+HCI Expansion Advisor enables you to assess your NetApp HCI systems to determine whether you need to add compute and storage nodes for new and growing workloads.
+
+Expansion Advisor shows the details about the current configuration of your cluster, as well as performance details for compute and storage over the last 30 days. You can specify the growth percentage for an existing workload, or you can enter details about a new workload that you want to add to the system. Expansion Advisor uses this information to recommend whether you need additional compute and storage nodes to accommodate the workload.
+
+When you’re ready to add compute or storage nodes, you can click Request Expansion to send a request for the additional compute and storage nodes. After receiving request, NetApp/Partner contacts you for additional information.
+
+image:media/media/image64.png[image,width=444,height=197]
+
+==== Aggregated View of Multiple Customers (Partners Only)
+
+Available from the My Systems link on the top banner of the application, this aggregated view provides partners (only) with a way to see all of their customers’ information from a single screen. The view displays partners’ customer lists, provides a count of systems for each customer, and shows which sites these customers have.
+
+In addition to these details, this view also shows the number of risks and end-of-support components for each customer and site, as well as AutoSupport adoption for each customer.
+
+This view also offers a detailed worksheet that you can download for each customer. The downloaded report includes the following fields:
+
+[cols=",",]
+|=======================
+a|
+* Cluster Name
+* Hostname
+* Serial #
+* System ID
+* Customer
+* Site
+* Group
+* Entitled Access Status
+* Last AutoSupport Date
+
+a|
+* # of Risks
+* # of EOS HW
+* Model
+* Data ONTAP Version
+* Ship Date
+* Contract End Date
+* Contact Information
+* Name, E-Mail, Phone
+
+|=======================
+
+=== My Reports
+
+Use the My Reports feature to generate and schedule the following reports:
+
+* System configuration
+* System risk
+* Storage efficiency
+* NetApp value (only for internal users and partners)
+
+With a few clicks, you can have reports regularly delivered to your inbox in either CSV or PDF format.
+
+A comprehensive user guide for My Reports is available from the link below
+
+https://mysupport.netapp.com/myautosupport/docs/en/myreportsuserguide.pdf
+
+My Reports can be accessed from the top menu of Active IQ.
+
+image:media/media/image65.png[image,width=202,height=280]
+
+You can also reach My Reports directly by clicking the hyperlink below
+
+http://mysupport.netapp.com/myautosupport/reports.html
+
+=== Discovery Dashboard
+
+The Active IQ Discovery Dashboard serves as an efficient method for watching systems important to our users and quickly recognizing and taking actions critical events and technical issues.
+
+Discovery dashboard could be accessed from top menu of Active IQ home page and is only available to Partners and NetApp internal users. More details about the Discovery Dashboard can be found in a separate user guide from the dashboard page to authorized users.
+
+image:media/media/image66.png[image,width=205,height=284]
+
+=== New: API Services (Beta)
+
+Active IQ now has a new set of API services available as Beta to select partners and customers. This is accessible from the top menu of Active IQ. Currently, this is visible to users that are part of the Beta program. We plan to make these services available generally.
+
+image:media/media/image67.png[image,width=205,height=279]
+
+image:media/media/image68.png[image,width=624,height=160]
+
+If you want to be part of Beta or have questions about general availability timing, please email ng-activeiq-feedback@netapp.com.
+
+== Copyright
+
+Copyright © 2019 NetApp, Inc. All rights reserved. Printed in the U.S.
+
+No part of this document covered by copyright may be reproduced in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or storage in an electronic retrieval system—without prior written permission of the copyright owner. Software derived from copyrighted NetApp material is subject to the following license and disclaimer:
+
+THIS SOFTWARE IS PROVIDED BY NETAPP "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WHICH ARE HEREBY DISCLAIMED. IN NO EVENT SHALL NETAPP BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+NetApp reserves the right to change any products described herein at any time, and without notice. NetApp assumes no responsibility or liability arising from the use of products described herein, except as expressly agreed to in writing by NetApp. The use or purchase of this product does not convey a license under any patent rights, trademark rights, or any other intellectual property rights of NetApp.
+
+The product described in this manual may be protected by one or more U.S. patents, foreign patents, or pending applications.
+
+Data contained herein pertains to a commercial item (as defined in FAR 2.101) and is proprietary to NetApp, Inc. The U.S. Government has a non-exclusive, non-transferrable, non-sublicensable, worldwide, limited irrevocable license to use the Data only in connection with and in support of the U.S. Government contract under which the Data was delivered. Except as provided herein, the Data may not be used, disclosed, reproduced, modified, performed, or displayed without the prior written approval of NetApp, Inc. United States Government license rights for the Department of Defense are limited to those rights identified in DFARS clause 252.227-7015(b).
+
+== Trademark
+
+NETAPP, the NETAPP logo, and the marks listed on the NetApp Trademarks page are trademarks of NetApp, Inc. Other company and product names may be trademarks of their respective owners.
+
+_http://www.netapp.com/us/legal/netapptmlist.aspx_
+
+Draft
