@@ -10,7 +10,7 @@ summary: The Active IQ User Guide provides details about all the features in Act
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/
+:imagesdir: ./media/UserGuide
 
 == Overview
 
@@ -53,11 +53,11 @@ For NetApp internal users, search is the default view upon login, but frequently
 
 The top banner of the application provides access to different capabilities in a click.
 
-image:UserGuide/image2.png[image,width=624,height=211]
+image:image2.png[image,width=624,height=211]
 
 It also provides the different options that are available to the user.
 
-image:UserGuide/image3.png[image,width=602,height=244]
+image:image3.png[image,width=602,height=244]
 
 [#_Toc536786142 .anchor]##Newsletter Subscription
 
@@ -71,15 +71,15 @@ Favorites are created upon user selection across the application. Different page
 
 Active IQ search is powerful and dynamic – as you start typing, we show search results found in your installed base grouped into different categories including systems, clusters, sites, groups, and customers. A few preliminary results are listed for each category, upon successive drill down, more results are shown. Search is always available from the right side of top banner.
 
-image:UserGuide/image4.png[image,width=522,height=53]
+image:image4.png[image,width=522,height=53]
 
 For NetApp internal users, Search is the default home page.
 
-image:UserGuide/image5.png[image,width=586,height=227]
+image:image5.png[image,width=586,height=227]
 
 You can now search for various categories including OneCollect and Config Advisor by clicking the *Advanced Search results*.
 
-image:UserGuide/image6.png[image,width=533,height=216]
+image:image6.png[image,width=533,height=216]
 
 Active IQ offers two different views of your systems data:
 
@@ -94,7 +94,7 @@ While viewing a system or a group of systems, menus are available through icons 
 
 The left navigation of Active IQ provides details of information available from the dashboard. The navigation can be minimized to maximize viewing of information during regular use.
 
-image:UserGuide/image7.png[image,width=207,height=477]
+image:image7.png[image,width=207,height=477]
 
 === Feedback +
 Guided Problem Solving and Chat
@@ -103,7 +103,7 @@ Guided Problem Solving (GPS) is accessible from the feedback option, which is on
 
 Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS
 
-Customers and Partners also have access to chat from the top menu by clicking the image:UserGuide/image8.png[image,width=59,height=21]icon.
+Customers and Partners also have access to chat from the top menu by clicking the image:image8.png[image,width=59,height=21]icon.
 
 Chat is not available for NetApp Internal users.
 
@@ -121,7 +121,7 @@ Watchlists enable you to access preselected systems inside Active IQ quickly and
 
 Watchlists are accessible from top menu and allow you to group systems within or across customers.
 
-image:UserGuide/image3.png[image,width=602,height=244]
+image:image3.png[image,width=602,height=244]
 
 With this functionality, you can group up to 5,000 systems in a single watchlist. Enter a list name and the serial numbers of the systems you would like to include in the Watchlists dialog box and click Submit. Lists allow inclusion of systems you are entitled to access. After the Watchlist is saved, click list name link for details.
 
@@ -129,13 +129,13 @@ With this functionality, you can group up to 5,000 systems in a single watchlist
 
 See *Reports* feature to learn more about reports you can generate using systems in a Watchlist.
 
-image:UserGuide/image9.png[image,width=623,height=174]
+image:image9.png[image,width=623,height=174]
 
 === Manual AutoSupport Upload
 
 This functionality allows you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the AutoSupport Upload button in the top banner, select the files, and click Upload. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, supported formats, and more.
 
-image:UserGuide/image10.png[image,width=295,height=402]
+image:image10.png[image,width=295,height=402]
 
 === NEW: Config Compare (BETA) with Popular Configuration Templates
 
@@ -151,21 +151,21 @@ Seeing comparisons and drifts involve three steps:
 _________________________________________________________________________________________________________________________________________
 New in the recent release is the ability to select a popular template based on Active IQ community wisdom from the entire installed base.
 
-image:UserGuide/image11.png[image,width=415,height=210]
+image:image11.png[image,width=415,height=210]
 _________________________________________________________________________________________________________________________________________
 
 [arabic, start=2]
 . Setting up a subscription
 
 _________________________________________________________
-image:UserGuide/image12.png[image,width=388,height=292]
+image:image12.png[image,width=388,height=292]
 _________________________________________________________
 
 [arabic, start=3]
 . Seeing comparisons and drifts
 
 _________________________________________________________
-image:UserGuide/image13.png[image,width=482,height=437]
+image:image13.png[image,width=482,height=437]
 _________________________________________________________
 
 === Customer Dashboard
@@ -180,7 +180,7 @@ The Customer Dashboard is the central portal in Active IQ from which you can vie
 * Storage Efficiency Recommendations and Advisory
 * Recent Cases
 +
-image:UserGuide/image14.png[image,width=624,height=445]
+image:image14.png[image,width=624,height=445]
 
 ==== Capacity Forecasting for ONTAP systems
 
@@ -194,11 +194,11 @@ Clicking the icon you can download details about all impacted systems. In the ex
 +
 *NOTE*: Capacity forecasts are computed based on past usage and growth patterns. If there are materially significant changes in usage or growth, these predictions may not hold, and more systems may be over 90% capacity sooner.
 
-image:UserGuide/image16.png[image,width=390,height=242]
+image:image16.png[image,width=390,height=242]
 
 To ensure that systems do not run out of space, you can request for storage from the Capacity Widget by selecting the systems and clicking the mail icon. You can select multiple systems at once to request capacity.
 
-image:UserGuide/image17.png[image,width=496,height=138]
+image:image17.png[image,width=496,height=138]
 
 Total capacity displayed is the sum of all the aggregate’s total capacity and used capacity is the sum of all the aggregate’s physical used space.
 
@@ -211,7 +211,7 @@ It displays:
 * Support Contract already expired
 * Support Contract expiring within 6 months
 
-image:UserGuide/image18.png[image,width=412,height=256]
+image:image18.png[image,width=412,height=256]
 
 ==== End of Support (EOS) Hardware (ONTAP) Widget
 
@@ -224,7 +224,7 @@ It displays:
 * Systems reaching EOS in 6-12 months
 * Systems reaching EOS > 1 year
 
-image:UserGuide/image19.png[image,width=404,height=253]
+image:image19.png[image,width=404,height=253]
 
 ==== Performance Widget
 
@@ -235,7 +235,7 @@ Performance Widget in customer dashboard displays:
 * Systems Over 50% Disk Utilization – Displays information about systems in which disk utilization is more than 50%. Disk utilization shown is the hourly averaged maximum utilization in the day based on daily performance AutoSupport data.
 * Unbalanced Systems (Delta > 40% CPU) – Displays information about systems in a HA pair where one system is 40% more utilized compared to the partner node. NetApp recommends using no more than 50% CPU on system in order to maintain consistent performance in case of a takeover.
 
-image:UserGuide/image20.png[image,width=341,height=211]
+image:image20.png[image,width=341,height=211]
 
 ==== Cases Widget
 
@@ -258,7 +258,7 @@ This widget provides consolidated recommendations for:
 
 Widgets on the customer dashboard can be customized using settings from the right. The following figure shows a sample screenshot of Settings. Users can uncheck widgets and click Save to save their preferences.
 
-image:UserGuide/image21.png[image,width=114,height=278]
+image:image21.png[image,width=114,height=278]
 
 === DataCenter View
 
@@ -266,7 +266,7 @@ DataCenter View provides inventory of hosts and switches collected and uploaded
 
 Host Discovery Dashboard uses hosts, switches and storage AutoSupport information that are collected and uploaded using Active IQ OneCollect.
 
-image:UserGuide/image22.png[image,width=508,height=263]
+image:image22.png[image,width=508,height=263]
 
 ===
 
@@ -276,7 +276,7 @@ Storage dashboard shows the storage efficiency ratio, capacity and savings for e
 
 Total savings across customer storage can be seen per efficiency feature such as snapshots, clones, deduplication, compression and compaction.
 
-image:UserGuide/image23.png[image,width=623,height=393]
+image:image23.png[image,width=623,height=393]
 
 === Active IQ Advisories
 
@@ -286,17 +286,17 @@ Flash Advisor recommends a list of volumes that contain workloads that will perf
 
 We determine the list of volumes by looking at characteristic’s other users across the installed base have benefited from. A list of these characteristics is available from the information icon on the top right of this widget.
 
-image:UserGuide/image24.png[image,width=498,height=272]
+image:image24.png[image,width=498,height=272]
 
 ===== Criteria for determining Flash candidates
 
-image:UserGuide/image25.png[image,width=448,height=240]
+image:image25.png[image,width=448,height=240]
 
 ==== Protection Advisor
 
 Protection Advisor shows the number of SnapMirror protected and unprotected volumes. A detailed list can be downloaded by clicking on the download arrow on the upper right-hand corner.
 
-image:UserGuide/image26.png[image,width=480,height=249]
+image:image26.png[image,width=480,height=249]
 
 ==== Performance Guarantee Best Practice Gaps
 
@@ -315,7 +315,7 @@ Performance Guarantee Best Practice Gaps widget helps to identify the systems an
 * Replication or backup schedule greater than or equal to 4 hours
 * Snapshot schedule greater than or equal to one hour.
 
-image:UserGuide/image27.png[image,width=481,height=158]
+image:image27.png[image,width=481,height=158]
 
 === System Dashboard
 
@@ -337,7 +337,7 @@ Drawing on diagnostic records from more than 300K devices across NetApp’s user
 
 This feature, available for all Active IQ users, is enabled at a single system level for FAS systems above ONTAP 9.1 and AFF systems above ONTAP 8.3.2. For AFF systems, it also shows the best practice gaps and suggests ways of getting improved efficiency ratios. Also, provides low touch option for customers who wish to upgrade to latest AFF models.
 
-image:UserGuide/image28.png[image,width=326,height=177]
+image:image28.png[image,width=326,height=177]
 
 === Workload Tagging
 
@@ -345,13 +345,13 @@ This feature allows users to tag volumes within Storage Virtual Machines (SVMs) 
 
 Once volumes are tagged, NetApp will make recommendations and best practices available that will help users to improve performance, efficiency, and availability of NetApp systems.
 
-The feature is accessible by clicking the image:UserGuide/image29.png[image,width=21,height=18] icon from left navigation of ONTAP cluster.
+The feature is accessible by clicking the image:image29.png[image,width=21,height=18] icon from left navigation of ONTAP cluster.
 
-In the Cluster dashboard, summary of total number volumes that are not tagged are shown. image:UserGuide/image30.png[image,width=106,height=49]
+In the Cluster dashboard, summary of total number volumes that are not tagged are shown. image:image30.png[image,width=106,height=49]
 
 You can tag volumes with the Workload, Application, Protocol and Container. Workload is an enterprise workload and Application is defined as a User Application/Products.
 
-image:UserGuide/image31.png[image,width=259,height=229]
+image:image31.png[image,width=259,height=229]
 
 There are three different type of workload tags:
 
@@ -361,7 +361,7 @@ There are three different type of workload tags:
 
 Workload Tagging UI is built with rich features including advanced filters. Workload Tag table can be filtered using SVM, Volume Name, Tagged Workloads, Application, Protocol and Container. It helps identifying volumes, workloads and choose multiple volumes to tag at once. You can search for a volume by using a pattern that can match between the volume names. You can also download the entire workload tag list.
 
-image:UserGuide/image32.png[image,width=624,height=278]
+image:image32.png[image,width=624,height=278]
 
 ==== Workload and Application Efficiency and Capacity
 
@@ -373,13 +373,13 @@ All the efficiency ratios provided are excluding Snapshots and clones.
 
 Calculated Workload Efficiency Ratio is compared with Peer / Guaranteed Ratio of each workload defined. Peer Ratio is calculated based on average efficiency ratio of the workloads identified using Active IQ community wisdom. Peer Ratio is defined based for each ONTAP version and compared with the respective ONTAP version running on the cluster.
 
-image:UserGuide/image33.png[image,width=597,height=327]
+image:image33.png[image,width=597,height=327]
 
 Additional features are planned using workload tagging such as showing best practices, performance trends and also tighter integration with other NetApp Products.
 
 === Performance
 
-From the System Fitness Dashboard, you can click the Performance icon (image:UserGuide/image34.png[image,width=30,height=30] ) to view the performance history of your system. These charts provide up to 60 days of historical performance data, which is useful for performance trend and pattern analysis. The hourly averages used to prepare these charts are reported in a daily performance AutoSupport data summary.
+From the System Fitness Dashboard, you can click the Performance icon (image:image34.png[image,width=30,height=30] ) to view the performance history of your system. These charts provide up to 60 days of historical performance data, which is useful for performance trend and pattern analysis. The hourly averages used to prepare these charts are reported in a daily performance AutoSupport data summary.
 
 System interruptions, such as reboots and service disablements, can cause gaps in the chart. These performance charts are intended for trending analysis, and NetApp does not recommend them for detailed performance monitoring or diagnostics; you should use onsite products such as OnCommand products for such use cases.
 
@@ -397,15 +397,15 @@ There are cluster aggregated performance charts in cluster performance dashboard
 
 The following is the performance chart at the cluster level:
 
-image:UserGuide/image35.png[image,width=557,height=248]
+image:image35.png[image,width=557,height=248]
 
 The following is the performance chart at the system level:
 
-image:UserGuide/image36.png[image,width=505,height=262]
+image:image36.png[image,width=505,height=262]
 
 === Health
 
-The Health tab (image:UserGuide/image37.png[image,width=29,height=30]) contains system risks that identifies configuration or other kinds of issues that may impair system performance, availability, and resiliency. Each risk entry contains information about the specific risk, the potential negative impact, and links to mitigation plans for that risk. Addressing these risks proactively can improve your NetApp storage availability.
+The Health tab (image:image37.png[image,width=29,height=30]) contains system risks that identifies configuration or other kinds of issues that may impair system performance, availability, and resiliency. Each risk entry contains information about the specific risk, the potential negative impact, and links to mitigation plans for that risk. Addressing these risks proactively can improve your NetApp storage availability.
 
 Impact Level Definitions:
 
@@ -418,7 +418,7 @@ Case Probability analyzes risk data and technical support case data from the las
 
 Using the risk’s impact level and the risk to case confidence value to compute a “Case Probability” score. This score is used to rank the risks present on a system for which risk should be mitigated first.
 
-image:UserGuide/image38.png[image,width=624,height=206]
+image:image38.png[image,width=624,height=206]
 
 ==== Security Vulnerability
 
@@ -428,7 +428,7 @@ Impact Level Definitions for Security Risks
 
 The Impact level for Security Risks is based on the Common Vulnerability Scoring System (CVSS) and noted in the Impact section of the CVE bulletin. The CVSS provides an open framework for communicating the characteristics and impacts of IT vulnerabilities. Its quantitative model ensures repeatable accurate measurement while enabling users to see the underlying vulnerability characteristics that were used to generate the scores. Thus, CVSS is well suited as a standard measurement system for industries, organizations, and governments that need accurate and consistent vulnerability impact scores. For more information, please visit https://nvd.nist.gov/vuln-metrics/cvss
 
-image:UserGuide/image39.png[image,width=624,height=231]
+image:image39.png[image,width=624,height=231]
 
 *TIP*: If you would like to receive system risk report on a regular basis, click on “*Schedule a Risk Report”.*
 
@@ -436,7 +436,7 @@ image:UserGuide/image39.png[image,width=624,height=231]
 
 Best practices are available from the Health Summary tab in the left navigation pane and the Fitness quadrant of the Fitness Dashboard. Gaps in best practices are highlighted, and corrective actions are listed for mitigation. Best practices are available at both the system and aggregate levels (customer, site, and group), helping you to standardize your storage environment and enhance its operational efficiency.
 
-image:UserGuide/image40.png[image,width=624,height=230]
+image:image40.png[image,width=624,height=230]
 
 *TIP*: Review Best Practices for checking whether you have implemented Storage Efficiency Best Practices according to NetApp recommendations.
 
@@ -444,7 +444,7 @@ image:UserGuide/image40.png[image,width=624,height=230]
 
 It is extremely important to mitigate risks in a timely manner to prevent critical issues. The Health Trending feature provides up to a 3-month view of System Risks, Best Practices, and End of Support so that as you mitigate these conditions, you can track the progress with weekly reports. These reports show you a summary of trends and allow you to drill down and analyze individual risks. Trending is available at both single system and customer level. You can download these reports in a PDF format.
 
-image:UserGuide/image41.png[image,width=624,height=249]
+image:image41.png[image,width=624,height=249]
 
 ==== System Risk Acknowledgement
 
@@ -456,7 +456,7 @@ Acknowledging a risk is a way of flagging it in your dashboard. Setting your pre
 
 *Note:* If you are a NetApp Internal user acknowledging on behalf of a customer with their approval, please add the customer’s name in the “Approved By” field for future reference and trackability.
 
-image:UserGuide/image42.png[image,width=498,height=232]
+image:image42.png[image,width=498,height=232]
 
 ==== Risk Advisor
 
@@ -473,7 +473,7 @@ Based on other systems with the same risk that upgraded, community wisdom gives 
 * Additional benefit of newer features in ONTAP 9
 * Your risk mitigation improves the confidence level of our recommendations
 
-image:UserGuide/image43.png[image,width=614,height=188]
+image:image43.png[image,width=614,height=188]
 
 === Interop Advisor
 
@@ -482,27 +482,27 @@ Interop Advisor allows you to check the compatibility of hosts by using data col
 [arabic]
 . Start by entering the job id of an uploaded OneCollect file or upload a new one.
 
-image:UserGuide/image44.png[image,width=623,height=231]
+image:image44.png[image,width=623,height=231]
 
 [arabic, start=2]
 . The file is loaded, and the storage controller is shown along with connected hosts and switches. Click NEXT.
 
-image:UserGuide/image45.png[image,width=592,height=321]
+image:image45.png[image,width=592,height=321]
 
 [arabic, start=3]
 . Select the target ONTAP version. Click NEXT
 
-image:UserGuide/image46.png[image,width=600,height=252]
+image:image46.png[image,width=600,height=252]
 
 [arabic, start=4]
 . Enter report name and email address.
 
-image:UserGuide/image47.png[image,width=444,height=146]
+image:image47.png[image,width=444,height=146]
 
 [arabic, start=5]
 . An Excel file is emailed with Current and ONTAP Upgrade Compatibility information.
 
-image:UserGuide/image48.png[image,width=593,height=150]
+image:image48.png[image,width=593,height=150]
 
 === AutoSupport Viewer
 
@@ -518,23 +518,23 @@ Newly added functionalities also allow the following:
 * Searching by section name
 * Simple tabular viewing of XML sections – you can change column positions, save column preferences, and download the XML section in an Excel file for further use and analysis.
 
-image:UserGuide/image49.png[image,width=570,height=306]
+image:image49.png[image,width=570,height=306]
 
 === Cluster Viewer (ONTAP Only)
 
 From the Cluster and node dashboards and the AutoSupport viewer, you will now see a link to view configuration details, called Cluster Viewer. Cluster Viewer allows you to see detailed physical and logical configuration details. The details are presented in several easy to view tables across multiple tabs that include a summary of the configuration, stack diagram, network interfaces, summary of SVMs & aggregates, volume and LUN information, and a few visualizations. Visualization is the graphical view available of how the system is cabled showing connectivity between controllers and shelves. The details available from Cluster Viewer are downloadable in DOC, XLS, and PDF. Note that the graphical view download is currently separate from the download of all the tables.
 
-image:UserGuide/image50.png[image,width=623,height=36]
+image:image50.png[image,width=623,height=36]
 
 === Types of visualizations
 
-image:UserGuide/image51.png[image,width=165,height=153]
+image:image51.png[image,width=165,height=153]
 
 ==== Sample Cable Visualization
 
 You can view the cable visualization to see details of how the cluster is cabled. You can zoom in or out, and also options to select parts of the visualization. Additionally, you can export the visualization in SVG, which can then be edited in Visio.
 
-image:UserGuide/image52.png[image,width=623,height=188]
+image:image52.png[image,width=623,height=188]
 
 ==== AutoSupport Alerts
 
@@ -544,7 +544,7 @@ You can view AutoSupport alerts at the single-system and aggregate levels. You c
 
 The AutoSupport Alerts interface includes AutoSupport header details complete with the contact information of the people receiving notifications.
 
-image:UserGuide/image53.png[image,width=623,height=124]
+image:image53.png[image,width=623,height=124]
 
 ====
 
@@ -554,7 +554,7 @@ On the AutoSupport Alert Subscriptions tab of the AutoSupport Alerts page, enter
 
 For more information about AutoSupport alerts, refer to this Knowledge Base article on the NetApp Support site: https://kb.netapp.com/support/index?page=content&id=7010076
 
-image:UserGuide/image54.png[image,width=552,height=162]
+image:image54.png[image,width=552,height=162]
 
 ====
 
@@ -570,13 +570,13 @@ From the Notifications tab, you can select the AutoSupport notifications that yo
 
 ==== Upgrade Advisor
 
-Upgrade Advisor offers a quick, automated, and accurate way to generate a Data ONTAP upgrade plan. From the System or Customer Dashboard, click the image:UserGuide/image55.png[image,width=27,height=27] icon to open a screen to what is shown in the figure below. By default, if you are clicking this from a system level, all nodes of the cluster or the HA-Pair (for 7-Mode systems) are auto populated.
+Upgrade Advisor offers a quick, automated, and accurate way to generate a Data ONTAP upgrade plan. From the System or Customer Dashboard, click the image:image55.png[image,width=27,height=27] icon to open a screen to what is shown in the figure below. By default, if you are clicking this from a system level, all nodes of the cluster or the HA-Pair (for 7-Mode systems) are auto populated.
 
-image:UserGuide/image56.png[image,width=624,height=266]
+image:image56.png[image,width=624,height=266]
 
 In the next step, the recommended version of ONTAP is suggested. In some cases, users may prefer to stay at a higher or a lower version of ONTAP based on the needs of their installed base and standards.
 
-image:UserGuide/image57.png[image,width=623,height=244]
+image:image57.png[image,width=623,height=244]
 
 === Cluster Dashboard
 
@@ -590,7 +590,7 @@ There are two main ways to reach the cluster dashboard:
 
 The figure below shows the functionalities and information available from the cluster dashboard.
 
-image:UserGuide/image58.png[image,width=623,height=564]
+image:image58.png[image,width=623,height=564]
 
 Cluster Dashboard has the following components:
 
@@ -622,7 +622,7 @@ The information icon on the top of the widget provides additional details about 
 
 *Software Upgrade Recommendations* – This widget does a gap analysis of different components including ONTAP, drive firmware, system firmware, and shelf firmware. You can download all the details into a worksheet. You can also click on the different components to upgrade the components. ONTAP upgrade recommendation provide the latest and the most modern version of ONTAP that can be upgraded considering the platform checks.
 
-*Cluster Upgrade Advisor* – You can now generate an Upgrade Plan for a cluster from the cluster dashboard page. Click the image:UserGuide/image55.png[image,width=27,height=27] icon to open the screen. All the nodes in a cluster will be upgraded to single ONTAP version. Individual nodes cannot be upgraded to different ONTAP version. Choose between ANDU, NDU, DU or Revert plans and click Generate to generate an upgrade plan.
+*Cluster Upgrade Advisor* – You can now generate an Upgrade Plan for a cluster from the cluster dashboard page. Click the image:image55.png[image,width=27,height=27] icon to open the screen. All the nodes in a cluster will be upgraded to single ONTAP version. Individual nodes cannot be upgraded to different ONTAP version. Choose between ANDU, NDU, DU or Revert plans and click Generate to generate an upgrade plan.
 
 Newly added functionalities to the upgrade plan:
 
@@ -652,7 +652,7 @@ Expansion Advisor shows the details about the current configuration of your clus
 
 When you’re ready to add compute or storage nodes, you can click Request Expansion to send a request for the additional compute and storage nodes. After receiving request, NetApp/Partner contacts you for additional information.
 
-image:UserGuide/image64.png[image,width=444,height=197]
+image:image64.png[image,width=444,height=197]
 
 ==== Aggregated View of Multiple Customers (Partners Only)
 
@@ -704,7 +704,7 @@ https://mysupport.netapp.com/myautosupport/docs/en/myreportsuserguide.pdf
 
 My Reports can be accessed from the top menu of Active IQ.
 
-image:UserGuide/image65.png[image,width=202,height=280]
+image:image65.png[image,width=202,height=280]
 
 You can also reach My Reports directly by clicking the hyperlink below
 
@@ -716,15 +716,15 @@ The Active IQ Discovery Dashboard serves as an efficient method for watching sys
 
 Discovery dashboard could be accessed from top menu of Active IQ home page and is only available to Partners and NetApp internal users. More details about the Discovery Dashboard can be found in a separate user guide from the dashboard page to authorized users.
 
-image:UserGuide/image66.png[image,width=205,height=284]
+image:image66.png[image,width=205,height=284]
 
 === New: API Services (Beta)
 
 Active IQ now has a new set of API services available as Beta to select partners and customers. This is accessible from the top menu of Active IQ. Currently, this is visible to users that are part of the Beta program. We plan to make these services available generally.
 
-image:UserGuide/image67.png[image,width=205,height=279]
+image:image67.png[image,width=205,height=279]
 
-image:UserGuide/image68.png[image,width=624,height=160]
+image:image68.png[image,width=624,height=160]
 
 If you want to be part of Beta or have questions about general availability timing, please email ng-activeiq-feedback@netapp.com.
 
