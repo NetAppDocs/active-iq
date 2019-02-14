@@ -1,16 +1,16 @@
 ---
 sidebar: sidebar
-permalink: user_guide.html
-keywords: dashboard, system inventory, capacity forecasting, storage efficiency, AutoSupport, recent cases
-summary: The Active IQ User Guide provides details about all the features in Active IQ.
+permalink: myreports_userguide.html
+keywords: system configuration, system risk, storage efficiency, NetApp value report
+summary: The My report user guide provides you access to all reports in the application.
 ---
 
-= Active IQ
+= Active IQ My Report User Guide
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/myreportuserguide
+:imagesdir: ./media/myreportsuserguide
 
 ==
 image:image1.png[image,width=103,height=107]

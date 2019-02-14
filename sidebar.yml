@@ -3,5 +3,9 @@ entries:
     url: /index.html
   - title: User Guide
     url: /user_guide.html
-  - title: User Guide
+  - title: My Reports User Guide
     url: /myreports_userguide.html
+  - title: AFF Storage Efficiency Calculator
+    url: /AFF_SE_calculator.html
+  - title: System Risk Details
+    url: /system_risk_details.html

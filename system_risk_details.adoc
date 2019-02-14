@@ -1,0 +1,351 @@
+---
+sidebar: sidebar
+permalink: system_risk_details.html
+keywords: system risk
+summary: The provides information about the system risk details.
+---
+
+= Active IQ My System Risk Details
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/systemriskdetails
+____
+image:image1.png[image,width=85,height=111]
+
+Technical FAQ
+
+Active IQ Systems Risk Details
+
+NetApp September 2017
+
+*FAQ OVERVIEW*
+
+This document addresses the most frequently asked questions for the Health Summary section of Active IQ that addresses system risk analysis and mitigation.
+
+TABLE OF CONTENTS
+____
+
+[arabic]
+. ____
+link:#active-iq-health-summary-section[ACTIVE IQ HEALTH SUMMARY SECTION 3]
+____
+[arabic]
+.. ____
+link:#what-is-the-purpose-of-the-health-summary-section[WHAT IS THE PURPOSE OF THE HEALTH SUMMARY SECTION? 3]
+____
+.. ____
+link:#what-is-the-access-policy-for-this-health-summary-module[WHAT IS THE ACCESS POLICY FOR THIS HEALTH SUMMARY MODULE? 3]
+____
+.. ____
+link:#is-there-a-requirement-to-correct-risks-that-are-identified[IS THERE A REQUIREMENT TO CORRECT RISKS THAT ARE IDENTIFIED? 3]
+____
+.. ____
+link:#is-a-support-case-automatically-opened-for-identified-risks[IS A SUPPORT CASE AUTOMATICALLY OPENED FOR IDENTIFIED RISKS? 3]
+____
+.. ____
+link:#what-are-the-system-hardware-and-software-requirements[WHAT ARE THE SYSTEM HARDWARE AND SOFTWARE REQUIREMENTS? 3]
+____
+.. ____
+link:#are-all-risks-to-the-system-identified[ARE ALL RISKS TO THE SYSTEM IDENTIFIED? 3]
+____
+. ____
+link:#reporting-and-mitigation[REPORTING AND MITIGATION 3]
+____
+[arabic, start=7]
+.. ____
+link:#how-are-risks-identified-for-a-system[HOW ARE RISKS IDENTIFIED FOR A SYSTEM? 3]
+____
+.. ____
+link:#why-does-my-mitigated-risk-still-show-up-after-i-fixed-it[WHY DOES MY MITIGATED RISK STILL SHOW UP AFTER I FIXED IT? 3]
+____
+.. ____
+link:#are-any-of-the-risk-items-self-correcting[ARE ANY OF THE RISK ITEMS SELF-CORRECTING? 4]
+____
+.. ____
+link:#does-risk-mitigation-require-system-downtime[DOES RISK MITIGATION REQUIRE SYSTEM DOWNTIME? 4]
+____
+.. ____
+link:#what-does-the-impact-level-indicate[WHAT DOES THE IMPACT LEVEL INDICATE? 4]
+____
+.. ____
+link:#where-can-i-find-the-steps-needed-to-mitigate-a-risk[WHERE CAN I FIND THE STEPS NEEDED TO MITIGATE A RISK? 4]
+____
+.. ____
+link:#what-types-of-risks-are-detected[WHAT TYPES OF RISKS ARE DETECTED? 4]
+____
+.. ____
+link:#what-information-is-reported-for-each-risk[WHAT INFORMATION IS REPORTED FOR EACH RISK? 5]
+____
+.. ____
+link:#why-should-i-acknowledge-a-risk-and-how-do-i-do-it[WHY SHOULD I ACKNOWLEDGE A RISK AND HOW DO I DO IT? 5]
+____
+.. ____
+link:#how-can-i-get-a-regular-update-on-my-system-risks[HOW CAN I GET A REGULAR UPDATE ON MY SYSTEM RISKS? 5]
+____
+.. ____
+link:#is-the-risk-information-available-in-the-active-iq-mobile-app[IS THE RISK INFORMATION AVAILABLE IN THE ACTIVE IQ MOBILE APP? 5]
+____
+
+[arabic]
+. == ACTIVE IQ HEALTH SUMMARY SECTION
+[arabic]
+.. === WHAT IS THE PURPOSE OF THE HEALTH SUMMARY SECTION?
+
+____
+Health Summary section proactively identifies risks in deployed NetApp® storage configurations that can negatively affect system performance, availability, and resiliency. Each risk entry contains information about the specific risk to the system, potential negative effects, and links to risk mitigation plans. By addressing identified risks proactively, you can significantly reduce the possibility of unplanned downtime for your NetApp storage system.
+____
+
+== WHAT IS THE ACCESS POLICY FOR THIS HEALTH SUMMARY MODULE?
+
+____
+Like all of Active IQ, this module is accessible to all customers whose systems are covered by a valid hardware warranty contract, with AutoSupports enabled.
+____
+
+== IS THERE A REQUIREMENT TO CORRECT RISKS THAT ARE IDENTIFIED?
+
+____
+NetApp highly recommends resolving identified risks within suggested time frames to avoid adverse system impacts. A severity suggesting the recommended time frame in which the resolution should be implemented is included in details of each risk: for example, immediately, next scheduled maintenance, and so on. Not resolving identified risks increases your chance of encountering system issues that would have been avoidable if corrective mitigation was undertaken.
+____
+
+== IS A SUPPORT CASE AUTOMATICALLY OPENED FOR IDENTIFIED RISKS?
+
+____
+No, cases are not automatically opened for risks.
+____
+
+== WHAT ARE THE SYSTEM HARDWARE AND SOFTWARE REQUIREMENTS?
+
+____
+The following software and hardware requirements are needed for system risk analysis:
+____
+
+* AutoSupport enabled
+* ONTAP and E-Series based systems
+[arabic, start=6]
+. === ARE ALL RISKS TO THE SYSTEM IDENTIFIED?
+
+____
+For functionality that is targeted for risk identification there are exceptions as follows:
+____
+
+* Risks that cannot be identified by analysis of AutoSupport logs are not included. For example, client application configuration parameters not controlled by ONTAP.
+* Risks that do not currently have a risk “signature,” a code for detecting the risk in the AutoSupport, are not included. NetApp is continually adding new risk signatures to expand coverage of identified risks.
+
+[arabic, start=2]
+. == REPORTING AND MITIGATION
+[arabic, start=7]
+.. === HOW ARE RISKS IDENTIFIED FOR A SYSTEM?
+
+____
+Risks are identified by an automated analysis of the most recent AutoSupport received from a system.
+____
+
+== WHY DOES MY MITIGATED RISK STILL SHOW UP AFTER I FIXED IT?
+
+____
+All risks are identified based on the most recent AutoSupport. As a result, any risks that are mitigated will not be reflected until a new AutoSupport log is received for the system. You can trigger a complete AutoSupport manually if you are interested to see results refresh in Active IQ faster. Currently, it can take up to 24 hours for results to refresh on Active IQ after receipt of an AutoSupport.
+____
+
+== ARE ANY OF THE RISK ITEMS SELF-CORRECTING?
+
+____
+No. Risks that are identified are persistent risks that will not self-correct. Planned manual intervention is required in order to mitigate risks.
+____
+
+== DOES RISK MITIGATION REQUIRE SYSTEM DOWNTIME?
+
+____
+Some risks may be safely corrected without any interruption to system availability while others might require planned downtime. The information under “Corrective Actions” and/or your NetApp support representative will make recommendations on correct procedures to follow. Risk severity is a good indication of the urgency that exists around mitigating the identified risk.
+____
+
+== WHAT DOES THE IMPACT LEVEL INDICATE?
+
+____
+Impact Level is based on Potential Impact.
+____
+
+[cols=",",options="header",]
+|===
+a|
+____
+*Factor*
+____
+
+a|
+____
+*Description*
+____
+
+a|
+____
+Impact Level
+____
+
+|Impact Level assesses the capability of the system to continue operation without suffering a potential outage. For example, a high impact level indicates urgency, and immediate action should be taken to mitigate the risk, whereas a low impact level can wait until the next scheduled maintenance window.
+a|
+____
+Potential Impact
+____
+
+|Potential Impact explains what may occur if the risk identified is not mitigated. For example, a low impact risk might not affect system availability and only generate frequent console messages, whereas a high impact will most likely result in unplanned system downtime.
+|===
+
+____
+Impact can be high, medium, low and Best Practice and always considers the Potential Impact. The Potential Impact is displayed in the details field of the risk.
+____
+
+== WHERE CAN I FIND THE STEPS NEEDED TO MITIGATE A RISK?
+
+____
+The Corrective Action field in the risk details page contains links to customer support bulletins (CSBs), Public Report for bugs or knowledge base (KB) articles that cover risk mitigation plans. In some instances you might see a mitigation difficulty indication listed in the CSB or KB article.
+____
+
+== WHAT TYPES OF RISKS ARE DETECTED?
+
+____
+The number of risks that can be detected is regularly increasing. Risks generally fall within the following categories:
+____
+
+[cols=",",options="header",]
+|===
+a|
+____
+*Category*
+____
+
+a|
+____
+*Description*
+____
+
+a|
+____
+Hardware Failures
+____
+
+|System is found to have failed or degraded hardware components. This covers platform, storage, disk drive, and HA related risks.
+a|
+____
+Non-supported Configurations
+____
+
+|System is found to violate restrictions documented in NetApp documentation, such as the system configuration guides. For example, cards installed in unsupported slots in the controller.
+a|
+____
+Resource Depletion
+____
+
+|System is found to have significant resource depletion. For example, no spare disks.
+a|
+____
+Nearing or exceeding operational limits
+____
+
+|The system is found to be nearing or exceeding operational or upgrade limits. For example, exceeding flexible volume limits that result in the system falling outside of non-disruptive upgrade capabilities.
+a|
+____
+Customer Support Bulletins (CSBs)
+____
+
+|The system is found to match a condition related to a CSB. For example, hardware that has is operational but falls under end of support (EOS).
+a|
+____
+Best practice misalignment
+____
+
+|The system configuration is misaligned with NetApp best practices. Although NetApp highly recommends aligning with best practices, there are exceptions that might be warranted for specific configurations. As a result, some of these types of risks might not need mitigation.
+|===
+
+== WHAT INFORMATION IS REPORTED FOR EACH RISK?
+
+____
+Five fields are reported for each risk identified on the system. They are:
+____
+
+[cols=",",options="header",]
+|===
+a|
+____
+*Field*
+____
+
+a|
+____
+*Description*
+____
+
+a|
+____
+Impact Level
+____
+
+|The severity the risk can have to the system.
+a|
+____
+Category
+____
+
+|See section 2.7 for more information about categories.
+a|
+____
+Risk
+____
+
+|The short description or title of the risk identified.
+a|
+____
+Details
+____
+
+|A more detailed description of specific issue, severity, and potential impact to the system.
+a|
+____
+Corrective Action
+____
+
+|Links to documentation that is used for risk mitigation such as CSBs and KB articles.
+|===
+
+____
+Risks are reported based on AutoSupport data that is sent to NetApp. Risks are identified per system so you will know exactly which system is experiencing the risk.
+____
+
+== WHY SHOULD I ACKNOWLEDGE A RISK AND HOW DO I DO IT?
+
+____
+Some risks may not apply to a specific customer environment because of the nature of the application or the system may be in a certain stage in the lifecycle in which risks may not matter. Also, in certain situations, customers may plan to mitigate certain risks periodically through regularly scheduled maintenance windows. However, irrespective of the situation, it is an operational best practice to acknowledge a risk to look at the true health of your installed base.
+
+Follow the steps below to acknowledge a risk:
+____
+
+* Click the Health summary tab from left navigation
+* Identify the risk you wish to tag and click on the acknowledge flag
+* Select systems for which you want to acknowledge the risk
+* Fill in the Approved By and Justification fields
+* Acknowledge the risk by clicking the acknowledge button at he bottom of the dialogue box
+
+== HOW CAN I GET A REGULAR UPDATE ON MY SYSTEM RISKS?
+
+____
+The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the “Schedule a Risk Report” from the Health Summary tab or navigate to the “My Reports” tab on the top menu of Active IQ to schedule a regular risk report.
+
+You can schedule a report by risk impact at a frequency and format (PDF, PPT and XLS) of your choice. This allows you to see risks easily without having to visit the Active IQ portal.
+____
+
+== IS THE RISK INFORMATION AVAILABLE IN THE ACTIVE IQ MOBILE APP?
+
+____
+Yes, system risk information is available in the Active IQ mobile app. You can download the mobile app from the following locations:
+
+iOS - https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&amp;mt=8[[.underline]#https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8#] Android - https://play.google.com/store/apps/details?id=com.netapp.myautosupport[[.underline]#https://play.google.com/store/apps/details?id=com.netapp.myautosupport#]
+____
+
+image:image2.png[image]
+
+____
+NetApp provides no representations or warranties regarding the accuracy, reliability, or serviceability of any information or recommendations provided in this publication, or with respect to any results that may be obtained by the use of the information or observance of any recommendations provided herein. The information in this document is distributed AS IS, and the use of this information or the implementation of any recommendations or techniques herein is a customer’s responsibility and depends on the customer’s ability to evaluate and integrate them into the customer’s operational environment. This document and
+
+the information contained herein may be used solely in connection with the NetApp products discussed in this document.
+____
