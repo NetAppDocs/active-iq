@@ -16,3 +16,4 @@ Active IQ is a family of cloud-based services that combine AutoSupport telemetry
 == Active IQ Documents
 
 * link:user_guide.html[Active IQ User Guide]
+* link:myreports_userguide.html[My Reports User Guide]
