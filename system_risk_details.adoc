@@ -11,7 +11,7 @@ summary: The provides information about the system risk details.
 :icons: font
 :linkattrs:
 :imagesdir: ./media/systemriskdetails
-____
+
 image:image1.png[image,width=85,height=111] Active IQ Systems Risk Details
 
 Technical FAQ
@@ -23,11 +23,11 @@ This document addresses the most frequently asked questions for the Health Summa
 
 == Active IQ health summary section
 
-=== WHAT is the purpose of the health summary section?
+=== What is the purpose of the health summary section?
 
 Health Summary section proactively identifies risks in deployed NetApp® storage configurations that can negatively affect system performance, availability, and resiliency. Each risk entry contains information about the specific risk to the system, potential negative effects, and links to risk mitigation plans. By addressing identified risks proactively, you can significantly reduce the possibility of unplanned downtime for your NetApp storage system.
 
-=== WHAT is the access policy for this health summary module?
+=== What is the access policy for this health summary module?
 
 Like all of Active IQ, this module is accessible to all customers whose systems are covered by a valid hardware warranty contract, with AutoSupports enabled.
 

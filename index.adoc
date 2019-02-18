@@ -4,7 +4,7 @@ permalink: index.html
 summary: Active IQ Documentation.
 ---
 
-= Welcome to the documentation portal for Active IQ.
+= Active IQ Documentation Portal.
 :hardbreaks:
 :nofooter:
 :icons: font
