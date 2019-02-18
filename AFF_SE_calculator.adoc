@@ -12,7 +12,7 @@ summary: This is the newest addition to Active IQ, providing you a simple way to
 :linkattrs:
 :imagesdir: ./media/AFFSEcalculator
 
-image:image1.jpeg[image,width=46,height=50 == Active IQ AFF Storage Efficiency Calculator
+image:image1.jpeg[image,width=46,height=50] Active IQ AFF Storage Efficiency Calculator
 
 === Feature Overview and FAQs
 
@@ -32,24 +32,24 @@ More details about ratios are in link:#_bookmark1[[.underline]#Appendix#] at the
 
 == FAQs
 
-Item 1:: How do I access the AFF Efficiency in Active IQ?
-.Steps
+*How do I access the AFF Efficiency in Active IQ?*
+
 . Open home page of https://activeiq.netapp.com[[.underline]#Active IQ#].
 . Search for a cluster from the top right search box to reach the cluster dashboard. The efficiency portlet on the dashboard displays the top level ratios. Click to see further details.
 
-Item 2:: Does Active IQ display ratios for all AFF systems?
+*Does Active IQ display ratios for all AFF systems?*
 
 Active IQ displays ratios for All-Flash systems running ONTAP 8.3.2 and above.
 
-Item 3:: What is the ‘Without Snapshots’ checkbox in the AFF efficiency dashboard?
+*What is the ‘Without Snapshots’ checkbox in the AFF efficiency dashboard?*
 
 By default, Active IQ AFF Efficiency Dashboard calculates overall ratio at cluster-level, node-level and aggregate-level. By overall ratio we mean the ratio from the following storage efficiency technologies
 
-* Deduplication
-* Compression
-* Data compaction
-* Snapshots and
-* Clones
+  * Deduplication
+  * Compression
+  * Data compaction
+  * Snapshots and
+  * Clones
 
 By selecting ‘Without Snapshots’ checkbox, the tool will calculate data reduction ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at cluster-level, node-level and aggregate-level.
 
@@ -57,12 +57,11 @@ This option is provided to support customers who have signed up for NetApp stora
 
 To know more about NetApp Storage Guarantee program, refer https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[[.underline]#All-Flash Guarantee#].
 
-Item 4:: How are aggregate-level, node-level and cluster-level ratios calculated? My customer’s systems are behind a secure DMZ/CMZ and cannot send AutoSupport to NetApp. How do I calculate the ratios for those systems?*
+*How are aggregate-level, node-level and cluster-level ratios calculated? My customer’s systems are behind a secure DMZ/CMZ and cannot send AutoSupport to NetApp. How do I calculate the ratios for those systems?*
 
 This is how we calculate different ratios. You can follow these steps to calculate the ratios manually
 
-.Steps
-. Aggregate-level ratios
+1. Aggregate-level ratios
 
 *Aggregate Overall Ratio*
 
@@ -78,7 +77,7 @@ image:image3.jpeg[image,width=489,height=270]
 The formula to calculate aggregate-level data reduction ratio is as follows.
 image:image4.jpeg[image,width=530,height=31]
 
-. Node-level and Cluster-level ratios
+2. Node-level and Cluster-level ratios
 
 *Node/Cluster Overall Ratio*
 
@@ -87,7 +86,7 @@ Active IQ uses data from aggr-efficiency.xml output to calculate node/cluster- l
 For systems that do not have access to AutoSupport, you can use data from ‘aggregate show-efficiency –advanced’ to calculate node/cluster-level overall ratio.
 
 Follow the steps below to calculate Node/Cluster overall ratio:
-.steps
+
 . Sum ‘Total/Cumulative Logical Used’ and ‘Total/Cumulative Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Logical Used’ and ‘Node/Cluster Physical Used’ respectively.
 . Divide ‘Node/Cluster Logical Used’ by ‘Node/Cluster Physical Used’ to get node/cluster data reduction ratio.
 
@@ -95,30 +94,28 @@ Follow the steps below to calculate Node/Cluster overall ratio:
 
 Active IQ uses the following steps to calculate node/cluster-level overall ratio.
 
-.steps
-. Calculate ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster using the formula mentioned in link:#_bookmark0[[.underline]#Aggregate Data Reduction Ratio#] section.
+. Calculate ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster using the formula mentioned in <<Aggregate Data Reduction Ratio>> section.
 . Sum ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Data Reduction Logical Used’ and ‘Node/Cluster Data Reduction Physical Used’ respectively.
 . Divide ‘Node/Cluster Data Reduction Logical Used’ by ‘Node/Cluster Data Reduction Physical Used’ to get node/cluster data reduction ratio.
 
-Item 5:: Which sections of AutoSupport are used for determining the efficiency ratios and how do I view the section?
+*Which sections of AutoSupport are used for determining the efficiency ratios and how do I view the section?*
 
 The calculator leverages the aggr-efficiency.xml section in AutoSupport for ONTAP 9.x systems to calculate the node, cluster, and aggregate level ratios. This section contains efficiency information of the node the AutoSupport is transmitted from and its HA pair. In ONTAP 8.3.2 systems such a section is not available and so the calculator leverages various other sections in AutoSupport to arrive at the ratios, but the approach is the same as ONTAP 9.x
 
 For the volume level ratio calculations, we use the df –s section of AutoSupport. Volume level calculations are arrived at using the following formula:
 
 Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]#
-
-                                           df-s (used)
+                                          df-s (used)
 
 *NOTE*: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
 
-These AutoSupport sections are viewable from the “Raw AutoSupport Data” tab in left navigation of cluster dashboard of https://activeiq.netapp.com/[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
+These AutoSupport sections are viewable from the “Raw AutoSupport Data” tab in left navigation of cluster dashboard of https://activeiq.netapp.com[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
 
-Item 6:: Which AutoSupports are used for calculating efficiency ratios?
+*Which AutoSupports are used for calculating efficiency ratios?*
 
 Calculations are performed using the latest weekly or user triggered AutoSupports which tend to contain most of the sections required for calculating the ratios.
 
-Item 7:: Which volumes or aggregates are excluded from efficiency calculations?
+*Which volumes or aggregates are excluded from efficiency calculations?*
 
 Following objects are NOT considered while calculating AFF efficiency ratios:
 
@@ -127,25 +124,25 @@ Following objects are NOT considered while calculating AFF efficiency ratios:
 * Vserver root/admin root volumes
 * MCC configuration volumes
 
-Item 8:: Why do my displays look different in my laptop vs. a smartphone?
+*Why do my displays look different in my laptop vs. a smartphone?*
 
 The AFF storage efficiency calculator UI is optimized for viewing in smartphones. Although there may be small differences in display, the data and content of the calculator is same across devices.
 
-Item 9:: How can I see the efficiency ratios of all my AFF systems in a single view within Active IQ?
+*How can I see the efficiency ratios of all my AFF systems in a single view within Active IQ?*
 
 Currently, efficiency ratios are only visible at a cluster level. Customer level views may be considered for a future release.
 
-Item 10:: How can I see the trend in efficiency ratios?
+*How can I see the trend in efficiency ratios?*
 
 Currently, efficiency ratios are based on the latest weekly or user triggered AutoSupport. Efficiency trending may be considered for a future release.
 
-Item 11::  How do I provide feedback or ask other questions related to the calculator?
+*How do I provide feedback or ask other questions related to the calculator?*
 
 For feedback or questions, please send email to mailto:ng-storeff-asup@netapp.com[[.underline]#ng-storeff-asup@netapp.com#]
 
-==Appendix
+== Appendix
 
-===Ratio Definitions
+=== Ratio Definitions
 
 *Total Effective Storage Capacity Ratio*
 

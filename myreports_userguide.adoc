@@ -12,8 +12,7 @@ summary: The My report user guide provides you access to all reports in the appl
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-image:image1.png[image,width=103,height=107] = Active IQ
-= My Reports User Guide – Oct 2018
+image:image1.png[image,width=103,height=107] Active IQ My Reports User Guide – Oct 2018
 
 For questions or feedback please email mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]
 
@@ -30,15 +29,15 @@ With a few clicks, you can have reports delivered to your inbox in either CSV or
 
 == Accessing My Reports
 
-My Reports can be accessed from Active IQ launch page by clicking the “My Reports” link in top menu (refer Figure 1)
+My Reports can be accessed from Active IQ launch page by clicking the “My Reports” link in top menu
 
 image:image2.png[image,width=621,height=83]
 
-==My Reports Dashboard
+== My Reports Dashboard
 
 The My Reports dashboard page is the landing page for My Reports. This page gives you information on report execution status, notifications affecting My Reports features, and details of all reports generated.
 
-You can download completed reports by clicking the download link in Reports section. Generated Reports tab under Reports section contains report output for one-time report generation. All scheduled reports output will be in Scheduled Reports tab (Refer figure 2). Search option based on report name to get report execution status is also available for users in Reports section.
+You can download completed reports by clicking the download link in Reports section. Generated Reports tab under Reports section contains report output for one-time report generation. All scheduled reports output will be in Scheduled Reports tab. Search option based on report name to get report execution status is also available for users in Reports section.
 
 My Reports Dashboard also features a left navigation panel for you to create and schedule reports
 
@@ -59,11 +58,11 @@ image:image4.png[image,width=537,height=114]
 
 System Configuration, System Risk and Storage Efficiency Report outputs are available in Microsoft Excel and PDF formats whereas NetApp Value report is available in Microsoft Excel and PowerPoint.
 
-You will have option to select only one report format while scheduling/generating reports(s). (Refer Figure 4)
+You will have option to select only one report format while scheduling/generating reports(s).
 
 image:image5.png[image,width=245,height=88]
 
-==Configuration Report Output
+== Configuration Report Output
 
 You will have an option to select fields that should be present in report output.
 
@@ -75,7 +74,7 @@ You have option to select a customer, site, SAP group or use an already created 
 
 image:image7.png[image,width=541,height=177]
 
-You will be presented with the list of customer names, site name and Groups that contains the search text and will have an option to select one of them as the criteria for generating/scheduling report (Refer Figure 7)
+You will be presented with the list of customer names, site name and Groups that contains the search text and will have an option to select one of them as the criteria for generating/scheduling report.
 
 image:image8.png[image,width=628,height=112]
 
@@ -98,7 +97,7 @@ While creating a custom group, you have two options:
 
 Once you select one of the above options, the serial numbers are validated against the installed base and you get a success or error depending on whether there is a match against specified serial numbers.
 
-Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to (Figure 10)
+Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to.
 
 image:image11.png[image,width=513,height=119]
 
@@ -114,18 +113,18 @@ image:image13.png[image,width=618,height=269]
 
 My Reports also provides you four options ((Once, Weekly, Monthly and Yearly) for scheduling reports.
 
-Start date is taken today’s date with an option to change as needed. You also have an option to specify the time when you want reports to be executed (Refer figures 13 and 14)
+Start date is taken today’s date with an option to change as needed. You also have an option to specify the time when you want reports to be executed.
 
-My Reports will email you the status of report execution to Email ID specified (Refer figure 13)
+My Reports will email you the status of report execution to Email ID specified.
 
 image:image14.jpeg[image,width=350,height=195]
 
 image:image15.png[image,width=420,height=334]
 
-System will provide a message to you indicating the status of report scheduling (success/failure). (Refer Figure 15)
+System will provide a message to you indicating the status of report scheduling (success/failure).
 
 image:image16.png[image,width=558,height=109]
 
-Once report is successfully scheduled, you can check report dashboard page for status of report execution. You can download completed reports using download link against each report output (Refer Figure 16)
+Once report is successfully scheduled, you can check report dashboard page for status of report execution. You can download completed reports using download link against each report output.
 
 image:image17.jpeg[image,width=620,height=191]

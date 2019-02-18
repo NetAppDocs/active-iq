@@ -12,69 +12,66 @@ summary: The provides information about the system risk details.
 :linkattrs:
 :imagesdir: ./media/systemriskdetails
 ____
-image:image1.png[image,width=85,height=111]
+image:image1.png[image,width=85,height=111] Active IQ Systems Risk Details
 
 Technical FAQ
-
-= Active IQ Systems Risk Details
-
 NetApp
 September 2017
 
 *FAQ OVERVIEW*
 This document addresses the most frequently asked questions for the Health Summary section of Active IQ that addresses system risk analysis and mitigation.
 
-== ACTIVE IQ HEALTH SUMMARY SECTION
+== Active IQ health summary section
 
-=== WHAT IS THE PURPOSE OF THE HEALTH SUMMARY SECTION?
+=== WHAT is the purpose of the health summary section?
 
 Health Summary section proactively identifies risks in deployed NetApp® storage configurations that can negatively affect system performance, availability, and resiliency. Each risk entry contains information about the specific risk to the system, potential negative effects, and links to risk mitigation plans. By addressing identified risks proactively, you can significantly reduce the possibility of unplanned downtime for your NetApp storage system.
 
-=== WHAT IS THE ACCESS POLICY FOR THIS HEALTH SUMMARY MODULE?
+=== WHAT is the access policy for this health summary module?
 
 Like all of Active IQ, this module is accessible to all customers whose systems are covered by a valid hardware warranty contract, with AutoSupports enabled.
 
-=== IS THERE A REQUIREMENT TO CORRECT RISKS THAT ARE IDENTIFIED?
+=== Is there a requirement to correct risks that are identified?
 
 NetApp highly recommends resolving identified risks within suggested time frames to avoid adverse system impacts. A severity suggesting the recommended time frame in which the resolution should be implemented is included in details of each risk: for example, immediately, next scheduled maintenance, and so on. Not resolving identified risks increases your chance of encountering system issues that would have been avoidable if corrective mitigation was undertaken.
 
-=== IS A SUPPORT CASE AUTOMATICALLY OPENED FOR IDENTIFIED RISKS?
+=== Is a support case automatically opened for identified risks?
 
 No, cases are not automatically opened for risks.
 
-=== WHAT ARE THE SYSTEM HARDWARE AND SOFTWARE REQUIREMENTS?
+=== What are the system hardware and software requirements?
 
 The following software and hardware requirements are needed for system risk analysis:
 
 * AutoSupport enabled
 * ONTAP and E-Series based systems
 
-=== ARE ALL RISKS TO THE SYSTEM IDENTIFIED?
+=== Are all risks to the system identified?
 
 For functionality that is targeted for risk identification there are exceptions as follows:
 
 * Risks that cannot be identified by analysis of AutoSupport logs are not included. For example, client application configuration parameters not controlled by ONTAP.
 * Risks that do not currently have a risk “signature,” a code for detecting the risk in the AutoSupport, are not included. NetApp is continually adding new risk signatures to expand coverage of identified risks.
 
-== REPORTING AND MITIGATION
+== Reporting and mitigation
 
-=== HOW ARE RISKS IDENTIFIED FOR A SYSTEM?
+=== How are risks identified for a system?
 
 Risks are identified by an automated analysis of the most recent AutoSupport received from a system.
 
-=== WHY DOES MY MITIGATED RISK STILL SHOW UP AFTER I FIXED IT?
+=== Why does my mitigated risk still show up after I fixed it?
 
 All risks are identified based on the most recent AutoSupport. As a result, any risks that are mitigated will not be reflected until a new AutoSupport log is received for the system. You can trigger a complete AutoSupport manually if you are interested to see results refresh in Active IQ faster. Currently, it can take up to 24 hours for results to refresh on Active IQ after receipt of an AutoSupport.
 
-=== ARE ANY OF THE RISK ITEMS SELF-CORRECTING?
+=== Are any of the risk items self-correcting?
 
 No. Risks that are identified are persistent risks that will not self-correct. Planned manual intervention is required in order to mitigate risks.
 
-=== DOES RISK MITIGATION REQUIRE SYSTEM DOWNTIME?
+=== Does risk mitigation require system downtime?
 
 Some risks may be safely corrected without any interruption to system availability while others might require planned downtime. The information under “Corrective Actions” and/or your NetApp support representative will make recommendations on correct procedures to follow. Risk severity is a good indication of the urgency that exists around mitigating the identified risk.
 
-=== WHAT DOES THE IMPACT LEVEL INDICATE?
+=== What does the impact level indicate?
 
 Impact Level is based on Potential Impact.
 
@@ -102,11 +99,11 @@ Potential Impact
 
 Impact can be high, medium, low and Best Practice and always considers the Potential Impact. The Potential Impact is displayed in the details field of the risk.
 
-=== WHERE CAN I FIND THE STEPS NEEDED TO MITIGATE A RISK?
+=== Where can I find the steps needed to mitigate a risk?
 
 The Corrective Action field in the risk details page contains links to customer support bulletins (CSBs), Public Report for bugs or knowledge base (KB) articles that cover risk mitigation plans. In some instances you might see a mitigation difficulty indication listed in the CSB or KB article.
 
-=== WHAT TYPES OF RISKS ARE DETECTED?
+=== What types of risks are detected?
 
 The number of risks that can be detected is regularly increasing. Risks generally fall within the following categories:
 
@@ -156,7 +153,7 @@ Best practice misalignment
 |The system configuration is misaligned with NetApp best practices. Although NetApp highly recommends aligning with best practices, there are exceptions that might be warranted for specific configurations. As a result, some of these types of risks might not need mitigation.
 |===
 
-=== WHAT INFORMATION IS REPORTED FOR EACH RISK?
+=== What information is reported for each risk?
 
 
 Five fields are reported for each risk identified on the system. They are:
@@ -201,7 +198,7 @@ Corrective Action
 Risks are reported based on AutoSupport data that is sent to NetApp. Risks are identified per system so you will know exactly which system is experiencing the risk.
 
 
-=== WHY SHOULD I ACKNOWLEDGE A RISK AND HOW DO I DO IT?
+=== Why should I acknowledge a risk and how do I do it?
 
 Some risks may not apply to a specific customer environment because of the nature of the application or the system may be in a certain stage in the lifecycle in which risks may not matter. Also, in certain situations, customers may plan to mitigate certain risks periodically through regularly scheduled maintenance windows. However, irrespective of the situation, it is an operational best practice to acknowledge a risk to look at the true health of your installed base.
 
@@ -213,13 +210,13 @@ Follow the steps below to acknowledge a risk:
 * Fill in the Approved By and Justification fields
 * Acknowledge the risk by clicking the acknowledge button at he bottom of the dialogue box
 
-=== HOW CAN I GET A REGULAR UPDATE ON MY SYSTEM RISKS?
+=== How can I get a regular update on my system risks?
 
 The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the “Schedule a Risk Report” from the Health Summary tab or navigate to the “My Reports” tab on the top menu of Active IQ to schedule a regular risk report.
 
 You can schedule a report by risk impact at a frequency and format (PDF, PPT and XLS) of your choice. This allows you to see risks easily without having to visit the Active IQ portal.
 
-=== IS THE RISK INFORMATION AVAILABLE IN THE ACTIVE IQ MOBILE APP?
+=== Is the risk information available in the Active IQ mobile app?
 
 Yes, system risk information is available in the Active IQ mobile app. You can download the mobile app from the following locations:
 
@@ -231,4 +228,3 @@ image:image2.png[image]
 NetApp provides no representations or warranties regarding the accuracy, reliability, or serviceability of any information or recommendations provided in this publication, or with respect to any results that may be obtained by the use of the information or observance of any recommendations provided herein. The information in this document is distributed AS IS, and the use of this information or the implementation of any recommendations or techniques herein is a customer’s responsibility and depends on the customer’s ability to evaluate and integrate them into the customer’s operational environment. This document and
 
 the information contained herein may be used solely in connection with the NetApp products discussed in this document.
-____
