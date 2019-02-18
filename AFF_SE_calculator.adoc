@@ -28,7 +28,7 @@ This is the newest addition to Active IQ, providing you a simple way to view eff
 ** Background volume deduplication
 ** Background aggregate deduplication (Automatically enabled via automatic deduplication schedule starting ONTAP 9.3)
 
-More details about ratios are in <<Apendix>> at the end of this document.
+More details about ratios are in <<Appendix>> at the end of this document.
 
 == FAQs
 
@@ -45,11 +45,11 @@ Active IQ displays ratios for All-Flash systems running ONTAP 8.3.2 and above.
 
 By default, Active IQ AFF Efficiency Dashboard calculates overall ratio at cluster-level, node-level and aggregate-level. By overall ratio we mean the ratio from the following storage efficiency technologies
 
-  * Deduplication
-  * Compression
-  * Data compaction
-  * Snapshots and
-  * Clones
+	* Deduplication
+	* Compression
+	* Data compaction
+	* Snapshots and
+	* Clones
 
 By selecting ‘Without Snapshots’ checkbox, the tool will calculate data reduction ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at cluster-level, node-level and aggregate-level.
 
@@ -105,8 +105,7 @@ The calculator leverages the aggr-efficiency.xml section in AutoSupport for ONTA
 For the volume level ratio calculations, we use the df –s section of AutoSupport. Volume level calculations are arrived at using the following formula:
 
 Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]#
-                                  ----------------------------------
-                                         df-s (used)
+                                          df-s (used)
 
 *NOTE*: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
 

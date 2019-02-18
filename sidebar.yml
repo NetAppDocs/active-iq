@@ -2,7 +2,11 @@ entries:
   - title: Active IQ documentation
     url: /index.html
   - title: User Guide
-    url: /user_guide.html
+    entries:
+      - title: Overview
+        url: /concept_aiq_ug_overview.html
+      - title: Getting Started with Active IQ
+        url: /concept_aiq_ug_getting_started.html
   - title: My Reports User Guide
     url: /myreports_userguide.html
   - title: AFF Storage Efficiency Calculator
