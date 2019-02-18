@@ -94,7 +94,7 @@ Follow the steps below to calculate Node/Cluster overall ratio:
 
 Active IQ uses the following steps to calculate node/cluster-level overall ratio.
 
-. Calculate ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster using the formula mentioned in <<Aggregate Data Reduction Ratio, Aggregate Data Reduction Ratio>> section.
+. Calculate ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster using the formula mentioned in <<AFF_SE_calculator#Aggregate Data Reduction Ratio, Aggregate Data Reduction Ratio>> section.
 . Sum ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Data Reduction Logical Used’ and ‘Node/Cluster Data Reduction Physical Used’ respectively.
 . Divide ‘Node/Cluster Data Reduction Logical Used’ by ‘Node/Cluster Data Reduction Physical Used’ to get node/cluster data reduction ratio.
 
@@ -105,6 +105,7 @@ The calculator leverages the aggr-efficiency.xml section in AutoSupport for ONTA
 For the volume level ratio calculations, we use the df –s section of AutoSupport. Volume level calculations are arrived at using the following formula:
 
 Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]#
+                                    -----------------------------
                                           df-s (used)
 
 *NOTE*: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
