@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_ug_getting_started.html
-keywords: Active IQ, user guide, overview
+keywords: Active IQ, user guide, getting started, favorites, search, navigation, feedback, what's new
 summary: Provides information that helps you get started with Active IQ.
 ---
 
@@ -11,8 +11,6 @@ summary: Provides information that helps you get started with Active IQ.
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
-
-== Getting Started with Active IQ
 
 === Default View
 

@@ -7,6 +7,12 @@ entries:
         url: /concept_aiq_ug_overview.html
       - title: Getting Started with Active IQ
         url: /concept_aiq_ug_getting_started.html
+      - title: Feature Overview
+        url: /concept_aiq_ug_features.html
+      - title: Copyright
+        url: /concept_aiq_ug_copyright.html
+      - title: Trademark
+        url: /concept_aiq_ug_trademark.html
   - title: My Reports User Guide
     url: /myreports_userguide.html
   - title: AFF Storage Efficiency Calculator

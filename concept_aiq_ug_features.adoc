@@ -12,8 +12,6 @@ summary: Provides the list of features supported by Active IQ.
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-== Feature Overview
-
 === Watchlists
 
 Watchlists enable you to access preselected systems inside Active IQ quickly and easily.

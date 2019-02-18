@@ -1,18 +1,16 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_ug_copyright.html
-keywords: Active IQ, user guide, overview
+keywords: copyright
 summary: Copyright information
 ---
 
-= Feature Overview
+= Copyright
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
-
-== Copyright
 
 Copyright © 2019 NetApp, Inc. All rights reserved. Printed in the U.S.
 
