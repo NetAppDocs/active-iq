@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_reports_overview.html
-keywords: my report, report overview,
+keywords: my report, report overview
 summary: Provides an overview of my report user guide.
 ---
 

@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_accessing_reports.html
-keywords: my report, accessing report,
+keywords: my report, accessing report
 summary: Provides information about accessing my reports.
 ---
 

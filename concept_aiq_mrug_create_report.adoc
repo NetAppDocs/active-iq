@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_create_report.html
-keywords: my report, report dashboard,
+keywords: my report, create report
 summary: Provides information about creating a report.
 ---
 

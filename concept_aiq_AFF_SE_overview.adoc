@@ -24,4 +24,4 @@ This following are the new features that provide you a simple way to view effici
 ** Background volume deduplication
 ** Background aggregate deduplication (Automatically enabled via automatic deduplication schedule starting ONTAP 9.3)
 
-More details about ratios are in link:<concept_aiq_AFF_SE_FAQs>.html#<Appendix>[Appendix] at the end of this document.
+More details about ratios are in link:<concept_aiq_AFF_SE_appendix>.html#<Appendix>[Appendix] at the end of this document.
