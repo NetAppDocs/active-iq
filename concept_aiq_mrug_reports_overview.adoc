@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: concept_aiq_mrug_reports_overview.html
+keywords: my report, report overview,
+summary: Provides an overview of my report user guide.
+---
+
+= My Reports Overview
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/myreportsuserguide
+
+The My Reports feature in Active IQ portal gives you access to all reports in the application. Use this tab to generate and schedule following reports:
+
+* System Configuration
+* System Risk
+* Storage efficiency
+* NetApp Value Report (only for internal users and partners).
+
+With a few clicks, you can have reports delivered to your inbox in either CSV or PDF format on a regular basis.

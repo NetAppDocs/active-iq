@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: concept_aiq_mrug_create_report.html
+keywords: my report, report dashboard,
+summary: Provides information about creating a report.
+---
+
+= Create Report
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/myreportsuserguide
+
+Create report feature allows you to create/schedule predefined reports. Currently you have an option to select one of the four reports mentioned below for report generation:
+
+* System Configuration
+* System Risk
+* Storage Efficiency
+* NetApp Value Report (only for internal users and partners)
+
+Based on the report selected, you can specify the report format in which the report needs to be generated.
+You will have an option to select one or more reports.
+image:image4.png[image,width=537,height=114]
+
+System Configuration, System Risk and Storage Efficiency Report outputs are available in Microsoft Excel and PDF formats whereas NetApp Value report is available in Microsoft Excel and PowerPoint.
+
+You will have option to select only one report format while scheduling/generating reports(s).
+
+image:image5.png[image,width=245,height=88]

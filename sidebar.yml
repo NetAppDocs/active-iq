@@ -1,7 +1,7 @@
 entries:
   - title: Active IQ documentation
     url: /index.html
-  - title: User Guide
+  - title: Active IQ User Guide
     entries:
       - title: Overview
         url: /concept_aiq_ug_overview.html
@@ -13,9 +13,33 @@ entries:
         url: /concept_aiq_ug_copyright.html
       - title: Trademark
         url: /concept_aiq_ug_trademark.html
-  - title: My Reports User Guide
-    url: /myreports_userguide.html
-  - title: AFF Storage Efficiency Calculator
-    url: /AFF_SE_calculator.html
-  - title: System Risk Details
-    url: /system_risk_details.html
+  - title: Active IQ My Reports User Guide
+    entries:
+      - title: My Reports Overview
+        url: /concept_aiq_mrug_reports_overview.html
+      - title: Accessing My Reports
+        url: /concept_aiq_mrug_accessing_reports.html
+      - title: My Reports Dashboard
+        url: /concept_aiq_mrug_reports_dashboard.html
+      - title: Create Report
+        url: /concept_aiq_mrug_create_report.html
+      - title: Configuration Report Output
+        url: /concept_aiq_mrug_configuration_report.html
+      - title: Custom Group
+        url: /concept_aiq_mrug_custom_group.html
+      - title: Report Scheduling
+        url: /concept_aiq_mrug_report_scheduling.html
+  - title: Active IQ AFF Storage Efficiency Calculator
+    entries:
+      - title: Feature Overview
+        url: /concept_aiq_AFF_SE_overview.html
+      - title: FAQs
+        url: /concept_aiq_AFF_SE_FAQs.html
+      - title: Appendix
+        url: /concept_aiq_AFF_SE_appendix.html
+  - title: Active IQ System Risk Details (Technical FAQ)
+    entries:
+      - title: Active IQ health summary
+        url: /reference_aiq_srd_health_summary.html
+      - title: Reporting and mitigation
+        url: /reference_aiq_srd_reporting_mitigation.html

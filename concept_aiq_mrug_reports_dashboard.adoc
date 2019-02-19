@@ -1,0 +1,40 @@
+---
+sidebar: sidebar
+permalink: concept_aiq_mrug_reports_dashboard.html
+keywords: my report, report dashboard,
+summary: Provides information about the dashboard.
+---
+
+= My Reports Dashboard
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/myreportsuserguide
+
+The My Reports dashboard page is the landing page for My Reports. This page gives you information on report execution status, notifications affecting My Reports features, and details of all reports generated.
+
+You can download completed reports by clicking the download link in Reports section. Generated Reports tab under Reports section contains report output for one-time report generation. All scheduled reports output will be in Scheduled Reports tab. Search option based on report name to get report execution status is also available for users in Reports section.
+
+My Reports Dashboard also features a left navigation panel for you to create and schedule reports
+
+image:image3.png[image,width=543,height=236]
+
+== Create Report
+
+Create report feature allows you to create/schedule predefined reports. Currently you have an option to select one of the four reports mentioned below for report generation:
+
+* System Configuration
+* System Risk
+* Storage Efficiency
+* NetApp Value Report (only for internal users and partners)
+
+Based on the report selected, you can specify the report format in which the report needs to be generated.
+You will have an option to select one or more reports.
+image:image4.png[image,width=537,height=114]
+
+System Configuration, System Risk and Storage Efficiency Report outputs are available in Microsoft Excel and PDF formats whereas NetApp Value report is available in Microsoft Excel and PowerPoint.
+
+You will have option to select only one report format while scheduling/generating reports(s).
+
+image:image5.png[image,width=245,height=88]
