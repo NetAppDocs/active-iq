@@ -11,8 +11,19 @@ summary: Active IQ Documentation.
 :linkattrs:
 :imagesdir: ./media/
 
-Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud. It delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app.
+NetApp Active IQ is a cloud based service that provides predictive analytics and proactive support to optimize operations across the NetApp hybrid cloud.
 
-== Learn more about Active IQ
+== Learn about Active IQ
 
-Embed the NetApp Active IQ video (url[https://www.youtube.com/watch?v=7Mpt9zZ8ths&t=150s])
+video::7Mpt9zZ8ths[youtube, width=848, height=480]
+
+https://www.youtube.com/playlist?list=PLdXI3bZJEw7lFU-L4EFC5Mt91HybXKOnO[Watch additional videos^]
+
+== Find more information about Active IQ
+
+https://www.netapp.com/us/documentation/active-iq.aspx[Documentation resource page^]
+https://kb.netapp.com/app/browse/a_status/published/channelRecordID/BREAK_FIX/currentSelectedID/RN_PRODUCT_299/isProductSelected/true/isRecommendationAllowed/true/pageSize/10/productRecordID/RN_PRODUCT_299/sortColumn/publishDate/sortDirection/DESC/truncate/200/type/browse[KB Articles^]
+
+*Technical Reports*
+https://www.netapp.com/us/media/tr-4688.pdf[Security and Privacy of NetApp Telemetry Data^]
+https://www.netapp.com/us/media/tr-4444.pdf[ONTAP AutoSupport and AutoSupport On Demand^]
