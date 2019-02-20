@@ -4,7 +4,7 @@ permalink: index.html
 summary: Active IQ Documentation.
 ---
 
-= Active IQ Documentation Portal.
+= NetApp Active IQ Documentation
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -13,11 +13,19 @@ summary: Active IQ Documentation.
 
 NetApp Active IQ is a cloud based service that provides predictive analytics and proactive support to optimize operations across the NetApp hybrid cloud.
 
+== Get Started
+
+* link:concept_aiq_ug_getting_started.html[Get started with Active IQ]
+
 == Learn about Active IQ
 
 video::7Mpt9zZ8ths[youtube, width=848, height=480]
 
 https://www.youtube.com/playlist?list=PLdXI3bZJEw7lFU-L4EFC5Mt91HybXKOnO[Watch additional videos^]
+
+== Get help and connect with peers
+
+* https://community.netapp.com/t5/Products-and-Services/ct-p/products-and-solutions[NetApp Community: Active IQ and AutoSupport^]
 
 == Find more information about Active IQ
 
