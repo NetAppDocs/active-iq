@@ -22,6 +22,6 @@ You have option to select a customer, site, SAP group or use an already created 
 
 image:image7.png[image,width=541,height=177]
 
-You will be presented with the list of customer names, site name and Groups that contains the search text and will have an option to select one of them as the criteria for generating/scheduling report.
+You will be presented with the list of customer names, site names and Groups that contains the search text and will have an option to select one of them as the criteria for generating/scheduling report.
 
 image:image8.png[image,width=628,height=112]

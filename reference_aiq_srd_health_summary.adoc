@@ -18,11 +18,11 @@ Health Summary section proactively identifies risks in deployed NetApp® storage
 
 === What is the access policy for this health summary module?
 
-Like all of Active IQ, this module is accessible to all customers whose systems are covered by a valid hardware warranty contract, with AutoSupports enabled.
+Like the rest of Active IQ, this module, too, is accessible to all customers whose systems are covered by a valid hardware warranty contract, with AutoSupports enabled.
 
 === Is there a requirement to correct risks that are identified?
 
-NetApp highly recommends resolving identified risks within suggested time frames to avoid adverse system impacts. A severity suggesting the recommended time frame in which the resolution should be implemented is included in details of each risk: for example, immediately, next scheduled maintenance, and so on. Not resolving identified risks increases your chance of encountering system issues that would have been avoidable if corrective mitigation was undertaken.
+NetApp recommends resolving identified risks within suggested time frames to avoid adverse system impacts. A severity with the recommended time frame in which the resolution should be implemented is included in details of each risk: for example, immediately, next scheduled maintenance, and so on. Not resolving identified risks increases your chance of encountering system issues that would have been avoidable if corrective measures was taken.
 
 === Is a support case automatically opened for identified risks?
 
@@ -30,14 +30,14 @@ No, cases are not automatically opened for risks.
 
 === What are the system hardware and software requirements?
 
-The following software and hardware requirements are needed for system risk analysis:
+The following are the software and hardware requirements for system risk analysis:
 
 * AutoSupport enabled
 * ONTAP and E-Series based systems
 
 === Are all risks to the system identified?
 
-For functionality that is targeted for risk identification there are exceptions as follows:
+For functionality that is targeted for risk identification, there are exceptions as follows:
 
 * Risks that cannot be identified by analysis of AutoSupport logs are not included. For example, client application configuration parameters not controlled by ONTAP.
-* Risks that do not currently have a risk “signature,” a code for detecting the risk in the AutoSupport, are not included. NetApp is continually adding new risk signatures to expand coverage of identified risks.
+* Risks that do not currently have a risk “signature”, a code for detecting the risk in the AutoSupport, are not included. NetApp is continually adding new risk signatures to expand coverage of identified risks.

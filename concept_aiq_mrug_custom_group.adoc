@@ -16,7 +16,7 @@ Custom group is an alternate option for providing list of serial numbers as repo
 
 image:image9.jpeg[image,width=397,height=201]
 
-*NOTE:* Currently, there is no direct way to create a custom group from the My Reports tab. To create a custom group for a report, click on the “My Reports” tab on the top menu of Active IQ. Once you have created a Custom Group, you can then use it from the My Reports tab for generating a report. This is the only way to have newly created Custom Groups appear in the list of available groups available for reports.
+*NOTE:* Currently, there is no direct way to create a custom group from the *My Reports* tab. To create a custom group for a report, click the *My Reports* tab on the top menu of Active IQ. Once you have created a Custom Group, you can then use it from the *My Reports* tab for generating a report. This is the only way to have newly created Custom Groups appear in the list of available groups available for reports.
 
 image:image10.png[image,width=525,height=89]
 
@@ -25,9 +25,9 @@ While creating a custom group, you have two options:
 
 .Steps
 . Search for a customer or site name and include the serial numbers for that customer/site for creating the custom group
-. Include a list of serial numbers in the “Serial Numbers” text box to create a custom group with that list of serial numbers.
+. Include a list of serial numbers in the *Serial Numbers* text box to create a custom group with that list of serial numbers.
 
-Once you select one of the above options, the serial numbers are validated against the installed base and you get a success or error depending on whether there is a match against specified serial numbers.
+Once you select one of the above options, the serial numbers are validated against the installed base, and you get a success or error depending on whether there is a match against specified serial numbers.
 
 Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to.
 

@@ -16,7 +16,7 @@ summary: Provides the definition of the storage efficiency terminology.
 
 *Total Effective Storage Capacity Ratio*
 
-This is the ratio of the total logical space used by the active file system, snapshots and clones compared to the total amount of physical space on disk needed to store those copies. It can be viewed as the total amount of space savings due to all NetApp technologies, including in-line data compaction, in-line deduplication, in-line compression,volume snapshots, volume clones, LUN and file clones, and background deduplication. This value does not include any thin provisioning savings
+This is the ratio of the total logical space used by the active file system, snapshots, and clones compared to the total amount of physical space on disk that is needed to store those copies. It can be viewed as the total amount of space savings due to all NetApp technologies, including in-line data compaction, in-line deduplication, in-line compression, volume snapshots, volume clones, LUN and file clones, and background deduplication. This value does not include any thin provisioning savings.
 
 *Snapshots and Clones*
 

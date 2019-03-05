@@ -35,6 +35,6 @@ https://www.youtube.com/playlist?list=PLdXI3bZJEw7lFU-L4EFC5Mt91HybXKOnO[Watch a
 
 https://www.netapp.com/us/documentation/active-iq.aspx[Documentation resource page^]
 
-=== Technical Reports
+*Technical Reports*
 https://www.netapp.com/us/media/tr-4688.pdf[Security and Privacy of NetApp Telemetry Data^]
 https://www.netapp.com/us/media/tr-4444.pdf[ONTAP AutoSupport and AutoSupport On Demand^]

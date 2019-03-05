@@ -17,6 +17,6 @@ The My Reports feature in Active IQ portal gives you access to all reports in th
 * System Configuration
 * System Risk
 * Storage efficiency
-* NetApp Value Report (only for internal users and partners).
+* NetApp Value Report (only for internal users and partners)
 
-With a few clicks, you can have reports delivered to your inbox in either CSV or PDF format on a regular basis.
+With a few clicks, you can have reports delivered to your inbox on a regular basis in either CSV or PDF format.

@@ -157,19 +157,19 @@ Risks are reported based on AutoSupport data that is sent to NetApp. Risks are i
 
 === Why should I acknowledge a risk and how do I do it?
 
-Some risks may not apply to a specific customer environment because of the nature of the application or the system may be in a certain stage in the lifecycle in which risks may not matter. Also, in certain situations, customers may plan to mitigate certain risks periodically through regularly scheduled maintenance windows. However, irrespective of the situation, it is an operational best practice to acknowledge a risk to look at the true health of your installed base.
+Some risks may not apply to a specific customer environment because of the nature of the application or the system may be in a certain stage in the lifecycle in which risks may not matter. Also, in certain situations, customers may plan to mitigate certain risks periodically through regularly scheduled maintenance windows. However, irrespective of the situation, it is an operational best practice to acknowledge a risk in order to look at the true health of your installed base.
 
 Follow the steps below to acknowledge a risk:
 
-* Click the Health summary tab from left navigation
-* Identify the risk you wish to tag and click on the acknowledge flag
-* Select systems for which you want to acknowledge the risk
-* Fill in the Approved By and Justification fields
-* Acknowledge the risk by clicking the acknowledge button at he bottom of the dialogue box
+* Click the Health summary tab from left navigation.
+* Identify the risk you wish to tag, and then click on the acknowledge flag.
+* Select systems for which you want to acknowledge the risk.
+* Fill in the *Approved By* and *Justification* fields.
+* Acknowledge the risk by clicking the *Acknowledge* button at the bottom of the dialogue box.
 
 === How can I get a regular update on my system risks?
 
-The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the “Schedule a Risk Report” from the Health Summary tab or navigate to the “My Reports” tab on the top menu of Active IQ to schedule a regular risk report.
+The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the *Schedule a Risk Report* from the *Health Summary* tab or navigate to the *My Reports* tab on the top menu of Active IQ to schedule a regular risk report.
 
 You can schedule a report by risk impact at a frequency and format (PDF, PPT and XLS) of your choice. This allows you to see risks easily without having to visit the Active IQ portal.
 

@@ -12,7 +12,7 @@ summary: Provides an overview of the Active IQ portal
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud. It delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app. NetApp uses community wisdom and peer comparisons gained from its massive installed base to deliver an advanced set of unparalleled analytics services through Active IQ.
+Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud. Active IQ delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app. NetApp uses Community Wisdom and peer comparisons gained from its massive installed base to deliver an advanced set of unparalleled analytics services through Active IQ.
 
 === Accessing Active IQ Web Portal and Downloading the Mobile App
 
@@ -24,9 +24,9 @@ Active IQ is a family of cloud-based services that combine AutoSupport telemetry
 |Google Play |https://play.google.com/store/apps/details?id=com.netapp.myautosupport
 |=======================================================================================================
 
-NOTE: You must have a valid NetApp Support site credential to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
+NOTE: You must have valid NetApp Support site credentials to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
 
-Active IQ shows systems with a valid support contract. If contracts expire, there is a grace period of 90 days in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ.
+Active IQ shows systems with a valid support contract. If contracts expire, there is a grace period of 90 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
 
 === Documentation, Feedback, and Support
 

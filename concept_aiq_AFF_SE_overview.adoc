@@ -14,8 +14,8 @@ summary: Lists the new storage efficiency features.
 
 This following are the new features that provide you a simple way to view efficiency ratios for All Flash FAS (AFF) systems. Ratios consider the following efficiency features included in ONTAP:
 
-* In-line data compaction (applies to ONTAP 9 and above)
-* In-line aggregate deduplication (applies to ONTAP 9.2 and above)
+* In-line data compaction (applies to ONTAP 9 and later)
+* In-line aggregate deduplication (applies to ONTAP 9.2 and later)
 * In-line volume deduplication
 * In-line compression
 * Volume snapshots and clones

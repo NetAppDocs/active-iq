@@ -14,7 +14,7 @@ summary: Provides information that helps you get started with Active IQ.
 
 === Default View
 
-Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using dropdown from the top right.
+Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using the dropdown from the top right.
 
 For NetApp internal users, search is the default view upon login, but frequently accessed views can be saved as Favorites and Custom Groups.
 
@@ -30,15 +30,15 @@ image:image3.png[image,width=602,height=244]
 
 [#_Toc536786142 .anchor]##Newsletter Subscription
 
-To keep yourself updated on the latest features of Active IQ, you can subscribe to Active IQ newsletters by clicking the Subscription option from the top banner.
+To keep yourself updated on the latest features of Active IQ, you can subscribe to the Active IQ newsletters by clicking the Subscription option from the top banner.
 
 ==== Favorites
 
-Favorites are created upon user selection across the application. Different pages can be marked as favorites using the Favorite option from the top right, and all favorites are then accessible from the login name dropdown as shown in the figure below. With this feature, you don’t need to spend time searching for the same systems each time you use the application.
+Favorites are created upon user selection across the application. Different pages can be marked as favorites using the *Favorite* option from the top right, and all favorites are then accessible from the login name dropdown as shown in the figure below. With this feature, you don’t need to spend time searching for the same systems each time you use the application.
 
 ==== Search and Navigation
 
-Active IQ search is powerful and dynamic – as you start typing, we show search results found in your installed base grouped into different categories including systems, clusters, sites, groups, and customers. A few preliminary results are listed for each category, upon successive drill down, more results are shown. Search is always available from the right side of top banner.
+Active IQ search is powerful and dynamic. As you start typing, we show search results found in your installed base grouped into different categories including systems, clusters, sites, groups, and customers. A few preliminary results are listed for each category, upon successive drill down, more results are shown. Search is always available from the right side of top banner.
 
 image:image4.png[image,width=522,height=53]
 
@@ -68,16 +68,16 @@ image:image7.png[image,width=207,height=477]
 === Feedback +
 Guided Problem Solving and Chat
 
-Guided Problem Solving (GPS) is accessible from the feedback option, which is on the right of the screen. It helps you resolve most common technical issues faster. Use it to jump directly to verified knowledge base articles and technical documentation; access commonly needed break-fix procedures, FAQs, and how-to articles; and collaborate with other users on your product by connecting with Community directly from the feature page
+Guided Problem Solving (GPS) is accessible from the feedback option, which is on the right of the screen. It helps you resolve most common technical issues faster. Use it to jump directly to verified knowledge based articles and technical documentation, access commonly needed break-fix procedures, FAQs, and how-to articles, and collaborate with other users of your product by connecting with community directly from the feature page.
 
 Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS
 
-Customers and Partners also have access to chat from the top menu by clicking the image:image8.png[image,width=59,height=21]icon.
+Customers and partners also have access to chat from the top menu by clicking the image:image8.png[image,width=59,height=21]icon.
 
 Chat is not available for NetApp Internal users.
 
 ==== What’s New?
 
-When you first login after a release, you will see a summary of new features.
+When you first login after a release, you will see a summary of the new features.
 
 This information is also available from the feedback option, which is on the right of the screen.

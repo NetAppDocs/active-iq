@@ -15,15 +15,15 @@ summary: Provides an FAQ on storage efficiency.
 == How do I access the AFF Efficiency in Active IQ?
 
 . Open home page of https://activeiq.netapp.com[[.underline]#Active IQ#].
-. Search for a cluster from the top right search box to reach the cluster dashboard. The efficiency portlet on the dashboard displays the top level ratios. Click to see further details.
+. Search for a cluster from the top right search box to reach the cluster dashboard. The efficiency portlet on the dashboard displays the top-level ratios. Click to see further details.
 
 == Does Active IQ display ratios for all AFF systems?
 
-Active IQ displays ratios for All-Flash systems running ONTAP 8.3.2 and above.
+Active IQ displays ratios for All-Flash systems running ONTAP 8.3.2 and later.
 
 == What is the ‘Without Snapshots’ checkbox in the AFF efficiency dashboard?
 
-By default, Active IQ AFF Efficiency Dashboard calculates overall ratio at cluster-level, node-level and aggregate-level. By overall ratio we mean the ratio from the following storage efficiency technologies
+By default, *Active IQ AFF Efficiency Dashboard* calculates overall ratio at cluster-level, node-level, and aggregate-level. Overall ratio includes the ratio from the following storage efficiency technologies:
 
 	* Deduplication
 	* Compression
@@ -31,9 +31,9 @@ By default, Active IQ AFF Efficiency Dashboard calculates overall ratio at clust
 	* Snapshots and
 	* Clones
 
-By selecting ‘Without Snapshots’ checkbox, the tool will calculate data reduction ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at cluster-level, node-level and aggregate-level.
+By selecting *Without Snapshots* checkbox, the tool will calculate data reduction ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at cluster-level, node-level, and aggregate-level.
 
-This option is provided to support customers who have signed up for NetApp storage guarantee program that guarantees x:1 data reduction ratio based on customer workload. Customers can use Active IQ Storage Efficiency dashboard to monitor data reduction ratios during the guarantee period.
+This option is provided to support customers who have signed up for NetApp storage guarantee program that guarantees x:1 data reduction ratio based on customer-workload. Customers can use Active IQ Storage Efficiency dashboard to monitor data reduction ratios during the guarantee period.
 
 To know more about NetApp Storage Guarantee program, refer https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[[.underline]#All-Flash Guarantee#].
 
@@ -54,7 +54,7 @@ image:image3.jpeg[image,width=489,height=270]
 
 *Aggregate Data Reduction Ratio*
 
-The formula to calculate aggregate-level data reduction ratio is as follows.
+The formula to calculate aggregate-level data reduction ratio is as follows:
 image:image4.jpeg[image,width=530,height=31]
 
 2. Node-level and Cluster-level ratios
@@ -89,11 +89,11 @@ Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]#
 
 *NOTE*: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
 
-These AutoSupport sections are viewable from the “Raw AutoSupport Data” tab in left navigation of cluster dashboard of https://activeiq.netapp.com[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
+These AutoSupport sections are viewable from the *Raw AutoSupport Data* tab in left navigation of cluster dashboard of https://activeiq.netapp.com[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
 
 == Which AutoSupports are used for calculating efficiency ratios?
 
-Calculations are performed using the latest weekly or user triggered AutoSupports which tend to contain most of the sections required for calculating the ratios.
+Calculations are performed using either the latest weekly or user-triggered AutoSupports which tend to contain most of the sections required for calculating the ratios.
 
 == Which volumes or aggregates are excluded from efficiency calculations?
 
@@ -114,7 +114,7 @@ Currently, efficiency ratios are only visible at a cluster level. Customer level
 
 == How can I see the trend in efficiency ratios?
 
-Currently, efficiency ratios are based on the latest weekly or user triggered AutoSupport. Efficiency trending may be considered for a future release.
+Currently, efficiency ratios are based on the latest weekly or user-triggered AutoSupport. Efficiency trending may be considered for a future release.
 
 == How do I provide feedback or ask other questions related to the calculator?
 

@@ -16,13 +16,13 @@ summary: Provides the list of features supported by Active IQ.
 
 Watchlists enable you to access preselected systems inside Active IQ quickly and easily.
 
-Watchlists are accessible from top menu and allow you to group systems within or across customers.
+Watchlists are accessible from top menu and enable you to group systems within or across customers.
 
 image:image3.png[image,width=602,height=244]
 
-With this functionality, you can group up to 5,000 systems in a single watchlist. Enter a list name and the serial numbers of the systems you would like to include in the Watchlists dialog box and click Submit. Lists allow inclusion of systems you are entitled to access. After the Watchlist is saved, click list name link for details.
+With this functionality, you can group up to 5,000 systems in a single watchlist. Enter a list name and the serial numbers of the systems you would like to include in the Watchlists dialog box and click Submit. The lists enable inclusion of systems you are entitled to access. After the Watchlist is saved, click the list name link for details.
 
-*NEW*: Watchlists also allows you to add systems from one or more customers. When this is done, there is no need to update the list of systems belonging to these customers when systems get added or removed from customers’ installed base. This is a significant productivity savings over adding systems using serial #s. You can add as many customers as you need to as long as the total number of systems is within 5,000.
+*NEW*: Watchlists also enables you to add systems from one or more customers. When this is done, there is no need to update the list of systems belonging to these customers when systems get added or removed from the customers’ installed base. This is a significant productivity savings over adding systems using serial numbers. You can add as many customers as you need to as long as the total number of systems is within 5,000.
 
 See *Reports* feature to learn more about reports you can generate using systems in a Watchlist.
 
@@ -30,13 +30,13 @@ image:image9.png[image,width=623,height=174]
 
 === Manual AutoSupport Upload
 
-This functionality allows you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the AutoSupport Upload button in the top banner, select the files, and click Upload. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, supported formats, and more.
+This functionality enables you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the *AutoSupport Upload* button in the top banner, select the files, and then click *Upload*. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, the supported formats, and more.
 
 image:image10.png[image,width=295,height=402]
 
 === NEW: Config Compare (BETA) with Popular Configuration Templates
 
-The new Config Compare feature allows you to detect configuration deviations in near real time. It allows you to create a template using a default we provide or selecting one from one of the systems in your installed base. Once a template is created, you can subscribe to create a subscription to get change notifications in near real time via email or on the “Deviation Result” tab of the feature. This feature is still in Beta, we support limited sections for comparison within the template.
+The new Config Compare feature enables you to detect configuration deviations in near real time. It allows you to create a template using a default we provide or selecting one from one of the systems in your installed base. Once a template is created, you can subscribe to create a subscription to get change notifications in near real time via email or on the “Deviation Result” tab of the feature. This feature is still in Beta, we support limited sections for comparison within the template.
 
 You can use Popular Configuration powered by Active IQ Community Wisdom, Default Configuration or System AutoSupport templates to see differences or anomalies in configurations. Instant Compare of Configurations is coming soon.
 
