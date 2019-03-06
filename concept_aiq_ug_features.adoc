@@ -89,7 +89,7 @@ By clicking the icon, you can download details about all the impacted systems. I
 * There are no systems that will be over 90% capacity in 1 to 6-month timeframe
 * There are 171 systems that will be under 90% capacity in 6 months
 +
-*NOTE*: Capacity forecasts are computed based on past usage and growth patterns. If there are materially significant changes in usage or growth, then these predictions may not hold and more systems may be over 90% capacity sooner.
+NOTE: Capacity forecasts are computed based on past usage and growth patterns. If there are materially significant changes in usage or growth, then these predictions may not hold and more systems may be over 90% capacity sooner.
 
 image:image16.png[image,width=390,height=242]
 
@@ -290,7 +290,7 @@ The confidence factor is used to determine the accuracy of the peak performance 
 
 There are cluster aggregated performance charts in cluster performance dashboard and can view node level graphs.
 
-*Note*: Response Time by Protocol and Concurrency graphs are not available for cDOT systems.
+NOTE: Response Time by Protocol and Concurrency graphs are not available for cDOT systems.
 
 The following is the performance chart at the cluster level:
 
@@ -351,7 +351,7 @@ Acknowledging a risk is a way of flagging it in your dashboard. Setting your pre
 
 *Best Practice:* Complete the “justification” field when you acknowledge a risk to document the rationale behind the acknowledgement.
 
-*Note:* If you are a NetApp Internal user acknowledging on behalf of a customer with their approval, please add the customer’s name in the “Approved By” field for future reference and trackability.
+NOTE: If you are a NetApp Internal user acknowledging on behalf of a customer with their approval, please add the customer’s name in the “Approved By” field for future reference and trackability.
 
 image:image42.png[image,width=498,height=232]
 

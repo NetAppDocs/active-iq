@@ -87,7 +87,7 @@ For the volume level ratio calculations, we use the df –s section of AutoSuppo
 Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]#
                                           df-s (used)
 
-*NOTE*: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
+NOTE: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
 
 These AutoSupport sections are viewable from the *Raw AutoSupport Data* tab in left navigation of cluster dashboard of https://activeiq.netapp.com[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
 

@@ -12,6 +12,6 @@ summary: Provides information about accessing my reports.
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-My Reports can be accessed from Active IQ launch page by clicking the *My Reports* link in top menu
+My Reports can be accessed from Active IQ launch page by clicking the *My Reports* link in top menu.
 
 image:image2.png[image,width=621,height=83]

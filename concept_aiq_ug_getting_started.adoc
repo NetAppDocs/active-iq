@@ -28,7 +28,7 @@ It also provides the different options that are available to the user.
 
 image:image3.png[image,width=602,height=244]
 
-[#_Toc536786142 .anchor]##Newsletter Subscription
+=== Newsletter Subscription
 
 To keep yourself updated on the latest features of Active IQ, you can subscribe to the Active IQ newsletters by clicking the Subscription option from the top banner.
 
@@ -57,7 +57,7 @@ Active IQ offers two different views of your systems data:
 
 While viewing a system or a group of systems, menus are available through icons on the left navigation to access available insights from your installed base.
 
-*Note*: Features available at the single-system level differ from features available at the aggregate level. In general, features at the customer level provide an overview and the features at the system level provide more details.
+NOTE: Features available at the single-system level differ from features available at the aggregate level. In general, features at the customer level provide an overview and the features at the system level provide more details.
 
 === Left Navigation
 
