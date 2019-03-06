@@ -42,28 +42,19 @@ You can use Popular Configuration powered by Active IQ Community Wisdom, Default
 
 Seeing comparisons and drifts involve three steps:
 
-[arabic]
 . Selecting a template
 
-_________________________________________________________________________________________________________________________________________
 New in the recent release is the ability to select a popular template based on Active IQ Community Wisdom from the entire installed base.
 
 image:image11.png[image,width=415,height=210]
-_________________________________________________________________________________________________________________________________________
 
-[arabic, start=2]
 . Setting up a subscription
 
-_________________________________________________________
 image:image12.png[image,width=388,height=292]
-_________________________________________________________
 
-[arabic, start=3]
 . Seeing comparisons and drifts
 
-_________________________________________________________
 image:image13.png[image,width=482,height=437]
-_________________________________________________________
 
 === Customer Dashboard
 
