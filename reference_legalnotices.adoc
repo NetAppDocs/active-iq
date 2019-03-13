@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_legalnotices.html
-keywords: trademark
+keywords: legal notice
 summary: Legal information
 ---
 

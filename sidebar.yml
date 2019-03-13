@@ -23,19 +23,19 @@ entries:
             url: /concept_aiq_mrug_custom_group.html
           - title: Report Scheduling
             url: /concept_aiq_mrug_report_scheduling.html
-  - title: Active IQ AFF Storage Efficiency Calculator
-    entries:
-      - title: Feature Overview
-        url: /concept_aiq_AFF_SE_overview.html
-      - title: FAQs
-        url: /concept_aiq_AFF_SE_FAQs.html
-      - title: Appendix
-        url: /concept_aiq_AFF_SE_appendix.html
-  - title: Active IQ System Risk Details (Technical FAQ)
-    entries:
-      - title: Active IQ health summary
-        url: /reference_aiq_srd_health_summary.html
-      - title: Reporting and mitigation
-        url: /reference_aiq_srd_reporting_mitigation.html
-  - title: Legal notices
-    url: /reference_legalnotices.html
+      - title: Active IQ AFF Storage Efficiency Calculator
+        entries:
+          - title: Feature Overview
+            url: /concept_aiq_AFF_SE_overview.html
+          - title: FAQs
+            url: /concept_aiq_AFF_SE_FAQs.html
+          - title: Appendix
+            url: /concept_aiq_AFF_SE_appendix.html
+      - title: Active IQ System Risk Details (Technical FAQ)
+        entries:
+          - title: Active IQ health summary
+            url: /reference_aiq_srd_health_summary.html
+          - title: Reporting and mitigation
+            url: /reference_aiq_srd_reporting_mitigation.html
+      - title: Legal notices
+        url: /reference_legalnotices.html
