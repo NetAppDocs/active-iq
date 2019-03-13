@@ -1,15 +1,13 @@
 entries:
-  - title:Active IQ® Documentation
+  - title:Active IQ Documentation
     url: /index.html
-  - title: Active IQ User Guide
-    entries:
       - title: Overview
         url: /concept_aiq_ug_overview.html
       - title: Getting Started with Active IQ
         url: /concept_aiq_ug_getting_started.html
       - title: Feature Overview
         url: /concept_aiq_ug_features.html
-  - title: Active IQ My Reports User Guide
+  - title: My Reports
     entries:
       - title: My Reports Overview
         url: /concept_aiq_mrug_reports_overview.html
