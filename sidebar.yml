@@ -1,8 +1,6 @@
 entries:
-  - title:Active IQ Documentation
+  - title: Active IQ Documentation
     url: /index.html
-  - title: User Guide
-    entries:
       - title: Overview
         url: /concept_aiq_ug_overview.html
       - title: Getting Started with Active IQ
@@ -39,5 +37,5 @@ entries:
             url: /reference_aiq_srd_health_summary.html
           - title: Reporting and mitigation
             url: /reference_aiq_srd_reporting_mitigation.html
-  - title: Legal notices
-    url: /reference_legalnotices.html
+      - title: Legal notices
+        url: /reference_legalnotices.html
