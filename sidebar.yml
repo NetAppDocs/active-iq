@@ -1,28 +1,30 @@
 entries:
   - title:Active IQ Documentation
     url: /index.html
+  - title: User Guide
+    entries:  
       - title: Overview
         url: /concept_aiq_ug_overview.html
       - title: Getting Started with Active IQ
         url: /concept_aiq_ug_getting_started.html
       - title: Feature Overview
         url: /concept_aiq_ug_features.html
-  - title: My Reports
-    entries:
-      - title: My Reports Overview
-        url: /concept_aiq_mrug_reports_overview.html
-      - title: Accessing My Reports
-        url: /concept_aiq_mrug_accessing_reports.html
-      - title: My Reports Dashboard
-        url: /concept_aiq_mrug_reports_dashboard.html
-      - title: Create Report
-        url: /concept_aiq_mrug_create_report.html
-      - title: Configuration Report Output
-        url: /concept_aiq_mrug_configuration_report.html
-      - title: Custom Group
-        url: /concept_aiq_mrug_custom_group.html
-      - title: Report Scheduling
-        url: /concept_aiq_mrug_report_scheduling.html
+        - title: My Reports
+          entries:
+            - title: My Reports Overview
+              url: /concept_aiq_mrug_reports_overview.html
+            - title: Accessing My Reports
+              url: /concept_aiq_mrug_accessing_reports.html
+            - title: My Reports Dashboard
+              url: /concept_aiq_mrug_reports_dashboard.html
+            - title: Create Report
+              url: /concept_aiq_mrug_create_report.html
+            - title: Configuration Report Output
+              url: /concept_aiq_mrug_configuration_report.html
+            - title: Custom Group
+              url: /concept_aiq_mrug_custom_group.html
+            - title: Report Scheduling
+              url: /concept_aiq_mrug_report_scheduling.html
   - title: Active IQ AFF Storage Efficiency Calculator
     entries:
       - title: Feature Overview
