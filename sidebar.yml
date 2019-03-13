@@ -1,5 +1,5 @@
 entries:
-  - title: Active IQ Documentation
+  - title:Active IQ® Documentation
     url: /index.html
   - title: Active IQ User Guide
     entries:
@@ -9,10 +9,6 @@ entries:
         url: /concept_aiq_ug_getting_started.html
       - title: Feature Overview
         url: /concept_aiq_ug_features.html
-      - title: Copyright
-        url: /concept_aiq_ug_copyright.html
-      - title: Trademark
-        url: /concept_aiq_ug_trademark.html
   - title: Active IQ My Reports User Guide
     entries:
       - title: My Reports Overview
@@ -43,3 +39,5 @@ entries:
         url: /reference_aiq_srd_health_summary.html
       - title: Reporting and mitigation
         url: /reference_aiq_srd_reporting_mitigation.html
+    - title: Legal notices
+      url: /reference_legalnotices.html
