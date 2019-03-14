@@ -9,7 +9,7 @@ entries:
     url: /concept_aiq_ug_features.html
   - title: Reports
     entries:
-      - title:Reports Overview
+      - title: Reports Overview
         url: /concept_aiq_mrug_reports_overview.html
       - title: Accessing Reports
         url: /concept_aiq_mrug_accessing_reports.html
