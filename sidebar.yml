@@ -6,7 +6,6 @@ entries:
   - title: Getting Started with Active IQ
     url: /concept_aiq_ug_getting_started.html
   - title: Features
-    url: /concept_aiq_ug_features.html
     entries:
       - title: Watchlists
         url: /concept_ug_watchlists.html
@@ -16,6 +15,8 @@ entries:
         url: /concept_ug_config_compare.html
       - title: Cutomer Dashboard
         url: /concept_ug_customer_dashboard.html
+      - title: Capacity Forecasting for ONTAP systems
+        url: /concept_ug_cap_forecast_ONTAP.html
   - title: Reports
     entries:
       - title: Reports Overview
