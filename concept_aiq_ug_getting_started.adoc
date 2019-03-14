@@ -63,7 +63,7 @@ NOTE: Features available at the single-system level differ from features availab
 
 The left navigation of Active IQ provides details of information available from the dashboard. The navigation can be minimized to maximize viewing of information during regular use.
 
-image:image7.png[image,width=207,height=477]
+image:image7.png[image,width=195,height=450]
 
 === Feedback +
 Guided Problem Solving and Chat

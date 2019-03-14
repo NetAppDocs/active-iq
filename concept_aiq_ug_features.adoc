@@ -32,7 +32,7 @@ image:image9.png[image,width=623,height=174]
 
 This functionality enables you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the *AutoSupport Upload* button in the top banner, select the files, and then click *Upload*. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, the supported formats, and more.
 
-image:image10.png[image,width=295,height=402]
+image:image10.png[image,width=265,height=402]
 
 === NEW: Config Compare (BETA) with Popular Configuration Templates
 
@@ -46,7 +46,7 @@ Seeing comparisons and drifts involve three steps:
 
 New in the recent release is the ability to select a popular template based on Active IQ Community Wisdom from the entire installed base.
 
-image:image11.png[image,width=415,height=210]
+image:image11.png[image,width=375,height=200]
 
 . Setting up a subscription
 
