@@ -36,6 +36,6 @@ entries:
       - title: Reporting and mitigation
         url: /reference_aiq_srd_reporting_mitigation.html
       - title: AFF Storage Efficiency Calculator
-        url: /concept_aiq_AFF_SE_FAQs.html
+        url: /reference_aiq_AFF_SE_FAQs.html
   - title: Legal notices
     url: /reference_legalnotices.html
