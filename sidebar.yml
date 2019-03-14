@@ -7,13 +7,13 @@ entries:
     url: /concept_aiq_ug_getting_started.html
   - title: Feature Overview
     url: /concept_aiq_ug_features.html
-  - title: My Reports
+  - title: Reports
     entries:
-      - title: My Reports Overview
+      - title:Reports Overview
         url: /concept_aiq_mrug_reports_overview.html
-      - title: Accessing My Reports
+      - title: Accessing Reports
         url: /concept_aiq_mrug_accessing_reports.html
-      - title: My Reports Dashboard
+      - title: Reports Dashboard
         url: /concept_aiq_mrug_reports_dashboard.html
       - title: Create Report
         url: /concept_aiq_mrug_create_report.html
@@ -27,15 +27,15 @@ entries:
     entries:
       - title: Feature Overview
         url: /concept_aiq_AFF_SE_overview.html
-      - title: FAQs
-        url: /concept_aiq_AFF_SE_FAQs.html
       - title: Appendix
         url: /concept_aiq_AFF_SE_appendix.html
-  - title: Active IQ System Risk Details (Technical FAQ)
+  - title: FAQs
     entries:
       - title: Active IQ health summary
         url: /reference_aiq_srd_health_summary.html
       - title: Reporting and mitigation
         url: /reference_aiq_srd_reporting_mitigation.html
+      - title: AFF Storage Efficiency Calculator
+        url: /concept_aiq_AFF_SE_FAQs.html
   - title: Legal notices
     url: /reference_legalnotices.html
