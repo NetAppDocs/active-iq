@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: concept_ug_support_contract_renewals.html
+keywords: Active IQ, user guide, support contract renewals
+summary: Provides an overview of the support contract renewal feature
+---
+
+= Support Contract Renewals Widget
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+This widget on customer dashboard gives you the list of support contracts expiring. User can request renewals of support contract by clicking the mail icon.
+
+It displays:
+
+* Support Contract already expired
+* Support Contract expiring within 6 months
+
+image:image18.png[image,width=325,height=200]

@@ -17,6 +17,10 @@ entries:
         url: /concept_ug_customer_dashboard.html
       - title: Capacity Forecasting for ONTAP systems
         url: /concept_ug_cap_forecast_ONTAP.html
+      - title: Support Contract Renewals Widget
+        url: /concept_ug_support_contract_renewals.html
+      - title: End of Support (EOS) Hardware (ONTAP) Widget
+        url: /concept_ug_eos_hardware.html
   - title: Reports
     entries:
       - title: Reports Overview

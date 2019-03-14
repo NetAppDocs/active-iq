@@ -5,14 +5,12 @@ keywords: Active IQ, user guide, config compare
 summary: Provides an overview of the config compare feature
 ---
 
-== NEW: Config Compare (BETA) with Popular Configuration Templates
+= NEW: Config Compare (BETA) with Popular Configuration Templates
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
-
-=== Overview
 
 The new Config Compare feature enables you to detect configuration deviations in near real time. It enables you to create a template using a default we provide or selecting one from one of the systems in your installed base. Once a template is created, you can subscribe to get change notifications in near real time via email or on the *Deviation Result* tab of the feature. Since this feature is still in Beta, we support limited sections for comparison within the template.
 

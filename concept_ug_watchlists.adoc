@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, watchlists
 summary: Provides an overview of the Watchlists feature
 ---
 
-== Watchlists
+= Watchlists
 :hardbreaks:
 :nofooter:
 :icons: font
