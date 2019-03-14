@@ -239,7 +239,7 @@ In the *Cluster Dashboard*, summary of total number volumes that are not tagged 
 
 You can tag volumes with the Workload, Application, Protocol and Container. Workload is an enterprise workload, and Application is defined as a User Application/Products.
 
-image:image31.png[Workload tagging]
+image:image31.png[image,width=28,height=18]
 
 There are three different type of workload tags:
 
