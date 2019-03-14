@@ -32,7 +32,7 @@ image:image9.png[image,width=623,height=174]
 
 This functionality enables you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the *AutoSupport Upload* button in the top banner, select the files, and then click *Upload*. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, the supported formats, and more.
 
-image:image10.png[image,width=265,height=402]
+image:image10.png[image,width=195,height=400]
 
 === NEW: Config Compare (BETA) with Popular Configuration Templates
 
@@ -46,11 +46,11 @@ Seeing comparisons and drifts involve three steps:
 
 New in the recent release is the ability to select a popular template based on Active IQ Community Wisdom from the entire installed base.
 
-image:image11.png[image,width=375,height=200]
+image:image11.png[image,width=325,height=175]
 
 . Setting up a subscription
 
-image:image12.png[image,width=388,height=292]
+image:image12.png[image,width=325,height=175]
 
 . Seeing comparisons and drifts
 
@@ -68,7 +68,7 @@ The Customer Dashboard is the central portal in Active IQ from which you can vie
 * Storage Efficiency Recommendations and Advisory
 * Recent Cases
 +
-image:image14.png[image,width=624,height=445]
+image:image14.png[image,width=800,height=500]
 
 ==== Capacity Forecasting for ONTAP systems
 
@@ -82,11 +82,11 @@ By clicking the icon, you can download details about all the impacted systems. I
 +
 NOTE: Capacity forecasts are computed based on past usage and growth patterns. If there are materially significant changes in usage or growth, then these predictions may not hold and more systems may be over 90% capacity sooner.
 
-image:image16.png[image,width=390,height=242]
+image:image16.png[image,width=325,height=200]
 
 To ensure that the systems do not run out of space, you can request for more storage from the Capacity Widget by selecting the systems and clicking the mail icon. You can select multiple systems at once to request capacity.
 
-image:image17.png[image,width=496,height=138]
+image:image17.png[image,width=440,height=138]
 
 Total capacity displayed is the sum of all the aggregate’s total capacity and used capacity is the sum of all the aggregate’s physical used space.
 
@@ -99,7 +99,7 @@ It displays:
 * Support Contract already expired
 * Support Contract expiring within 6 months
 
-image:image18.png[image,width=412,height=256]
+image:image18.png[image,width=325,height=200]
 
 ==== End of Support (EOS) Hardware (ONTAP) Widget
 
@@ -112,7 +112,7 @@ It displays:
 * Systems reaching EOS in 6-12 months
 * Systems reaching EOS > 1 year
 
-image:image19.png[image,width=404,height=253]
+image:image19.png[image,width=325,height=200]
 
 ==== Performance Widget
 
@@ -123,7 +123,7 @@ Performance Widget in customer dashboard displays:
 * Systems Over 50% Disk Utilization – Displays information about systems in which disk utilization is more than 50%. Disk utilization shown is the hourly averaged maximum utilization in the day based on daily performance AutoSupport data.
 * Unbalanced Systems (Delta > 40% CPU) – Displays information about systems in an HA pair where one system is 40% more utilized compared to the partner node. NetApp recommends using no more than 50% CPU on system in order to maintain consistent performance in case of a takeover.
 
-image:image20.png[image,width=341,height=211]
+image:image20.png[image,width=325,height=200]
 
 ==== Cases Widget
 
@@ -174,7 +174,7 @@ Flash Advisor recommends a list of volumes that contain workloads that will perf
 
 The list of volumes is determined by looking at characteristic’s other users across the installed base have benefited from. A list of these characteristics is available from the information icon on the top right of this widget.
 
-image:image24.png[image,width=498,height=272]
+image:image24.png[image,width=450,height=250]
 
 ===== Criteria for determining Flash candidates
 
@@ -184,7 +184,7 @@ image:image25.png[image,width=448,height=240]
 
 Protection Advisor shows the number of SnapMirror protected and unprotected volumes. A detailed list can be downloaded by clicking the download arrow at the upper right-hand corner.
 
-image:image26.png[image,width=480,height=249]
+image:image26.png[image,width=325,height=200]
 
 ==== Performance Guarantee Best Practice Gaps
 
@@ -235,11 +235,11 @@ Once volumes are tagged, NetApp will make recommendations and best practices ava
 
 Workload Tagging can be accessed by clicking the image:image29.png[image,width=21,height=18] icon from left navigation of ONTAP cluster.
 
-In the *Cluster Dashboard*, summary of total number volumes that are not tagged are shown. image:image30.png[image,width=106,height=49]
+In the *Cluster Dashboard*, summary of total number volumes that are not tagged are shown. image:image30.png[image,width=40,height=28]
 
 You can tag volumes with the Workload, Application, Protocol and Container. Workload is an enterprise workload, and Application is defined as a User Application/Products.
 
-image:image31.png[image,width=259,height=229]
+image:image31.png[image,width=200,height=180]
 
 There are three different type of workload tags:
 
@@ -285,7 +285,7 @@ NOTE: Response Time by Protocol and Concurrency graphs are not available for cDO
 
 The following is the performance chart at the cluster level:
 
-image:image35.png[image,width=557,height=248]
+image:image35.png[image,width=505,height=248]
 
 The following is the performance chart at the system level:
 
@@ -344,7 +344,7 @@ Acknowledging a risk is a way of flagging it in your dashboard. Setting your pre
 
 NOTE: If you are a NetApp Internal user acknowledging on behalf of a customer with their approval, please add the customer’s name in the “Approved By” field for future reference and trackability.
 
-image:image42.png[image,width=498,height=232]
+image:image42.png[image,width=450,height=200]
 
 ==== Risk Advisor
 
