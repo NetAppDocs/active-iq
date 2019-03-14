@@ -5,8 +5,17 @@ entries:
     url: /concept_aiq_ug_overview.html
   - title: Getting Started with Active IQ
     url: /concept_aiq_ug_getting_started.html
-  - title: Feature Overview
+  - title: Features
     url: /concept_aiq_ug_features.html
+    entries:
+      - title: Watchlists
+        url: /concept_ug_watchlists.html
+      - title: Manual AutoSupport Upload
+        url: /concept_ug_manual_autosupport_upload.html
+      - title: NEW: Config Compare (BETA) with Popular Configuration Templates
+        url: /concept_ug_config_compare.html
+      - title: Cutomer Dashboard
+        url: /concept_ug_customer_dashboard.html
   - title: Reports
     entries:
       - title: Reports Overview

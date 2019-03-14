@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: concept_ug_customer_dashboard.html
+keywords: Active IQ, user guide, customer dashboard
+summary: Provides an overview of the customer dashboard feature
+---
+
+== Customer Dashboard
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+=== Overview
+
+The Customer Dashboard is the central portal in Active IQ from which you can view and manage a customer’s installed base. The dashboard has consolidated views of:
+
+* Systems inventory
+* AutoSupport adoption and transmission issues
+* Capacity forecasting
+* ONTAP, shelf, drive, and system firmware upgrade Recommendations
+* Risk Advisory
+* Storage Efficiency Recommendations and Advisory
+* Recent Cases
++
+image:image14.png[image,width=800,height=500]

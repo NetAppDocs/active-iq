@@ -235,7 +235,7 @@ Once volumes are tagged, NetApp will make recommendations and best practices ava
 
 Workload Tagging can be accessed by clicking the image:image29.png[image,width=21,height=18] icon from left navigation of ONTAP cluster.
 
-In the *Cluster Dashboard*, summary of total number volumes that are not tagged are shown. image:image30.png[image,width=20,height=18]
+In the *Cluster Dashboard*, summary of total number volumes that are not tagged are shown. image:image30.png[untagged workflows,20,18]
 
 You can tag volumes with the Workload, Application, Protocol and Container. Workload is an enterprise workload, and Application is defined as a User Application/Products.
 
@@ -367,12 +367,10 @@ image:image43.png[image,width=614,height=188]
 
 Interop Advisor enables you to check the compatibility of hosts by using data collected by NetApp OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers and firmware.
 
-[arabic]
 . Start by entering the job id of an uploaded OneCollect file or upload a new one.
 
 image:image44.png[image,width=623,height=231]
 
-[arabic, start=2]
 . The file is loaded, and the storage controller is shown along with connected hosts and switches. Click *NEXT*.
 
 image:image45.png[image,width=592,height=321]
@@ -472,7 +470,6 @@ The new cluster dashboard is the central place to look for information about ONT
 
 There are two main ways to reach the cluster dashboard:
 
-[arabic]
 . By searching a cluster name.
 . By searching for a node within the cluster. By default, you land on the cluster dashboard the node belongs to. From there you have shortcuts to reach the individual nodes.
 
