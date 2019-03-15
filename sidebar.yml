@@ -72,12 +72,6 @@ entries:
         url: /concept_aiq_mrug_custom_group.html
       - title: Report Scheduling
         url: /concept_aiq_mrug_report_scheduling.html
-  - title: Active IQ AFF Storage Efficiency Calculator
-    entries:
-      - title: Feature Overview
-        url: /concept_aiq_AFF_SE_overview.html
-      - title: Appendix
-        url: /concept_aiq_AFF_SE_appendix.html
   - title: FAQs
     entries:
       - title: Active IQ health summary
