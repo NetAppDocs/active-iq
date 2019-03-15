@@ -5,6 +5,8 @@ entries:
     url: /concept_aiq_ug_overview.html
   - title: Getting Started with Active IQ
     url: /concept_aiq_ug_getting_started.html
+  - title: Feature Overview
+    url: /concept_aiq_ug_features.html
   - title: Features
     entries:
       - title: Watchlists
@@ -21,6 +23,18 @@ entries:
         url: /concept_ug_support_contract_renewals.html
       - title: End of Support (EOS) Hardware (ONTAP) Widget
         url: /concept_ug_eos_hardware.html
+      - title: Performance Widget
+        url: /concept_ug_performance_widget.html
+      - title: Cases Widget
+        url: /concept_ug_cases_widget.html
+      - title: Upgrade Recommendations Widget
+        url: /concept_ug_upgrade_recommendation.html
+      - title: System Dashboard Widget Preferences
+        url: /concept_ug_system_dashboard_widget.html
+      - title: DataCenter View
+        url: /concept_ug_datacenter_view.html
+      - title: Storage
+        url: /concept_ug_storage.html
   - title: Reports
     entries:
       - title: Reports Overview
