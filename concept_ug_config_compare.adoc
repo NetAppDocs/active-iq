@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, config compare
 summary: Provides an overview of the config compare feature
 ---
 
-= NEW: Config Compare (BETA) with Popular Configuration Templates
+= Config Compare (BETA) with Popular Configuration Templates
 :hardbreaks:
 :nofooter:
 :icons: font

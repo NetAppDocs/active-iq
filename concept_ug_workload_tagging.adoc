@@ -12,7 +12,7 @@ summary: Provides an overview of the workload tagging feature.
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-Workload Tagging enables users to tag volumes within Storage Virtual Machines (SVMs) in ONTAP systems (cDOT only) with workload details. One or more volumes can be tagged to a specific workload using selecting a workload from the pre-defined dropdown list.
+Workload Tagging enables users to tag volumes within Storage Virtual Machines (SVMs) in ONTAP systems (cluster mode only) with workload details. One or more volumes can be tagged to a specific workload using selecting a workload from the pre-defined dropdown list.
 
 Once volumes are tagged, NetApp will make recommendations and best practices available that will help users to improve performance, efficiency, and availability of NetApp systems.
 
