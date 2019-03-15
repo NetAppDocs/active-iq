@@ -5,8 +5,6 @@ entries:
     url: /concept_aiq_ug_overview.html
   - title: Getting Started with Active IQ
     url: /concept_aiq_ug_getting_started.html
-  - title: Feature Overview
-    url: /concept_aiq_ug_features.html
   - title: Features
     entries:
       - title: Watchlists
@@ -42,7 +40,7 @@ entries:
         url: /concept_ug_interop_advisor.html
       - title: AutoSupport Viewer
         url: /concept_ug_autosupport_viewer.html
-      - title: Cluster Viewer
+      - title: Cluster Viewer (ONTAP Only)
         url: /concept_ug_cluster_viewer.html
       - title: Types of visualizations
         url: /concept_ug_types_visualization.html
