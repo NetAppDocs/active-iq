@@ -1,0 +1,38 @@
+---
+sidebar: sidebar
+permalink: concept_ug_interop_advisor.html
+keywords: Active IQ, user guide, interop advisor
+summary: Provides an overview of the interop advisor feature.
+---
+
+= Interop Advisor
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+Interop Advisor enables you to check the compatibility of hosts by using data collected by NetApp OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers and firmware.
+
+. Start by entering the job id of an uploaded OneCollect file or upload a new one.
+
+image:image44.png[image,width=623,height=231]
+
+. The file is loaded, and the storage controller is shown along with connected hosts and switches. Click *NEXT*.
+
+image:image45.png[image,width=592,height=321]
+
+[arabic, start=3]
+. Select the target ONTAP version. Click *NEXT*.
+
+image:image46.png[image,width=600,height=252]
+
+[arabic, start=4]
+. Enter report name and email address.
+
+image:image47.png[image,width=444,height=146]
+
+[arabic, start=5]
+. An Excel file is emailed with Current and ONTAP Upgrade Compatibility information.
+
+image:image48.png[image,width=593,height=150]

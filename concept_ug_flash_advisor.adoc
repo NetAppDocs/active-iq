@@ -1,0 +1,23 @@
+---
+sidebar: sidebar
+permalink: concept_ug_flash_advisor.html
+keywords: Active IQ, user guide, flash advisor
+summary: Provides an overview of the flash advisor feature.
+---
+
+= Flash Advisor
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+Flash Advisor recommends a list of volumes that contain workloads that will perform better if moved to AFF systems. Users can select volumes and submit a request to upgrade the system to flash.
+
+The list of volumes is determined by looking at characteristic’s other users across the installed base have benefited from. A list of these characteristics is available from the information icon on the top right of this widget.
+
+image:image24.png[image,width=450,height=250]
+
+===== Criteria for determining Flash candidates
+
+image:image25.png[image,width=448,height=240]

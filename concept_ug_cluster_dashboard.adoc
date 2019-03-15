@@ -1,0 +1,72 @@
+---
+sidebar: sidebar
+permalink: concept_ug_cluster_dashboard.html
+keywords: Active IQ, user guide, cluster dashboard
+summary: Provides an overview of the cluster dashboard feature.
+---
+
+= Cluster Dashboard
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+The new cluster dashboard is the central place to look for information about ONTAP clusters. The dashboard also consolidates health, capacity, storage efficiency and performance insights.
+
+There are two main ways to reach the cluster dashboard:
+
+. By searching a cluster name.
+. By searching for a node within the cluster. By default, you land on the cluster dashboard the node belongs to. From there you have shortcuts to reach the individual nodes.
+
+The figure below shows the functionalities and information available from the cluster dashboard.
+
+image:image58.png[image,width=623,height=564]
+
+Cluster Dashboard has the following components:
+
+At the top of the dashboard, the following critical information about the cluster is summarized:
+
+* High Impact Risks
+* Upgrade Recommendations
+* AutoSupport On Demand Status
+* End of Support details
+
+The cluster dashboard also has more detailed information in the following widgets:
+
+*Configuration* – This widget lists all the nodes in the cluster and provides hostname, serial number, system ID, ONTAP version, and model of the nodes within the cluster. From the “View Configuration Details” button on top of this widget, you are able to see additional details about the cluster through the new “Cluster Viewer” Beta module, which includes a visualization of how the cluster is cabled.
+
+*Capacity Forecasting* – This widget on the cluster dashboard provides a simple view of whether any nodes within the cluster may be running out of capacity. If there are nodes that are over 90% capacity, or may reach that threshold within 6 months, you can select those nodes and reach out to NetApp to request capacity addition.
+
+*Performance* – Available for Internal Users Only – This new widget at the cluster level identifies issues with performance AutoSupport or other performance characteristics at the cluster level. It looks at the following critical areas:
+
+* Truncation issues with Performance AutoSupport
+* Nodes within the cluster with over 90% CPU utilization
+* Nodes within the cluster with over 50% Disk utilization
+* Unbalanced systems
+
+The information icon on the top of the widget provides additional details about these critical attributes, and provides guidance on how you may be able to mitigate these critical conditions.
+
+*Health Summary* – This widget shows the snapshot of risks, best practice gaps, hardware end of support, and alerts of all the nodes within the cluster. You can click any of the numbers within the widget to drill down into the details of each of these components.
+
+*Storage Efficiency* – This widget shows the cluster level efficiency ratio, and lists the efficiency ratio of individual nodes. To view efficiency details of individual nodes, you can click the arrow on the top right of the widget.
+
+*Software Upgrade Recommendations* – This widget does a gap analysis of the different components, including ONTAP, drive firmware, system firmware, and shelf firmware. You can download all the details into a worksheet. You can also click the different components to upgrade the components. ONTAP upgrade recommendation provide the latest and the most modern version of ONTAP that can be upgraded considering the platform checks.
+
+*Cluster Upgrade Advisor* – You can now generate an Upgrade Plan for a cluster from the cluster dashboard page. Click the image:image55.png[image,width=27,height=27] icon to open the screen. All the nodes in a cluster will be upgraded to single ONTAP version. Individual nodes cannot be upgraded to different ONTAP version. Choose between ANDU, NDU, DU or Revert plans and click *Generate* to generate an upgrade plan.
+
+Newly added functionalities to the upgrade plan:
+
+Upgrade Advisor now performs automated interoperability cluster switch checks for a target ONTAP version.
+
+The left navigation of the cluster dashboard enables the user to view the details of information available from the dashboard. Following functionalities are currently available:
+
+[cols=",,",options="header",]
+|============================================================================================================================
+|*Icon* |*Functionality* |*Description*
+| |Performance |This tab enables you to view detailed performance charts of the ONTAP cluster
+| |Upgrade Advisor |Enables you to generate an upgrade plan for the cluster
+| |AutoSupport |This tab enables you to view all AutoSupports from all the nodes coming from the cluster
+| |Health |This tab enables you to view details of the risks, end of support hardware, and best practice gaps of the cluster.
+| |Storage Efficiency |This tab enables you to view the storage efficiency details of the individual nodes within the cluster.
+|============================================================================================================================

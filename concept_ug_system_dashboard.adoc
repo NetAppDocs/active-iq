@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: concept_ug_system_dashboard.html
+keywords: Active IQ, user guide, system dashboard
+summary: Provides an overview of the system dashboard feature.
+---
+
+= System Dashboard
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+The *System Fitness Dashboard* offers more detailed information and it includes detail about the following:
+
+* Configuration
+* Capacity Forecasting
+* Performance Chart
+* Storage Efficiency Ratio
+* System Risks and Alerts
+* ONTAP Upgrade Recommendations
+* AutoSupport On Demand enablement
+
+The left side of the dashboard provides access to additional detailed information for the above listed items and more, some of which are described later in this document.
