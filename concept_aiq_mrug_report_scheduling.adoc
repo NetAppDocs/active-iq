@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_report_scheduling.html
-keywords: my report, report scheduling
+keywords: reports, report scheduling
 summary: Provides information about the scheduling of reports.
 ---
 
@@ -12,11 +12,11 @@ summary: Provides information about the scheduling of reports.
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-My Reports also provides you four options ((Once, Weekly, Monthly and Yearly) for scheduling reports.
+Reports also provides you four options ((Once, Weekly, Monthly and Yearly) for scheduling reports.
 
 Start date is taken today’s date with an option to change as needed. You also have an option to specify the time when you want reports to be executed.
 
-My Reports will email you the status of report execution to Email ID specified.
+Reports will email you the status of report execution to Email ID specified.
 
 image:image14.jpeg[image,width=350,height=195]
 

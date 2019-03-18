@@ -84,8 +84,7 @@ The calculator leverages the aggr-efficiency.xml section in AutoSupport for ONTA
 
 For the volume level ratio calculations, we use the df –s section of AutoSupport. Volume level calculations are arrived at using the following formula:
 
-Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]#
-                                          df-s (used)
+Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]# / df-s (used)
 
 NOTE: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
 

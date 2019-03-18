@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_configuration_report.html
-keywords: my report, configuration report
+keywords: reports, configuration report
 summary: Provides information about creating a report.
 ---
 

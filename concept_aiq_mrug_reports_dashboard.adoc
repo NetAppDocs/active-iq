@@ -5,7 +5,7 @@ keywords: my report, report dashboard
 summary: Provides information about the dashboard.
 ---
 
-= My Reports Dashboard
+= Reports Dashboard
 :hardbreaks:
 :nofooter:
 :icons: font

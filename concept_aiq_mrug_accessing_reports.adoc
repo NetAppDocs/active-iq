@@ -1,17 +1,17 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_accessing_reports.html
-keywords: my report, accessing report
+keywords: reports, accessing report
 summary: Provides information about accessing my reports.
 ---
 
-= Accessing My Reports
+= Accessing Reports
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-My Reports can be accessed from Active IQ launch page by clicking the *My Reports* link in top menu.
+Reports can be accessed from Active IQ launch page by clicking the *Reports* link in top menu.
 
-image:image2.png[image,width=621,height=83]
+image:access_reports.png[image,width=621,height=83]

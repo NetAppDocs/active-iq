@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_custom_group.html
-keywords: my report, custom group
+keywords: reports, custom group
 summary: Provides information about custom groups.
 ---
 
@@ -16,7 +16,7 @@ Custom group is an alternate option for providing list of serial numbers as repo
 
 image:image9.jpeg[image,width=397,height=201]
 
-NOTE: Currently, there is no direct way to create a custom group from the *My Reports* tab. To create a custom group for a report, click the *My Reports* tab on the top menu of Active IQ. Once you have created a Custom Group, you can then use it from the *My Reports* tab for generating a report. This is the only way to have newly created Custom Groups appear in the list of available groups available for reports.
+NOTE: Currently, there is no direct way to create a custom group from the *Reports* tab. To create a custom group for a report, click the *Reports* tab on the top menu of Active IQ. Once you have created a Custom Group, you can then use it from the *Reports* tab for generating a report. This is the only way to have newly created Custom Groups appear in the list of available groups available for reports.
 
 image:image10.png[image,width=525,height=89]
 
