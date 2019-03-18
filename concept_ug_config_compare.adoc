@@ -22,14 +22,14 @@ Seeing comparisons and drifts involve three steps:
 
 New in the recent release is the ability to select a popular template based on Active IQ Community Wisdom from the entire installed base.
 
-image:image11.png[image,200,150]
+image:image11.png[image]
 
 [start=2]
 . Setting up a subscription
 
-image:image12.png[image,width=325,height=175]
+image:image12.png[image]
 
 [start=3]
 . Seeing comparisons and drifts
 
-image:image13.png[image,width=482,height=437]
+image:image13.png[image]
