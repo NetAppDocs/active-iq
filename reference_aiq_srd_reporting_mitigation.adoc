@@ -169,7 +169,7 @@ Follow the steps below to acknowledge a risk:
 
 === How can I get a regular update on my system risks?
 
-The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the *Schedule a Risk Report* from the *Health Summary* tab or navigate to the *My Reports* tab on the top menu of Active IQ to schedule a regular risk report.
+The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the *Schedule a Risk Report* from the *Health Summary* tab or navigate to the *Reports* tab on the top menu of Active IQ to schedule a regular risk report.
 
 You can schedule a report by risk impact at a frequency and format (PDF, PPT and XLS) of your choice. This allows you to see risks easily without having to visit the Active IQ portal.
 

@@ -18,7 +18,7 @@ Interop Advisor enables you to check the compatibility of hosts by using data co
 
 image:image44.png[image,width=623,height=231]
 
-[arabic, start=3]
+[start=2]
 . The file is loaded, and the storage controller is shown along with connected hosts and switches. Click *NEXT*.
 
 image:image45.png[image,width=592,height=321]
