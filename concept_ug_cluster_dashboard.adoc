@@ -64,9 +64,9 @@ The left navigation of the cluster dashboard enables the user to view the detail
 [cols=",,",options="header",]
 |============================================================================================================================
 |*Icon* |*Functionality* |*Description*
-| |Performance |This tab enables you to view detailed performance charts of the ONTAP cluster
-| |Upgrade Advisor |Enables you to generate an upgrade plan for the cluster
-| |AutoSupport |This tab enables you to view all AutoSupports from all the nodes coming from the cluster
-| |Health |This tab enables you to view details of the risks, end of support hardware, and best practice gaps of the cluster.
-| |Storage Efficiency |This tab enables you to view the storage efficiency details of the individual nodes within the cluster.
+| image:performace_icon.png[performance icon] |Performance |This tab enables you to view detailed performance charts of the ONTAP cluster
+| image:upgrade_advisor_icon.png[upgrade advisor icon] |Upgrade Advisor |Enables you to generate an upgrade plan for the cluster
+| image:AutoSupport_icon.png[AutoSupport icon] |AutoSupport |This tab enables you to view all AutoSupports from all the nodes coming from the cluster
+| image:health_icon.png[health icon] |Health |This tab enables you to view details of the risks, end of support hardware, and best practice gaps of the cluster.
+| image:storage_efficiency_icon.png[storage efficiency icon] |Storage Efficiency |This tab enables you to view the storage efficiency details of the individual nodes within the cluster.
 |============================================================================================================================
