@@ -41,7 +41,7 @@ To know more about NetApp Storage Guarantee program, refer https://www.netapp.co
 
 This is how we calculate different ratios. You can follow these steps to calculate the ratios manually
 
-1. Aggregate-level ratios
+. Aggregate-level ratios
 
 *Aggregate Overall Ratio*
 
@@ -57,7 +57,8 @@ image:image3.jpeg[image,width=489,height=270]
 The formula to calculate aggregate-level data reduction ratio is as follows:
 image:image4.jpeg[image,width=530,height=31]
 
-2. Node-level and Cluster-level ratios
+[start=2]
+. Node-level and Cluster-level ratios
 
 *Node/Cluster Overall Ratio*
 

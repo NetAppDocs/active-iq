@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_reports_dashboard.html
-keywords: my report, report dashboard
+keywords: reports, report dashboard
 summary: Provides information about the dashboard.
 ---
 
@@ -12,10 +12,10 @@ summary: Provides information about the dashboard.
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-The *My Reports Dashboard* page is the landing page for My Reports. This page gives you information on report execution status, notifications affecting My Reports features, and details of all reports generated.
+The *Reports Dashboard* page is the landing page for reports. This page gives you information on report execution status, notifications affecting the reports features, and details of all reports generated.
 
 You can download completed reports by clicking the download link in *Reports* section. *Generated Reports* tab under *Reports* section contains report output for one-time report generation. All scheduled reports output will be in *Scheduled Reports* tab. Search option based on report name to get report execution status is also available for users in *Reports* section.
 
-*My Reports Dashboard* also features a left navigation panel for you to create and schedule reports.
+*Reports Dashboard* also features a left navigation panel for you to create and schedule reports.
 
 image:image3.png[image,width=543,height=236]

@@ -18,22 +18,22 @@ Interop Advisor enables you to check the compatibility of hosts by using data co
 
 image:image44.png[image,width=623,height=231]
 
-[start=2]
+[arabic, start=3]
 . The file is loaded, and the storage controller is shown along with connected hosts and switches. Click *NEXT*.
 
 image:image45.png[image,width=592,height=321]
 
-[arabic, start=3]
+[start=3]
 . Select the target ONTAP version. Click *NEXT*.
 
 image:image46.png[image,width=600,height=252]
 
-[arabic, start=4]
+[start=4]
 . Enter report name and email address.
 
 image:image47.png[image,width=444,height=146]
 
-[arabic, start=5]
+[start=5]
 . An Excel file is emailed with Current and ONTAP Upgrade Compatibility information.
 
 image:image48.png[image,width=593,height=150]

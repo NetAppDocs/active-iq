@@ -16,7 +16,7 @@ You will have an option to select fields that should be present in report output
 
 For System Configuration, System Risk and Storage Efficiency report, the customization is possible at field/attribute level where as for NetApp Value report, being a multi-tab report, you can select/deselect tabs you would like to view in report output.
 
-image:image6.jpeg[image,width=572,height=310]
+image:reports_config.png[image,width=572,height=310]
 
 You have option to select a customer, site, SAP group or use an already created custom group for report generation. Custom group can be created/modified by every user and can contain serial numbers spanning multiple customers or sites, if needed. Please see the see Custom Group section later in this document to see details of the process.
 

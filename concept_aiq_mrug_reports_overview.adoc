@@ -12,7 +12,7 @@ summary: Provides an overview of reports user guide.
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-The My Reports feature in Active IQ portal gives you access to all reports in the application. Use this tab to generate and schedule following reports:
+The Reports feature in Active IQ portal gives you access to all reports in the application. Use this tab to generate and schedule following reports:
 
 * System Configuration
 * System Risk
