@@ -27,7 +27,7 @@ image:select_template.png[Select Template Source]
 [start=2]
 . Setting up a subscription
 
-image:template_source.png[Setting up subscription]
+image:setting_subscription.png[Setting up subscription]
 
 [start=3]
 . Seeing comparisons and drifts
