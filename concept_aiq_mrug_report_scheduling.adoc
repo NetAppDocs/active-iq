@@ -18,14 +18,12 @@ Start date is taken today’s date with an option to change as needed. You also 
 
 Reports will email you the status of report execution to Email ID specified.
 
-image:image14.jpeg[image,width=350,height=195]
-
-image:image15.png[image,width=420,height=334]
+image:scheduling_reports.png[image,width=350,height=195]
 
 System will provide a message to you indicating the status of report scheduling (success/failure).
 
-image:image16.png[image,width=558,height=109]
+image:watchlist_generate_report_success.png[image,width=558,height=109]
 
 Once report is successfully scheduled, you can check report dashboard page for status of report execution. You can download completed reports using download link against each report output.
 
-image:image17.jpeg[image,width=620,height=191]
+image:watchlist_generated_reports_dashboard.png[image,width=620,height=191]

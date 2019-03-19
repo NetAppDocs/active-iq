@@ -18,4 +18,4 @@ You can download completed reports by clicking the download link in *Reports* se
 
 *Reports Dashboard* also features a left navigation panel for you to create and schedule reports.
 
-image:image3.png[image,width=543,height=236]
+image:report_dashboard.png[report dashboard]

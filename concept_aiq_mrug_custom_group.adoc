@@ -1,42 +1,41 @@
 ---
 sidebar: sidebar
 permalink: concept_aiq_mrug_custom_group.html
-keywords: reports, custom group
-summary: Provides information about custom groups.
+keywords: reports, custom group, watchlist
+summary: Provides information about watchlists.
 ---
 
-= Custom Group
+= Watchlist
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-Custom group is an alternate option for providing list of serial numbers as report generation criteria (helpful when you have to generate reports with serial number from multiple sites or customers).
+Watchlist is an alternate option for providing list of serial numbers as report generation criteria (helpful when you have to generate reports with serial number from multiple sites or customers).
 
-image:image9.jpeg[image,width=397,height=201]
+image:create_watchlist.png[image,width=397,height=201]
 
-NOTE: Currently, there is no direct way to create a custom group from the *Reports* tab. To create a custom group for a report, click the *Reports* tab on the top menu of Active IQ. Once you have created a Custom Group, you can then use it from the *Reports* tab for generating a report. This is the only way to have newly created Custom Groups appear in the list of available groups available for reports.
+NOTE: Currently, there is no direct way to create a watchlist from the *Reports* tab. To create a watchlist for a report, click the *Reports* tab on the top menu of Active IQ. Once you have created a Watchlist, you can then use it from the *Reports* tab for generating a report. This is the only way to have newly created Watchlists appear in the list of available groups available for reports.
 
-image:image10.png[image,width=525,height=89]
+image:watchlist_icon.png[image,width=525,height=89]
 
-
-While creating a custom group, you have two options:
+While creating a watchlist, you have two options:
 
 .Steps
-. Search for a customer or site name and include the serial numbers for that customer/site for creating the custom group
-. Include a list of serial numbers in the *Serial Numbers* text box to create a custom group with that list of serial numbers.
+. Search for a customer or site name and include the serial numbers for that customer/site for creating the watchlist
+. Include a list of serial numbers in the *Serial Numbers* text box to create a watchlist with that list of serial numbers.
 
 Once you select one of the above options, the serial numbers are validated against the installed base, and you get a success or error depending on whether there is a match against specified serial numbers.
 
 Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to.
 
-image:image11.png[image,width=513,height=119]
+image:watchlist_generate_report.png[image,width=513,height=119]
 
 System will display a message indicating the status of report submission (success/failure).
 
-image:image12.png[image,width=221,height=52]
+image:watchlist_generate_report_success.png[image,width=221,height=52]
 
 Once Report is submitted, you can check report dashboard page for status of report execution.
 
-image:image13.png[image,width=618,height=269]
+image:watchlist_generated_reports_dashboard.png[image,width=618,height=269]
