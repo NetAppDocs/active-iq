@@ -17,7 +17,7 @@ NetApp Active IQ is a cloud based service that provides predictive analytics and
 
 * link:concept_aiq_ug_getting_started.html[Get started with Active IQ]
 
-== Watch Active IQ videos:
+== Watch Active IQ videos
 
 https://www.youtube.com/playlist?list=PLdXI3bZJEw7lFU-L4EFC5Mt91HybXKOnO[Active IQ videos^]
 

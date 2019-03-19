@@ -49,9 +49,6 @@ Overall ratio at aggregate-level are directly obtained from ONTAP using ZAPI. Th
 
 For systems that do not have access to AutoSupport, ‘aggregate show-efficiency …’ CLI commands can be used.
 
-image:image2.jpeg[image,width=528,height=239]
-image:image3.png[image,width=489,height=270]
-
 *Aggregate Data Reduction Ratio*
 
 The formula to calculate aggregate-level data reduction ratio is as follows:
