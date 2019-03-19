@@ -16,7 +16,7 @@ summary: Provides information that helps you get started with Active IQ.
 
 Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using the dropdown from the top right.
 
-For NetApp internal users, search is the default view upon login, but frequently accessed views can be saved as Favorites and Custom Groups.
+For NetApp internal users, search is the default view upon login, but frequently accessed views can be saved as favorites and watchlists.
 
 === Top Banner
 
