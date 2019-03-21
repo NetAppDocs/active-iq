@@ -14,4 +14,4 @@ summary: Provides an overview of the manual AutoSupport upload feature
 
 This functionality enables you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages. Manual AutoSupport upload functionality gives you the same benefits as traditional AutoSupport enablement, including improved storage system visibility and access to detailed reports about risks, storage efficiency, and upgrade planning. To submit a manual AutoSupport upload of messages, click the *AutoSupport Upload* button in the top banner, select the files, and then click *Upload*. Refer to frequently asked questions within the widget for answers to questions about browser support, how to collect AutoSupport messages from storage systems for upload, the supported formats, and more.
 
-image:image10.png[image,width=195,height=400]
+image:left_drop_down_menu.png[image,width=195,height=400]

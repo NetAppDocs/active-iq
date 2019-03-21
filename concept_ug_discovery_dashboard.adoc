@@ -16,4 +16,4 @@ The *Active IQ Discovery Dashboard* serves as an efficient method for watching s
 
 Discovery dashboard could be accessed from top menu of Active IQ home page and is only available to Partners and NetApp internal users. More details about the *Discovery Dashboard* can be found in a separate user guide from the dashboard page to authorized users.
 
-image:image66.png[image,width=205,height=284]
+image:left_drop_down_menu.png[image,width=205,height=284]

@@ -22,7 +22,7 @@ For NetApp internal users, search is the default view upon login, but frequently
 
 The top banner of the application provides access to different capabilities in a click.
 
-image:image2.png[image,width=624,height=211]
+image:top_banner.png[image,width=624,height=211]
 
 It also provides the different options that are available to the user.
 
@@ -63,7 +63,7 @@ NOTE: Features available at the single-system level differ from features availab
 
 The left navigation of Active IQ provides details of information available from the dashboard. The navigation can be minimized to maximize viewing of information during regular use.
 
-image:image7.png[left navigation]
+image:left_navigation.png[left navigation]
 
 === Feedback +
 Guided Problem Solving and Chat

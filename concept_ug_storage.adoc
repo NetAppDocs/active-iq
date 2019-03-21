@@ -17,7 +17,7 @@ Storage dashboard shows the storage efficiency ratio, capacity and savings for e
 
 Total savings across customer storage can be seen per efficiency feature such as snapshots, clones, deduplication, compression and compaction.
 
-image:image23.png[image,width=623,height=393]
+image:storage_ratio.png[image,width=623,height=393]
 
 The following are the new features that provide you a simple way to view efficiency ratios for All Flash FAS (AFF) systems. Ratios consider the following efficiency features included in ONTAP:
 

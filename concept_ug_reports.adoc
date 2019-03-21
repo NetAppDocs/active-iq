@@ -27,7 +27,7 @@ https://mysupport.netapp.com/myautosupport/docs/en/myreportsuserguide.pdf
 
 Reports can be accessed from the top menu of Active IQ.
 
-image:image65.png[image,width=202,height=280]
+image:left_drop_down_menu.png[image,width=202,height=280]
 
 You can also reach Reports directly by clicking the following link:
 
