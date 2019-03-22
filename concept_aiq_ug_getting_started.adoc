@@ -46,7 +46,7 @@ For NetApp internal users, Search is the default home page.
 
 image:image5.png[image,width=586,height=227]
 
-You can now search for various categories including OneCollect and Config Advisor by clicking the *Advanced Search results*.
+You can now search for various categories including NetApp Active IQ OneCollect and NetApp Active IQ Config Advisor by clicking the *Advanced Search results*.
 
 image:image6.png[image,width=533,height=216]
 
