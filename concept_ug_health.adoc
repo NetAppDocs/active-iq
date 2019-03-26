@@ -27,7 +27,7 @@ Using the risk’s impact level and the risk to case confidence value to compute
 
 image:image38.png[image,width=624,height=206]
 
-==== Security Vulnerability
+=== Security Vulnerability
 
 The *Security Vulnerability* tab identifies systems with security risks. This tab contains information about the specific risk, the potential negative impact and link to the CVE bulletin.
 
@@ -39,7 +39,7 @@ image:image39.png[image,width=624,height=231]
 
 *TIP*: If you would like to receive system risk report on a regular basis, click  *Schedule a Risk Report*.
 
-==== Best Practices
+=== Best Practices
 
 Best practices are available from the Health Summary tab in the left navigation pane and the Fitness quadrant of the Fitness Dashboard. Gaps in best practices are highlighted, and corrective actions are listed for mitigation. Best practices are available at both the system and aggregate levels (customer, site, and group), helping you to standardize your storage environment and enhance its operational efficiency.
 
@@ -47,13 +47,13 @@ image:image40.png[image,width=624,height=230]
 
 *TIP*: Review Best Practices for checking whether you have implemented Storage Efficiency Best Practices according to NetApp recommendations.
 
-==== Health Trending
+=== Health Trending
 
 It is extremely important to mitigate risks in a timely manner to prevent critical issues. The Health Trending feature provides up to a 3-month view of System Risks, Best Practices, and End of Support so that as you mitigate these conditions, you can track the progress with weekly reports. These reports show you a summary of trends and enable you to drill down and analyze individual risks. Trending is available at both single system and customer level. You can download these reports in a PDF format.
 
 image:image41.png[image,width=624,height=249]
 
-==== System Risk Acknowledgement
+=== System Risk Acknowledgement
 
 Use the System Risk Acknowledgement feature to gain the greatest flexibility in managing how risks detected across your systems are displayed on your dashboard. This feature enables you to customize your risk dashboard so that it displays only the risks you deem to be most critical to your environment.
 
@@ -65,15 +65,15 @@ NOTE: If you are a NetApp Internal user acknowledging on behalf of a customer wi
 
 image:image42.png[image,width=450,height=200]
 
-==== Risk Advisor
+=== Risk Advisor
 
 By using Risk Advisor, users can see how many risks can be mitigated just by doing an ONTAP upgrade. Only systems that can be upgraded to ONTAP 9.x will be shown.
 
-==== Community Wisdom
+=== Community Wisdom
 
 Based on other systems with the same risk that upgraded, Community Wisdom gives the likelihood of the risk being mitigated by upgrading ONTAP along with a level of confidence. This is presented in the last two columns as “Risk present after upgrade” and “% of Risk resolved after ONTAP upgrade” column.
 
-==== Benefits
+=== Benefits
 
 * Better system availability by lowering risk profile
 * Reduces planning time for upgrades – you know which systems will benefit from upgrade from a single report

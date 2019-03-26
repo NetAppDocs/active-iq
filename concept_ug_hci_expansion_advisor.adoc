@@ -20,7 +20,7 @@ When you’re ready to add compute or storage nodes, you can click *Request Expa
 
 image:image64.png[image,width=444,height=197]
 
-==== Aggregated View of Multiple Customers (Partners Only)
+=== Aggregated View of Multiple Customers (Partners Only)
 
 Available from the *My Systems* link on the top banner of the application, this aggregated view provides partners (only) with a way to see all of their customers’ information from a single screen. The view displays a list of partners’ customers, provides a count of the systems for each customer, and shows which sites these customers have.
 

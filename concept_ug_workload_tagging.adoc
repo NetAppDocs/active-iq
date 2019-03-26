@@ -34,13 +34,13 @@ Workload Tagging UI is built with rich features including advanced filters. Work
 
 image:image32.png[image,width=624,height=278]
 
-==== Workload and Application Efficiency and Capacity
+=== Workload and Application Efficiency and Capacity
 
 Once the volumes are tagged, Active IQ provides Total Capacity and Efficiency for each workload and application. It also provides volumes level efficiency and capacity. You can filter the workloads in efficiency dashboard based on tag type.
 
 All the efficiency ratios provided are excluding Snapshots and clones.
 
-==== Comparison with Peer Ratio powered by Community Wisdom
+=== Comparison with Peer Ratio powered by Community Wisdom
 
 Calculated Workload Efficiency Ratio is compared with Peer / Guaranteed Ratio of each workload defined. Peer Ratio is calculated based on average efficiency ratio of the workloads identified using Active IQ community wisdom. Peer Ratio is defined based for each ONTAP version and compared with the respective ONTAP version running on the cluster.
 

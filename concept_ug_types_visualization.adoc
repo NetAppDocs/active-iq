@@ -14,13 +14,13 @@ summary: Provides an overview of the types of visualization.
 
 image:image51.png[image,width=165,height=153]
 
-==== Sample Cable Visualization
+=== Sample Cable Visualization
 
 You can view the cable visualization to see details of how the cluster is cabled. You can zoom in or out; there are also options to select parts of the visualization. Additionally, you can export the visualization in SVG, which can then be edited in Visio.
 
 image:image52.png[image,width=623,height=188]
 
-==== AutoSupport Alerts
+=== AutoSupport Alerts
 
 AutoSupport alerts, available from the left navigation pane, are notifications sent to you about issues that may affect the health, availability, or uptime of your storage systems. AutoSupport detects known issues and sends you a notification about them so that you can take mitigation measures. These alerts are available in addition to the e-mail notifications sent out to you. You can also see a history of these alerts for the last 90 days.
 
@@ -30,7 +30,7 @@ The AutoSupport Alerts interface includes AutoSupport header details complete wi
 
 image:image53.png[image,width=623,height=124]
 
-==== AutoSupport Alert Subscriptions
+=== AutoSupport Alert Subscriptions
 
 On the AutoSupport Alert Subscriptions tab of the AutoSupport Alerts page, enter the email addresses of all the interested parties, and then select the types of AutoSupport alerts for them to receive. In addition to single-system and aggregate-level alerts, subscriptions can also be expanded to site-wide or customer-wide alerts by checking the corresponding “Apply same subscriptions to” box.
 
@@ -38,7 +38,7 @@ For more information about AutoSupport alerts, refer to this Knowledge Base arti
 
 image:image54.png[image,width=552,height=162]
 
-==== Notifications
+=== Notifications
 
 From the Notifications tab, you can select the AutoSupport notifications that you want to receive.
 
@@ -48,7 +48,7 @@ From the Notifications tab, you can select the AutoSupport notifications that yo
 
 *Best practice*: Use a group distribution list or group e-mail address so that, if individuals are away, others can still receive critical AutoSupport notifications by e-mail.
 
-==== Upgrade Advisor
+=== Upgrade Advisor
 
 Upgrade Advisor offers a quick, automated, and accurate way to generate a Data ONTAP upgrade plan. From the System or Customer Dashboard, click the image:image55.png[image,width=27,height=27] icon to open a screen to what is shown in the figure below. By default, if you are clicking this from a system level, all nodes of the cluster or the HA-Pair (for 7-Mode systems) are auto populated.
 
