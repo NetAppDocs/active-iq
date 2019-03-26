@@ -24,7 +24,7 @@ The Customer Dashboard is the central portal in Active IQ from which you can vie
 +
 image:image14.png[image,width=800,height=500]
 
-==== Capacity Forecasting for ONTAP systems
+=== Capacity Forecasting for ONTAP systems
 
 This widget on the customer dashboard gives you a 1, 3, and 6 months’ view of systems that may have already breached the preset 90% capacity threshold or are about to breach it within these time-periods.
 
@@ -44,7 +44,7 @@ image:image17.png[image,width=440,height=138]
 
 Total capacity displayed is the sum of all the aggregate’s total capacity and used capacity is the sum of all the aggregate’s physical used space.
 
-==== Support Contract Renewals Widget
+=== Support Contract Renewals Widget
 
 This widget on customer dashboard gives you the list of support contracts expiring. User can request renewals of support contract by clicking the mail icon.
 
@@ -55,7 +55,7 @@ It displays:
 
 image:support_contract_renewal.png[support contract renewal]
 
-==== End of Support (EOS) Hardware (ONTAP) Widget
+=== End of Support (EOS) Hardware (ONTAP) Widget
 
 End of Support Widget shows the list of systems that are reaching the end of support. User can request upgrade of systems by selecting systems and clicking on mail icon. Select the download arrow on the upper right corner to download a detail list of end of support systems including shelves and drives.
 
@@ -68,7 +68,7 @@ It displays:
 
 image:eos_hardware.png[eos hardware]
 
-==== Performance Widget
+=== Performance Widget
 
 Performance Widget in customer dashboard displays:
 
@@ -79,7 +79,7 @@ Performance Widget in customer dashboard displays:
 
 image:performance_dashboard.png[performance dashboard]
 
-==== Cases Widget
+=== Cases Widget
 
 The new cases widget displays the following:
 
@@ -87,7 +87,7 @@ The new cases widget displays the following:
 * Summary of recent cases
 * Download of recent cases using the download icon (image:download.png[image,width=21,height=18])
 
-==== Upgrade Recommendations Widget
+=== Upgrade Recommendations Widget
 
 This widget provides consolidated recommendations for:
 
@@ -96,7 +96,7 @@ This widget provides consolidated recommendations for:
 * Shelf firmware upgrades
 * System firmware upgrades
 
-==== System Dashboard Widget Preferences
+=== System Dashboard Widget Preferences
 
 Widgets on the customer dashboard can be customized using settings from the right. The following figure shows a sample screenshot of Settings. Users can uncheck widgets, and then click *Save* to save their preferences.
 

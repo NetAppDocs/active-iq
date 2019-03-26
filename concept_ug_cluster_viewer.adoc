@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, cluster viewer
 summary: Provides an overview of the cluster viewer feature.
 ---
 
-= Cluster Viewer (ONTAP Only)
+= Cluster Viewer 
 :hardbreaks:
 :nofooter:
 :icons: font

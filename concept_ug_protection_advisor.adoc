@@ -16,7 +16,7 @@ Protection Advisor shows the number of SnapMirror protected and unprotected volu
 
 image:image26.png[image,width=325,height=200]
 
-==== Performance Guarantee Best Practice Gaps
+=== Performance Guarantee Best Practice Gaps
 
 Performance Guarantee Promotion offers Latency guarantee with select AFF A-series systems. NetApp guarantees 99% of the latency measured hourly over 100-hour period is below 1ms/500μs with select AFF A-series systems.
 
