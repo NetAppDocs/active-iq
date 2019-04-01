@@ -82,7 +82,7 @@ entries:
         url: /concept_aiq_mrug_report_scheduling.html
   - title: FAQs
     entries:
-      - title: Active IQ health summary
+      - title: Health summary
         url: /reference_aiq_srd_health_summary.html
       - title: Reporting and mitigation
         url: /reference_aiq_srd_reporting_mitigation.html

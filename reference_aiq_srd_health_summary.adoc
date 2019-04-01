@@ -5,7 +5,7 @@ keywords: system risk, health summary
 summary: Provides information about the health summary.
 ---
 
-= Active IQ health summary
+= Health summary
 :hardbreaks:
 :nofooter:
 :icons: font
