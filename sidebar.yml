@@ -26,6 +26,10 @@ entries:
             url: /concept_ug_flash_advisor.html
           - title: Protection Advisor
             url: /concept_ug_protection_advisor.html
+          - title: FabricPool
+            url: /concept_ug_fabricpool.html
+          - title: Performance Guarantee Best Practice Gaps
+            url: /concept_ug_performance_guarantee_bpg.html
       - title: System Dashboard
         url: /concept_ug_system_dashboard.html
       - title: Storage Efficiency Peer Comparison
@@ -44,6 +48,10 @@ entries:
         url: /concept_ug_cluster_viewer.html
       - title: Types of visualizations
         url: /concept_ug_types_visualization.html
+      - title: AutoSupport Alerts
+        url: /concept_ug_autosupport_alert.html
+      - title: Upgrade Advisor
+        url: /concept_ug_upgrade_advisor.html
       - title: Cluster Dashboard
         url: /concept_ug_cluster_dashboard.html
       - title: Cases
@@ -78,7 +86,7 @@ entries:
         url: /reference_aiq_srd_health_summary.html
       - title: Reporting and mitigation
         url: /reference_aiq_srd_reporting_mitigation.html
-      - title: AFF Storage Efficiency 
+      - title: AFF Storage Efficiency
         url: /reference_aiq_AFF_SE_FAQs.html
   - title: Legal notices
     url: /reference_legalnotices.html

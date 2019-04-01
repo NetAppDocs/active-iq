@@ -39,6 +39,10 @@ image:image39.png[image,width=624,height=231]
 
 *TIP*: If you would like to receive system risk report on a regular basis, click  *Schedule a Risk Report*.
 
+=== Proactive Remediation
+
+The *Proactive Remediation* tab lists notification of systemic quality risks that are of high impact and may impair system performance, availability, and resiliency.  Each risk entry contains information about the specific risk, systems impacted, and link to remediation recommendations.  Risk notifications will be moved to the *Acknowledge System Health* tab post acknowledgement. Addressing these risks proactively at the onset can improve your NetApp storage availability.  Systemic quality risks that are of high impact and have a high rate of occurrence resulting in potential system (node or cluster) outage or data corruption needs to be addressed immediately.
+
 === Best Practices
 
 Best practices are available from the Health Summary tab in the left navigation pane and the Fitness quadrant of the Fitness Dashboard. Gaps in best practices are highlighted, and corrective actions are listed for mitigation. Best practices are available at both the system and aggregate levels (customer, site, and group), helping you to standardize your storage environment and enhance its operational efficiency.
