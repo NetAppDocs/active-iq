@@ -25,7 +25,7 @@ Case Probability analyzes risk data and technical support case data from the las
 
 Using the risk’s impact level and the risk to case confidence value to compute a “Case Probability” score. This score is used to rank the risks present on a system for which risk should be mitigated first.
 
-image:image38.png[image,width=624,height=206]
+image:health_overview.png[image,width=624,height=206]
 
 === Security Vulnerability
 
@@ -35,27 +35,21 @@ Impact Level Definitions for Security Risks
 
 The Impact level for Security Risks is based on the Common Vulnerability Scoring System (CVSS) and noted in the Impact section of the CVE bulletin. The CVSS provides an open framework for communicating the characteristics and impacts of IT vulnerabilities. Its quantitative model ensures repeatable accurate measurement while enabling users to see the underlying vulnerability characteristics that were used to generate the scores. Thus, CVSS is well suited as a standard measurement system for industries, organizations, and governments that need accurate and consistent vulnerability impact scores. For more information, please visit https://nvd.nist.gov/vuln-metrics/cvss
 
-image:image39.png[image,width=624,height=231]
-
 *TIP*: If you would like to receive system risk report on a regular basis, click  *Schedule a Risk Report*.
 
 === Proactive Remediation
 
-The *Proactive Remediation* tab lists notification of systemic quality risks that are of high impact and may impair system performance, availability, and resiliency.  Each risk entry contains information about the specific risk, systems impacted, and link to remediation recommendations.  Risk notifications will be moved to the *Acknowledge System Health* tab post acknowledgement. Addressing these risks proactively at the onset can improve your NetApp storage availability.  Systemic quality risks that are of high impact and have a high rate of occurrence resulting in potential system (node or cluster) outage or data corruption needs to be addressed immediately.
+The *Proactive Remediation* tab lists notification of systemic quality risks that are of high impact and may impair system performance, availability, and resiliency. Each risk entry contains information about the specific risk, systems impacted, and link to remediation recommendations. Risk notifications will be moved to the *Acknowledge System Health* tab post acknowledgement. Addressing these risks proactively at the onset can improve your storage availability. Systemic quality risks that are of high impact and have a high rate of occurrence resulting in potential node or cluster outage or data corruption must be addressed immediately.
 
 === Best Practices
 
 Best practices are available from the Health Summary tab in the left navigation pane and the Fitness quadrant of the Fitness Dashboard. Gaps in best practices are highlighted, and corrective actions are listed for mitigation. Best practices are available at both the system and aggregate levels (customer, site, and group), helping you to standardize your storage environment and enhance its operational efficiency.
-
-image:image40.png[image,width=624,height=230]
 
 *TIP*: Review Best Practices for checking whether you have implemented Storage Efficiency Best Practices according to NetApp recommendations.
 
 === Health Trending
 
 It is extremely important to mitigate risks in a timely manner to prevent critical issues. The Health Trending feature provides up to a 3-month view of System Risks, Best Practices, and End of Support so that as you mitigate these conditions, you can track the progress with weekly reports. These reports show you a summary of trends and enable you to drill down and analyze individual risks. Trending is available at both single system and customer level. You can download these reports in a PDF format.
-
-image:image41.png[image,width=624,height=249]
 
 === System Risk Acknowledgement
 

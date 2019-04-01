@@ -22,9 +22,8 @@ image:image57.png[image,width=623,height=244]
 
 Upgrade Advisor now detects SnapMirror relationships between clusters and notifies users of compatibility issues when users are planning to perform ONTAP upgrades.
 
-NOTE: Upgrade Advisor only support checks for snap relationships between two clusters. Cascaded relationships and relationships among 3 or more clusters are not supported yet.
+NOTE: Upgrade Advisor only supports checks for snap relationships between two clusters. Cascaded relationships and relationships among 3 or more clusters are not supported.
 
 Upgrade Advisor checks for both DP and XDP relationships and warns users when it detects compatibility issues. Generally, source and destination volumes must be running compatible ONTAP versions after the upgrade is completed.
 
-See ONTAP documentation for more details about the basis of compatibility checks in Upgrade Advisor.
-Compatible ONTAP Versions for SnapMirror relationships  - https://docs.netapp.com/ontap-9/topic/com.netapp.doc.pow-dap/GUID-0810D764-4CEA-4683-8280-032433B1886B.html[Compatible ONTAP Versions for SnapMirror relationships]
+See the https://docs.netapp.com/ontap-9/topic/com.netapp.doc.pow-dap/GUID-0810D764-4CEA-4683-8280-032433B1886B.html[Compatible ONTAP Versions for SnapMirror relationships] topic in the ONTAP documentation center for more details about the basis of compatibility checks in Upgrade Advisor.
