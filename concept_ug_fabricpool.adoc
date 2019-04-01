@@ -5,14 +5,14 @@ keywords: Active IQ, user guide, fabricpool
 summary: Provides an overview of the FabricPool feature.
 ---
 
-= FabricPool
+= FabricPool Advisor
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-FabricPool advisory has the following 3 tabs:
+FabricPool advisor has the following 3 tabs:
 
 •	Inactive Data – This tab displays the top 5 clusters with inactive data. To view all clusters with inactive data, you must download the FabricPool data.
 •	Tiered Data Summary – This tab summarizes inactive data that has been tiered to one of the hyperscalers or a private cloud such as StorageGRID Webscale.

@@ -26,7 +26,7 @@ entries:
             url: /concept_ug_flash_advisor.html
           - title: Protection Advisor
             url: /concept_ug_protection_advisor.html
-          - title: FabricPool
+          - title: FabricPool Advisor
             url: /concept_ug_fabricpool.html
           - title: Performance Guarantee Best Practice Gaps
             url: /concept_ug_performance_guarantee_bpg.html
