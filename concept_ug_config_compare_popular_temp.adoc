@@ -16,6 +16,7 @@ The new config compare feature enables you to detect configuration deviations in
 
 Config Compare has the following features:
 * Provides attribute description and NetApp recommended values
++
 * Config Compare Dashboard
 ** Automatically compares your system’s weekly AutoSupport data with popular configuration template.
 ** List the top 5 systems that have recent configuration changes.
