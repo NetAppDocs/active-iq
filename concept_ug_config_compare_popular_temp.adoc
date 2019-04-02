@@ -15,13 +15,14 @@ summary: Provides an overview of the config compare feature
 The new config compare feature enables you to detect configuration deviations in near real time. Config Compare allows you to compare the system or cluster configuration, on-demand with popular config template identified using community wisdom or by a system running AutoSupport.  It provides the recommended values for each ONTAP attribute.  Config Compare helps in proactively identifying the changes on the system.  More community wisdom-based templates and additional options are being added in future release.
 
 Config Compare has the following features:
+
 1. Provides attribute description and NetApp recommended values
 2. Config Compare Dashboard
-** Automatically compares your system’s weekly AutoSupport data with popular configuration template.
-** List the top 5 systems that have recent configuration changes.
+  * Automatically compares your system’s weekly AutoSupport data with popular configuration template.
+  * List the top 5 systems that have recent configuration changes.
 3. On-Demand Config Compare
-** Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
-**	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
+  * Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
+  *	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
 
 NOTE: Existing Golden Templates and the Subscriptions configured are no longer be supported. We will add these features to the future release with advanced options.
 
@@ -39,8 +40,9 @@ image:config_compare_dashboard.png[image,width=448,height=240]
 === On-Demand Config Compare with Popular Config Template:
 
 To compare systems or clusters with popular config template:
-1.	Under *Compare*, enter system hostname or serial number and select the system
-2.	Select a weekly AutoSupport date to compare from the *AutoSupport* drop down list
+
+1.	Under *Compare*, enter system hostname or serial number and select the system.
+2.	Select a weekly AutoSupport date to compare from the *AutoSupport* drop down list.
 3.	Select *Include Telemetry from all nodes in the cluster from same day when available* to compare all the nodes of a selected cluster.
 4.	Under *To*, from *Configuration* drop down, select “Popular Configuration” Template.
 5.	Click *Compare Now*.
@@ -55,6 +57,7 @@ image:on_demand_config_compare_popular_temp_result.png[image,width=448,height=24
 === On-Demand Config Compare with System AutoSupport:
 
 To compare systems or clusters with popular config template:
+
 1.	Under *Compare*, enter system hostname or serial number and select the system.
 2.	Select a weekly AutoSupport date to compare from the *AutoSupport* drop down list.
 3.	Select *Include Telemetry from all nodes in the cluster from same day when available* to compare all the nodes of a selected cluster.
