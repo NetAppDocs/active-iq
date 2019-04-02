@@ -17,11 +17,11 @@ The new config compare feature enables you to detect configuration deviations in
 Config Compare has the following features:
 * Provides attribute description and NetApp recommended values
 * Config Compare Dashboard
-  **	Automatically compares your system’s weekly AutoSupport data with popular configuration template.
-  ** List the top 5 systems that have recent configuration changes.
+** Automatically compares your system’s weekly AutoSupport data with popular configuration template.
+** List the top 5 systems that have recent configuration changes.
 * On-Demand Config Compare
-  **	Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
-  **	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
+** Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
+**	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
 
 NOTE: Existing Golden Templates and the Subscriptions configured are no longer be supported. We will add these features to the future release with advanced options.
 
