@@ -48,9 +48,10 @@ To compare systems or clusters with popular config template:
 5.	Click *Compare Now*.
 
 image:on_demand_config_compare_popular_temp.png[image,width=448,height=240]
-
-6.	View the deviation results and take appropriate actions to fix the issue or review with NetApp Technical Support Personnel.
-7.	The result will be lost when you navigate from deviation results page.  Please download the deviation report to keep the record for comparison.
+[start=6]
+.	View the deviation results and take appropriate actions to fix the issue or review with NetApp Technical Support Personnel.
+[start=7]
+.	The result will be lost when you navigate from deviation results page.  Please download the deviation report to keep the record for comparison.
 
 image:on_demand_config_compare_popular_temp_result.png[image,width=448,height=240]
 

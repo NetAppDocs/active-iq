@@ -113,7 +113,7 @@ Currently, efficiency ratios are only visible at a cluster level. Customer level
 
 Currently, efficiency ratios are based on the latest weekly or user-triggered AutoSupport. Efficiency trending may be considered for a future release.
 
-== How are aggregate-level, node-level and cluster-level ratios calculated? My customer’s systems are behind a secure DMZ/CMZ and cannot send AutoSupport to NetApp. How do I calculate the ratios for those systems?
+== How are customer-level ratios and efficiency savings calculated?
 
 Customer level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer install base for *systems running ONTAP 9.1 and later*. The required parameters, for the following calculations, are taken from ONTAP AutoSupport:
 
@@ -130,10 +130,10 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 === Efficiency feature table calculations:
 
 *	*Total Physical Space Used:*
-	*Customer Physical Space Used = Sum of Physical Space Used by the Aggregate* for all aggregates and of all nodes of a customer.
+**	*Customer Physical Space Used = Sum of Physical Space Used by the Aggregate* for all aggregates and of all nodes of a customer.
 *	*Total Logical Used:*
-	*Customer Logical Size Used without Snapshot copies = Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies* for all aggregates of all nodes of a customer
-	*Customer Logical Size Used with Snapshot copies = Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate* for all aggregates of all nodes of a customer
+**	*Customer Logical Size Used without Snapshot copies = Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies* for all aggregates of all nodes of a customer
+**	*Customer Logical Size Used with Snapshot copies = Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate* for all aggregates of all nodes of a customer
 *	*Total Space Saved = Total Logical Space Used – Total Physical Space Used*
 *	*Deduplication Savings*: Sum of *Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection* of each aggregate of all nodes of a customer.
 *	*Compression Savings*: Sum of *Space Saved by Volume Compression* of each aggregate of all nodes of a customer.
