@@ -15,12 +15,11 @@ summary: Provides an overview of the config compare feature
 The new config compare feature enables you to detect configuration deviations in near real time. Config Compare allows you to compare the system or cluster configuration, on-demand with popular config template identified using community wisdom or by a system running AutoSupport.  It provides the recommended values for each ONTAP attribute.  Config Compare helps in proactively identifying the changes on the system.  More community wisdom-based templates and additional options are being added in future release.
 
 Config Compare has the following features:
-* Provides attribute description and NetApp recommended values
-+
-* Config Compare Dashboard
+1. Provides attribute description and NetApp recommended values
+2. Config Compare Dashboard
 ** Automatically compares your system’s weekly AutoSupport data with popular configuration template.
 ** List the top 5 systems that have recent configuration changes.
-* On-Demand Config Compare
+3. On-Demand Config Compare
 ** Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
 **	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
 

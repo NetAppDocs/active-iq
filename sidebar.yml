@@ -44,7 +44,7 @@ entries:
         url: /concept_ug_interop_advisor.html
       - title: AutoSupport Viewer
         url: /concept_ug_autosupport_viewer.html
-      - title: Cluster Viewer (ONTAP Only)
+      - title: Cluster Viewer 
         url: /concept_ug_cluster_viewer.html
       - title: Types of visualizations
         url: /concept_ug_types_visualization.html
