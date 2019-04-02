@@ -17,11 +17,11 @@ The new config compare feature enables you to detect configuration deviations in
 Config Compare has the following features:
 * Provides attribute description and NetApp recommended values
 * Config Compare Dashboard
-  *	Automatically compares your system’s weekly AutoSupport data with popular configuration template.
-  * List the top 5 systems that have recent configuration changes.
+  **	Automatically compares your system’s weekly AutoSupport data with popular configuration template.
+  ** List the top 5 systems that have recent configuration changes.
 * On-Demand Config Compare
-  *	Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
-  *	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
+  **	Instantly compares the AutoSupport data of your system or systems of the entire cluster with popular config template identified through community wisdom.
+  **	Instantly compares the AutoSupport data of your system or systems of the entire cluster with this or another system’s weekly AutoSupport data.
 
 NOTE: Existing Golden Templates and the Subscriptions configured are no longer be supported. We will add these features to the future release with advanced options.
 
@@ -33,7 +33,7 @@ Config Compare Dashboard compares all systems that are running ONTAP 9.1 and lat
 
 It also displays the top 5 systems that have recent configuration changes.  You can view the deviations by clicking View Details
 
-image:config_compare_dashboard[image,width=448,height=240]
+image:config_compare_dashboard.png[image,width=448,height=240]
 
 == On-Demand Config Compare
 === On-Demand Config Compare with Popular Config Template:
@@ -45,12 +45,12 @@ To compare systems or clusters with popular config template:
 4.	Under *To*, from *Configuration* drop down, select “Popular Configuration” Template.
 5.	Click *Compare Now*.
 
-image:on_demand_config_compare_popular_temp[image,width=448,height=240]
+image:on_demand_config_compare_popular_temp.png[image,width=448,height=240]
 
 6.	View the deviation results and take appropriate actions to fix the issue or review with NetApp Technical Support Personnel.
 7.	The result will be lost when you navigate from deviation results page.  Please download the deviation report to keep the record for comparison.
 
-image:on_demand_config_compare_popular_temp_result[image,width=448,height=240]
+image:on_demand_config_compare_popular_temp_result.png[image,width=448,height=240]
 
 === On-Demand Config Compare with System AutoSupport:
 
@@ -63,7 +63,7 @@ To compare systems or clusters with popular config template:
 6.	Click *Compare Now*
 7.	The result will be lost when you navigate from deviation results page.  Please download the deviation report to keep the record for comparison.
 
-image:on_demand_config_compare_system_autosupport[image,width=448,height=240]
+image:on_demand_config_compare_system_autosupport.png[image,width=448,height=240]
 
 === Deviation Result:
 When *Include telemetry from all nodes in the cluster from same day when available* is selected, it compares all the AutoSupport data of the system that belong to the cluster with either the popular config template or system Autosupport that is selected.  The results can be viewed in Deviation Results as shown below.
