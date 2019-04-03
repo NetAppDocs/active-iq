@@ -65,8 +65,8 @@ The left navigation of Active IQ provides details of information available from 
 
 image:left_navigation.png[left navigation]
 
-=== Feedback +
-Guided Problem Solving and Chat
+=== Feedback
+=== Guided Problem Solving and Chat
 
 Guided Problem Solving (GPS) is accessible from the feedback option, which is on the right of the screen. It helps you resolve most common technical issues faster. Use it to jump directly to verified knowledge based articles and technical documentation, access commonly needed break-fix procedures, FAQs, and how-to articles, and collaborate with other users of your product by connecting with community directly from the feature page.
 
