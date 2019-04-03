@@ -1,0 +1,19 @@
+---
+sidebar: sidebar
+permalink: concept_ug_discovery_dashboard.html
+keywords: Active IQ, user guide, discovery dashboard
+summary: Provides an overview of the discover dashboard feature.
+---
+
+= Discovery Dashboard
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+The *Active IQ Discovery Dashboard* serves as an efficient method for watching systems important to our users and quickly recognizing and taking actions critical events and technical issues.
+
+Discovery dashboard could be accessed from top menu of Active IQ home page and is only available to Partners and NetApp internal users. More details about the *Discovery Dashboard* can be found in a separate user guide from the dashboard page to authorized users.
+
+image:left_drop_down_menu.png[image,width=205,height=284]

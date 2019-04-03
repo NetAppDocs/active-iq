@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_ug_cluster_viewer.html
+keywords: Active IQ, user guide, cluster viewer
+summary: Provides an overview of the cluster viewer feature.
+---
+
+= Cluster Viewer 
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+From the *Cluster* and node dashboards and the *AutoSupport* viewer, you will now see a link to view configuration details, called Cluster Viewer. Cluster Viewer enables you to see detailed physical and logical configuration details. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the configuration, stack diagram, the network interfaces, a summary of SVMs & aggregates, volume and LUN information, and a few visualizations. Visualization is the graphical view available of how the system is cabled showing connectivity between controllers and shelves. The details available from *Cluster Viewer* are downloadable in DOC, XLS, and PDF. Note that the graphical view download is currently separate from the download of all the tables.
+
+image:image50.png[image,width=623,height=36]

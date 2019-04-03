@@ -1,0 +1,35 @@
+---
+sidebar: sidebar
+permalink: concept_ug_config_compare.html
+keywords: Active IQ, user guide, config compare
+summary: Provides an overview of the config compare feature
+---
+
+= Config Compare (BETA) with Popular Configuration Templates
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+The new Config Compare feature enables you to detect configuration deviations in near real time. It enables you to create a template using a default we provide or selecting one from one of the systems in your installed base. Once a template is created, you can subscribe to get change notifications in near real time via email or on the *Deviation Result* tab of the feature. Since this feature is still in Beta, we support limited sections for comparison within the template.
+
+You can use Popular Configuration powered by Active IQ Community Wisdom, Default Configuration or System AutoSupport templates to see differences or anomalies in configurations. Instant Compare of Configurations is coming soon.
+
+Seeing comparisons and drifts involve three steps:
+
+. Selecting a template
+
+New in the recent release is the ability to select a popular template based on Active IQ Community Wisdom from the entire installed base.
+
+image:select_template.png[Select Template Source]
+
+[start=2]
+. Setting up a subscription
+
+image:setting_subscription.png[Setting up subscription]
+
+[start=3]
+. Seeing comparisons and drifts
+
+image:comparison_drifts.png[comparison and drifts]

@@ -1,0 +1,21 @@
+---
+sidebar: sidebar
+permalink: concept_ug_api_services.html
+keywords: Active IQ, user guide, API services
+summary: Provides an overview of the API services feature.
+---
+
+= API Services (Beta)
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+Active IQ now has a new set of API services available as Beta to select partners and customers. This is accessible from the top menu of Active IQ. Currently, this is visible to users that are part of the Beta program. We plan to make these services available generally.
+
+image:left_drop_down_menu.png[image,width=205,height=279]
+
+image:image68.png[image,width=624,height=160]
+
+If you want to be part of Beta or have questions about general availability timing, please email ng-activeiq-feedback@netapp.com.

@@ -1,0 +1,83 @@
+---
+sidebar: sidebar
+permalink: concept_aiq_ug_getting_started.html
+keywords: Active IQ, user guide, getting started, favorites, search, navigation, feedback, what's new
+summary: Provides information that helps you get started with Active IQ.
+---
+
+= Getting Started with Active IQ
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+=== Default View
+
+Default view for customers and partners is a dashboard summarizing different aspects of the installed base including inventory, capacity forecasting, performance summary, health summary, software upgrade recommendations, storage efficiency savings, cases, and tagged workloads. Partners with relationships with multiple customers, can change the dashboard they view using the dropdown from the top right.
+
+For NetApp internal users, search is the default view upon login, but frequently accessed views can be saved as favorites and watchlists.
+
+=== Top Banner
+
+The top banner of the application provides access to different capabilities in a click.
+
+image:top_banner.png[image,width=624,height=211]
+
+It also provides the different options that are available to the user.
+
+image:image3.png[image,width=602,height=244]
+
+=== Newsletter Subscription
+
+To keep yourself updated on the latest features of Active IQ, you can subscribe to the Active IQ newsletters by clicking the Subscription option from the top banner.
+
+=== Favorites
+
+Favorites are created upon user selection across the application. Different pages can be marked as favorites using the *Favorite* option from the top right, and all favorites are then accessible from the login name dropdown as shown in the figure below. With this feature, you don’t need to spend time searching for the same systems each time you use the application.
+
+=== Search and Navigation
+
+Active IQ search is powerful and dynamic. As you start typing, we show search results found in your installed base grouped into different categories including systems, clusters, sites, groups, and customers. A few preliminary results are listed for each category, upon successive drill down, more results are shown. Search is always available from the right side of top banner.
+
+image:image4.png[image,width=522,height=53]
+
+For NetApp internal users, Search is the default home page.
+
+image:image5.png[image,width=586,height=227]
+
+You can now search for various categories including NetApp Active IQ OneCollect and NetApp Active IQ Config Advisor by clicking the *Advanced Search results*.
+
+image:image6.png[image,width=533,height=216]
+
+Active IQ offers two different views of your systems data:
+
+* Single-system view: Search parameters such as serial number, system ID, host name, and cluster name.
+* Group of systems: Search by customer name, site name, or group name.
+
+While viewing a system or a group of systems, menus are available through icons on the left navigation to access available insights from your installed base.
+
+NOTE: Features available at the single-system level differ from features available at the aggregate level. In general, features at the customer level provide an overview and the features at the system level provide more details.
+
+=== Left Navigation
+
+The left navigation of Active IQ provides details of information available from the dashboard. The navigation can be minimized to maximize viewing of information during regular use.
+
+image:left_navigation.png[left navigation]
+
+=== Feedback
+==== Guided Problem Solving and Chat
+
+Guided Problem Solving (GPS) is accessible from the feedback option, which is on the right of the screen. It helps you resolve most common technical issues faster. Use it to jump directly to verified knowledge based articles and technical documentation, access commonly needed break-fix procedures, FAQs, and how-to articles, and collaborate with other users of your product by connecting with community directly from the feature page.
+
+Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS
+
+Customers and partners also have access to chat from the top menu by clicking the image:image8.png[image,width=59,height=21]icon.
+
+Chat is not available for NetApp Internal users.
+
+=== What’s New?
+
+When you first login after a release, you will see a summary of the new features.
+
+This information is also available from the feedback option, which is on the right of the screen.

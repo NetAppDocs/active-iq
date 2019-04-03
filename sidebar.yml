@@ -1,0 +1,92 @@
+entries:
+  - title: Active IQ Documentation
+    url: /index.html
+  - title: Overview
+    url: /concept_aiq_ug_overview.html
+  - title: Getting Started with Active IQ
+    url: /concept_aiq_ug_getting_started.html
+  - title: Features
+    entries:
+      - title: Watchlists
+        url: /concept_ug_watchlists.html
+      - title: Manual AutoSupport Upload
+        url: /concept_ug_manual_autosupport_upload.html
+      - title: Config Compare with Popular Configuration Templates
+        url: /concept_ug_config_compare_popular_temp.html
+      - title: Cutomer Dashboard
+        url: /concept_ug_customer_dashboard.html
+        entries:
+      - title: DataCenter View
+        url: /concept_ug_datacenter_view.html
+      - title: Storage
+        url: /concept_ug_storage.html
+      - title: Active IQ Advisories
+        entries:
+          - title: Flash Advisor
+            url: /concept_ug_flash_advisor.html
+          - title: Protection Advisor
+            url: /concept_ug_protection_advisor.html
+          - title: FabricPool Advisor
+            url: /concept_ug_fabricpool.html
+          - title: Performance Guarantee Best Practice Gaps
+            url: /concept_ug_performance_guarantee_bpg.html
+      - title: System Dashboard
+        url: /concept_ug_system_dashboard.html
+      - title: Storage Efficiency Peer Comparison
+        url: /concept_ug_storage_eff_peer_comparison.html
+      - title: Workload Tagging
+        url: /concept_ug_workload_tagging.html
+      - title: Performance
+        url: /concept_ug_performance.html
+      - title: Health
+        url: /concept_ug_health.html
+      - title: Interop Advisor
+        url: /concept_ug_interop_advisor.html
+      - title: AutoSupport Viewer
+        url: /concept_ug_autosupport_viewer.html
+      - title: Cluster Viewer 
+        url: /concept_ug_cluster_viewer.html
+      - title: Types of visualizations
+        url: /concept_ug_types_visualization.html
+      - title: AutoSupport Alerts
+        url: /concept_ug_autosupport_alert.html
+      - title: Upgrade Advisor
+        url: /concept_ug_upgrade_advisor.html
+      - title: Cluster Dashboard
+        url: /concept_ug_cluster_dashboard.html
+      - title: Cases
+        url: /concept_ug_cases.html
+      - title: HCI Expansion Advisor (Beta)
+        url: /concept_ug_hci_expansion_advisor.html
+      - title: Reports
+        url: /concept_ug_reports.html
+      - title: Discovery Dashboard
+        url: /concept_ug_discovery_dashboard.html
+      - title: API Services (Beta)
+        url: /concept_ug_api_services.html
+  - title: Reports
+    entries:
+      - title: Reports Overview
+        url: /concept_aiq_mrug_reports_overview.html
+      - title: Accessing Reports
+        url: /concept_aiq_mrug_accessing_reports.html
+      - title: Reports Dashboard
+        url: /concept_aiq_mrug_reports_dashboard.html
+      - title: Create Report
+        url: /concept_aiq_mrug_create_report.html
+      - title: Configuration Report Output
+        url: /concept_aiq_mrug_configuration_report.html
+      - title: Watchlists
+        url: /concept_aiq_mrug_custom_group.html
+      - title: Report Scheduling
+        url: /concept_aiq_mrug_report_scheduling.html
+  - title: FAQs
+    entries:
+      - title: Health summary
+        url: /reference_aiq_srd_health_summary.html
+      - title: Reporting and mitigation
+        url: /reference_aiq_srd_reporting_mitigation.html
+      - title: AFF Storage Efficiency
+        url: /reference_aiq_AFF_SE_FAQs.html
+  - title: Legal notices
+    url: /reference_legalnotices.html

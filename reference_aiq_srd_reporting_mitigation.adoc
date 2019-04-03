@@ -1,0 +1,183 @@
+---
+sidebar: sidebar
+permalink: reference_aiq_srd_reporting_mitigation.html
+keywords: system risk, reporting, mitigation
+summary: The provides information about reporting and mitigation of risks.
+---
+
+= Reporting and mitigation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/systemriskdetails
+
+=== How are risks identified for a system?
+
+Risks are identified by an automated analysis of the most recent AutoSupport received from a system.
+
+=== Why does my mitigated risk still show up after I fixed it?
+
+All risks are identified based on the most recent AutoSupport. As a result, any risks that are mitigated will not be reflected until a new AutoSupport log is received for the system. You can trigger a complete AutoSupport manually if you are interested to see results refresh in Active IQ faster. Currently, it can take up to 24 hours for results to refresh on Active IQ after receipt of an AutoSupport.
+
+=== Are any of the risk items self-correcting?
+
+No. Risks that are identified are persistent risks that will not self-correct. Planned manual intervention is required in order to mitigate risks.
+
+=== Does risk mitigation require system downtime?
+
+Some risks may be safely corrected without any interruption to system availability while others might require planned downtime. The information under “Corrective Actions” and/or your NetApp support representative will make recommendations on correct procedures to follow. Risk severity is a good indication of the urgency that exists around mitigating the identified risk.
+
+=== What does the impact level indicate?
+
+Impact Level is based on Potential Impact.
+
+
+[cols=",",options="header",]
+|===
+a|
+*Factor*
+
+a|
+
+*Description*
+
+a|
+
+Impact Level
+
+|Impact Level assesses the capability of the system to continue operation without suffering a potential outage. For example, a high impact level indicates urgency, and immediate action should be taken to mitigate the risk, whereas a low impact level can wait until the next scheduled maintenance window.
+a|
+
+Potential Impact
+
+|Potential Impact explains what may occur if the risk identified is not mitigated. For example, a low impact risk might not affect system availability and only generate frequent console messages, whereas a high impact will most likely result in unplanned system downtime.
+|===
+
+Impact can be high, medium, low and Best Practice and always considers the Potential Impact. The Potential Impact is displayed in the details field of the risk.
+
+=== Where can I find the steps needed to mitigate a risk?
+
+The Corrective Action field in the risk details page contains links to customer support bulletins (CSBs), Public Report for bugs or knowledge base (KB) articles that cover risk mitigation plans. In some instances you might see a mitigation difficulty indication listed in the CSB or KB article.
+
+=== What types of risks are detected?
+
+The number of risks that can be detected is regularly increasing. Risks generally fall within the following categories:
+
+[cols=",",options="header",]
+|===
+a|
+
+*Category*
+
+a|
+
+*Description*
+
+a|
+
+Hardware Failures
+
+|System is found to have failed or degraded hardware components. This covers platform, storage, disk drive, and HA related risks.
+a|
+
+Non-supported Configurations
+
+|System is found to violate restrictions documented in NetApp documentation, such as the system configuration guides. For example, cards installed in unsupported slots in the controller.
+a|
+
+Resource Depletion
+
+
+|System is found to have significant resource depletion. For example, no spare disks.
+a|
+
+Nearing or exceeding operational limits
+
+
+|The system is found to be nearing or exceeding operational or upgrade limits. For example, exceeding flexible volume limits that result in the system falling outside of non-disruptive upgrade capabilities.
+a|
+
+Customer Support Bulletins (CSBs)
+
+
+|The system is found to match a condition related to a CSB. For example, hardware that has is operational but falls under end of support (EOS).
+a|
+
+Best practice misalignment
+
+
+|The system configuration is misaligned with NetApp best practices. Although NetApp highly recommends aligning with best practices, there are exceptions that might be warranted for specific configurations. As a result, some of these types of risks might not need mitigation.
+|===
+
+=== What information is reported for each risk?
+
+
+Five fields are reported for each risk identified on the system. They are:
+
+[cols=",",options="header",]
+|===
+a|
+
+*Field*
+
+a|
+
+*Description*
+
+a|
+
+Impact Level
+
+|The severity the risk can have to the system.
+a|
+
+Category
+
+|See section 2.7 for more information about categories.
+a|
+
+Risk
+
+|The short description or title of the risk identified.
+a|
+
+Details
+
+|A more detailed description of specific issue, severity, and potential impact to the system.
+a|
+
+Corrective Action
+
+|Links to documentation that is used for risk mitigation such as CSBs and KB articles.
+|===
+
+Risks are reported based on AutoSupport data that is sent to NetApp. Risks are identified per system so you will know exactly which system is experiencing the risk.
+
+
+=== Why should I acknowledge a risk and how do I do it?
+
+Some risks may not apply to a specific customer environment because of the nature of the application or the system may be in a certain stage in the lifecycle in which risks may not matter. Also, in certain situations, customers may plan to mitigate certain risks periodically through regularly scheduled maintenance windows. However, irrespective of the situation, it is an operational best practice to acknowledge a risk in order to look at the true health of your installed base.
+
+Follow the steps below to acknowledge a risk:
+
+* Click the Health summary tab from left navigation.
+* Identify the risk you wish to tag, and then click on the acknowledge flag.
+* Select systems for which you want to acknowledge the risk.
+* Fill in the *Approved By* and *Justification* fields.
+* Acknowledge the risk by clicking the *Acknowledge* button at the bottom of the dialogue box.
+
+=== How can I get a regular update on my system risks?
+
+The best way to keep yourself updated on risks in your installed base is to schedule a regular risk report. You can click the *Schedule a Risk Report* from the *Health Summary* tab or navigate to the *Reports* tab on the top menu of Active IQ to schedule a regular risk report.
+
+You can schedule a report by risk impact at a frequency and format (PDF, PPT and XLS) of your choice. This allows you to see risks easily without having to visit the Active IQ portal.
+
+=== Is the risk information available in the Active IQ mobile app?
+
+Yes, system risk information is available in the Active IQ mobile app. You can download the mobile app from the following locations:
+
+iOS - https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&amp;mt=8[[.underline]#https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8#]
+Android - https://play.google.com/store/apps/details?id=com.netapp.myautosupport[[.underline]#https://play.google.com/store/apps/details?id=com.netapp.myautosupport#]
+
+image:image2.png[image]
