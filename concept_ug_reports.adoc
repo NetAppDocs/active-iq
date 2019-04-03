@@ -21,9 +21,7 @@ Use the Reports feature to generate and schedule the following reports:
 
 With a few clicks, you can have reports regularly delivered to your inbox in either CSV or PDF format.
 
-A comprehensive user guide for *My Reports* is available from the following link:
-
-https://mysupport.netapp.com/myautosupport/docs/en/myreportsuserguide.pdf
+For more information about Reports, click link:concept_aiq_mrug_reports_overview.html[here].
 
 Reports can be accessed from the top menu of Active IQ.
 
