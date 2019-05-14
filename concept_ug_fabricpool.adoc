@@ -12,6 +12,8 @@ summary: Provides an overview of the FabricPool feature.
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
+FabricPool advisor helps customers identify inactive data that can be tiered from flash to cost-effective object storage either on-premises (StorageGRID) or off-premises (hyperscalers).
+
 FabricPool advisor has the following 3 tabs:
 
 •	Inactive Data – This tab displays the top 5 clusters with inactive data. To view all clusters with inactive data, you must download the FabricPool data.
