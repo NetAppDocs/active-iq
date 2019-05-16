@@ -44,7 +44,7 @@ entries:
         url: /concept_ug_interop_advisor.html
       - title: AutoSupport Viewer
         url: /concept_ug_autosupport_viewer.html
-      - title: Cluster Viewer 
+      - title: Cluster Viewer
         url: /concept_ug_cluster_viewer.html
       - title: Types of visualizations
         url: /concept_ug_types_visualization.html
@@ -62,7 +62,7 @@ entries:
         url: /concept_ug_reports.html
       - title: Discovery Dashboard
         url: /concept_ug_discovery_dashboard.html
-      - title: API Services (Beta)
+      - title: API Services
         url: /concept_ug_api_services.html
   - title: Reports
     entries:
