@@ -34,7 +34,7 @@ At the top of the dashboard, the following critical information about the cluste
 
 The cluster dashboard also has more detailed information in the following widgets:
 
-*Configuration* – This widget lists all the nodes in the cluster and provides hostname, serial number, system ID, ONTAP version, and model of the nodes within the cluster. From the “View Configuration Details” button on top of this widget, you are able to see additional details about the cluster through the new “Cluster Viewer” Beta module, which includes a visualization of how the cluster is cabled.
+*Configuration* – This widget lists all the nodes in the cluster and provides hostname, serial number, system ID, ONTAP version, and model of the nodes within the cluster. From the “View Configuration Details” button on top of this widget, you can view additional details about the cluster through the “Cluster Viewer”, which includes a visualization of how the cluster is cabled.
 
 *Capacity Forecasting* – This widget on the cluster dashboard provides a simple view of whether any nodes within the cluster may be running out of capacity. If there are nodes that are over 90% capacity, or may reach that threshold within 6 months, you can select those nodes and reach out to NetApp to request capacity addition.
 

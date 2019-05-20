@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, datacenter view
 summary: Provides an overview of the cases widget feature.
 ---
 
-= DataCenter View
+= DataCenter View (Beta)
 :hardbreaks:
 :nofooter:
 :icons: font

@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, HCI expansion advisor
 summary: Provides an overview of the HCI expansion advisor feature.
 ---
 
-= HCI Expansion Advisor (Beta)
+= HCI Expansion Advisor 
 :hardbreaks:
 :nofooter:
 :icons: font
