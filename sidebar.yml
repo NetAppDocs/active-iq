@@ -16,7 +16,7 @@ entries:
       - title: Cutomer Dashboard
         url: /concept_ug_customer_dashboard.html
         entries:
-      - title: DataCenter View
+      - title: DataCenter View (Beta)
         url: /concept_ug_datacenter_view.html
       - title: Storage
         url: /concept_ug_storage.html
@@ -56,7 +56,7 @@ entries:
         url: /concept_ug_cluster_dashboard.html
       - title: Cases
         url: /concept_ug_cases.html
-      - title: HCI Expansion Advisor (Beta)
+      - title: HCI Expansion Advisor
         url: /concept_ug_hci_expansion_advisor.html
       - title: Reports
         url: /concept_ug_reports.html
