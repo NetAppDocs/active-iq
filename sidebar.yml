@@ -46,7 +46,7 @@ entries:
         url: /concept_ug_autosupport_viewer.html
       - title: Cluster Viewer
         url: /concept_ug_cluster_viewer.html
-      - title: Types of visualizations
+      - title: Types of Visualizations
         url: /concept_ug_types_visualization.html
       - title: AutoSupport Alerts
         url: /concept_ug_autosupport_alert.html
@@ -63,7 +63,17 @@ entries:
       - title: Discovery Dashboard
         url: /concept_ug_discovery_dashboard.html
       - title: API Services
-        url: /concept_ug_api_services.html
+        entries:
+          - title: API Services 
+            url: /concept_ug_api_services.html
+          - title: Accessing API Services
+            url: /task_ug_api_accessing_api_services.html
+          - title: Generating Tokens
+            url: /task_ug_api_generating_tokens.html
+          - title: Using APIs
+            url: /task_ug_api_using_APIs.html
+          - title: Programmatically create new access tokens using refresh token
+            url: /task_ug_api_create_new_access_token.html
   - title: Reports
     entries:
       - title: Reports Overview
