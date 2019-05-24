@@ -17,5 +17,3 @@ Active IQ provides actionable insights through a variety of widgets and dashboar
 API services is accessible from the top menu of Active IQ.
 
 image:left_drop_down_menu.png[image,width=205,height=279]
-
-image:image68.png[image,width=624,height=160]

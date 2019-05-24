@@ -15,7 +15,7 @@ summary: Provides an overview of the storage feature.
 
 Storage dashboard shows the storage efficiency ratio, capacity and savings for entire storage systems running ONTAP 9.1 and above. Efficiency ratio and savings can be seen with and without Snapshots for AFF systems, non-AFF systems, or both.
 
-Total savings across customer storage can be seen per efficiency feature such as snapshots, clones, deduplication, compression and compaction.
+Total savings across customer storage can be seen per efficiency feature such as Snapshot copies, clones, deduplication, compression and compaction.
 
 image:storage_ratio.png[image,width=623,height=393]
 

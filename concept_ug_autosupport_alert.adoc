@@ -26,8 +26,6 @@ On the AutoSupport Alert Subscriptions tab of the AutoSupport Alerts page, enter
 
 For more information about AutoSupport alerts, refer to this Knowledge Base article on the NetApp Support site: https://kb.netapp.com/support/index?page=content&id=7010076
 
-image:image54.png[image,width=552,height=162]
-
 === Notifications
 
 From the Notifications tab, you can select the AutoSupport notifications that you want to receive.

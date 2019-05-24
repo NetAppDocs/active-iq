@@ -16,8 +16,9 @@ You must generate an access and a refresh token to use the APIs listed. Before g
 
 1. On the *API Services* page, click *Generate tokens*.
 2. Provide the login credentials, if prompted.
-On successful authentication, the access token and refresh token are provided to invoke APIs. You must save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
+On successful authentication, the access token and refresh token are provided to invoke APIs. You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
 
 NOTE: API services provide an API to generate new tokens using a valid refresh token. The refresh token used in this API call will be invalidated after a new refresh token is generated.
 
+[start=3]
 3. Use the access token generated to call the API Services catalog. For more information, see Using APIs.

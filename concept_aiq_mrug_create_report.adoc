@@ -26,5 +26,3 @@ image:report_type.png[image,width=537,height=114]
 System Configuration, System Risk and Storage Efficiency Report outputs are available in Microsoft Excel and PDF formats whereas NetApp Value report is available in Microsoft Excel and PowerPoint.
 
 You will have option to select only one report format while scheduling/generating reports(s).
-
-image:report_format.png[image,width=245,height=88]

@@ -27,11 +27,3 @@ The confidence factor is used to determine the accuracy of the peak performance 
 There are cluster aggregated performance charts in cluster performance dashboard and can view node level graphs.
 
 NOTE: Response Time by Protocol and Concurrency graphs are not available for cDOT systems.
-
-The following is the performance chart at the cluster level:
-
-image:image35.png[image,width=505,height=248]
-
-The following is the performance chart at the system level:
-
-image:image36.png[image,width=505,height=262]
