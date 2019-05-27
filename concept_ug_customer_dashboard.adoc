@@ -21,7 +21,6 @@ The Customer Dashboard is the central portal in Active IQ from which you can vie
 * Risk Advisory
 * Storage Efficiency Recommendations and Advisory
 * Recent Cases
-+
 
 === Capacity Forecasting for ONTAP systems
 
@@ -36,8 +35,6 @@ By clicking the icon, you can download details about all the impacted systems. I
 NOTE: Capacity forecasts are computed based on past usage and growth patterns. If there are materially significant changes in usage or growth, then these predictions may not hold and more systems may be over 90% capacity sooner.
 
 To ensure that the systems do not run out of space, you can request for more storage from the Capacity Widget by selecting the systems and clicking the mail icon. You can select multiple systems at once to request capacity.
-
-image:image17.png[image,width=440,height=138]
 
 Total capacity displayed is the sum of all the aggregate’s total capacity and used capacity is the sum of all the aggregate’s physical used space.
 

@@ -15,6 +15,9 @@ summary: Provides information to request for authorization to use API services.
 You must request for authorization to access API services. Only authorized users can access and use API services.
 
 1. On the *API Services* page, click *Request for Authorization to access API services*.
+
+image:concept_ug_api_services_accessing.png[image,width=202,height=280]
+
 2. Provide the requested information and click *Submit* to send the request to NetApp.
 3. NetApp will send an email to notify you about the approval or rejection of the request.
 

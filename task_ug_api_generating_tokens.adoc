@@ -15,10 +15,14 @@ summary: Provides information to generate tokens to access API services.
 You must generate an access and a refresh token to use the APIs listed. Before generating an access and a refresh token, you must request for access and ensure that you have been provided the required permissions to generate the tokens.
 
 1. On the *API Services* page, click *Generate tokens*.
+
+image:concept_ug_api_services_accessing.png[image,width=202,height=280]
+
+[start=2]
 2. Provide the login credentials, if prompted.
 On successful authentication, the access token and refresh token are provided to invoke APIs. You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
 
 NOTE: API services provide an API to generate new tokens using a valid refresh token. The refresh token used in this API call will be invalidated after a new refresh token is generated.
 
 [start=3]
-3. Use the access token generated to call the API Services catalog. For more information, see Using APIs.
+3. Use the access token generated to call the API Services catalog. For more information, see link:task_ug_api_using_APIs.html#<UsingAPIs>[Using APIs].
