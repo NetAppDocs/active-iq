@@ -6,36 +6,39 @@ entries:
   - title: Getting Started with Active IQ
     url: /concept_aiq_ug_getting_started.html
   - title: Features
-    - title: Customer Dashboard
-      entries:
-        - title: Cutomer Dashboard
-          url: /concept_ug_customer_dashboard.html
-        - title: Upgrade Advisor
-          url: /concept_ug_upgrade_advisor.html
-        - title: AutoSupport Alerts
-          url: /concept_ug_autosupport_alert.html
-        - title: Health
-          url: /concept_ug_health.html
-        - title: Interop Advisor
-          url: /concept_ug_interop_advisor.html
-        - title: Active IQ Advisories
-          entries:
-            - title: Flash Advisor
-              url: /concept_ug_flash_advisor.html
-            - title: Protection Advisor
-              url: /concept_ug_protection_advisor.html
-            - title: FabricPool Advisor
-              url: /concept_ug_fabricpool.html
-            - title: Performance Guarantee Best Practice Gaps
-              url: /concept_ug_performance_guarantee_bpg.html
-        - title: Config Compare with Popular Configuration Templates
-          url: /concept_ug_config_compare_popular_temp.html
-        - title: DataCenter View (Beta)
-          url: /concept_ug_datacenter_view.html
-        - title: Storage
-          url: /concept_ug_storage.html
-    - title: System Dashboard
+    entries:
+      - title: Cutomer Dashboard
         entries:
+          - title: Cutomer Dashboard
+            url: /concept_ug_customer_dashboard.html
+          - title: Upgrade Advisor
+            url: /concept_ug_upgrade_advisor.html
+          - title: AutoSupport Alerts
+            url: /concept_ug_autosupport_alert.html
+          - title: Health
+            url: /concept_ug_health.html
+          - title: Interop Advisor
+            url: /concept_ug_interop_advisor.html
+            - title: Active IQ Advisories
+              entries:
+                - title: Flash Advisor
+                  url: /concept_ug_flash_advisor.html
+                - title: Protection Advisor
+                  url: /concept_ug_protection_advisor.html
+                - title: FabricPool Advisor
+                  url: /concept_ug_fabricpool.html
+                - title: Performance Guarantee Best Practice Gaps
+                  url: /concept_ug_performance_guarantee_bpg.html
+          - title: Config Compare with Popular Configuration Templates
+            url: /concept_ug_config_compare_popular_temp.html
+          - title: DataCenter View (Beta)
+            url: /concept_ug_datacenter_view.html
+          - title: Storage
+            url: /concept_ug_storage.html
+      - title: System Dashboard
+        entries:
+          - title: System Dashboard
+            url: /concept_ug_system_dashboard.html
           - title: Performance
             url: /concept_ug_performance.html
           - title: Upgrade Advisor
@@ -48,26 +51,26 @@ entries:
             url: /concept_ug_storage_eff_peer_comparison.html
           - title: Workload Tagging
             url: /concept_ug_workload_tagging.html
-    - title: Watchlists
-      url: /concept_ug_watchlists.html
-    - title: Discovery Dashboard
-      url: /concept_ug_discovery_dashboard.html
-    - title: Reports
-      url: /concept_ug_reports.html
-    - title: Manual AutoSupport Upload
-      url: /concept_ug_manual_autosupport_upload.html
-    - title: API Services
-      entries:
-        - title: API Services
-          url: /concept_ug_api_services.html
-        - title: Accessing API Services
-          url: /task_ug_api_accessing_api_services.html
-        - title: Generating Tokens
-          url: /task_ug_api_generating_tokens.html
-        - title: Using APIs
-          url: /task_ug_api_using_APIs.html
-        - title: Programmatically create new access tokens using refresh token
-          url: /task_ug_api_create_new_access_token.html        
+      - title: Watchlists
+        url: /concept_ug_watchlists.html
+      - title: Discovery Dashboard
+        url: /concept_ug_discovery_dashboard.html
+      - title: Reports
+        url: /concept_ug_reports.html
+      - title: Manual AutoSupport Upload
+        url: /concept_ug_manual_autosupport_upload.html
+      - title: API Services
+        entries:
+          - title: API Services
+            url: /concept_ug_api_services.html
+          - title: Accessing API Services
+            url: /task_ug_api_accessing_api_services.html
+          - title: Generating Tokens
+            url: /task_ug_api_generating_tokens.html
+          - title: Using APIs
+            url: /task_ug_api_using_APIs.html
+          - title: Programmatically create new access tokens using refresh token
+            url: /task_ug_api_create_new_access_token.html
   - title: Features
     entries:
       - title: Watchlists
