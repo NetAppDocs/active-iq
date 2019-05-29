@@ -19,16 +19,16 @@ entries:
             url: /concept_ug_health.html
           - title: Interop Advisor
             url: /concept_ug_interop_advisor.html
-            - title: Active IQ Advisories
-              entries:
-                - title: Flash Advisor
-                  url: /concept_ug_flash_advisor.html
-                - title: Protection Advisor
-                  url: /concept_ug_protection_advisor.html
-                - title: FabricPool Advisor
-                  url: /concept_ug_fabricpool.html
-                - title: Performance Guarantee Best Practice Gaps
-                  url: /concept_ug_performance_guarantee_bpg.html
+          - title: Advisories
+            entries:
+              - title: Flash Advisor
+                url: /concept_ug_flash_advisor.html
+              - title: Protection Advisor
+                url: /concept_ug_protection_advisor.html
+              - title: FabricPool Advisor
+                url: /concept_ug_fabricpool.html
+              - title: Performance Guarantee Best Practice Gaps
+                url: /concept_ug_performance_guarantee_bpg.html
           - title: Config Compare with Popular Configuration Templates
             url: /concept_ug_config_compare_popular_temp.html
           - title: DataCenter View (Beta)
