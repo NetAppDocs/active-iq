@@ -22,6 +22,8 @@ image:concept_ug_api_services_accessing.png[image,width=202,height=280]
 2. Provide the login credentials, if prompted.
 On successful authentication, the access token and refresh token are provided to invoke APIs. You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
 
+image:api_service_generate_token.png[image,width=202,height=280]
+
 NOTE: API services provide an API to generate new tokens using a valid refresh token. The refresh token used in this API call will be invalidated after a new refresh token is generated.
 
 [start=3]
