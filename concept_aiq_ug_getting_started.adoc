@@ -66,7 +66,9 @@ image:left_navigation.png[left navigation]
 
 Guided Problem Solving (GPS) is accessible from the feedback option, which is on the right of the screen. It helps you resolve most common technical issues faster. Use it to jump directly to verified knowledge based articles and technical documentation, access commonly needed break-fix procedures, FAQs, and how-to articles, and collaborate with other users of your product by connecting with community directly from the feature page.
 
-Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS
+image:aiq_guided_problem_solve.png[GPS]
+
+Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS[here^].
 
 Customers and partners also have access to chat from the top menu by clicking the image:image8.png[image,width=59,height=21]icon.
 
@@ -77,3 +79,5 @@ Chat is not available for NetApp Internal users.
 When you first login after a release, you will see a summary of the new features.
 
 This information is also available from the feedback option, which is on the right of the screen.
+
+image:aiq_whats_new.png[Whaat's New]

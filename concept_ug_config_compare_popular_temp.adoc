@@ -34,7 +34,7 @@ image:config_compare_main_screen.png[image,width=448,height=240]
 
 Config Compare Dashboard compares all systems that are running ONTAP 9.1 and later with popular config template developed using community wisdom.  It displays the number of systems with deviations, without deviations, and systems that do have recent weekly AutoSupport data to compare.
 
-It also displays the top 5 systems that have recent configuration changes.  You can view the deviations by clicking View Details
+It also displays the top 5 systems that have recent configuration changes.  You can view the deviations by clicking *View Details*.
 
 == On-Demand Config Compare
 === On-Demand Config Compare with Popular Config Template:
