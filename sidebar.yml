@@ -7,7 +7,7 @@ entries:
     url: /concept_aiq_ug_getting_started.html
   - title: Features
     entries:
-      - title: Cutomer Dashboard
+      - title: Cutomer
         entries:
           - title: Cutomer Dashboard
             url: /concept_ug_customer_dashboard.html
@@ -35,7 +35,7 @@ entries:
             url: /concept_ug_datacenter_view.html
           - title: Storage
             url: /concept_ug_storage.html
-      - title: System Dashboard
+      - title: System
         entries:
           - title: System Dashboard
             url: /concept_ug_system_dashboard.html

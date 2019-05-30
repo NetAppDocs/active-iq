@@ -26,7 +26,7 @@ Config Compare has the following features:
 
 NOTE: Existing Golden Templates and the Subscriptions configured are no longer be supported. We will add these features to the future release with advanced options.
 
-If you require new options or attributes to be added for comparison, send an email to ng-activeiq-feedback.
+If you require new options or attributes to be added for comparison, send an email to mailto:ng-activeiq-feedback[[.underline]#ng-activeiq-feedback#].
 
 image:config_compare_main_screen.png[image,width=448,height=240]
 

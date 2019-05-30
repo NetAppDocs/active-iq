@@ -24,7 +24,7 @@ image:image53.png[image,width=623,height=124]
 
 On the AutoSupport Alert Subscriptions tab of the AutoSupport Alerts page, enter the email addresses of all the interested parties, and then select the types of AutoSupport alerts for them to receive. In addition to single-system and aggregate-level alerts, subscriptions can also be expanded to site-wide or customer-wide alerts by checking the corresponding “Apply same subscriptions to” box.
 
-For more information about AutoSupport alerts, refer to this Knowledge Base article on the NetApp Support site: https://kb.netapp.com/support/index?page=content&id=7010076
+For more information about AutoSupport alerts, see this https://kb.netapp.com/support/index?page=content&id=7010076[Knowledge Base article^] on the NetApp Support site.
 
 === Notifications
 

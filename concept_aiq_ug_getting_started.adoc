@@ -26,7 +26,7 @@ image:active_iq_main_menu.png[image,width=624,height=211]
 
 === Newsletter Subscription
 
-To keep yourself updated on the latest features of Active IQ, you can subscribe to the Active IQ newsletters by clicking the Subscription option from the top banner.
+To keep yourself updated on the latest features of Active IQ, you can subscribe to the Active IQ newsletters by clicking the *Subscription* option from the top right.
 
 === Favorites
 
@@ -68,7 +68,7 @@ Guided Problem Solving (GPS) is accessible from the feedback option, which is on
 
 image:aiq_guided_problem_solve.png[GPS]
 
-Guided Problem Solving can be accessed directly from: https://mysupport.netapp.com/GPS[here^].
+Guided Problem Solving can be accessed directly from https://mysupport.netapp.com/GPS[here^].
 
 Customers and partners also have access to chat from the top menu by clicking the image:image8.png[image,width=59,height=21]icon.
 
