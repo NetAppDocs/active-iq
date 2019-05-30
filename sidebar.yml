@@ -9,7 +9,7 @@ entries:
     entries:
       - title: Cutomer
         entries:
-          - title: Cutomer Dashboard
+          - title: Dashboard
             url: /concept_ug_customer_dashboard.html
           - title: Upgrade Advisor
             url: /concept_ug_upgrade_advisor.html
@@ -37,8 +37,26 @@ entries:
             url: /concept_ug_storage.html
       - title: System
         entries:
-          - title: System Dashboard
+          - title: Dashboard
             url: /concept_ug_system_dashboard.html
+          - title: AutoSupport Viewer
+            url: /concept_ug_autosupport_viewer.html
+          - title: Health
+            url: /concept_ug_health.html
+          - title: Performance
+            url: /concept_ug_performance.html
+          - title: Storage Efficiency Peer Comparison
+            url: /concept_ug_storage_eff_peer_comparison.html
+          - title: AutoSupport Alerts
+            url: /concept_ug_autosupport_alert.html
+          - title: Upgrade Advisor
+            url: /concept_ug_upgrade_advisor.html
+          - title: Interop Advisor
+            url: /concept_ug_interop_advisor.html
+      - title: Cluster
+        entries:
+          - title: Dashboard
+            url: /concept_ug_cluster_dashboard.html
           - title: Performance
             url: /concept_ug_performance.html
           - title: Upgrade Advisor
