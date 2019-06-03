@@ -13,7 +13,7 @@ entries:
         url: /concept_ug_manual_autosupport_upload.html
       - title: Config Compare with Popular Configuration Templates
         url: /concept_ug_config_compare_popular_temp.html
-      - title: Cutomer Dashboard
+      - title: Customer Dashboard
         url: /concept_ug_customer_dashboard.html
         entries:
       - title: DataCenter View
