@@ -16,10 +16,9 @@ APIs can be written in different languages. The languages that are supported are
 
 Let's look at a sample API. The *getAccessToken* API  is used to generate a new access token using a valid refresh token.
 
-The following is the *getAccessToken* API in JavaScript:
+The following is the *getAccessToken* API in *JavaScript*:
 
-|=======================================================================================================
-|var   ActiveIqPublicApi = require('active_iq_public_api');
+var   ActiveIqPublicApi = require('active_iq_public_api');
 
 var api = new ActiveIqPublicApi.AccessTokenApi()
 
@@ -34,12 +33,10 @@ var callback = function(error, data, response) {
   }
 };
 api.getAccessToken(tokenManageraccessToken, callback);
-|=======================================================================================================
 
-The following is the *getAccessToken* API in Python:
+The following is the *getAccessToken* API in *Python*:
 
-|=======================================================================================================
-|from __future__ import print_statement
+from __future__ import print_statement
 import time
 import swagger_client
 from swagger_client.rest import ApiException
@@ -55,4 +52,3 @@ try:
     pprint(api_response)
 except ApiException as e:
     print("Exception when calling AccessTokenApi->getAccessToken: %s\n" % e)
-|=======================================================================================================
