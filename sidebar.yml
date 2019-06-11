@@ -69,18 +69,20 @@ entries:
             url: /concept_ug_storage_eff_peer_comparison.html
           - title: Workload Tagging
             url: /concept_ug_workload_tagging.html
-      - title: Watchlists
-        url: /concept_ug_watchlists.html
       - title: Discovery Dashboard
         url: /concept_ug_discovery_dashboard.html
+      - title: Watchlists
+        url: /concept_ug_watchlists.html
       - title: Reports
         url: /concept_ug_reports.html
-      - title: Manual AutoSupport Upload
+      - title: AutoSupport Upload
         url: /concept_ug_manual_autosupport_upload.html
       - title: API Services
         entries:
           - title: API Services
             url: /concept_ug_api_services.html
+          - title: Getting Started (Sample API)
+            url: /concept_ug_api_getting_started_sample_api.html
           - title: Accessing API Services
             url: /task_ug_api_accessing_api_services.html
           - title: Generating Tokens
