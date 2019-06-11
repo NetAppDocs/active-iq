@@ -18,8 +18,7 @@ Let's look at a sample API. The *getAccessToken* API  is used to generate a new 
 
 The following is the *getAccessToken* API in *Android*:
 
-|=======================================================================================================
-|import io.swagger.client.api.AccessTokenApi;
+import io.swagger.client.api.AccessTokenApi;
 
 public class AccessTokenApiExample {
 
@@ -35,12 +34,11 @@ public class AccessTokenApiExample {
         }
     }
 }
-|====================
+
 
 The following is the *getAccessToken* API in *JavaScript*:
 
-|=======================================================================================================
-|var   ActiveIqPublicApi = require('active_iq_public_api');
+var   ActiveIqPublicApi = require('active_iq_public_api');
 
 var api = new ActiveIqPublicApi.AccessTokenApi()
 
@@ -55,4 +53,3 @@ var callback = function(error, data, response) {
   }
 };
 api.getAccessToken(tokenManageraccessToken, callback);
-|====================
