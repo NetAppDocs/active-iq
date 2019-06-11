@@ -31,7 +31,7 @@ entries:
                 url: /concept_ug_fabricpool.html
               - title: Performance Guarantee Best Practice Gaps
                 url: /concept_ug_performance_guarantee_bpg.html
-          - title: Config Compare with Popular Configuration Templates
+          - title: Config Compare
             url: /concept_ug_config_compare_popular_temp.html
           - title: DataCenter View (Beta)
             url: /concept_ug_datacenter_view.html
@@ -75,14 +75,6 @@ entries:
             url: /concept_ug_interop_advisor.html
           - title: Configuration
             url: /concept_ug_cluster_viewer.html
-      - title: Discovery Dashboard
-        url: /concept_ug_discovery_dashboard.html
-      - title: Watchlists
-        url: /concept_ug_watchlists.html
-      - title: Reports
-        url: /concept_ug_reports.html
-      - title: AutoSupport Upload
-        url: /concept_ug_manual_autosupport_upload.html
       - title: API Services
         entries:
           - title: API Services
@@ -97,6 +89,16 @@ entries:
             url: /task_ug_api_using_APIs.html
           - title: Programmatically create new access tokens using refresh token
             url: /task_ug_api_create_new_access_token.html
+      - title: AutoSupport Upload
+        url: /concept_ug_manual_autosupport_upload.html
+      - title: Reports
+        url: /concept_ug_reports.html
+      - title: Watchlists
+        url: /concept_ug_watchlists.html
+      - title: Discovery Dashboard
+        url: /concept_ug_discovery_dashboard.html
+      - title: HCI Expansion Advisor
+        url: /concept_ug_hci_expansion_advisor.html
   - title: Features
     entries:
       - title: Watchlists
