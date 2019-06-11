@@ -11,6 +11,8 @@ entries:
         entries:
           - title: Dashboard
             url: /concept_ug_customer_dashboard.html
+          - title: My Systems
+            url: /concept_ug_customer_my_systems.html
           - title: Upgrade Advisor
             url: /concept_ug_upgrade_advisor.html
           - title: AutoSupport Alerts
@@ -35,24 +37,6 @@ entries:
             url: /concept_ug_datacenter_view.html
           - title: Storage
             url: /concept_ug_storage.html
-      - title: System
-        entries:
-          - title: Dashboard
-            url: /concept_ug_system_dashboard.html
-          - title: AutoSupport Viewer
-            url: /concept_ug_autosupport_viewer.html
-          - title: Health
-            url: /concept_ug_health.html
-          - title: Performance
-            url: /concept_ug_performance.html
-          - title: Storage Efficiency Peer Comparison
-            url: /concept_ug_storage_eff_peer_comparison.html
-          - title: AutoSupport Alerts
-            url: /concept_ug_autosupport_alert.html
-          - title: Upgrade Advisor
-            url: /concept_ug_upgrade_advisor.html
-          - title: Interop Advisor
-            url: /concept_ug_interop_advisor.html
       - title: Cluster
         entries:
           - title: Dashboard
@@ -61,14 +45,36 @@ entries:
             url: /concept_ug_performance.html
           - title: Upgrade Advisor
             url: /concept_ug_upgrade_advisor.html
-          - title: AutoSupport Viewer
+          - title: AutoSupport
             url: /concept_ug_autosupport_viewer.html
           - title: Health
             url: /concept_ug_health.html
-          - title: Storage Efficiency Peer Comparison
+          - title: Storage
             url: /concept_ug_storage_eff_peer_comparison.html
-          - title: Workload Tagging
+          - title: Workload
             url: /concept_ug_workload_tagging.html
+          - title: Configuration
+            url: /concept_ug_cluster_viewer.html
+      - title: System
+        entries:
+          - title: Dashboard
+            url: /concept_ug_system_dashboard.html
+          - title: AutoSupport
+            url: /concept_ug_autosupport_viewer.html
+          - title: Health
+            url: /concept_ug_health.html
+          - title: Performance
+            url: /concept_ug_performance.html
+          - title: Storage Efficiency
+            url: /concept_ug_storage_eff_peer_comparison.html
+          - title: AutoSupport Alerts
+            url: /concept_ug_autosupport_alert.html
+          - title: Upgrade Advisor
+            url: /concept_ug_upgrade_advisor.html
+          - title: Interop Advisor
+            url: /concept_ug_interop_advisor.html
+          - title: Configuration
+            url: /concept_ug_cluster_viewer.html
       - title: Discovery Dashboard
         url: /concept_ug_discovery_dashboard.html
       - title: Watchlists
@@ -120,7 +126,7 @@ entries:
         url: /concept_ug_system_dashboard.html
       - title: Storage Efficiency Peer Comparison
         url: /concept_ug_storage_eff_peer_comparison.html
-      - title: Workload Tagging
+      - title: Workload
         url: /concept_ug_workload_tagging.html
       - title: Performance
         url: /concept_ug_performance.html
@@ -128,20 +134,16 @@ entries:
         url: /concept_ug_health.html
       - title: Interop Advisor
         url: /concept_ug_interop_advisor.html
-      - title: AutoSupport Viewer
+      - title: AutoSupport
         url: /concept_ug_autosupport_viewer.html
       - title: Cluster Viewer
         url: /concept_ug_cluster_viewer.html
-      - title: Types of Visualizations
-        url: /concept_ug_types_visualization.html
       - title: AutoSupport Alerts
         url: /concept_ug_autosupport_alert.html
       - title: Upgrade Advisor
         url: /concept_ug_upgrade_advisor.html
       - title: Cluster Dashboard
         url: /concept_ug_cluster_dashboard.html
-      - title: Cases
-        url: /concept_ug_cases.html
       - title: HCI Expansion Advisor
         url: /concept_ug_hci_expansion_advisor.html
       - title: Reports

@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, storage efficiency, peer comparison
 summary: Provides an overview of the storage efficiency peer comparison feature.
 ---
 
-= Storage Efficiency Peer Comparison
+= Storage Efficiency
 :hardbreaks:
 :nofooter:
 :icons: font

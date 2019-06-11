@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: concept_ug_workload_tagging.html
-keywords: Active IQ, user guide, workload tagging
-summary: Provides an overview of the workload tagging feature.
+keywords: Active IQ, user guide, workload
+summary: Provides an overview of the workload feature.
 ---
 
-= Workload Tagging
+= Workload
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -28,7 +28,7 @@ There are three different type of workload tags:
 
 * *ONTAP tag* is the tag obtained from ONTAP AutoSupport when workload template in System Manager is used to provision.
 * *Auto Generated Tag* is the tag that is tagged by auto detection mechanisms using machine learning. Active IQ can intelligently identify the type of workload running on the volume. Unidentified volumes are tagged as Other.
-* *User Tag* is the tag provided by user manually using tagging feature in workload tagging in Active IQ. Only user tags can be modified or untagged.
+* *User Tag* is the tag provided by the user manually. Only user tags can be modified or untagged.
 
 Workload Tagging UI is built with rich features including advanced filters. Workload Tag table can be filtered using SVM, Volume Name, Tagged Workloads, Application, Protocol and Container. It helps identifying volumes, workloads and choose multiple volumes to tag at once. You can search for a volume by using a pattern that can match between the volume names. You can also download the entire workload tag list.
 

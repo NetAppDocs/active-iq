@@ -21,8 +21,6 @@ There are two main ways to reach the cluster dashboard:
 
 The figure below shows the functionalities and information available from the cluster dashboard.
 
-image:image58.png[image,width=623,height=564]
-
 Cluster Dashboard has the following components:
 
 At the top of the dashboard, the following critical information about the cluster is summarized:
@@ -53,21 +51,4 @@ The information icon on the top of the widget provides additional details about 
 
 *Software Upgrade Recommendations* – This widget does a gap analysis of the different components, including ONTAP, drive firmware, system firmware, and shelf firmware. You can download all the details into a worksheet. You can also click the different components to upgrade the components. ONTAP upgrade recommendation provide the latest and the most modern version of ONTAP that can be upgraded considering the platform checks.
 
-*Cluster Upgrade Advisor* – You can now generate an Upgrade Plan for a cluster from the cluster dashboard page. Click the image:image55.png[image,width=27,height=27] icon to open the screen. All the nodes in a cluster will be upgraded to single ONTAP version. Individual nodes cannot be upgraded to different ONTAP version. Choose between ANDU, NDU, DU or Revert plans and click *Generate* to generate an upgrade plan.
-
-Newly added functionalities to the upgrade plan:
-
-Upgrade Advisor now performs automated interoperability cluster switch checks for a target ONTAP version.
-
-The left navigation of the cluster dashboard enables the user to view the details of information available from the dashboard. Following functionalities are currently available:
-
-[cols=",,",options="header",]
-|============================================================================================================================
-|*Icon* |*Functionality* |*Description*
-| image:performace_icon.png[performance icon] |Performance |This tab enables you to view detailed performance charts of the ONTAP cluster
-| image:upgrade_advisor_icon.png[upgrade advisor icon] |Upgrade Advisor |Enables you to generate an upgrade plan for the cluster
-| image:AutoSupport_icon.png[AutoSupport icon] |AutoSupport |This tab enables you to view all AutoSupports from all the nodes coming from the cluster
-| image:health_icon.png[health icon] |Health |This tab enables you to view details of the risks, end of support hardware, and best practice gaps of the cluster.
-| image:storage_efficiency_icon.png[storage efficiency icon] |Storage |This tab enables you to view the storage efficiency details of the individual nodes within the cluster.
-| image:workload_icon.png[Workload icon] |Workload |This tab enables users to tag volumes within Storage Virtual Machines (SVMs) in ONTAP systems (cluster mode only) with workload details.
-|============================================================================================================================
+*Cases* - The cases widget enables you to view the recent case details of the cluster. You can also download the details of the cases from the top of this widget.

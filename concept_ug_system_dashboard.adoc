@@ -22,6 +22,6 @@ The *System Fitness Dashboard* offers more detailed information and it includes 
 * System Risks and Alerts
 * ONTAP Upgrade Recommendations
 * AutoSupport On Demand enablement
-* Tagged Workloads
+
 
 The left navigation of the dashboard provides access to additional detailed information for the above listed items.
