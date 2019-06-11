@@ -16,9 +16,31 @@ APIs can be written in different languages. The languages that are supported are
 
 Let's look at a sample API. The *getAccessToken* API  is used to generate a new access token using a valid refresh token.
 
+The following is the *getAccessToken* API in *Android*:
+
+|=======================================================================================================
+|import io.swagger.client.api.AccessTokenApi;
+
+public class AccessTokenApiExample {
+
+    public static void main(String[] args) {
+        AccessTokenApi apiInstance = new AccessTokenApi();
+        TokenManageraccessToken tokenManageraccessToken = ; // TokenManageraccessToken |
+        try {
+            tokenManagertokens result = apiInstance.getAccessToken(tokenManageraccessToken);
+            System.out.println(result);
+        } catch (ApiException e) {
+            System.err.println("Exception when calling AccessTokenApi#getAccessToken");
+            e.printStackTrace();
+        }
+    }
+}
+|====================
+
 The following is the *getAccessToken* API in *JavaScript*:
 
-var   ActiveIqPublicApi = require('active_iq_public_api');
+|=======================================================================================================
+|var   ActiveIqPublicApi = require('active_iq_public_api');
 
 var api = new ActiveIqPublicApi.AccessTokenApi()
 
@@ -33,22 +55,4 @@ var callback = function(error, data, response) {
   }
 };
 api.getAccessToken(tokenManageraccessToken, callback);
-
-The following is the *getAccessToken* API in *Python*:
-
-from __future__ import print_statement
-import time
-import swagger_client
-from swagger_client.rest import ApiException
-from pprint import pprint
-
-# create an instance of the API class
-api_instance = swagger_client.AccessTokenApi()
-tokenManageraccessToken =  # TokenManageraccessToken |
-
-try:
-    # Generates a new access token using a valid refresh token.
-    api_response = api_instance.get_access_token(tokenManageraccessToken)
-    pprint(api_response)
-except ApiException as e:
-    print("Exception when calling AccessTokenApi->getAccessToken: %s\n" % e)
+|====================
