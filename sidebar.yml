@@ -65,16 +65,16 @@ entries:
             url: /concept_ug_health.html
           - title: Performance
             url: /concept_ug_performance.html
-          - title: Storage Efficiency
+          - title: Storage
             url: /concept_ug_storage_eff_peer_comparison.html
           - title: AutoSupport Alerts
             url: /concept_ug_autosupport_alert.html
           - title: Upgrade Advisor
             url: /concept_ug_upgrade_advisor.html
-          - title: Interop Advisor
-            url: /concept_ug_interop_advisor.html
           - title: Configuration
             url: /concept_ug_cluster_viewer.html
+          - title: Interop Advisor
+            url: /concept_ug_interop_advisor.html
       - title: API Services
         entries:
           - title: API Services
@@ -99,71 +99,6 @@ entries:
         url: /concept_ug_discovery_dashboard.html
       - title: HCI Expansion Advisor
         url: /concept_ug_hci_expansion_advisor.html
-  - title: Features
-    entries:
-      - title: Watchlists
-        url: /concept_ug_watchlists.html
-      - title: Manual AutoSupport Upload
-        url: /concept_ug_manual_autosupport_upload.html
-      - title: Config Compare with Popular Configuration Templates
-        url: /concept_ug_config_compare_popular_temp.html
-      - title: Customer Dashboard
-        url: /concept_ug_customer_dashboard.html
-        entries:
-      - title: DataCenter View (Beta)
-        url: /concept_ug_datacenter_view.html
-      - title: Storage
-        url: /concept_ug_storage.html
-      - title: Advisories
-        entries:
-          - title: Flash Advisor
-            url: /concept_ug_flash_advisor.html
-          - title: Protection Advisor
-            url: /concept_ug_protection_advisor.html
-          - title: FabricPool Advisor
-            url: /concept_ug_fabricpool.html
-          - title: Performance Guarantee Best Practice Gaps
-            url: /concept_ug_performance_guarantee_bpg.html
-      - title: System Dashboard
-        url: /concept_ug_system_dashboard.html
-      - title: Storage Efficiency Peer Comparison
-        url: /concept_ug_storage_eff_peer_comparison.html
-      - title: Workload
-        url: /concept_ug_workload_tagging.html
-      - title: Performance
-        url: /concept_ug_performance.html
-      - title: Health
-        url: /concept_ug_health.html
-      - title: Interop Advisor
-        url: /concept_ug_interop_advisor.html
-      - title: AutoSupport
-        url: /concept_ug_autosupport_viewer.html
-      - title: Cluster Viewer
-        url: /concept_ug_cluster_viewer.html
-      - title: AutoSupport Alerts
-        url: /concept_ug_autosupport_alert.html
-      - title: Upgrade Advisor
-        url: /concept_ug_upgrade_advisor.html
-      - title: Cluster Dashboard
-        url: /concept_ug_cluster_dashboard.html
-      - title: HCI Expansion Advisor
-        url: /concept_ug_hci_expansion_advisor.html
-      - title: Reports
-        url: /concept_ug_reports.html
-      - title: Discovery Dashboard
-        url: /concept_ug_discovery_dashboard.html
-      - title: API Services
-        entries:
-          - title: API Services
-            url: /concept_ug_api_services.html
-          - title: Accessing API Services
-            url: /task_ug_api_accessing_api_services.html
-          - title: Generating Tokens
-            url: /task_ug_api_generating_tokens.html
-          - title: Using APIs
-            url: /task_ug_api_using_APIs.html
-          - title: Programmatically create new access tokens using refresh token
-            url: /task_ug_api_create_new_access_token.html
   - title: Reports
     entries:
       - title: Reports Overview
