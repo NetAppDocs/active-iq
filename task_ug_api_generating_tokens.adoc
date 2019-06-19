@@ -12,11 +12,16 @@ summary: Provides information to generate tokens to access API services.
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-You must generate an access and a refresh token to use the APIs listed. Before generating an access and a refresh token, you must request for access and ensure that you have been provided the required permissions to generate the tokens.
+Once you have been authorized to use the Active IQ APIs, you will need to generate a set of tokens to be able to make API calls. Tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
+There are two ways to get a new token set: You can generate through the Active IQ web portal, or you can generate using an API.
+
+To generate through the web portal:
 
 1. On the *API Services* page, click *Generate tokens*.
 
-image:concept_ug_api_services_accessing.png[image,width=202,height=280]
+image:concept_ug_api_services_token.png[image,width=202,height=280]
+
+The portal gives you multiple ways to save one or both tokens in the set. You can copy to the clipboard, download as a text file, or view it as plain text.
 
 [start=2]
 2. Provide the login credentials, if prompted.
@@ -24,7 +29,7 @@ On successful authentication, the access token and refresh token are provided to
 
 image:api_service_generate_token.png[image,width=202,height=280]
 
-NOTE: API services provide an API to generate new tokens using a valid refresh token. The refresh token used in this API call will be invalidated after a new refresh token is generated.
+You can also generate a token set using a valid refresh token with the “Access Token” API from the *Token Generation* section of the API Catalog.
 
-[start=3]
-3. Use the access token generated to call the API Services catalog. For more information, see link:task_ug_api_using_APIs.html#<UsingAPIs>[Using APIs].
+NOTE: 1. The refresh token used in this API call will be invalidated after a new refresh token is generated.
+      2. An access token expires after one hour and a refresh token expires after 7 days. When the Refresh Token expires, a new token set must be obtained through the web portal to be able to make API calls again.

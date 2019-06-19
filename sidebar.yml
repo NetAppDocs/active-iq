@@ -77,18 +77,20 @@ entries:
             url: /concept_ug_interop_advisor.html
       - title: API Services
         entries:
-          - title: API Services
+          - title: Overview
             url: /concept_ug_api_services.html
-          - title: Getting Started (Sample API)
-            url: /concept_ug_api_getting_started_sample_api.html
-          - title: Accessing API Services
+          - title: Gaining Access
             url: /task_ug_api_accessing_api_services.html
-          - title: Generating Tokens
+          - title: Tokens
             url: /task_ug_api_generating_tokens.html
-          - title: Using APIs
-            url: /task_ug_api_using_APIs.html
-          - title: Programmatically create new access tokens using refresh token
-            url: /task_ug_api_create_new_access_token.html
+          - title: API Catalog
+            url: /concept_ug_api_api_catlog.html
+          - title: Code Examples
+            entries:
+              - title: getAccessToken
+                url: /concept_ug_api_code_example1.html
+              - title: getEfficiencySummaryByLevel
+                url: /concept_ug_api_code_example2.html  
       - title: AutoSupport Upload
         url: /concept_ug_manual_autosupport_upload.html
       - title: Reports

@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, API services. sample API
 summary: Provides a sample API in different languages to help you get started.
 ---
 
-= Getting Started (Sample API)
+= Code Examples
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -13,46 +13,3 @@ summary: Provides a sample API in different languages to help you get started.
 :imagesdir: ./media/UserGuide
 
 APIs can be written in different languages. The languages that are supported are Curl, Java, Android, Obj-C, JavaScript, C#, PHP, Perl, and Python.
-
-Let's look at a sample API. The *getAccessToken* API  is used to generate a new access token using a valid refresh token.
-
-The following is the *getAccessToken* API in *Android*:
-
-----
-import io.swagger.client.api.AccessTokenApi;
-
-public class AccessTokenApiExample {
-
-    public static void main(String[] args) {
-        AccessTokenApi apiInstance = new AccessTokenApi();
-        TokenManageraccessToken tokenManageraccessToken = ; // TokenManageraccessToken |
-        try {
-            tokenManagertokens result = apiInstance.getAccessToken(tokenManageraccessToken);
-            System.out.println(result);
-        } catch (ApiException e) {
-            System.err.println("Exception when calling AccessTokenApi#getAccessToken");
-            e.printStackTrace();
-        }
-    }
-}
-----
-
-
-The following is the *getAccessToken* API in *JavaScript*:
-----
-var   ActiveIqPublicApi = require('active_iq_public_api');
-
-var api = new ActiveIqPublicApi.AccessTokenApi()
-
-var tokenManageraccessToken = ; // {TokenManageraccessToken}
-
-
-var callback = function(error, data, response) {
-  if (error) {
-    console.error(error);
-  } else {
-    console.log('API called successfully. Returned data: ' + data);
-  }
-};
-api.getAccessToken(tokenManageraccessToken, callback);
-----
