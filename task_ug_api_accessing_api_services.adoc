@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, API services, accessing
 summary: Provides information to request for authorization to use API services.
 ---
 
-= Accessing API Services
+= Gaining Access
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -13,6 +13,7 @@ summary: Provides information to request for authorization to use API services.
 :imagesdir: ./media/UserGuide
 
 Gaining access and pulling data from the Active IQ APIs is very simple. To gain access to the APIs, the user needs to:
+
 1. Request access
 2. Receive authorization
 

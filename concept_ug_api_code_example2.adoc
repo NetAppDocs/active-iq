@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: concept_ug_api_code_example1.html
+permalink: concept_ug_api_code_example2.html
 keywords: Active IQ, user guide, API services. sample API
 summary: Provides example of APIs written in different languages
 ---
