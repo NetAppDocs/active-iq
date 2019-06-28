@@ -12,6 +12,6 @@ summary: Provides information about accessing my reports.
 :linkattrs:
 :imagesdir: ./media/myreportsuserguide
 
-Reports can be accessed from Active IQ launch page by clicking the *Reports* link in top menu.
+Reports can be accessed from Active IQ launch page by clicking the *Reports* link from the top menu.
 
 image:left_drop_down_menu.png[image,width=621,height=83]
