@@ -17,9 +17,11 @@ The *System Fitness Dashboard* offers more detailed information and it includes 
 * Configuration
 * Capacity Forecasting
 * Performance Chart
+* Health
 * Storage Efficiency Ratio
 * System Risks and Alerts
 * ONTAP Upgrade Recommendations
 * AutoSupport On Demand enablement
 
-The left side of the dashboard provides access to additional detailed information for the above listed items and more, some of which are described later in this document.
+
+The left navigation of the dashboard provides access to additional detailed information for the above listed items.

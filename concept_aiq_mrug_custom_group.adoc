@@ -18,24 +18,15 @@ image:create_watchlist.png[image,width=397,height=201]
 
 NOTE: Currently, there is no direct way to create a watchlist from the *Reports* tab. To create a watchlist for a report, click the *Reports* tab on the top menu of Active IQ. Once you have created a Watchlist, you can then use it from the *Reports* tab for generating a report. This is the only way to have newly created Watchlists appear in the list of available groups available for reports.
 
-image:watchlist_icon.png[image,width=525,height=89]
-
 While creating a watchlist, you have two options:
 
 .Steps
-. Search for a customer or site name and include the serial numbers for that customer/site for creating the watchlist
-. Include a list of serial numbers in the *Serial Numbers* text box to create a watchlist with that list of serial numbers.
+1.  Search for a customer or site name and include the serial numbers for that customer/site for creating the watchlist.
+2.  Include a list of serial numbers in the *Serial Numbers* text box to create a watchlist with that list of serial numbers.
 
 Once you select one of the above options, the serial numbers are validated against the installed base, and you get a success or error depending on whether there is a match against specified serial numbers.
 
-Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to.
-
-image:watchlist_generate_report.png[image,width=513,height=119]
-
-System will display a message indicating the status of report submission (success/failure).
-
-image:watchlist_generate_report_success.png[image,width=221,height=52]
-
-Once Report is submitted, you can check report dashboard page for status of report execution.
-
-image:watchlist_generated_reports_dashboard.png[image,width=618,height=269]
+[start=3]
+3.  Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to.
+4.  System will display a message indicating the status of report submission (success/failure).
+5.  Once Report is submitted, you can check report dashboard page for status of report execution.

@@ -5,17 +5,19 @@ keywords: Active IQ, user guide, API services
 summary: Provides an overview of the API services feature.
 ---
 
-= API Services
+= Overview
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-Active IQ provides actionable insights through a variety of widgets and dashboards. APIs allow users to programmatically access this data and integrate it into a workflow of their choice. You must request for access to use API services.
+Using the Active IQ APIs, you’ll be able to pull data of interest and integrate it directly into your company’s workflow, viewing it when and how you want to see it. This type of automation and integration can add efficiency to your business and allow you to focus on the items of most importance to you. Your use-case may involve automating ticket creation to track needed work items to completion, or it may be to create an internal dashboard of key parameters, or perhaps something entirely unique to the way your business operates.
 
-API services is accessible from the top menu of Active IQ.
+== Types of Data Available
 
-image:left_drop_down_menu.png[image,width=205,height=279]
+Even prior to authorization, a user can browse through the available _API Catalog_ to see what types of data are offered through the service. The Catalog contains broad categories such as Capacity, Efficiency, and Health. Inside each category there are individual APIs that can be used to pull a specific set of data from within that broad category. The API Catalog also shows the construction of the query as well as the specifics of what is returned.
 
-image:image68.png[image,width=624,height=160]
+== Using the APIs
+
+Once authorized, a user can leverage tokens to make queries and retrieve data. It is also possible to test out an API from within the API Catalog to see first-hand how the query works and the type of data that is returned. This is a great way to make sure you understand how an API will work prior to building out the code framework in your system.

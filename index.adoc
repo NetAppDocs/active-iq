@@ -11,7 +11,7 @@ summary: Active IQ Documentation.
 :linkattrs:
 :imagesdir: ./media/
 
-NetApp Active IQ is a cloud based service that provides predictive analytics and proactive support to optimize operations across the NetApp hybrid cloud.
+NetApp® Active IQ® intelligence engine is a cloud based service that provides predictive analytics and proactive support to optimize operations across the NetApp hybrid cloud.
 
 == Get Started
 

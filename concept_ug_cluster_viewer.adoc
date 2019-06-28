@@ -5,13 +5,21 @@ keywords: Active IQ, user guide, cluster viewer
 summary: Provides an overview of the cluster viewer feature.
 ---
 
-= Cluster Viewer 
+= Cluster Viewer
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-From the *Cluster* and node dashboards and the *AutoSupport* viewer, you will now see a link to view configuration details, called Cluster Viewer. Cluster Viewer enables you to see detailed physical and logical configuration details. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the configuration, stack diagram, the network interfaces, a summary of SVMs & aggregates, volume and LUN information, and a few visualizations. Visualization is the graphical view available of how the system is cabled showing connectivity between controllers and shelves. The details available from *Cluster Viewer* are downloadable in DOC, XLS, and PDF. Note that the graphical view download is currently separate from the download of all the tables.
+From the *Cluster* and node dashboards, and *AutoSupport*, you will now see a link to view configuration details, called Cluster Viewer. Cluster Viewer enables you to see detailed physical and logical configuration details. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the configuration, stack diagram, the network interfaces, a summary of SVMs & aggregates, volume and LUN information, and a few visualizations. Visualization is the graphical view available of how the system is cabled showing connectivity between controllers and shelves. The details available from *Cluster Viewer* are downloadable in DOC, XLS, and PDF. Note that the graphical view download is currently separate from the download of all the tables.
 
-image:image50.png[image,width=623,height=36]
+=== Type of visualizations
+
+image:image51.png[image,width=165,height=153]
+
+=== Sample Cable Visualization
+
+You can view the cable visualization to see details of how the cluster is cabled. You can zoom in or out; there are also options to select parts of the visualization. Additionally, you can export the visualization in SVG, which can then be edited in Visio.
+
+image:image52.png[image,width=623,height=188]

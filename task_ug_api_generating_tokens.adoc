@@ -1,0 +1,36 @@
+---
+sidebar: sidebar
+permalink: task_ug_api_generating_tokens.html
+keywords: Active IQ, API services, generating tokens, access token, refresh token
+summary: Provides information to generate tokens to access API services.
+---
+
+= Tokens
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+Once you have been authorized to use the Active IQ APIs, you will need to generate a set of tokens to be able to make API calls. Tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
+
+There are two ways to get a new token set: You can generate through the Active IQ web portal, or you can generate using an API.
+
+To generate through the web portal:
+
+1. On the *API Services* page, click *Generate tokens*.
+
+image:concept_ug_api_services_token.png[image,width=202,height=280]
+
+The portal gives you multiple ways to save one or both tokens in the set. You can copy to the clipboard, download as a text file, or view it as plain text.
+
+[start=2]
+2. Provide the login credentials, if prompted.
+On successful authentication, the access token and refresh token are provided to invoke APIs. You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
+
+image:api_service_generate_token.png[image,width=202,height=280]
+
+You can also generate a token set using a valid refresh token with the “Access Token” API from the *Token Generation* section of the API Catalog.
+
+NOTE: 1. The refresh token used in this API call will be invalidated after a new refresh token is generated.
+      2. An access token expires after one hour and a refresh token expires after 7 days. When the Refresh Token expires, a new token set must be obtained through the web portal to be able to make API calls again.

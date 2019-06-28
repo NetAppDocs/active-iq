@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: concept_ug_api_api_catlog.html
+keywords: Active IQ, user guide, API services, API catalog
+summary: Provides an overview of the API services catalog eature.
+---
+
+= API Catalog
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+The API Catalog is where you can browse through the categories and available APIs within each of those categories. Using a valid Access Token, and correct inputs for the other required fields, a user can make a test call using an API.
+
+image:concept_ug_api_catalog.png[image,width=202,height=280]
+
+Some APIs may be deprecated, which means that users should work to shift away from using those APIs soon, as they have been replaced with newer versions. Roughly six months after an API is deprecated, it will be removed from service. When one API is replaced by a newer one, you will see that reflected in the version number at the beginning of the API:
+
+image:concept_ug_api_deprecated.png[image,width=202,height=280]
+
+To try out an API directly from the API Catalog, click on the API, which will open a more detailed section. Click “Try it out” to input the token, along with other required fields. Once valid entries have been made in the fields, click *Execute* to see a return of results.
+For the Field called “level,” the user must *literally* enter one of the values specified. That is, the user can only enter the words “customer,” “site,” “group,” or “serial_numbers.”
+
+image:concept_ug_api_execute.png[image,width=202,height=280]
+
+Users can also examine the *Responses* section of the API to better understand the data that will be returned. You can click on *Example Value* to see the format of the data or click on *Model*,” and by clicking on the carets to expand the sections, see the definitions of each element.

@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, manual autosupport upload
 summary: Provides an overview of the manual AutoSupport upload feature
 ---
 
-= Manual AutoSupport Upload
+= AutoSupport Upload
 :hardbreaks:
 :nofooter:
 :icons: font

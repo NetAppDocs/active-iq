@@ -22,8 +22,4 @@ image:scheduling_reports.png[image,width=350,height=195]
 
 System will provide a message to you indicating the status of report scheduling (success/failure).
 
-image:watchlist_generate_report_success.png[image,width=558,height=109]
-
 Once report is successfully scheduled, you can check report dashboard page for status of report execution. You can download completed reports using download link against each report output.
-
-image:watchlist_generated_reports_dashboard.png[image,width=620,height=191]

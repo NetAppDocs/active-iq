@@ -19,14 +19,13 @@ Active IQ is a family of cloud-based services that combine AutoSupport telemetry
 [cols=",",options="header",]
 |=======================================================================================================
 |Active IQ Web Portal |https://mysupport.netapp.com/myautosupport/home.html[https://activeiq.netapp.com]
-|Active IQ Mobile App Download |
-|Apple App Store |https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8
-|Google Play |https://play.google.com/store/apps/details?id=com.netapp.myautosupport
+|Active IQ Mobile App Download (iOS) |https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8
+|Active IQ Mobile App Download (Android) |https://play.google.com/store/apps/details?id=com.netapp.myautosupport
 |=======================================================================================================
 
 NOTE: You must have valid NetApp Support site credentials to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
 
-Active IQ shows systems with a valid support contract. If contracts expire, there is a grace period of 90 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
+Active IQ displays systems with a valid support contract. If contracts expire, there is a grace period of 90 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
 
 === Documentation, Feedback, and Support
 

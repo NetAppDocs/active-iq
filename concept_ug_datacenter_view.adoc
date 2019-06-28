@@ -14,6 +14,6 @@ summary: Provides an overview of the cases widget feature.
 
 DataCenter View provides inventory of hosts and switches collected and uploaded using https://mysupport.netapp.com/tools/info/ECMLP2671381I.html?productID=62128&pcfContentID=ECMLP2671381[NetApp Active IQ OneCollect], discovers the operating system, capacity, connected storage, applications running on the host, and enables to perform interoperability check with the current configurations.
 
-*Host Discovery Dashboard* uses hosts, switches and storage AutoSupport information that are collected and uploaded using OneCollect.
+*Host Discovery Dashboard* uses hosts, switches, and storage AutoSupport information that are collected and uploaded using OneCollect.
 
 image:image22.png[image,width=508,height=263]

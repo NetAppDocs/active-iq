@@ -5,14 +5,14 @@ keywords: Active IQ, user guide, AutoSupport Viewer
 summary: Provides an overview of the AutoSupport Viewer feature.
 ---
 
-= AutoSupport Viewer
+= AutoSupport
 :hardbreaks:
 :nofooter:
 :icons: font
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-With the *AutoSupport Viewer* you can view full AutoSupport details, including weekly AutoSupport logs. The left panel contains a menu that lists all the subsections of an AutoSupport message. The most commonly used AutoSupport sections appear at the top, and the rest of the sections are listed in alphabetical order. This is a good place to selectively view individual AutoSupport sections without going through the entire AutoSupport message.
+With *AutoSupport* you can view full AutoSupport details, including weekly AutoSupport logs. The left panel contains a menu that lists all the subsections of an AutoSupport message. The most commonly used AutoSupport sections appear at the top, and the rest of the sections are listed in alphabetical order. This is a good place to selectively view individual AutoSupport sections without going through the entire AutoSupport message.
 
 By default, wherever available, the sysconfig –a section of the latest weekly AutoSupport message is displayed.
 
