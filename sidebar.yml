@@ -90,7 +90,7 @@ entries:
               - title: getAccessToken
                 url: /concept_ug_api_code_example1.html
               - title: getEfficiencySummaryByLevel
-                url: /concept_ug_api_code_example2.html  
+                url: /concept_ug_api_code_example2.html
       - title: AutoSupport Upload
         url: /concept_ug_manual_autosupport_upload.html
       - title: Reports
