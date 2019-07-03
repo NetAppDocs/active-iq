@@ -14,11 +14,11 @@ summary: Provides an FAQ on API services.
 
 == What is an Access Token? Why do I need a Refresh Token?
 
-An access token is a character string, that when added to an API query, allows a user to successfully be authenticated and receive a response back from Active IQ. The refresh token can be used in a specific API query to obtain a new access token, either before or after the current access token has expired.
+An access token is a character string, that when added to an API query, authenticates the user and receives a response from Active IQ. The refresh token can be used in a specific API query to obtain a new access token, either before or after the current access token has expired.
 
 == For how long are tokens valid?
 
-The access token expires after 1 hour and the refresh token expires after 7 days. For information on generating a new set to tokens, click link:task_ug_api_generating_tokens.html[here].
+The access token expires after 1 hour and the refresh token expires after 7 days. For information on generating new set to tokens, click link:task_ug_api_generating_tokens.html[here].
 
 == How do I know if my token has expired?
 
