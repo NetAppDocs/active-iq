@@ -7,6 +7,44 @@ entries:
     url: /concept_aiq_ug_getting_started.html
   - title: Features
     entries:
+      - title: API Services
+        entries:
+          - title: Overview
+            url: /concept_ug_api_services.html
+          - title: Gaining Access
+            url: /task_ug_api_accessing_api_services.html
+          - title: Tokens
+            url: /task_ug_api_generating_tokens.html
+          - title: API Catalog
+            url: /concept_ug_api_api_catlog.html
+          - title: Code Examples
+            entries:
+              - title: getAccessToken
+                url: /concept_ug_api_code_example1.html
+              - title: getEfficiencySummaryByLevel
+                url: /concept_ug_api_code_example2.html
+          - title: FAQs
+            url: /reference_aiq_api_FAQ.html
+      - title: AutoSupport Upload
+        url: /concept_ug_manual_autosupport_upload.html
+      - title: Cluster
+        entries:
+          - title: Dashboard
+            url: /concept_ug_cluster_dashboard.html
+          - title: Performance
+            url: /concept_ug_performance.html
+          - title: Upgrade Advisor
+            url: /concept_ug_upgrade_advisor.html
+          - title: AutoSupport
+            url: /concept_ug_autosupport_viewer.html
+          - title: Health
+            url: /concept_ug_health.html
+          - title: Storage
+            url: /concept_ug_storage_eff_peer_comparison.html
+          - title: Workload
+            url: /concept_ug_workload_tagging.html
+          - title: Configuration
+            url: /concept_ug_cluster_viewer.html
       - title: Customer
         entries:
           - title: Dashboard
@@ -37,24 +75,12 @@ entries:
             url: /concept_ug_datacenter_view.html
           - title: Storage
             url: /concept_ug_storage.html
-      - title: Cluster
-        entries:
-          - title: Dashboard
-            url: /concept_ug_cluster_dashboard.html
-          - title: Performance
-            url: /concept_ug_performance.html
-          - title: Upgrade Advisor
-            url: /concept_ug_upgrade_advisor.html
-          - title: AutoSupport
-            url: /concept_ug_autosupport_viewer.html
-          - title: Health
-            url: /concept_ug_health.html
-          - title: Storage
-            url: /concept_ug_storage_eff_peer_comparison.html
-          - title: Workload
-            url: /concept_ug_workload_tagging.html
-          - title: Configuration
-            url: /concept_ug_cluster_viewer.html
+      - title: Discovery Dashboard
+        url: /concept_ug_discovery_dashboard.html
+      - title: HCI Expansion Advisor
+        url: /concept_ug_hci_expansion_advisor.html
+      - title: Reports
+        url: /concept_ug_reports.html
       - title: System
         entries:
           - title: Dashboard
@@ -75,32 +101,8 @@ entries:
             url: /concept_ug_cluster_viewer.html
           - title: Interop Advisor
             url: /concept_ug_interop_advisor.html
-      - title: API Services
-        entries:
-          - title: Overview
-            url: /concept_ug_api_services.html
-          - title: Gaining Access
-            url: /task_ug_api_accessing_api_services.html
-          - title: Tokens
-            url: /task_ug_api_generating_tokens.html
-          - title: API Catalog
-            url: /concept_ug_api_api_catlog.html
-          - title: Code Examples
-            entries:
-              - title: getAccessToken
-                url: /concept_ug_api_code_example1.html
-              - title: getEfficiencySummaryByLevel
-                url: /concept_ug_api_code_example2.html
-      - title: AutoSupport Upload
-        url: /concept_ug_manual_autosupport_upload.html
-      - title: Reports
-        url: /concept_ug_reports.html
       - title: Watchlists
         url: /concept_ug_watchlists.html
-      - title: Discovery Dashboard
-        url: /concept_ug_discovery_dashboard.html
-      - title: HCI Expansion Advisor
-        url: /concept_ug_hci_expansion_advisor.html
   - title: Reports
     entries:
       - title: Reports Overview
