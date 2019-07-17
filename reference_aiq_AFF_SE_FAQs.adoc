@@ -143,4 +143,4 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 
 == How do I provide feedback or ask other questions related to the calculator?
 
-For feedback or questions, send an email to mailto:ng-storeff-asup@netapp.com[[.underline]#ng-storeff-asup@netapp.com#]
+For feedback or questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]
