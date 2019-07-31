@@ -16,4 +16,4 @@ This functionality enables you to submit AutoSupport messages from ONTAP and E-S
 
 image:left_drop_down_menu.png[image,width=195,height=400]
 
-For information on collecting AutoSupport bundle, click https://kb.netapp.com/app/answers/answer_view/a_id/1029812/loc/en_US[How to manually send AutoSupport messages to NetApp^].
+For information on collecting AutoSupport bundle, see the KB article: https://kb.netapp.com/app/answers/answer_view/a_id/1029812/loc/en_US[How to manually send AutoSupport messages to NetApp^].
