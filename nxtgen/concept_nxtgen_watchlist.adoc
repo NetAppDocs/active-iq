@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: concept_nxtgen_watchlist.html
+keywords: Active IQ, user guide, watchlists
+summary: Provides an overview of the Watchlists feature
+---
+
+= Watchlists
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+
+Watchlists enable you to access preselected systems inside Active IQ quickly and easily.
+
+Watchlists are accessible from top menu and enable you to group systems within or across customers.
+
+image:left_drop_down_menu.png[Watchlist dashboard page]
+
+With this functionality, you can group up to 5,000 systems in a single watchlist. Enter a list name and the serial numbers of the systems you would like to include in the Watchlists dialog box and click Submit. The lists enable inclusion of systems you are entitled to access. After the Watchlist is saved, click the list name link for details.
+
+*NEW*: Watchlists also enables you to add systems from one or more customers. When this is done, there is no need to update the list of systems belonging to these customers when systems get added or removed from the customers’ installed base. This is a significant productivity savings over adding systems using serial numbers. You can add as many customers as you need to as long as the total number of systems is within 5,000.
+
+See link:concept_aiq_mrug_custom_group.html#<Watchlist>[Watchlist] in the *Reports* feature to learn more about reports you can generate using systems in a Watchlist.
