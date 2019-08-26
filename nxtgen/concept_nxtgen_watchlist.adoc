@@ -24,3 +24,5 @@ With this functionality, you can group up to 5,000 systems in a single watchlist
 *NEW*: Watchlists also enables you to add systems from one or more customers. When this is done, there is no need to update the list of systems belonging to these customers when systems get added or removed from the customers’ installed base. This is a significant productivity savings over adding systems using serial numbers. You can add as many customers as you need to as long as the total number of systems is within 5,000.
 
 See link:concept_aiq_mrug_custom_group.html#<Watchlist>[Watchlist] in the *Reports* feature to learn more about reports you can generate using systems in a Watchlist.
+
+Checking for sample
