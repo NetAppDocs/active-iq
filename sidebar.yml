@@ -11,6 +11,8 @@ entries:
         entries:
           - title: Dashboard
             url: /concept_ug_customer_dashboard.html
+              - title: Value Report
+                url: /concept_aiq_value_report.html
           - title: My Systems
             url: /concept_ug_customer_my_systems.html
           - title: Upgrade Advisor
