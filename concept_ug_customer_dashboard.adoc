@@ -49,7 +49,7 @@ It displays:
 
 image:support_contract_renewal.png[support contract renewal]
 
-You can click  *Value Report* to view the benefits you have received from Active IQ and your support contract. For more information about value reports, click link:concept_aiq_value_report.html[here].
+You can click *Value Report* to view the benefits you have received from Active IQ and your support contract. For more information about value reports, click link:concept_aiq_value_report.html[here].
 
 === End of Support (EOS) Hardware (ONTAP) Widget
 
