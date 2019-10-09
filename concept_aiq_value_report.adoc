@@ -47,7 +47,7 @@ Proactive risk notifications fall in following categories:
 * Security
 * Performance and Efficiency
 * Capacity
-* Availability and protection.
+* Availability and protection
 
 NetApp makes significant ongoing investments to proactively detect risks in your environment. After detecting these risks, we classify risks by impact and notify you how to mitigate these risks. To further help with mitigation, Active IQ will show whether the mitigation is non-disruptive (for example, a simple configuration change) or disruptive (for example, a major upgrade) so that you can better plan your mitigation.
 
