@@ -41,6 +41,7 @@ If you have few days till the earliest contract renewal, you should contact Supp
 * Total risks signatures checked
 * System risks mitigated – each of these mitigated risks equate to a problem that you avoided.
 
+[.lead]
 Proactive risk notifications fall in following categories:
 
 * Configuration
