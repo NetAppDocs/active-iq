@@ -17,6 +17,7 @@ DataCenter View provides information and insights that are beneficial for troubl
 image:datacenter_view_process.png[image,width=508,height=263]
 
 After customer uploads OneCollect data to Active IQ, in this Datacenter View you can see:
+
 * Summary of hosts and switches connected to NetApp storage
 * Automated interoperability checks between hosts and storage
 * Data protection visualization of hosts, applications, and NetApp storage

@@ -37,6 +37,7 @@ When you renew the support contract, you will be able to leverage the latest sof
 
 If you have few days till the earliest contract renewal, you should contact Support Contract Renewal team through the support renewal capability in your Active IQ dashboard or reach out to your contact for NetApp systems.
 |Proactive System Risks |In this section of the Value Report, you will see a summary of the following for selected systems:
+
 * Total risks signatures checked
 * System risks mitigated – each of these mitigated risks equate to a problem that you avoided.
 
