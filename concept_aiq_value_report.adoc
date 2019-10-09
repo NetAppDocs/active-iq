@@ -15,7 +15,7 @@ summary: Provides an overview of the value report feature.
 The value report is a summary of benefits you received through Active IQ and your support contract.
 For selected systems, the value report consolidates the following benefits from last one year.
 
-[cols=",",options="header",]
+[%autowidth.spread,cols=",",options="header",]
 |========================================================================================================================================
 |Components of value report |What does value report show and why should you care?
 |Support cases opened and resolved |This component summarizes all support cases that were resolved during the last year, for selected systems. Resolution of support cases is one of the biggest benefits you receive from your support contract. NetApp invests significantly in enhancing its product telemetry and support automation capabilities. As a result, you see improvements in resolution time for cases as NetApp narrows down issues faster and ensures support cases are handled most efficiently by NetApp Support personnel.
