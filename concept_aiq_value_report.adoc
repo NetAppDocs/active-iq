@@ -12,7 +12,7 @@ summary: Provides an overview of the value report feature.
 :linkattrs:
 :imagesdir: ./media/UserGuide
 
-The value report is a summary of benefits you received through Active IQ and your Support Contract.
+The value report is a summary of benefits you received through Active IQ and your support contract.
 For selected systems, the value report consolidates the following benefits from last one year.
 
 [cols=",",options="header",]
@@ -24,7 +24,7 @@ For selected systems, the value report consolidates the following benefits from 
 
 Software upgrades help improve system reliability and it turn better serves your business applications. Additionally, software upgrades also allow you take advantage of newer features and functionalities.
 
-If you have a valid Support contract, you continue to receive newer and better software for your systems.
+If you have a valid support contract, you continue to receive newer and better software for your systems.
 |Unique applications detected |This value shows applications detected for selected systems using signatures, heuristics, and other advanced algorithms applied by NetApp to your system telemetry.
 
 This information is valuable for determining which applications are being served using systems included in the Value Report and helps you make more informed decisions while you are deciding whether to renew support contracts.
