@@ -49,6 +49,8 @@ entries:
         entries:
           - title: Dashboard
             url: /concept_ug_customer_dashboard.html
+          - title: Value Report
+            url: /concept_aiq_value_report.html
           - title: My Systems
             url: /concept_ug_customer_my_systems.html
           - title: Upgrade Advisor
@@ -127,5 +129,7 @@ entries:
         url: /reference_aiq_srd_reporting_mitigation.html
       - title: AFF Storage Efficiency
         url: /reference_aiq_AFF_SE_FAQs.html
+      - title: Sample
+        url: /concept_nxtgen_sample.html
   - title: Legal notices
     url: /reference_legalnotices.html

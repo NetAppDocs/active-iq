@@ -49,6 +49,8 @@ It displays:
 
 image:support_contract_renewal.png[support contract renewal]
 
+You can click *Value Report* to view the benefits you have received from Active IQ and your support contract. For more information about value reports, click link:concept_aiq_value_report.html[here].
+
 === End of Support (EOS) Hardware (ONTAP) Widget
 
 End of Support Widget shows the list of systems that are reaching the end of support. User can request upgrade of systems by selecting systems and clicking on mail icon. Select the download arrow on the upper right corner to download a detail list of end of support systems including shelves and drives.
