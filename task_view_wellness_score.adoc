@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_wellness_score.html
+keywords: wellness score, performance, efficiency
+summary: Provides information to view the wellness score of your storage system.
+---
+
+= View wellness score of your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view the wellness score of your storage system:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

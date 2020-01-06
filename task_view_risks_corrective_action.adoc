@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_risks_corrective_action.html
+keywords: risks, remediation, corrective action
+summary: Provides information to view the risks and take corrective actions.
+---
+
+= View the risks and take corrective actions
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view the risks and take corrective actions:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_inventory.html
+keywords: view inventory, inventory
+summary: Provides information to view the different types of inventory.
+---
+
+= View the different types of inventory
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view the different types of inventory:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

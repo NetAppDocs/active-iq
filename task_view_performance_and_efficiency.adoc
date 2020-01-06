@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_performance_and_efficiency.html
+keywords: performance, efficiency, view performance, view efficiency
+summary: Provides information to view the performance and efficiency of your storage system.
+---
+
+= View the performance and efficiency of your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view the performance and efficiency of your storage system:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_add_watchlist.html
+keywords: dashboard, watchlist, add watchlist
+summary: Provides information to add a watchlist to the dashboard.
+---
+
+= Add a watchlist to the dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to add a watchlist:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

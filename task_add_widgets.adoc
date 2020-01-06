@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_add_widgets.html
+keywords: dashboard, widget, add widgets
+summary: Provides information to add a widget or widgets to the dashboard.
+---
+
+= Add a widget to the dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to add a widget:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

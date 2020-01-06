@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_overview_inventory.html
+keywords: overview, inventory
+summary: Provides information about the different types of inventory.
+---
+
+= Inventory overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_protect_storage_system.html
+keywords: protect, storage system
+summary: Provides information to protect your storage system.
+---
+
+= Protect your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to protect your storage system:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

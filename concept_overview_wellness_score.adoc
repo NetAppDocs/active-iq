@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_overview_wellness_score.html
+keywords: overview, wellness score, performance, configuration, renewal, risk, remediation
+summary: Provides information about the wellness score, which helps you to improve your storage system.
+---
+
+= Wellness score overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]

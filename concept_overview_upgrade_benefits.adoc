@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_overview_upgrade_benefits.html
+keywords: overview, upgrade, types of upgrade, benefits
+summary: Provides information about the different types of upgrade and the benefits of upgrading.
+---
+
+= Upgrade overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]

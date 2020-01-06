@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_renew_software_and_hardware.html
+keywords: renew, hardware, software
+summary: Provides information to renew the software and hardware of your storage system.
+---
+
+= Renew the software and hardware of your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to renew the software and hardware of your storage system:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

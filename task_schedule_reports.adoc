@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_schedule_reports.html
+keywords: schedule reports, scheduling, reports
+summary: Provides information to schedule reports in Active IQ.
+---
+
+= Schedule reports
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to schedule reports:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

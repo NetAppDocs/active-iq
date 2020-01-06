@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_risks_remediated_unified_manager.html
+keywords: risks, remediation, corrective action, unified manager
+summary: Provides information to view the risks that can be automatically remediated using Unified Manager.
+---
+
+= View risks that can be automatically remediated using Unified Manager
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view risks that can be automatically remediated using Unified Manager:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

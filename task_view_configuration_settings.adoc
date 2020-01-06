@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_configuration_settings.html
+keywords: configuration, settings, view configuration, view settings
+summary: Provides information to view the configuration settings of your storage system.
+---
+
+= View the configuration settings of your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view the configuration settings of your storage system:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

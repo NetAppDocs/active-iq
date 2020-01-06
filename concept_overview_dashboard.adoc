@@ -1,0 +1,19 @@
+---
+sidebar: sidebar
+permalink: concept_overview_dashboard.html
+keywords: overview, provision, dashboard, widget, watchlist
+summary: Provides information about the dashboard, watchlists, and the widgets.
+---
+
+= Dashboard overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+Watchlists enable you to access preselected systems inside Active IQ quickly and easily. Watchlists also enables you to add systems from one or more customers. When this is done, there is no need to update the list of systems belonging to these customers when systems get added or removed from the customers’ installed base. This is a significant productivity savings over adding systems using serial numbers. You can add as many customers as you need to as long as the total number of systems is within 5,000.

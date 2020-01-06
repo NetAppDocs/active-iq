@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: task_login_activeiq.html
+keywords: login, log in
+summary: Provides information to log in to Active IQ.
+---
+
+= Log into Active IQ
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to log into Active IQ:
+
+.Step
+. Access Active IQ Web Portal by clicking link:https://activeiq.netapp.com[here].
++
+You must have a valid NetApp Support site credential to log in. If you do not have an account and are getting started, click link:https://mysupport.netapp.com/info/web/ECMP1150550.html[here].
+Active IQ shows systems with a valid support contract. If contracts expire, there is a grace period of 90 days in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ.
+. Provide your username and password and click *Sign In*.

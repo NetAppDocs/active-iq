@@ -3,122 +3,72 @@ entries:
     url: /index.html
   - title: Overview
     url: /concept_aiq_ug_overview.html
-  - title: Getting Started with Active IQ
-    url: /concept_aiq_ug_getting_started.html
-  - title: Features
+  - title: Log into Active IQ
+    url: /task_login_activeiq.html
+  - title: Provisioning the dashboard
     entries:
-      - title: Customer
-        entries:
-          - title: Dashboard
-            url: /concept_ug_customer_dashboard.html
-          - title: Value Report
-            url: /concept_aiq_value_report.html
-          - title: My Systems
-            url: /concept_ug_customer_my_systems.html
-          - title: Upgrade Advisor
-            url: /concept_ug_upgrade_advisor.html
-          - title: AutoSupport Alerts
-            url: /concept_ug_autosupport_alert.html
-          - title: Health
-            url: /concept_ug_health.html
-          - title: Interop Advisor
-            url: /concept_ug_interop_advisor.html
-          - title: Advisories
-            entries:
-              - title: Flash Advisor
-                url: /concept_ug_flash_advisor.html
-              - title: Protection Advisor
-                url: /concept_ug_protection_advisor.html
-              - title: FabricPool Advisor
-                url: /concept_ug_fabricpool.html
-              - title: Performance Guarantee Best Practice Gaps
-                url: /concept_ug_performance_guarantee_bpg.html
-          - title: Config Compare
-            url: /concept_ug_config_compare_popular_temp.html
-          - title: DataCenter View (Beta)
-            url: /concept_ug_datacenter_view.html
-          - title: Storage
-            url: /concept_ug_storage.html
-      - title: Cluster
-        entries:
-          - title: Dashboard
-            url: /concept_ug_cluster_dashboard.html
-          - title: Performance
-            url: /concept_ug_performance.html
-          - title: Upgrade Advisor
-            url: /concept_ug_upgrade_advisor.html
-          - title: AutoSupport
-            url: /concept_ug_autosupport_viewer.html
-          - title: Health
-            url: /concept_ug_health.html
-          - title: Storage
-            url: /concept_ug_storage_eff_peer_comparison.html
-          - title: Workload
-            url: /concept_ug_workload_tagging.html
-          - title: Configuration
-            url: /concept_ug_cluster_viewer.html
-      - title: System
-        entries:
-          - title: Dashboard
-            url: /concept_ug_system_dashboard.html
-          - title: AutoSupport
-            url: /concept_ug_autosupport_viewer.html
-          - title: Health
-            url: /concept_ug_health.html
-          - title: Performance
-            url: /concept_ug_performance.html
-          - title: Storage
-            url: /concept_ug_storage_eff_peer_comparison.html
-          - title: AutoSupport Alerts
-            url: /concept_ug_autosupport_alert.html
-          - title: Upgrade Advisor
-            url: /concept_ug_upgrade_advisor.html
-          - title: Configuration
-            url: /concept_ug_cluster_viewer.html
-          - title: Interop Advisor
-            url: /concept_ug_interop_advisor.html
-      - title: API Services
-        entries:
-          - title: Overview
-            url: /concept_ug_api_services.html
-          - title: Gaining Access
-            url: /task_ug_api_accessing_api_services.html
-          - title: Tokens
-            url: /task_ug_api_generating_tokens.html
-          - title: API Catalog
-            url: /concept_ug_api_api_catlog.html
-          - title: Code Examples
-            entries:
-              - title: getAccessToken
-                url: /concept_ug_api_code_example1.html
-              - title: getEfficiencySummaryByLevel
-                url: /concept_ug_api_code_example2.html
-      - title: AutoSupport Upload
-        url: /concept_ug_manual_autosupport_upload.html
-      - title: Reports
-        url: /concept_ug_reports.html
-      - title: Watchlists
-        url: /concept_ug_watchlists.html
-      - title: Discovery Dashboard
-        url: /concept_ug_discovery_dashboard.html
-      - title: HCI Expansion Advisor
-        url: /concept_ug_hci_expansion_advisor.html
-  - title: Reports
+      - title: Overview
+        url: /concept_overview_dashboard.html
+      - title: Add a watchlist to the dashboard
+        url: /task_add_watchlist.html
+      - title: Add widgets to the dashboard
+        url: /task_add_widgets.html
+  - title: Analyzing the wellness score
     entries:
-      - title: Reports Overview
-        url: /concept_aiq_mrug_reports_overview.html
-      - title: Accessing Reports
-        url: /concept_aiq_mrug_accessing_reports.html
-      - title: Reports Dashboard
-        url: /concept_aiq_mrug_reports_dashboard.html
-      - title: Create Report
-        url: /concept_aiq_mrug_create_report.html
-      - title: Configuration Report Output
-        url: /concept_aiq_mrug_configuration_report.html
-      - title: Watchlists
-        url: /concept_aiq_mrug_custom_group.html
-      - title: Report Scheduling
-        url: /concept_aiq_mrug_report_scheduling.html
+      - title: Overview
+        url: /concept_overview_wellness_score.html
+      - title: View the wellness score of your storage system
+        url: /task_view_wellness_score.html
+      - title: View the performance and efficiency of your storage system
+        url: /task_view_performance_and_efficiency.html
+      - title: Protect your storage system
+        url: /task_protect_storage_system.html
+      - title: View the configuration settings of your storage system
+        url: /task_view_configuration_settings.html
+      - title: Renew the software and hardware of your storage system
+        url: /task_renew_software_and_hardware.html
+      - title: View the risks and take corrective actions
+        url: /task_view_risks_corrective_action.html
+      - title: View risks that can be automatically remediated using Active IQ Unified Manager
+        url: /task_view_risks_remediated_unified_manager.html
+  - title: Analyzing the inventory
+    entries:
+      - title: Overview
+        url: /concept_overview_inventory.html
+      - title: View the different types of inventory
+        url: /task_view_inventory.html
+  - title: Upgrading your storage system
+    entries:
+      - title: Overview
+        url: /concept_overview_upgrade_benefits.html
+      - title: View and upgrade your storage system
+        url: /task_view_upgrade.html
+      - title: View the simplified output of the Interop Advisor
+        url: /task_view_simplified_output_interop_advisor.html
+  - title: Viewing reports
+    entries:
+      - title: Overview
+        url: /concept_overview_reports.html
+      - title: Create reports
+        url: /task_create_reports.html
+      - title: Configure report output
+        url: /task_configure_report_output.html
+      - title: Schedule reports
+        url: /task_schedule_reports.html
+  - title: Analyzing the value report
+    entries:
+      - title: Overview
+        url: /concept_overview_value_report.html
+      - title: View the value report of the storage system
+        url: /task_view_value_report.html
+  - title: Cluster viewer
+    entries:
+      - title: Overview
+        url: /concept_overview_cluster_viewer.html
+  - title: Data Center viewer
+    entries:
+      - title: Overview
+        url: /concept_overview_data_center.html
   - title: FAQs
     entries:
       - title: Health summary
@@ -127,5 +77,5 @@ entries:
         url: /reference_aiq_srd_reporting_mitigation.html
       - title: AFF Storage Efficiency
         url: /reference_aiq_AFF_SE_FAQs.html
-  - title: Legal notices
+  - title: Notices
     url: /reference_legalnotices.html

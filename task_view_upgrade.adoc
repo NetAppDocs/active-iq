@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_view_upgrade.html
+keywords: upgrade, current version, benefits
+summary: Provides information to view and upgrade your storage system.
+---
+
+= View and upgrade your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to view and upgrade your storage system:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_overview_data_center.html
+keywords: overview, data center viewer, data center
+summary: Provides information about the data center viewer functionality.
+---
+
+= Data center viewer overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]

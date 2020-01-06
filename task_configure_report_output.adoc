@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_configure_report_output.html
+keywords: configure reports, report output, reports
+summary: Provides information to configure report output in Active IQ.
+---
+
+= Configure report output
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to configure report output:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.
