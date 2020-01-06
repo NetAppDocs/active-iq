@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_overview_planning.html
+keywords: overview, planning, proactive, capacity, renew
+summary: Provides information about proactively increasing system capacity and renewing the hardware and software.
+---
+
+= Planning overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]

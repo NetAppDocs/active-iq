@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_identify_capacity_system.html
+keywords: capacity, space, increase,
+summary: Provides information to increase the capacity of the system.
+---
+
+= Identify system capacity and take action
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Follow these steps to schedule reports:
+
+.Step
+. Log into Active IQ.
+. Provide your username and password and click *Sign In*.

@@ -37,6 +37,14 @@ entries:
         url: /concept_overview_inventory.html
       - title: View the different types of inventory
         url: /task_view_inventory.html
+  - title: Proactively identify system requriements
+    entries:
+      - title: Overview
+        url: /concept_overview_planning.html
+      - title: Identify system capacity and take action
+        url: /task_identify_capacity_system.html
+      - title: Renew the software and hardware of your storage system
+        url: /task_renew_software_and_hardware.html  
   - title: Upgrading your storage system
     entries:
       - title: Overview
