@@ -1,0 +1,17 @@
+---
+sidebar: sidebar
+permalink: concept_key_terms.html
+keywords: overview, inventory
+summary: Provides information about the key terms used in Active IQ.
+---
+
+= Key concepts
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]

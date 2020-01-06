@@ -3,6 +3,8 @@ entries:
     url: /index.html
   - title: Overview
     url: /concept_aiq_ug_overview.html
+  - title: Key Active IQ concepts
+    url: /concept_key_terms.html
   - title: Log into Active IQ
     url: /task_login_activeiq.html
   - title: Provisioning the dashboard
