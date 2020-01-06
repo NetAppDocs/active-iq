@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: concept_get_more_information.html
+keywords: overview, information, more details
+summary: Provides more information about Active IQ.
+---
+
+= Getting more information
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+You can get help and find more information through various resources.
+
+
+* link:https://community.netapp.com/t5/Products-and-Services/ct-p/products-and-solutions[NetApp Community] – get help and connect with peers
+* link:ttps://www.netapp.com/us/documentation/active-iq.aspx[Documentation resource] - resource page
+* link:https://www.netapp.com/us/media/tr-4688.pdf[Security and Privacy of NetApp Telemetry Data] - technical report
+* link:https://www.netapp.com/us/media/tr-4444.pdf[ONTAP AutoSupport and AutoSupport On Demand] - technical report
