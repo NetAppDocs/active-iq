@@ -21,4 +21,4 @@ Provides information about the number of systems, clusters, and sites. It also d
 . In the *Inventory* widget of the dashboard, click *Overview* to view the overall inventory of the systems.
 . In the *Inventory* widget of the dashboard, click *Software* to view the inventory based on the software operating on the systems.
 . In the *Inventory* widget of the dashboard, click *Contract Type* to view systems based on their contract type.
-. Click *View All* next to the *Inventory* on the dashboard.
+. Click *View All* next to the *Inventory* widget of the dashboard, to view the complete inventory.

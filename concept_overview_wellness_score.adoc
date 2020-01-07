@@ -15,3 +15,10 @@ summary: Provides information about the wellness score, which helps you to impro
 :imagesdir: ./media/
 
 [.lead]
+Wellness score provides detailed information about your storage system. It provides information about different attributes of your storage system such as performance and efficiency, capacity, configuration settings, security, and so on. Wellness scores proactively provides information about the systems that have exceeded capacity or are going to exceed 90% capacity. It also provides information about software and hardware that have expired or are going to expire in the next 6 months.
+
+It list the risks associated with each of these attributes, and also provides information mitigate these risks, thereby improving the overall condition of the storage system.
+
+You can also view the peer comparison percentile to view your position when compared to your peers. Mitigating all these risks and proactively taking actions to keep your system up to date increases your peer comparison percentile.
+
+image:Wellness_score.png[wellness score workflow]
