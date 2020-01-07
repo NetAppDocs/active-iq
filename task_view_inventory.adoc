@@ -15,8 +15,10 @@ summary: Provides information to view the different types of inventory.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to view the different types of inventory:
+Provides information about the number of systems, clusters, and sites. It also displays information about the types of systems, the software that is operating on the system, and the contract types.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. In the *Inventory* widget of the dashboard, click *Overview* to view the overall inventory of the systems.
+. In the *Inventory* widget of the dashboard, click *Software* to view the inventory based on the software operating on the systems.
+. In the *Inventory* widget of the dashboard, click *Contract Type* to view systems based on their contract type.
+. Click *View All* next to the *Inventory* on the dashboard.

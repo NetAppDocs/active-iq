@@ -15,8 +15,14 @@ summary: Provides information to view the risks that can be automatically remedi
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to view risks that can be automatically remediated using Unified Manager:
+View the risks associated with your storage system and take steps to remediate these risks using Active IQ Unified Manager.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click *Fix it using Unified Manager* on the dashboard.
++
+All risks that can be fixed using Unified Manager are listed.
+. Click the *Risks* tab to view all the risks.
+. Click the risk to view more information about the risk.
+. Click Fix It to
+. Click Install to
+. Click Upgrade to

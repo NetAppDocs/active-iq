@@ -15,8 +15,13 @@ summary: Provides information to increase the capacity of the system.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to schedule reports:
+Proactively identify systems that have exceeded 90% capacity or are nearing 90% capacity in 1,3, and 6 months, and send a request to increase the capacity of your storage system.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. In the *Planning* widget, click *Hardware Add-ons* to view the systems that have exceeded 90% capacity or are nearing 90% capacity.
++
+You can view the number of systems that that have exceeded 90% capacity or are nearing 90% capacity in the next 1,3, and 6 months.
+. Click on the required option to view the systems.
+. Select the systems for which you want to increase capacity and click *Send a Request*.
+. Optionally, provide any additional comments.
+. Click *Send*.

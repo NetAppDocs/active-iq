@@ -15,8 +15,8 @@ summary: Provides information to view and upgrade your storage system.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to view and upgrade your storage system:
+View the pending upgrades of your storage system and the current interoperability data. The interoperability data is populated based on the Active IQ OneCollect AutoSupport data.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. In the *Upgrade* widget of the dashboard, click *Upgrades* to view the pending upgrades.
+. In the *Upgrade* widget of the dashboard, click *Current Interoperability* to view the supported, unsupported, and remediation information.

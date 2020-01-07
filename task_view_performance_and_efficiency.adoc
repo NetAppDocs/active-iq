@@ -15,8 +15,10 @@ summary: Provides information to view the performance and efficiency of your sto
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to view the performance and efficiency of your storage system:
+Analyze the current performance and efficiency of your storage system by viewing the average efficiency ratio, the 6 month trend, and the peer comparison.
+You can also view the risks and actions that you should take to improve the performance and efficiency of your storage system.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click the *Performance & Efficiency* widget on the dashboard.
+. Click the *Risks* tab.
+. Click *Ack* to acknowledge the risk.

@@ -15,8 +15,10 @@ summary: Provides information to add a widget or widgets to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to add a widget:
+Add widgets to the dashboard to get an overall understanding of your storage system.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click image:icon_kabob.gif[kebab icon] next to the name of the dashboard.
+. Click *Edit Dashboard*
+. Select the widgets to be added to the dashboard.
+. Click *Save* to view the selected widgets on the dashboard.

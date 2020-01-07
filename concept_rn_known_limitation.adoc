@@ -1,0 +1,18 @@
+---
+sidebar: sidebar
+permalink: concept_rn_known_limitation.html
+keywords: limitation, issues, not supported, drawbacks
+summary: Provides information about the limitations in the release.
+---
+
+= Known limitations
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.

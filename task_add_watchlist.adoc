@@ -15,8 +15,16 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to add a watchlist:
+Create a watchlist to access preselected systems inside Active IQ quickly and easily. You should create a new dashboard to add a watchlist.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click *+ Add New Dashboard*.
++
+You can import an existing watchlist or create a watchlist.
+. Provide a name for the watchlist.
+. Select *Category* or *Serial Number*, and follow the steps listed to add systems to the watchlist.
+. Click *Next*.
+. Provide a name for the dashboard.
+. Select the widgets to be added to the dashboard.
+. Optionally, you can make this as your default dashboard.
+. Click *Create* to add the watchlist to the dashboard.

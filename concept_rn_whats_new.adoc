@@ -1,0 +1,18 @@
+---
+sidebar: sidebar
+permalink: concept_rn_whats_new.html
+keywords: what's new, features, new
+summary: Provides information about the new features in the release.
+---
+
+= What's new in Active IQ 2.0
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.

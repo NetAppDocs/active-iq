@@ -15,8 +15,11 @@ summary: Provides information to view the risks and take corrective actions.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to view the risks and take corrective actions:
+View the risks associated with your storage system and take steps to acknowledge and remediate these risks.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click *Risks* or *View All* on the dashboard.
+. Click the *Risks* tab to view all the risks.
+. Click *Ack* to acknowledge the risk.
+. Read the *Risk Summary*, select the affected systems, and provide requested information.
+. Click *Acknowledge*.

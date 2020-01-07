@@ -15,8 +15,10 @@ summary: Provides information to renew the software and hardware of your storage
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to renew the software and hardware of your storage system:
+Proactively identify software and hardware that have expired or are going to expire in the next 6 months, and send a request to renew the hardware and software.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click the *Renewals* widget on the dashboard or click *Renewals* from the *Planning* widget.
+. Select the systems that you want to renew and click *Renew*.
+. Optionally, provide any additional comments.
+. Click *Send*.
