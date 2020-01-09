@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: task_view_wellness_score.html
-keywords: wellness score, performance, efficiency
-summary: Provides information to view the wellness score of your storage system.
+keywords: wellness score, performance, efficiency, availability, capacity, security, protection, protect, space
+summary: Provides information to view and analyze the wellness score of your storage system and mitigate the risks.
 ---
 
-= View wellness score of your storage system
+= View the wellness score attributes of your storage system and take corrective actions
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,8 +15,18 @@ summary: Provides information to view the wellness score of your storage system.
 :imagesdir: ./media/
 
 [.lead]
-Follow these steps to view the wellness score of your storage system:
+Analyze the wellness score attributes of your storage system by viewing the action and risks associated with them. Mitigating the action and risks on time help in improving the performance and efficiency of your storage system.
+
+You can manually mitigate the risk or acknowledge the risk.
 
 .Step
-. Log into Active IQ.
-. Provide your username and password and click *Sign In*.
+. Click the wellness score attribute widget on the dashboard or click *View All* to view all the actions and risks.
+. View the *Action* and *Risks* associated with the wellness score attribute.
+. Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
+. Click the risk to view more information about the risk.
++
+You should have a KB article or other relevant information associated with the risk.
+. Mitigate the risk by following the information provided.
+. If there is no KB article or other relevant information associated with the risk, click *Ack* to acknowledge the risk.
+. Read the *Risk Summary*, select the affected systems, and provide the requested information.
+. Click *Acknowledge*.

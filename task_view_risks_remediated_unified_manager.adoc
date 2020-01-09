@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_view_risks_remediated_unified_manager.html
-keywords: risks, remediation, corrective action, unified manager
+keywords: risks, actions, remediation, corrective action, unified manager
 summary: Provides information to view the risks that can be automatically remediated using Unified Manager.
 ---
 
@@ -15,14 +15,14 @@ summary: Provides information to view the risks that can be automatically remedi
 :imagesdir: ./media/
 
 [.lead]
-View the risks associated with your storage system and take steps to remediate these risks using Active IQ Unified Manager.
+Analyze your storage system by viewing the action and risks and mitigate them using Active IQ Unified Manager.
 
 .Step
-. Click *Fix it using Unified Manager* on the dashboard.
+. Click *Fix it using Active IQ Unified Manager* on the dashboard.
 +
 All risks that can be fixed using Unified Manager are listed.
-. Click the *Risks* tab to view all the risks.
+. Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
 . Click the risk to view more information about the risk.
-. Click Fix It to
-. Click Install to
-. Click Upgrade to
+. Click *Fix It* to
+. Click *Install* to
+. Click *Upgrade* to
