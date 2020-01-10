@@ -15,7 +15,7 @@ summary: Provides information to view the risks that can be automatically remedi
 :imagesdir: ./media/
 
 [.lead]
-Analyze your storage system by viewing the action and risks and mitigate them using Active IQ Unified Manager.
+Analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager.
 
 .Step
 . Click *Fix it using Active IQ Unified Manager* on the dashboard.
