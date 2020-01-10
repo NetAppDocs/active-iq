@@ -11,7 +11,7 @@ entries:
     url: /concept_key_terms.html
   - title: Log into Active IQ
     url: /task_login_activeiq.html
-  - title: Provisioning the dashboard
+  - title: Provision the dashboard
     entries:
       - title: Overview
         url: /concept_overview_dashboard.html
@@ -19,7 +19,7 @@ entries:
         url: /task_add_watchlist.html
       - title: Add widgets to the dashboard
         url: /task_add_widgets.html
-  - title: Analyzing the wellness score
+  - title: Analyze the wellness score
     entries:
       - title: Overview
         url: /concept_overview_wellness_score.html
@@ -29,13 +29,13 @@ entries:
         url: /task_view_risks_remediated_unified_manager.html
       - title: Renew the software and hardware of your storage system
         url: /task_renew_software_and_hardware.html
-  - title: Analyzing the inventory
+  - title: Analyze the inventory
     entries:
       - title: Overview
         url: /concept_overview_inventory.html
       - title: View the different types of inventory
         url: /task_view_inventory.html
-  - title: Proactively identify system requriements
+  - title: Identify system requriements proactively
     entries:
       - title: Overview
         url: /concept_overview_planning.html
@@ -43,7 +43,7 @@ entries:
         url: /task_identify_capacity_system.html
       - title: Renew the software and hardware of your storage system
         url: /task_renew_software_and_hardware.html
-  - title: Upgrading your storage system
+  - title: Upgrade your storage system
     entries:
       - title: Overview
         url: /concept_overview_upgrade_benefits.html
@@ -51,7 +51,7 @@ entries:
         url: /task_view_upgrade.html
       - title: View the simplified output of the Interop Advisor
         url: /task_view_simplified_output_interop_advisor.html
-  - title: Viewing reports
+  - title: View reports
     entries:
       - title: Overview
         url: /concept_overview_reports.html
@@ -61,7 +61,7 @@ entries:
         url: /task_configure_report_output.html
       - title: Schedule reports
         url: /task_schedule_reports.html
-  - title: Analyzing the value report
+  - title: Analyze the value report
     entries:
       - title: Overview
         url: /concept_overview_value_report.html
