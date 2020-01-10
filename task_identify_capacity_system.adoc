@@ -23,5 +23,5 @@ Proactively identify systems that have exceeded 90% capacity or are nearing 90% 
 You can view the number of systems that that have exceeded 90% capacity or are nearing 90% capacity in the next 1,3, and 6 months.
 . Click on the required option to view the systems.
 . Select the systems for which you want to increase capacity and click *Send a Request*.
-. Optionally, provide any additional comments.
+. Optionally, provide additional comments.
 . Click *Send*.

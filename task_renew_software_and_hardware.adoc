@@ -20,5 +20,5 @@ Proactively identify software and hardware that have expired or are going to exp
 .Step
 . Click the *Renewals* widget on the dashboard or click *Renewals* from the *Planning* widget.
 . Select the systems that you want to renew and click *Renew*.
-. Optionally, provide any additional comments.
+. Optionally, provide additional comments.
 . Click *Send*.
