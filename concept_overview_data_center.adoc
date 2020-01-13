@@ -5,7 +5,7 @@ keywords: overview, data center viewer, data center
 summary: Provides information about the data center viewer functionality.
 ---
 
-= Data center viewer overview
+= Understanding Data center viewer
 :toc: macro
 :toclevels: 1
 :hardbreaks:

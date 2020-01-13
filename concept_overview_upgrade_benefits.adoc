@@ -5,7 +5,7 @@ keywords: overview, upgrade, types of upgrade, benefits
 summary: Provides information about the different types of upgrade and the benefits of upgrading.
 ---
 
-= Upgrade overview
+= Understanding Upgrade 
 :toc: macro
 :toclevels: 1
 :hardbreaks:

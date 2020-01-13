@@ -5,7 +5,7 @@ keywords: overview, cluster viewer
 summary: Provides information about the cluster viewer functionality.
 ---
 
-= Cluster viewer overview
+= Understanding Cluster viewer
 :toc: macro
 :toclevels: 1
 :hardbreaks:

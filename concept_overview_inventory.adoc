@@ -5,7 +5,7 @@ keywords: overview, inventory
 summary: Provides information about the different types of inventory.
 ---
 
-= Inventory overview
+= Understanding Inventory
 :toc: macro
 :toclevels: 1
 :hardbreaks:

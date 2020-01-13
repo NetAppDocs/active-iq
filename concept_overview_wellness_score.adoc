@@ -5,7 +5,7 @@ keywords: overview, wellness score, performance, configuration, renewal, risk, r
 summary: Provides information about the wellness score, which helps you to improve your storage system.
 ---
 
-= Wellness score overview
+= Understanding Wellness score 
 :toc: macro
 :toclevels: 1
 :hardbreaks:

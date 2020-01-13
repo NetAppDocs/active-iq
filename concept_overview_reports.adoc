@@ -5,7 +5,7 @@ keywords: overview, reports
 summary: Provides information about the different types of reports in Active IQ.
 ---
 
-= Reports overview
+= Understanding Reports
 :toc: macro
 :toclevels: 1
 :hardbreaks:

@@ -5,7 +5,7 @@ keywords: overview, value report
 summary: Provides information about value report.
 ---
 
-= Value report overview
+= Understanding Value report 
 :toc: macro
 :toclevels: 1
 :hardbreaks:
