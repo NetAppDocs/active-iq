@@ -16,14 +16,14 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 
 [.lead]
 
-The Active IQ dashboard offers two options for using the dashboard.
-
-== Viewing the default dashboard
 When you first access the dashboard, you should view your default dashboard that has the overall score, it must be either Good, Average, or Poor. You will have a default dashboard based on your Customer ID, but the subsequent dashboards that you create will be your watchlists.
-Each of the dashboards that you create will have these 6 widgets: Performance & Efficiency, Availability & Protection, Capacity, Configuration, Security, and
-Renewals.
+
+Each of the dashboards that you create will have these 6 widgets: Performance & Efficiency, Availability & Protection, Capacity, Configuration, Security, and Renewals.
+
 You can view these widgets to get insights about the impact areas of your systems. For example, if you click the Performance and Efficiency card, the information displayed is about your system risks that impact the performance and efficiency of your installed base.
+
 When you view the Performance and Efficiency card, some of the actions and risks are recommended for your system. For example, the number of risks provided are 166 and actions to mitigate the risks are 6, in this case, if you agree to respond to the recommended actions, you will rectify 166 risks, thereby optimizing the Performance and Efficiency of your system.
+
 You should also look at the colors on these six categories of wellness score cards, they are indicators of the severity and type of risks, and the recommended actions for your system.
 
 == Creating user-defined dashboards
