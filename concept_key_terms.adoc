@@ -35,7 +35,7 @@ The *Valuable Insights* or Value report is added as an attachment to the renewal
 *	*Watchlist:* It provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
 *	*Color-coded risk status*: Risk levels and their color codes are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 ** *Red:* High impact. It displays a combination of expired and near expiration contracts. Provides information about one or more contracts that have expired within last 6 months.
-** *Black:* Critcal
+** *Black:* Critical
 ** *Green:* No risks. Displays information about the renewals that have not expired or expiring within next 6 months.
 ** *Blue:* Best practice
 ** *Yellow:* Low impact
@@ -50,4 +50,4 @@ The *Valuable Insights* or Value report is added as an attachment to the renewal
 *	*Upgrades:* You can view recommendations for upgrading your systems. It not only provides the number of issues, but also provides upgrade actions required for rectifying the risks. For example, the list displays 5 actions, but if you take these prescriptive actions, you can fix 152 issues.
 *	*Current Interoperability:*
 *	*Upgrade Advisor:*
-*	*Upgrade Request Status:* 
+*	*Upgrade Request Status:*

@@ -23,6 +23,8 @@ Analyze your storage system by viewing the actions and risks and mitigate them u
 All risks that can be fixed using Unified Manager are listed.
 . Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
 . Click the risk to view more information about the risk.
-. Click *Fix It* to
-. Click *Install* to
-. Click *Upgrade* to
+. Click *Fix It* to launch Active IQ Unified Manager.
+. Click *Install* to install Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
+. Click *Upgrade* to upgrade to Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
+
+Note: ONTAP 9.1 or later or support contract higher than Basic is required to use the Fix It option.
