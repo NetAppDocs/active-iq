@@ -26,14 +26,15 @@ You should also be aware of the colors applied to the cards, which indicate the 
 
 Key highlights of the Active IQ 2.0 Dashboards are:
 
-* link:<task_add_watchlist>.html[Allows you to add multiple dashboards and view all the dashboards at a time.]
+
+* link:task_add_watchlist.html[Allows you to add multiple dashboards and view all the dashboards at a time.]
 
 * Provides a score for each dashboard based on based on the status of the systems in the dashboard.
 
-* link:<task_view_wellness_score>.html[Actions vs Risks – Displays all the risks for your storage system and the actions to mitigate the risks.]
+* link:task_view_wellness_score.html[Actions vs Risks – Displays all the risks for your storage system and the actions to mitigate the risks.]
 
-* link:<task_identify_capacity_system>.html[Proactively identifies and highlights systems that have exceeded or are nearing 90% capacity.]
+* link:task_identify_capacity_system.html[Proactively identifies and highlights systems that have exceeded or are nearing 90% capacity.]
 
-* link:<task_renew_software_and_hardware>.html[Proactively identifies and highlights hardware and software that have expired or are going to expire within 6 months.]
+* link:task_renew_software_and_hardware.html[Proactively identifies and highlights hardware and software that have expired or are going to expire within 6 months.]
 
-* link:<task_view_risks_remediated_unified_manager>.html[Mitigate risks using Active IQ Unified Manager]
+* link:task_view_risks_remediated_unified_manager.html[Mitigate risks using Active IQ Unified Manager]
