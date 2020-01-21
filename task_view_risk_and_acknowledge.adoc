@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_view_wellness_score.html
+permalink: task_view_risk_and_acknowledge.html
 keywords: wellness score, performance, efficiency, availability, capacity, security, protection, protect, space
 summary: Provides information to view and analyze the wellness score of your storage system and mitigate the risks.
 ---
@@ -21,10 +21,11 @@ Analyze the wellness score attributes of your storage system by viewing the acti
 . Click the wellness score attribute widget on the dashboard or click *View All* to view all the actions and risks.
 . View the *Action* and *Risks* associated with the wellness score attribute.
 . Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
-. Click the risk to view more information about the risk.
+. Click the risk to view information about the systems that are impacted by this risk.
+. Click *Ack* to acknowledge the risk.
 +
-You should have a KB article or other relevant information associated with the risk.
+You should have a KB article or other relevant information in the *Corrective Actions*.
 . Mitigate the risk by following the information provided.
-. If there is no KB article or other relevant information associated with the risk, click *Ack* to acknowledge the risk.
-. Read the *Risk Summary*, select the affected systems, and provide the requested information.
++
+If you are unable to mitigate the risk, you should read the risk summary to understand the impact of the risk, and provide the requested details.
 . Click *Acknowledge*.
