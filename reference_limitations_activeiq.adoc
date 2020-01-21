@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: concept_rn_known_limitation.html
+permalink: reference_limitations_activeiq.html
 keywords: limitation, issues, not supported, drawbacks
 summary: Provides information about the limitations in the release.
 ---

@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: concept_rn_whats_new.html
+permalink: reference_new_activeiq.html
 keywords: what's new, features, new
 summary: Provides information about the new features in the release.
 ---
@@ -16,3 +16,15 @@ summary: Provides information about the new features in the release.
 
 [.lead]
 Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
+
+=== Active IQ 2.0 (20 Feb 2020)
+This update includes the following new features and enhancements.
+
+=== Enhanced user interfaces
+The user interface Active IQ 2.0 has been enhanced to make
+
+=== Wellness score
+
+=== Multiple dashboards can be viewed and scored
+
+=== Mitigate risks using Active IQ Unified Manager

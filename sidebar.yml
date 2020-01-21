@@ -4,9 +4,9 @@ entries:
   - title: Release Notes
     entries:
       - title: What's new
-        url: /concept_rn_whats_new.html
+        url: /reference_new_activeiq.html
       - title: Known limitations
-        url: /concept_rn_known_limitation.html
+        url: /reference_limitations_activeiq.html
   - title: Key Active IQ concepts
     url: /concept_key_terms.html
   - title: Log into Active IQ
@@ -45,32 +45,6 @@ entries:
         url: /concept_overview_upgrade_benefits.html
       - title: View and upgrade your storage system
         url: /task_view_upgrade.html
-      - title: View the simplified output of the Interop Advisor
-        url: /task_view_simplified_output_interop_advisor.html
-  - title: View reports
-    entries:
-      - title: Overview
-        url: /concept_overview_reports.html
-      - title: Create reports
-        url: /task_create_reports.html
-      - title: Configure report output
-        url: /task_configure_report_output.html
-      - title: Schedule reports
-        url: /task_schedule_reports.html
-  - title: Analyze the value report
-    entries:
-      - title: Overview
-        url: /concept_overview_value_report.html
-      - title: View the value report of the storage system
-        url: /task_view_value_report.html
-  - title: Cluster viewer
-    entries:
-      - title: Overview
-        url: /concept_overview_cluster_viewer.html
-  - title: Data Center viewer
-    entries:
-      - title: Overview
-        url: /concept_overview_data_center.html
   - title: FAQs
     entries:
       - title: Health summary

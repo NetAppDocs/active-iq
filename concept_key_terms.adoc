@@ -32,35 +32,13 @@ The *Valuable Insights* or Value report is added as an attachment to the renewal
 *	*Actions:* Displays the number of unique actions that you can take to fix the issues.
 *	*Watchlist:* It provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
 *	*Color-coded risk status*: Risk levels and their color codes are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
-[cols=3*,options="header"]
 |===
-| Color
-| severity
-| Description
-
-|image:black_color.png[Black]
-| Critical
-| row 1 column 3
-
-|image:red_color.png[Red]
-| High
-| Displays a combination of expired and near expiration contracts. Provides information about one or more contracts that have expired within last 6 months.
-
-|image:orange_color.png[Orange]
-| Medium
-| Displays information about one or more contracts expiring within next 6 months.
-
-|image:yellow_color.png[yellow]
-| Low
-| row 1 column 3
-
-|image:blue_color.png[Blue]
-| Best practice
-| row 1 column 3
-
-|image:green_color.png[Green]
-| No risks
-| Displays information about the renewals that have not expired or expiring within next 6 months.
+|image:black_color.png[Black] | Critical | row 1 column 3
+|image:red_color.png[Red] | High | Displays a combination of expired and near expiration contracts. Provides information about one or more contracts that have expired within last 6 months.
+|image:orange_color.png[Orange] | Medium | Displays information about one or more contracts expiring within next 6 months.
+|image:yellow_color.png[yellow] | Low | row 1 column 3
+|image:blue_color.png[Blue] | Best practice | row 1 column 3
+|image:green_color.png[Green] | No risks | Displays information about the renewals that have not expired or expiring within next 6 months.
 |===
 *	*Cluster Viewer:* Provides the capacity at the aggregate and volume levels.
 *	*Acknowledge Risks (Ack):* This option is available in the Configuration widget. It allows you to view the risks and systems that have been impacted, and then acknowledge the risks and familiarize yourself with the actions by selecting the date by when you will take actions on rectifying the risks. You can also search by risk name. The risk impacts are classified into High, Medium, Low, Best Practice, and Critical.
