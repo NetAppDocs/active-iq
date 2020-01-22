@@ -1,16 +1,4 @@
 entries:
-  - title: Active IQ 1.0
-    url: /ActiveIQ1.0/concept_aiq_ug_overview.html
-    - title: Getting Started with Active IQ
-      url: /ActiveIQ1.0/concept_aiq_ug_getting_started.html
-    - title: Features
-      entries:
-        - title: API Services
-          entries:
-            - title: Overview
-              url: /ActiveIQ1.0/concept_ug_api_services.html
-            - title: Gaining access
-              url: /ActiveIQ1.0/task_ug_api_accessing_api_services.html
   - title: Active IQ 2.0
     url: /index.html
     - title: Release Notes
