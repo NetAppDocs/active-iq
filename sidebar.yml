@@ -19,9 +19,9 @@ entries:
                 url: /concept_ug_api_api_catlog.html
               - title: Code examples
                 entries:
-                  - title: Example 1: getAccessToken
+                  - title: Example 1 - getAccessToken
                     url: /concept_ug_api_code_example1.html
-                  - title: Example 2: getEfficiencySummaryByLevel
+                  - title: Example 2 - getEfficiencySummaryByLevel
                     url: /concept_ug_api_code_example2.html
               - title: FAQ
                 url: /concept_ug_api_services.html
