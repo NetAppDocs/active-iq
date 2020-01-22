@@ -1,12 +1,12 @@
 entries:
   - title: Active IQ 2.0
     url: /index.html
-    - title: Release Notes
-      entries:
-        - title: What's new
-          url: /reference_new_activeiq.html
-          - title: Known limitations
-            url: /reference_limitations_activeiq.html
+  - title: Release Notes
+    entries:
+      - title: What's new
+        url: /reference_new_activeiq.html
+      - title: Known limitations
+        url: /reference_limitations_activeiq.html
     - title: Key Active IQ concepts
       url: /concept_key_terms.html
     - title: Log into Active IQ
