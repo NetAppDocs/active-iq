@@ -1,59 +1,57 @@
 entries:
-  - title: Active IQ Documentation
+  - title: Active IQ 1.0
+    url: /ActiveIQ1.0/concept_aiq_ug_overview.html
+    - title: Getting Started with Active IQ
+      url: /ActiveIQ1.0/concept_aiq_ug_getting_started.html
+    - title: Features
+      entries:
+        - title: API Services
+          entries:
+            - title: Overview
+              url: /ActiveIQ1.0/concept_ug_api_services.html
+            - title: Gaining access
+              url: /ActiveIQ1.0/task_ug_api_accessing_api_services.html
+  - title: Active IQ 2.0
     url: /index.html
-  - title: Release Notes
-    entries:
-      - title: What's new
-        url: /reference_new_activeiq.html
-      - title: Known limitations
-        url: /reference_limitations_activeiq.html
-  - title: Key Active IQ concepts
-    url: /concept_key_terms.html
-  - title: Log into Active IQ
-    url: /task_login_activeiq.html
-  - title: Provision the dashboard
-    entries:
-      - title: Overview
-        url: /concept_overview_dashboard.html
-      - title: Add a watchlist to the dashboard
-        url: /task_add_watchlist.html
-      - title: Add widgets to the dashboard
-        url: /task_add_widgets.html
-  - title: Analyze the wellness score
-    entries:
-      - title: Overview
-        url: /concept_overview_wellness_score.html
-      - title: View the wellness score attributes of your storage system and take corrective actions
-        url: /task_view_risk_and_acknowledge.html
-      - title: View risks that can be automatically remediated using Active IQ Unified Manager
-        url: /task_view_risks_remediated_unified_manager.html
-      - title: Renew the software and hardware of your storage system
-        url: /task_renew_software_and_hardware.html
-  - title: Analyze the inventory
-    entries:
-      - title: View the different types of inventory
-        url: /task_view_inventory.html
-  - title: Identify system requriements proactively
-    entries:
-      - title: Identify system capacity and take action
-        url: /task_identify_capacity_system.html
-      - title: Renew the software and hardware of your storage system
-        url: /task_renew_software_and_hardware.html
-  - title: Upgrade your storage system
-    entries:
-      - title: Overview
-        url: /concept_overview_upgrade_benefits.html
-      - title: View and upgrade your storage system
-        url: /task_view_upgrade.html
-  - title: FAQs
-    entries:
-      - title: Health summary
-        url: /reference_aiq_srd_health_summary.html
-      - title: Reporting and mitigation
-        url: /reference_aiq_srd_reporting_mitigation.html
-      - title: AFF Storage Efficiency
-        url: /reference_aiq_AFF_SE_FAQs.html
-  - title: Get more information
-    url: /concept_get_more_information.html
+    - title: Release Notes
+      entries:
+        - title: What's new
+          url: /reference_new_activeiq.html
+          - title: Known limitations
+          url: /reference_limitations_activeiq.html
+    - title: Key Active IQ concepts
+      url: /concept_key_terms.html
+    - title: Log into Active IQ
+      url: /task_login_activeiq.html
+    - title: Provision the dashboard
+      entries:
+        - title: Overview
+          url: /concept_overview_dashboard.html
+        - title: Add a watchlist to the dashboard
+          url: /task_add_watchlist.html
+    - title: Analyze the wellness score
+      entries:
+        - title: Overview
+          url: /concept_overview_wellness_score.html
+        - title: View the wellness score attributes of your storage system and take corrective actions
+          url: /task_view_risk_and_acknowledge.html
+        - title: View risks that can be automatically remediated using Active IQ Unified Manager
+          url: /task_view_risks_remediated_unified_manager.html
+        - title: Renew the software and hardware of your storage system
+          url: /task_renew_software_and_hardware.html
+    - title: Identify system requriements proactively
+      entries:
+        - title: Renew the software and hardware of your storage system
+          url: /task_renew_software_and_hardware.html
+    - title: FAQs
+      entries:
+        - title: Health summary
+          url: /reference_aiq_srd_health_summary.html
+        - title: Reporting and mitigation
+          url: /reference_aiq_srd_reporting_mitigation.html
+        - title: AFF Storage Efficiency
+          url: /reference_aiq_AFF_SE_FAQs.html
+    - title: Get more information
+      url: /concept_get_more_information.html
   - title: Notices
     url: /reference_legalnotices.html

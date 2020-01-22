@@ -12,7 +12,7 @@ summary: Provides information about the key terms used in Active IQ.
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/
+:imagesdir: ./media/ActiveIQ2.0
 
 [.lead]
 As you start using Active IQ, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Dashboard.

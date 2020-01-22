@@ -12,7 +12,7 @@ summary: Provides information about the wellness score, which helps you to impro
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/
+:imagesdir: ./media/ActiveIQ2.0
 
 [.lead]
 Wellness score provides detailed information about your storage system. It provides information about different attributes of your storage system such as performance and efficiency, capacity, configuration settings, security, and others. Wellness scores proactively provides information about the systems that have exceeded capacity or are going to exceed 90% capacity. It also provides information about software and hardware that have expired or are near expiration in the next 6 months.

@@ -1,0 +1,19 @@
+---
+sidebar: sidebar
+permalink: concept_ug_hci_expansion_advisor.html
+keywords: Active IQ, user guide, HCI expansion advisor
+summary: Provides an overview of the HCI expansion advisor feature.
+---
+
+= HCI Expansion Advisor
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+HCI Expansion Advisor enables you to assess your NetApp HCI systems to determine whether you need to add compute and storage nodes for new and growing workloads.
+
+Expansion Advisor shows the details about the current configuration of your cluster, as well as performance details for compute and storage over the last 30 days. You can specify the growth percentage for an existing workload, or you can enter details about a new workload that you want to add to the system. Expansion Advisor uses this information to recommend whether you need additional compute and storage nodes to accommodate the workload.
+
+When you’re ready to add compute or storage nodes, you can click *Request Expansion* to send a request for the additional compute and storage nodes. After receiving request, NetApp/Partner contacts you for additional information.

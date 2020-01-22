@@ -1,0 +1,47 @@
+---
+sidebar: sidebar
+permalink: concept_ug_datacenter_view.html
+keywords: Active IQ, user guide, datacenter view
+summary: Provides an overview of the cases widget feature.
+---
+
+= DataCenter View (Beta)
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+DataCenter View provides information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration.  The view is enabled by collecting and uploading data from customer environment using https://mysupport.netapp.com/tools/info/ECMLP2671381I.html?productID=62128&pcfContentID=ECMLP2671381[NetApp Active IQ OneCollect^].
+
+image:datacenter_view_process.png[image,width=508,height=263]
+
+After customer uploads OneCollect data to Active IQ, in this Datacenter View you can see:
+
+* Summary of hosts and switches connected to NetApp storage
+* Automated interoperability checks between hosts and storage
+* Data protection visualization of hosts, applications, and NetApp storage
+
+A brief description of each of these features is provided below.
+
+== Summary Dashboard
+An inventory of hosts, switches, and controllers in the customer environment is presented with connectivity details of host to storage through relevant protocols such as NFS or FCP.  This allows for a quick view of how a host type consumes storage, relevant platform versions, capacity, controller model, and ONTAP version.
+
+image:datacenter_view_summary_dashboard_graph.png[image,width=508,height=263]
+
+image:datacenter_view_summary_dashboard_list.png[image,width=508,height=263]
+
+== Automated Interop Checks
+
+In SAN environments, supported configurations of host, switch, and controller allows for smooth storage connectivity while accessing LUNs.  Typically supported configurations are determined by querying compatibility matrix of various components using https://mysupport.netapp.com/matrix/#welcome[Interoperability Matrix Tool^]. Datacenter View simplifies this process by performing automated Interop checks.
+
+image:datacenter_view_interop_check_graph.png[image,width=508,height=263]
+
+image:datacenter_view_interop_check_list.png[image,width=508,height=263]
+
+== Data Protection of Volumes and Hosts
+NetApp’s SnapMirror technology allows for seamless backups of volumes.  From a storage administrator’s perspective, it is beneficial to visualize how a volume is backed up from a source cluster to a destination cluster.  From a system administrator’s perspective, it is beneficial to visualize how a host maps to a volume and the relevant backup of that volume.  Datacenter View’s tree-based visualization provides a crisp view of both storage administrator’s and system administrator’s perspectives.
+
+image:datacenter_view_data_protect_graph.png[image,width=508,height=263]
+
+image:datacenter_view_data_protect_list.png[image,width=508,height=263]

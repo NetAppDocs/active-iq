@@ -1,0 +1,119 @@
+---
+sidebar: sidebar
+permalink: concept_ug_api_code_example2.html
+keywords: Active IQ, user guide, API services. sample API
+summary: Provides example of APIs written in different languages
+---
+
+= Example 2: getEfficiencySummaryByLevel
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+The *getEfficiencySummaryByLevel* API  is used to provides details about the systems with maximum capacity savings for a customer, site, group, or a set of serial numbers.
+
+The following is the *getEfficiencySummaryByLevel* API in *Obj-C*:
+----
+Configuration *apiConfig = [Configuration sharedConfig];
+
+// Configure API key authorization: (authentication scheme: CustomAuthorizer)
+[apiConfig setApiKey:@"YOUR_API_KEY" forApiKeyIdentifier:@"authorizationToken"];
+// Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
+//[apiConfig setApiKeyPrefix:@"Bearer" forApiKeyIdentifier:@"authorizationToken"];
+
+String *authorizationToken = authorizationToken_example; // Access token to use the 'API Services'.
+String *level = level_example; // Identifies the level for which information will be provided.
+Valid values are customer, site, group, and serial_numbers.
+
+String *id = id_example; // Unique identifier for the level. Valid values are customer ID, site ID, group name, and serial numbers.
+
+EfficiencyApi *apiInstance = [[EfficiencyApi alloc] init];
+
+// Provides details about the systems with maximum capacity savings for a customer, site, group, or a set of serial numbers.
+[apiInstance getEfficiencySummaryByLevelWith:authorizationToken
+    level:level
+    id:id
+              completionHandler: ^(storageEfficiencySummary output, NSError* error) {
+                            if (output) {
+                                NSLog(@"%@", output);
+                            }
+                            if (error) {
+                                NSLog(@"Error: %@", error);
+                            }
+                        }];
+----
+
+The following is the *getEfficiencySummaryByLevel* API in *C#*:
+----
+using System;
+using System.Diagnostics;
+using IO.Swagger.Api;
+using IO.Swagger.Client;
+using IO.Swagger.Model;
+
+namespace Example
+{
+    public class getEfficiencySummaryByLevelExample
+    {
+        public void main()
+        {
+
+            // Configure API key authorization: CustomAuthorizer
+            Configuration.Default.ApiKey.Add("authorizationToken", "YOUR_API_KEY");
+            // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
+            // Configuration.Default.ApiKeyPrefix.Add("authorizationToken", "Bearer");
+
+            var apiInstance = new EfficiencyApi();
+            var authorizationToken = authorizationToken_example;  // String | Access token to use the 'API Services'.
+            var level = level_example;  // String | Identifies the level for which information will be provided.
+Valid values are customer, site, group, and serial_numbers.
+
+            var id = id_example;  // String | Unique identifier for the level. Valid values are customer ID, site ID, group name, and serial numbers.
+
+            try
+            {
+                // Provides details about the systems with maximum capacity savings for a customer, site, group, or a set of serial numbers.
+                storageEfficiencySummary result = apiInstance.getEfficiencySummaryByLevel(authorizationToken, level, id);
+                Debug.WriteLine(result);
+            }
+            catch (Exception e)
+            {
+                Debug.Print("Exception when calling EfficiencyApi.getEfficiencySummaryByLevel: " + e.Message );
+            }
+        }
+    }
+}
+----
+
+The following is the *getEfficiencySummaryByLevel* API in *PHP*:
+----
+<?php
+require_once(__DIR__ . '/vendor/autoload.php');
+
+$api_instance = new Swagger\Client\Api\DefaultApi();
+
+try {
+    $api_instance->anyOptions();
+} catch (Exception $e) {
+    echo 'Exception when calling DefaultApi->anyOptions: ', $e->getMessage(), PHP_EOL;
+}
+?>
+----
+
+The following is the *getEfficiencySummaryByLevel* API in *Perl*:
+----
+use Data::Dumper;
+use WWW::SwaggerClient::Configuration;
+use WWW::SwaggerClient::DefaultApi;
+
+my $api_instance = WWW::SwaggerClient::DefaultApi->new();
+
+eval {
+    $api_instance->anyOptions();
+};
+if ($@) {
+    warn "Exception when calling DefaultApi->anyOptions: $@\n";
+}
+----

@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: concept_aiq_mrug_custom_group.html
+keywords: reports, custom group, watchlist
+summary: Provides information about watchlists.
+---
+
+= Watchlist
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/myreportsuserguide
+
+Watchlist is an alternate option for providing list of serial numbers as report generation criteria (helpful when you have to generate reports with serial number from multiple sites or customers).
+
+image:create_watchlist.png[image,width=397,height=201]
+
+NOTE: Currently, there is no direct way to create a watchlist from the *Reports* tab. To create a watchlist for a report, click the *Reports* tab on the top menu of Active IQ. Once you have created a Watchlist, you can then use it from the *Reports* tab for generating a report. This is the only way to have newly created Watchlists appear in the list of available groups available for reports.
+
+While creating a watchlist, you have two options:
+
+.Steps
+1.  Search for a customer or site name and include the serial numbers for that customer/site for creating the watchlist.
+2.  Include a list of serial numbers in the *Serial Numbers* text box to create a watchlist with that list of serial numbers.
+
+Once you select one of the above options, the serial numbers are validated against the installed base, and you get a success or error depending on whether there is a match against specified serial numbers.
+
+[start=3]
+3.  Once you select a criterion to generate the report, you will have to provide a report name and email address to which report output should be sent to.
+4.  System will display a message indicating the status of report submission (success/failure).
+5.  Once Report is submitted, you can check report dashboard page for status of report execution.

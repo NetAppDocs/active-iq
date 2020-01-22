@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: concept_ug_reports.html
+keywords: Active IQ, user guide, reports
+summary: Provides an overview of the reports feature.
+---
+
+= Reports
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+Use the Reports feature to generate and schedule the following reports:
+
+* System configuration
+* System risk
+* Storage efficiency
+* NetApp value (only for internal users and partners)
+
+With a few clicks, you can have reports regularly delivered to your inbox in either CSV or PDF format.
+
+For more information about Reports, click link:concept_aiq_mrug_reports_overview.html[here].
+
+Reports can be accessed from the top menu of Active IQ.
+
+image:left_drop_down_menu.png[image,width=202,height=280]
+
+You can also reach Reports directly by clicking http://mysupport.netapp.com/myautosupport/reports.html[here^].

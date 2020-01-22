@@ -1,0 +1,37 @@
+---
+sidebar: sidebar
+permalink: concept_ug_autosupport_alert.html
+keywords: Active IQ, user guide, autosupport alert
+summary: Provides an overview of the AutoSupport alert feature.
+---
+
+= AutoSupport Alerts
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/UserGuide
+
+AutoSupport alerts, available from the left navigation pane, are notifications sent to you about issues that may affect the health, availability, or uptime of your storage systems. AutoSupport detects known issues and sends you a notification about them so that you can take mitigation measures. These alerts are available in addition to the e-mail notifications sent out to you. You can also see a history of these alerts for the last 90 days.
+
+You can view AutoSupport alerts at the single-system and aggregate levels. You can also turn off e-mail notifications for these events and apply the preferences at a system or a site level.
+
+The AutoSupport Alerts interface includes AutoSupport header details complete with the contact information of the people receiving the notifications.
+
+image:image53.png[image,width=623,height=124]
+
+=== AutoSupport Alert Subscriptions
+
+On the AutoSupport Alert Subscriptions tab of the AutoSupport Alerts page, enter the email addresses of all the interested parties, and then select the types of AutoSupport alerts for them to receive. In addition to single-system and aggregate-level alerts, subscriptions can also be expanded to site-wide or customer-wide alerts by checking the corresponding “Apply same subscriptions to” box.
+
+For more information about AutoSupport alerts, see this https://kb.netapp.com/support/index?page=content&id=7010076[Knowledge Base article^] on the NetApp Support site.
+
+=== Notifications
+
+From the Notifications tab, you can select the AutoSupport notifications that you want to receive.
+
+* Enter all e-mail addresses that should receive the notifications.
+* Review all the AutoSupport message types and select the ones that you want to receive.
+* Click *Submit* to finalize the changes. All selected AutoSupport notifications are sent to the addresses you specified.
+
+*Best practice*: Use a group distribution list or group e-mail address so that, if individuals are away, others can still receive critical AutoSupport notifications by e-mail.
