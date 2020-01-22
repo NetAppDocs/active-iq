@@ -5,7 +5,7 @@ keywords: overview, provision, dashboard, widget, watchlist
 summary: Provides information about the dashboard, watchlists, and the widgets.
 ---
 
-= Understanding Active IQ dashboard
+= Understand Active IQ Dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,25 +16,25 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 
 [.lead]
 
-The Active IQ 2.0 dashboard displays information about the overall status of your storage system. It analyzes the storage system based on performance & efficiency, availability & protection, capacity, configuration, security, and renewals and provides a score for your storage system.
+The Active IQ 2.0 Dashboard displays information about the overall status of your storage system. It analyzes the storage system based on performance and efficiency, availability and protection, capacity, configuration, security, and renewals. In addition, it provides a score for your storage system.
 
 When you access Active IQ for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create as many dashboards and add watchlists to these dashboards. Each dashboard will have a score based on the status of the systems added to the dashboard.
 
-You can also view the number and risks for your storage system and the number of actions that need to be taken to mitigate these risks. For example, you many have 100 risks but may need to take only 6 actions to mitigate these 100 risks. Mitigating the risks on time optimizes the performance and efficiency of your storage system.
+You can also view the number and risks to your storage system and the number of actions that need to be taken to mitigate these risks. For example, you may have 100 risks but might need to take only 6 actions to mitigate these 100 risks. Mitigating the risks on time optimizes the performance and efficiency of your storage system.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
 
 Key highlights of the Active IQ 2.0 Dashboards are:
 
 
-* link:task_add_watchlist.html[Allows you to add multiple dashboards and view all the dashboards at a time.]
+* link:task_add_watchlist.html[Allows you to add multiple dashboards and view all them at once.]
 
-* Provides a score for each dashboard based on based on the status of the systems in the dashboard.
+* Provides a score for each dashboard based on the status of the systems in the dashboard.
 
-* link:task_view_wellness_score.html[Actions vs Risks – Displays all the risks for your storage system and the actions to mitigate the risks.]
+* link:task_view_wellness_score.html[Actions vs Risks – Displays all the risks to your storage system and the actions to mitigate the risks.]
 
 * link:task_identify_capacity_system.html[Proactively identifies and highlights systems that have exceeded or are nearing 90% capacity.]
 
-* link:task_renew_software_and_hardware.html[Proactively identifies and highlights hardware and software that have expired or are going to expire within 6 months.]
+* link:task_renew_software_and_hardware.html[Proactively identifies and highlights hardware and software that have expired or are near-expiration within the next 6 months.]
 
-* link:task_view_risks_remediated_unified_manager.html[Mitigate risks using Active IQ Unified Manager]
+* link:task_view_risks_remediated_unified_manager.html[Mitigates risks using Active IQ Unified Manager]

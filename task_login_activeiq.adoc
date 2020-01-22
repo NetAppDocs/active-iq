@@ -15,10 +15,10 @@ summary: Provides information to log in to Active IQ.
 :imagesdir: ./media/
 
 [.lead]
-You must have a valid NetApp Support site credential to log in. If you do not have an account and are getting started, click link:https://mysupport.netapp.com/info/web/ECMP1150550.html[here].
+You must have a valid NetApp Support site credential to log in to Active IQ. If you do not have an account and are getting started, click link:https://mysupport.netapp.com/info/web/ECMP1150550.html[here].
 
 .Step
-. Access Active IQ Web Portal by clicking link:https://activeiq.netapp.com[here].
+. Click link:https://activeiq.netapp.com[here] to access Active IQ Web Portal.
 +
-Active IQ shows systems with a valid support contract. If contracts expire, there is a grace period of 90 days in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ.
+Active IQ shows systems with a valid support contract. If contracts expire, a grace period of 90 days is given in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ.
 . Provide your username and password and click *Sign In*.

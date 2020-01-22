@@ -5,7 +5,7 @@ keywords: dashboard, widget, add widgets
 summary: Provides information to add a widget or widgets to the dashboard.
 ---
 
-= Add a widget to the dashboard
+= Add widgets to the Dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -19,6 +19,6 @@ Add widgets to the dashboard to get an overall understanding of your storage sys
 
 .Step
 . Click image:icon_kabob.gif[kebab icon] next to the name of the dashboard.
-. Click *Edit Dashboard*
+. Click *Edit Dashboard*.
 . Select the widgets to be added to the dashboard.
 . Click *Save* to view the selected widgets on the dashboard.

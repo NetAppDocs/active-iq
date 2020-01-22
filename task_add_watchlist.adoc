@@ -5,7 +5,7 @@ keywords: dashboard, watchlist, add watchlist
 summary: Provides information to add a watchlist to the dashboard.
 ---
 
-= Add a watchlist to the dashboard
+= Add a watchlist to the Dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -26,5 +26,5 @@ You can import an existing watchlist or create a watchlist.
 . Click *Next*.
 . Provide a name for the dashboard.
 . Select the widgets to be added to the dashboard.
-. Optionally, you can make this as your default dashboard.
+. Optionally, you can make this dashboard as your default dashboard.
 . Click *Create* to add the watchlist to the dashboard.

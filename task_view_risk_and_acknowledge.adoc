@@ -5,7 +5,7 @@ keywords: wellness score, performance, efficiency, availability, capacity, secur
 summary: Provides information to view and analyze the wellness score of your storage system and mitigate the risks.
 ---
 
-= View the wellness score attributes of your storage system and take corrective actions
+= View the wellness score attributes and take corrective actions
 :toc: macro
 :toclevels: 1
 :hardbreaks:
