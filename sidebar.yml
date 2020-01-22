@@ -4,15 +4,13 @@ entries:
   - title: Active IQ 1.0
     entries:
       - title: Getting Started with Active IQ
-        entries:
-          - title: What's new
-            url: /ActiveIQ1.0/concept_aiq_ug_getting_started.html
+        url: /concept_aiq_ug_getting_started.html
       - title: Features
         entries:
           - title: API Services
             entries:
               - title: Overview
-                url: /ActiveIQ1.0/concept_ug_api_services.html
+                url: /concept_ug_api_services.html
   - title: Active IQ 2.0
     entries:
       - title: Release Notes
@@ -53,7 +51,7 @@ entries:
             url: /reference_aiq_srd_reporting_mitigation.html
           - title: AFF Storage Efficiency
             url: /reference_aiq_AFF_SE_FAQs.html
-      - title: Get more information
-        url: /concept_get_more_information.html
+  - title: Get more information
+    url: /concept_get_more_information.html
   - title: Notices
     url: /reference_legalnotices.html
