@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, getting started, favorites, search, navigation,
 summary: Provides information that helps you get started with Active IQ.
 ---
 
-= Getting Started with Active IQ
+= Getting Started with Active IQ 1.0
 :hardbreaks:
 :nofooter:
 :icons: font

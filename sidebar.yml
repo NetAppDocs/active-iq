@@ -3,7 +3,7 @@ entries:
     url: /index.html
   - title: Active IQ 1.0
     entries:
-      - title: Getting Started with Active IQ
+      - title: Getting Started with Active IQ 1.0
         url: /concept_aiq_ug_getting_started.html
       - title: Features
         entries:
@@ -24,15 +24,111 @@ entries:
                   - title: Example 2 - getEfficiencySummaryByLevel
                     url: /concept_ug_api_code_example2.html
               - title: FAQ
-                url: /concept_ug_api_services.html
-          - title: FAQs
+                url: /reference_aiq_api_FAQ.html
+          - title: AutoSupport Upload
+            url: /concept_ug_manual_autosupport_upload.html
+          - title: Cluster
             entries:
-              - title: Health summary
-                url: /reference_aiq_srd_health_summary.html
-              - title: Reporting and mitigation
-                url: /reference_aiq_srd_reporting_mitigation.html
-              - title: AFF Storage Efficiency
-                url: /reference_aiq_AFF_SE_FAQs.html
+              - title: Dashboard
+                url: /concept_ug_cluster_dashboard.html
+              - title: Performance
+                url: /concept_ug_performance.html
+              - title: Upgrade Advisor
+                url: /concept_ug_upgrade_advisor.html
+              - title: AutoSupport
+                url: /concept_ug_autosupport_viewer.html
+              - title: Health
+                url: /concept_ug_health.html
+              - title: Storage
+                url: /concept_ug_storage_eff_peer_comparison.html
+              - title: Workload
+                url: /concept_ug_workload_tagging.html
+              - title: Configuration
+                url: /concept_ug_cluster_viewer.html
+            - title: Customer
+              entries:
+                - title: Dashboard
+                  url: /concept_ug_customer_dashboard.html
+                - title: Value report
+                  url: /concept_aiq_value_report.html
+                - title: My systems
+                  url: /concept_ug_customer_my_systems.html
+                - title: Upgrade Advisor
+                  url: /concept_ug_upgrade_advisor.html
+                - title: AutoSupport alerts
+                  url: /concept_ug_autosupport_alert.html
+                - title: Health
+                  url: /concept_ug_health.html
+                - title: Interop Advisor
+                  url: /concept_ug_interop_advisor.html
+                - title: Advisories
+                  entries:
+                  - title: Flash Advisor
+                    url: /concept_ug_flash_advisor.html
+                  - title: Protection Advisor
+                    url: /concept_ug_protection_advisor.html
+                  - title: FabricPool Advisor
+                    url: /concept_ug_fabricpool.html
+                  - title: Performance Guarantee Best Practice Gaps
+                    url: /concept_ug_performance_guarantee_bpg.html
+                - title: Config Compare
+                  url: /concept_ug_config_compare_popular_temp.html
+                - title: DataCenter View (Beta)
+                  url: /concept_ug_datacenter_view.html
+                - title: Storage
+                  url: /concept_ug_storage.html
+            - title: Discovery Dashboard
+              url: /concept_ug_discovery_dashboard.html
+            - title: HCI Expansion Advisor
+              url: /concept_ug_hci_expansion_advisor.html
+            - title: Reports
+              url: /concept_ug_reports.html
+            - title: System
+              entries:
+                - title: Dashboard
+                  url: /concept_ug_system_dashboard.html
+                - title: AutoSupport
+                  url: /concept_ug_autosupport_viewer.html
+                - title: Health
+                  url: /concept_ug_health.html
+                - title: Performance
+                  url: /concept_ug_performance.html
+                - title: Storage
+                  url: /concept_ug_storage_eff_peer_comparison.html
+                - title: AutoSupport Alerts
+                  url: /concept_ug_autosupport_alert.html
+                - title: Upgrade Advisor
+                  url: /concept_ug_upgrade_advisor.html
+                - title: Configuration
+                  url: /concept_ug_cluster_viewer.html
+                - title: Interop Advisor
+                  url: /concept_ug_interop_advisor.html
+            - title: Watchlists
+              url: /concept_ug_watchlists.html
+      - title: Reports
+        entries:
+          - title: Reports overview
+            url: /concept_aiq_mrug_reports_overview.html
+          - title: Accessing reports
+            url: /concept_aiq_mrug_accessing_reports.html
+          - title: Reports Dashboard
+            url: /concept_aiq_mrug_reports_dashboard.html
+          - title: Create report
+            url: /concept_aiq_mrug_create_report.html
+          - title: Configuration Report Output
+            url: /concept_aiq_mrug_configuration_report.html
+          - title: Watchlist
+            url: /concept_aiq_mrug_custom_group.html
+          - title: Report Scheduling
+            url: /concept_aiq_mrug_report_scheduling.html
+      - title: FAQs
+        entries:
+          - title: Health summary
+            url: /reference_aiq_srd_health_summary.html
+          - title: Reporting and mitigation
+            url: /reference_aiq_srd_reporting_mitigation.html
+          - title: AFF Storage Efficiency
+            url: /reference_aiq_AFF_SE_FAQs.html
   - title: Active IQ 2.0
     entries:
       - title: Release Notes
