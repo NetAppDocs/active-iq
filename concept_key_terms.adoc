@@ -17,24 +17,27 @@ summary: Provides information about the key terms used in Active IQ.
 [.lead]
 As you start using Active IQ, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Dashboard.
 
-* *Wellness Score:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
-* *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system. It lists all the risks related to performance and efficiency and the actions that should be taken to mitigate these risks.
-* *Availability & Protection:* Displays information about the availability and protection of the storage system. It lists all the risks related to availability and protection and the actions that should be taken to mitigate these risks.
-*	*Capacity:* Consists of risks with a capacity attribute for impact area values.
-*	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
-*	*Security:* Consists of risks with a security attribute for impact area values.
-*	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* section.
-*	*Renew Support:* Provides you a list of support contracts that are about to expire. You can click the mail icon to request renewals of the support contract.
-*	*Valuable Insights or Value Report:* : Provides the benefits you have received from Active IQ and your support contract. In the *Contract Renewal* widget, when you select systems and click *Renewal*, the support value report is displayed for the select systems with an option to enter comments and click *Renewal*.
+=== Dashboard
+*	*Watchlist:* Provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
 +
-The *Valuable Insights* or Value report is added as an attachment to the renewal request email. This way, you get the information about the selections that you have made for renewal. It also consists of the number of support cases that are opened and resolved, software upgrades performed, risks triggered under configuration, security, performance and efficiency, capacity, availability and protection, unique known applications running, risks triggered (checked), mitigated risks, and total storage efficiency savings.
+You can add a maximum of 25 dashboards.
 *	*Risks:* Displays a list of systems with their respective issues. It has different severity levels:
 ** High risks
 ** Medium risks
 ** Low risks
 ** Impacted systems.
 *	*Actions:* Displays the number of unique actions that you can take to fix the issues.
-*	*Watchlist:* Provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
+
+
+* *Wellness Score:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
+** *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system. It lists all the risks related to performance and efficiency and the actions that should be taken to mitigate these risks.
+** *Availability & Protection:* Displays information about the availability and protection of the storage system. It lists all the risks related to availability and protection and the actions that should be taken to mitigate these risks.
+**	*Capacity:* Consists of risks with a capacity attribute for impact area values.
+**	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
+**	*Security:* Consists of risks with a security attribute for impact area values.
+**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* section.
+**	*Renew Support:* Provides you a list of support contracts that are about to expire. You can click the mail icon to request renewals of the support contract.
+
 *	*Color-coded risk status*: Displays risk levels and their color codes are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 |===
 |image:black_color.png[Black] | Critical | row 1 column 3
