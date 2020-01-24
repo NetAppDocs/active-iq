@@ -1,0 +1,64 @@
+---
+sidebar: sidebar
+permalink: concept_getting_started_2.html
+keywords: overview, get started, wellness score, performance, configuration, renewal, risk, remediation, planning, inventory
+summary: Helps you understand the workflows and get started on Active IQ 2.0.
+---
+
+= Getting started with Active IQ 2.0
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/ActiveIQ2.0
+
+[.lead]
+
+Active IQ 2.0 has been enhanced and redesigned to help the users perform the task more effectively. The user interface has been developed from the view point of guiding the user to perform their desired goal.
+
+You can look at the following diagram to understand the workflows of Active IQ 2.0.
+
+image:activeiq2_workflow.png[Active IQ 2.0 workflow]
+
+All Active IQ widgets are not supported on all platforms. Active IQ 2.0 identifies the platform of your storage system and displays only the widgets  that can be performed on your storage system.
+
+Read the following information to be aware of the widgets that can be supported on your storage system.
+
+|===
+| Workflows
+| Customer
+| Cluster
+| Node
+
+| Wellness Score
+| Supported on all platforms
+| Supported on all platforms
+| Supported on all platforms
+
+| Renewals
+| Supported on all platforms
+| Supported on all platforms
+| Supported on all platforms
+
+| Hardware Add-ons
+| Supported only on ONTAP
+| Supported only on ONTAP
+| Supported only on ONTAP
+
+| Inventory / Configuration
+| Supported on all platforms
+| Supported only on cDOT
+| Supported only on cDOT
+
+| Upgrade
+| Supported only on ONTAP cDOT
+| Supported only on ONTAP cDOT
+| Supported only on ONTAP cDOT
+
+| Interoperability
+| Supported only on ONTAP
+| Supported only on ONTAP
+| Supported only on ONTAP
+|===

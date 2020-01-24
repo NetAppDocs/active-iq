@@ -3,7 +3,7 @@ entries:
     url: /index.html
   - title: Active IQ 1.0
     entries:
-      - title: Getting Started with Active IQ 1.0
+      - title: Getting started
         url: /concept_aiq_ug_getting_started.html
       - title: Features
         entries:
@@ -131,6 +131,8 @@ entries:
             url: /reference_aiq_AFF_SE_FAQs.html
   - title: Active IQ 2.0
     entries:
+      - title: Getting started
+        url: /concept_getting_started_2.html
       - title: Release Notes
         entries:
           - title: What's new

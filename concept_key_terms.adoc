@@ -17,28 +17,18 @@ summary: Provides information about the key terms used in Active IQ.
 [.lead]
 As you start using Active IQ, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Dashboard.
 
-=== Dashboard
-*	*Watchlist:* Provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
-+
-You can add a maximum of 25 dashboards.
-*	*Risks:* Displays a list of systems with their respective issues. It has different severity levels:
-** High risks
-** Medium risks
-** Low risks
-** Impacted systems.
-*	*Actions:* Displays the number of unique actions that you can take to fix the issues.
-
-
-* *Wellness Score:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
-** *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system. It lists all the risks related to performance and efficiency and the actions that should be taken to mitigate these risks.
-** *Availability & Protection:* Displays information about the availability and protection of the storage system. It lists all the risks related to availability and protection and the actions that should be taken to mitigate these risks.
-**	*Capacity:* Consists of risks with a capacity attribute for impact area values.
-**	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
-**	*Security:* Consists of risks with a security attribute for impact area values.
-**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* section.
-**	*Renew Support:* Provides you a list of support contracts that are about to expire. You can click the mail icon to request renewals of the support contract.
-
-*	*Color-coded risk status*: Displays risk levels and their color codes are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
+* *Dashboard:* Provides an overall status of your storage system.
+**	*Watchlist:* Provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
+** *Widgets:*
+** *Score:*
+**	*Risks:* Displays a list of systems with their respective issues. It has different severity levels:
+*** High risks
+*** Medium risks
+*** Low risks
+*** Impacted systems.
+**	*Actions:* Displays the number of unique actions that you can take to fix the issues.
+**	*Color-coded risk status*: Displays risk levels and their color codes are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
+[width=75%]
 |===
 |image:black_color.png[Black] | Critical | row 1 column 3
 |image:red_color.png[Red] | High | Displays a combination of expired and near expiration contracts. Provides information about one or more contracts that have expired within last 6 months.
@@ -47,18 +37,38 @@ You can add a maximum of 25 dashboards.
 |image:blue_color.png[Blue] | Best practice | row 1 column 3
 |image:green_color.png[Green] | No risks | Displays information about the renewals that have not expired or expiring within next 6 months.
 |===
-*	*Acknowledge Risks (Ack):* Allows you to view the risks and systems that have been impacted. This option is available in the Configuration widget. . You can acknowledge these risks and familiarize yourself with the actions that you can perform to rectify these risks. You can also search the risk by its name. The risk impacts are classified into:
-** High
-** Medium
-** Low
-** Best Practice
-** Critical
-*	*Inventory:* Provides a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
-*	*Fix It:* Fixes the risks to the systems using Active IQ Unified Manager 9.7 or higher. When the risks are triggered on your systems within your installed base, then, these risks can automatically be mitigated for your systems at top-level support contract.
-*	*Support Contract:* Provides information about a quote for support contract renewals, upgrades, subscriptions, and others.
-*	*Hardware Add-ons:* Provides information about your system when it runs out of capacity.
-*	*Interoperability Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers and firmware.
-*	*Upgrades:* Provides the number of upgrades available and a path to upgrade for systems. You can view recommendations for upgrading your systems. It not only provides the number of issues but also provides actions for upgrade required for rectifying the risks. For example, the list displays 5 actions, but if you perform these prescriptive actions, you can fix 152 issues.
-*	*Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
-*	*Upgrade Advisor:* Generates an upgrade plan with steps and commands to successfully perform a Data ONTAP upgrade or revert.
-*	*Upgrade Request Status:* Displays the status of your plan generation request when you click Upgrade Request Status.
+
+* *Wellness Score widget:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
+** *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system. It lists all the risks related to performance and efficiency and the actions that should be taken to mitigate these risks.
+** *Availability & Protection:* Displays information about the availability and protection of the storage system. It lists all the risks related to availability and protection and the actions that should be taken to mitigate these risks.
+**	*Capacity:* Consists of risks with a capacity attribute for impact area values.
+**	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
+**	*Security:* Consists of risks with a security attribute for impact area values.
+**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* section.
+**	*Acknowledge Risks (Ack):* Allows you to view the risks and systems that have been impacted. This option is available in the Configuration widget. . You can acknowledge these risks and familiarize yourself with the actions that you can perform to rectify these risks. You can also search the risk by its name. The risk impacts are classified into:
+*** High
+*** Medium
+*** Low
+*** Best Practice
+*** Critical
+**	*Fix It:* Fixes the risks to the systems using Active IQ Unified Manager 9.7 or higher. When the risks are triggered on your systems within your installed base, then, these risks can automatically be mitigated for your systems at top-level support contract.
+
+*	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
+
+* *Planning widget:* Displays information about the hardware add-ons and the software and hardware the needs to be renewed.
+**	*Hardware Add-ons:* Provides information about your system when it runs out of capacity.
+**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* section.
+
+*	*Upgrades widget:* Provides the number of upgrades that are available and the issues that will be fixed on upgrading. It also displays current interoperability details.
+**	*Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
+
+* *Quick links:* Provide the list of applications that can be launched using Active IQ.
+**	*Interoperability Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers and firmware.
+**	*Upgrade Advisor:* Generates an upgrade plan with steps and commands to successfully perform a Data ONTAP upgrade or revert.
+**	*Cluster Viewer:* Provides the capacity at the aggregate and volume levels.
+
+* *Search:* This allows you to search based on various categories such as customer name, serial number, cluster, hostname, and so on.
+** *Customer:*
+** *Cluster:*
+** *Serial Number:*
+** *StorageGRID:*
