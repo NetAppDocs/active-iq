@@ -26,7 +26,7 @@ All Active IQ widgets are not supported on all platforms. Active IQ 2.0 identifi
 
 Read the following information to be aware of the widgets that can be supported on your storage system.
 
-[%autowidth, options="header"]
+[%autowidth, cols=4*, options="header"]
 |===
 | *Workflows* | *Customer* | *Cluster* | *Node*
 

@@ -29,9 +29,7 @@ Key highlights of the Active IQ 2.0 Dashboards are:
 
 * link:task_add_watchlist.html[Allows you to add multiple dashboards and view all them at once.]
 
-* Provides a score for each dashboard based on the status of the systems in the dashboard.
-
-* link:task_view_wellness_score.html[Actions vs Risks – Displays all the risks to your storage system and the actions to mitigate the risks.]
+* link:task_view_risk_and_acknowledge.html[Actions vs Risks – Displays all the risks to your storage system and the actions to mitigate the risks.]
 
 * link:task_identify_capacity_system.html[Proactively identifies and highlights systems that have exceeded or are nearing 90% capacity.]
 

@@ -21,10 +21,39 @@ Active IQ typically introduces a new release every month to bring you new featur
 This update includes the following new features and enhancements.
 
 === Enhanced user interfaces
-The user interface Active IQ 2.0 has been enhanced to make
+The latest Active IQ Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
 
-=== Wellness score
+=== Customizable dashboards
+Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 25 dashboards and make effective business decisions.
 
-=== Multiple dashboards can be viewed and scored
+=== Single-system view
+Provides insights of your systems’ data in the following categories:
+*	*Risks:* Risks list the number of risks classified as “High” for a particular customer. Data will vary between external user and internal user.
+* *Alerts:* Alerts lists the total count of alerts for a particular customer.
+* *AutoSupport Adoption:* Auto support Adoption lists the count of systems that have enabled AutoSupport.
+* *System with No Auto Support:* Systems with no Auto support lists the count of systems that have not enabled AutoSupport in the last 2 weeks.
 
 === Mitigate risks using Active IQ Unified Manager
+You can view the risks and rectify them by using Active IQ Unified Manager.
+
+=== Different levels of views
+Displays information through the Customer Dashboard that is the central portal in Active IQ. You can that you can view and manage a customer’s installed base. You have an option to view different levels of Active IQ Dashboards.
+* Customer
+*	Site
+*	Group
+*	Dashboard
+
+=== Wellness score
+Provides detailed information that is classified into the following 6 widgets.
+*	Performance & Efficiency
+*	Availability & Protection
+*	Capacity
+*	Configuration
+*	Security
+*	Renewals
+
+=== Smarter and faster search
+Allows you to search parameters, such as serial number, system ID, host name, and cluster name using the single-system view. You can also search for group of systems, in addition, you can search by a customer name, site name, or group name by group of systems.
+
+=== Drill into details
+Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required by selecting and viewing the required dashboards, widgets, and drilldowns.
