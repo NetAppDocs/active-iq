@@ -26,39 +26,19 @@ All Active IQ widgets are not supported on all platforms. Active IQ 2.0 identifi
 
 Read the following information to be aware of the widgets that can be supported on your storage system.
 
+[%autowidth, options="header"]
 |===
-| Workflows
-| Customer
-| Cluster
-| Node
+| *Workflows* | *Customer* | *Cluster* | *Node*
 
-| Wellness Score
-| Supported on all platforms
-| Supported on all platforms
-| Supported on all platforms
+| Wellness Score | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Renewals
-| Supported on all platforms
-| Supported on all platforms
-| Supported on all platforms
+| Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Hardware Add-ons
-| Supported only on ONTAP
-| Supported only on ONTAP
-| Supported only on ONTAP
+| Hardware Add-ons | Supported only on ONTAP | Supported only on ONTAP | Supported only on ONTAP
 
-| Inventory / Configuration
-| Supported on all platforms
-| Supported only on cDOT
-| Supported only on cDOT
+| Inventory / Configuration | Supported on all platforms | Supported only on cDOT | Supported only on cDOT
 
-| Upgrade
-| Supported only on ONTAP cDOT
-| Supported only on ONTAP cDOT
-| Supported only on ONTAP cDOT
+| Upgrade | Supported only on ONTAP cDOT | Supported only on ONTAP cDOT | Supported only on ONTAP cDOT
 
-| Interoperability
-| Supported only on ONTAP
-| Supported only on ONTAP
-| Supported only on ONTAP
+| Interoperability | Supported only on ONTAP | Supported only on ONTAP | Supported only on ONTAP
 |===

@@ -28,7 +28,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 *** Impacted systems.
 **	*Actions:* Displays the number of unique actions that you can take to fix the issues.
 **	*Color-coded risk status*: Displays risk levels and their color codes are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
-[width=75%]
+[%autowidth]
 |===
 |image:black_color.png[Black] | Critical | row 1 column 3
 |image:red_color.png[Red] | High | Displays a combination of expired and near expiration contracts. Provides information about one or more contracts that have expired within last 6 months.
