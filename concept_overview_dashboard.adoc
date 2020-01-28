@@ -26,7 +26,6 @@ You should also be aware of the colors applied to the cards, which indicate the 
 
 Key highlights of the Active IQ 2.0 Dashboards are:
 
-
 * link:task_add_watchlist.html[Allows you to add multiple dashboards and view all them at once.]
 
 * link:task_view_risk_and_acknowledge.html[Actions vs Risks – Displays all the risks to your storage system and the actions to mitigate the risks.]

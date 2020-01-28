@@ -28,6 +28,7 @@ Helps you monitor your systems at a glance by providing key insights and analysi
 
 === Single-system view
 Provides insights of your systems’ data in the following categories:
+[circle]
 * *Risks:* Risks list the number of risks classified as “High” for a particular customer. Data will vary between external user and internal user.
 * *Alerts:* Alerts lists the total count of alerts for a particular customer.
 * *AutoSupport Adoption:* AutoSupport Adoption lists the count of systems that have enabled AutoSupport.
@@ -37,14 +38,14 @@ Provides insights of your systems’ data in the following categories:
 You can view the risks and rectify them by using Active IQ Unified Manager.
 
 === Wellness score
-Provides detailed information about the status of your storage system that is classified into the following 6 widgets.
+Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
+[circle]
 * Performance & Efficiency
 * Availability & Capacity
 * Capacity
 * Configuration
 * Security
 * Renewals
-
 
 === Smarter and faster search
 Allows you to search parameters, such as serial number, system ID, host name, site name, group name, and cluster name using the single-system view. You can also search for group of systems, in addition, you can search by a customer name, site name, or group name by group of systems.
