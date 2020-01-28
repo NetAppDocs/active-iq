@@ -15,17 +15,17 @@ summary: Provides information to view and analyze the wellness score of your sto
 :imagesdir: ./media/
 
 [.lead]
-Analyze the wellness score attributes of your storage system by viewing the action and risks associated with them. Mitigating the action and risks on time help in improving the performance and efficiency of your storage system. You can either manually mitigate the risk or acknowledge the risk.
+You can analyze the wellness score attributes of your storage system by viewing the action and risks associated with them. Mitigating the risks on time help in improving the performance and efficiency of your storage system. You can either manually mitigate the risk or acknowledge the risk.
 
 .Step
-. Click the wellness score attribute widget on the dashboard or click *View All* to view all the actions and risks.
+. Click the wellness score attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.
 . View the *Action* and *Risks* associated with the wellness score attribute.
 . Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
 . Click the risk to view information about the systems that are impacted by this risk.
 . Click *Ack* to acknowledge the risk.
 +
-You should have a KB article or other relevant information in the *Corrective Actions*.
-. Mitigate the risk by following the information provided.
+You should have a KB article or other relevant information in the *Corrective Actions* field.
+. Mitigate the risk by following the information provided in the KB article.
 +
-If you are unable to mitigate the risk, you should read the risk summary to understand the impact of the risk, and provide the requested details.
+If the risk cannot be mitigated, you should read the risk summary to understand the impact of the risk and provide the requisite details.
 . Click *Acknowledge*.

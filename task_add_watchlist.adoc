@@ -15,18 +15,18 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-Create a watchlist to access preselected systems inside Active IQ quickly and easily. You should create a new dashboard to add a watchlist.
+You can create a watchlist to access preselected systems inside Active IQ quickly and easily. You should create a new dashboard to add a watchlist.
 
-The maximum number of dashboards that you can create is 25.
+You can create a maximum of 25 dashboards.
 
 .Step
 . Click *+ Add New Dashboard*.
 +
 You can import an existing watchlist or create a watchlist.
 . Provide a name for the watchlist.
-. Select *Category* or *Serial Number*, and follow the steps listed to add systems to the watchlist.
+. Select a *Category* or *Serial Number*, and follow the steps in the Dashboard to add systems to the watchlist.
 +
-You can add a maximum of 15,000 systems under category and 500 systems under serial number.
+You can add a maximum of 15,000 systems under a category and 500 systems under serial number.
 . Click *Next*.
 . Provide a name for the dashboard.
 . Select the widgets to be added to the dashboard.

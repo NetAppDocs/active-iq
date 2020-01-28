@@ -5,7 +5,7 @@ keywords: login, log in
 summary: Provides information to log in to Active IQ.
 ---
 
-= Log into Active IQ
+= Log in to Active IQ
 :toc: macro
 :toclevels: 1
 :hardbreaks:

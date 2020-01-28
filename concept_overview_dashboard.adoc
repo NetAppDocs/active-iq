@@ -20,7 +20,7 @@ The Active IQ 2.0 Dashboard displays information about the overall status of you
 
 When you access Active IQ for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create as many dashboards and add watchlists to these dashboards. Each dashboard will have a score based on the status of the systems added to the dashboard.
 
-You can also view the number and risks to your storage system and the number of actions that need to be taken to mitigate these risks. For example, you may have 100 risks but might need to take only 6 actions to mitigate these 100 risks. Mitigating the risks on time optimizes the performance and efficiency of your storage system.
+You can also view the number of risks to your storage system and the number of actions that need to be taken to mitigate these risks. For example, you might have 100 risks but you might need to take only 6 actions to mitigate these 100 risks. Mitigating the risks on time optimizes the performance and efficiency of your storage system.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
 

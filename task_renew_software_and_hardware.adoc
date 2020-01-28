@@ -15,7 +15,7 @@ summary: Provides information to renew the software and hardware of your storage
 :imagesdir: ./media/
 
 [.lead]
-Proactively identifies software and hardware that have expired or are near expiration in the next 6 months, and send a request to renew the hardware and software.
+You can proactively identify the software and hardware that have expired or are near expiration in the next 6 months, and send a request to renew the hardware and software.
 
 .Step
 . Click the *Renewals* widget on the dashboard or click *Renewals* from the *Planning* widget.
