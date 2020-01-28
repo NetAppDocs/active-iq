@@ -67,8 +67,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 **	*Upgrade Advisor:* Generates an upgrade plan with steps and commands to successfully perform a Data ONTAP upgrade or revert.
 **	*Cluster Viewer:* Provides the capacity at the aggregate and volume levels.
 
-* *Search:* This allows you to search based on various categories such as customer name, serial number, cluster, hostname, and so on.
+* *Search:* This allows you to search based on various categories such as customer name, serial number, cluster, site name, group name, hostname, and so on.
 ** *Customer:* Customer Dashboard is the central portal in Active IQ from which you can view and manage a customer’s installed base.
-** *Cluster:* Provides information about ONTAP clusters. The dashboard also consolidates health, capacity, storage efficiency and performance insights.
+** *Cluster:* Provides information about ONTAP clusters. The dashboard also consolidates health, capacity, storage efficiency, and performance insights.
 ** *Serial Number:* Provides information about the serial number that is assigned to the customer.
-** *StorageGRID:* Provides information about the name of the StorageGRID.
