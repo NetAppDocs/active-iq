@@ -131,17 +131,17 @@ entries:
             url: /reference_aiq_AFF_SE_FAQs.html
   - title: Active IQ 2.0
     entries:
-      - title: Getting started
-        url: /concept_getting_started_2.html
       - title: Release Notes
         entries:
           - title: What's new
             url: /reference_new_activeiq.html
           - title: Known limitations
             url: /reference_limitations_activeiq.html
+      - title: Getting started
+        url: /concept_getting_started_2.html
       - title: Key Active IQ concepts
         url: /concept_key_terms.html
-      - title: Log into Active IQ
+      - title: Log in to Active IQ
         url: /task_login_activeiq.html
       - title: Provision the dashboard
         entries:

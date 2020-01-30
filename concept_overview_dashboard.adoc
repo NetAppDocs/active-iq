@@ -30,4 +30,4 @@ Key highlights of the Active IQ 2.0 Dashboards are:
 
 * link:task_renew_software_and_hardware.html[Proactively identifies and highlights hardware and software that have expired or are near-expiration within the next 6 months.]
 
-* link:task_view_risks_remediated_unified_manager.html[Mitigates risks using Active IQ Unified Manager]
+* link:task_view_risks_remediated_unified_manager.html[Mitigates risks using Active IQ Unified Manager.]

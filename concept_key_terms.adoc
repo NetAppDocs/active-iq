@@ -19,7 +19,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 
 * *Dashboard:* Provides an overall status of your storage system.
 **	*Watchlist:* Provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
-** *Widgets:* Displays small applications on the Dashboard that provides you a quick summary of the status of the systems.
+** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
 ** *Score:*: Displays the status of your Dashboard based on the conditions of the systems. Score can be good, average, or poor.
 **	*Risks:* Displays a list of systems with their respective issues. It has different severity levels:
 *** High risks
@@ -47,7 +47,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 **	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
 **	*Security:* Consists of risks with a security attribute for impact area values.
 **	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* widget.
-**	*Acknowledge Risks (Ack):* Allows you to view the risks and systems that have been impacted. This option is available in the Configuration widget. . You can acknowledge these risks and familiarize yourself with the actions that you can perform to rectify these risks. You can also search the risk by its name. The risk impacts are classified into:
+**	*Acknowledge Risks (Ack):* Allows you to view the risks and systems that have been impacted. This option is available in the Configuration widget. You can acknowledge these risks and familiarize yourself with the actions that you can perform to rectify these risks. You can also search the risk by its name. The risk impacts are classified into:
 *** High
 *** Medium
 *** Low
