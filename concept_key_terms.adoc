@@ -28,7 +28,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 *** Impacted systems.
 **	*Actions:* Displays the number of unique actions that you can take to fix the issues.
 **	*Color-coded risk status*: Displays risk levels and their color codes that are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
-[%autowidth]
+[%autowidth, indent=1]
 |===
     |*Color*  | *Severity*
 
@@ -53,7 +53,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 *** Low
 *** Best Practice
 *** Critical
-**	*Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks. 
+**	*Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
 
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
 
