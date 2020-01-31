@@ -53,7 +53,7 @@ As you start using Active IQ, it is important that you understand some of the ba
 *** Low
 *** Best Practice
 *** Critical
-**	*Fix It:* Fixes the risks to the systems using Active IQ Unified Manager 9.7 or higher. When the risks are triggered on your systems, within your installed base, then, these risks can automatically be mitigated for your systems at top-level support contract.
+**	*Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks. 
 
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
 
