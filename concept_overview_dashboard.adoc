@@ -18,7 +18,7 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 
 The Active IQ 2.0 Dashboard displays information about the overall status of your storage system. It analyzes the storage system based on performance and efficiency, availability and protection, capacity, configuration, security, and renewals. In addition, it provides a score for your storage system.
 
-When you access Active IQ for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create as many dashboards and add watchlists to these dashboards. Each dashboard will have a score based on the status of the systems added to the dashboard.
+When you access Active IQ for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 25 dashboards and add watchlists to these dashboards. Each dashboard will have a score based on the status of the systems added to the dashboard.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
 

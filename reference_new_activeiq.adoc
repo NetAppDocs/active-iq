@@ -26,14 +26,6 @@ The latest Active IQ Dashboards offer a personalized experience. It allows smoot
 === Customizable dashboards
 Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 25 dashboards and make effective business decisions.
 
-=== Single-system view
-Provides insights of your systems’ data in the following categories:
-[disc]
-* *Risks:* Risks list the number of risks classified as “High” for a particular customer. Data will vary between external user and internal user.
-* *Alerts:* Alerts lists the total count of alerts for a particular customer.
-* *AutoSupport Adoption:* AutoSupport Adoption lists the count of systems that have enabled AutoSupport.
-* *System with no AutoSupport:* Systems with no Auto support lists the count of systems that have not enabled AutoSupport in the last 2 weeks.
-
 === Mitigate risks using Active IQ Unified Manager
 You can view the risks and rectify them by using Active IQ Unified Manager.
 

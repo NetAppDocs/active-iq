@@ -16,3 +16,12 @@ summary: Provides information about the limitations in the release.
 
 [.lead]
 Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
+
+=== Drill down details for all widgets are not supported
+The Hardware add-on, capacity recommendation, and inventory widgets do not have any drill down details. You can only view the limited information that is available in the top level cards.
+
+=== Limited support for Cluster Viewer
+The Cluster Viewer feature only provides information about the summary of the clusters and the storage information at a cluster level.
+
+=== Value Report for renewing requests is not supported
+This feature is not available for this release.
