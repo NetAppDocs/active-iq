@@ -19,6 +19,4 @@ Wellness score provides detailed information about your storage system. It provi
 
 It lists the risks associated with each of these attributes, and also provides information to mitigate these risks, thereby improving the overall condition of the storage system.
 
-You can also view the peer comparison percentile to view your position when compared to your peers. Mitigating all these risks and proactively taking actions to keep your system up to date increases your peer comparison percentile.
-
 image:wellness_score_workflow.png[wellness score workflow]
