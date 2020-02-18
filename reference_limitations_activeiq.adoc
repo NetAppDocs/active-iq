@@ -17,6 +17,9 @@ summary: Provides information about the limitations in the release.
 [.lead]
 Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
 
+=== Limited support for wellness (risk assessment)
+You cannot acknowledge a risk or view the details of the risk from the risk page. For more information about the risk or the process to acknowledge the risk, see the previous version of Active IQ.
+
 === Drill down details for all widgets are not supported
 The Hardware add-on, capacity recommendation, and inventory widgets do not have any drill down details. You can only view the limited information that is available in the top level cards.
 

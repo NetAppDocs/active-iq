@@ -1,7 +1,7 @@
 entries:
   - title: Active IQ Documentation
     url: /index.html
-  - title: Active IQ 1.0
+  - title: Active IQ
     entries:
       - title: Getting started
         url: /concept_aiq_ug_getting_started.html
@@ -129,7 +129,7 @@ entries:
             url: /reference_aiq_srd_reporting_mitigation.html
           - title: AFF Storage Efficiency
             url: /reference_aiq_AFF_SE_FAQs.html
-  - title: Active IQ 2.0
+  - title: Active IQ Digital Advisor
     entries:
       - title: Release Notes
         entries:
@@ -149,11 +149,11 @@ entries:
             url: /concept_overview_dashboard.html
           - title: Add a watchlist to the dashboard
             url: /task_add_watchlist.html
-      - title: Analyze the wellness score
+      - title: Analyze the wellness
         entries:
           - title: Overview
             url: /concept_overview_wellness_score.html
-          - title: View the wellness score attributes of your storage system and take corrective actions
+          - title: View all the risks or the risks associated with the wellness attributes
             url: /task_view_risk_and_acknowledge.html
           - title: View risks that can be automatically remediated using Active IQ Unified Manager
             url: /task_view_risks_remediated_unified_manager.html

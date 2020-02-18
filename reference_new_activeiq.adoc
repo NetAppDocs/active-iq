@@ -5,7 +5,7 @@ keywords: what's new, features, new
 summary: Provides information about the new features in the release.
 ---
 
-= What's new in Active IQ 2.0
+= What's new in Active IQ Digital Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -17,7 +17,7 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
 
-=== Active IQ 2.0 (20 Feb 2020)
+=== Active IQ Digital Advisor (20 Feb 2020)
 This update includes the following new features and enhancements.
 
 === Enhanced user interfaces
@@ -29,7 +29,7 @@ Helps you monitor your systems at a glance by providing key insights and analysi
 === Mitigate risks using Active IQ Unified Manager
 You can view the risks and rectify them by using Active IQ Unified Manager.
 
-=== Wellness score
+=== Wellness
 Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
 [disc]
 * Performance & Efficiency

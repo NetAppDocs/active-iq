@@ -46,7 +46,6 @@ As you start using Active IQ, it is important that you understand some of the ba
 **	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
 **	*Security:* Consists of risks with a security attribute for impact area values.
 **	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* widget.
-**	*Acknowledge Risks (Ack):* Allows you to view the risks and systems that have been impacted. This option is available in the Configuration widget. You can acknowledge these risks and familiarize yourself with the actions that you can perform to rectify these risks. You can also search the risk by its name.
 **	*Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
 
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
