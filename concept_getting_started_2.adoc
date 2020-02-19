@@ -30,15 +30,15 @@ Read the following information to be aware of the widgets that are supported on 
 |===
 | *Widget* | *Customer* | *Cluster* | *Node*
 
-| Wellness Score | Supported on all platforms | Supported on all platforms | Supported on all platforms
+| Wellness | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
 | Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Hardware Add-ons | Supported only on ONTAP | Supported only on ONTAP | Supported only on ONTAP
+| Hardware Add-ons | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
 
-| Inventory / Configuration | Supported on all platforms | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
+| Inventory  | Supported on all platforms | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
 
 | Upgrades | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
 
-| Interoperability | Supported only on ONTAP | Supported only on ONTAP | Supported only on ONTAP
+| Interoperability | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
 |===

@@ -21,7 +21,7 @@ Active IQ typically introduces a new release every month to bring you new featur
 This update includes the following new features and enhancements.
 
 === Enhanced user interfaces
-The latest Active IQ Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
+The latest Active IQ Digital Advisor Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
 
 === Customizable dashboards
 Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 25 dashboards and make effective business decisions.

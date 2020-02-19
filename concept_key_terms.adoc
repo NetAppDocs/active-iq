@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept_key_terms.html
 keywords: overview, inventory
-summary: Provides information about the key terms used in Active IQ.
+summary: Provides information about the key terms used in Active IQ Digital Advisor.
 ---
 
 = Key concepts
@@ -15,12 +15,11 @@ summary: Provides information about the key terms used in Active IQ.
 :imagesdir: ./media/ActiveIQ2.0
 
 [.lead]
-As you start using Active IQ, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Dashboard.
+As you start using Active IQ Digital Advisor, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Dashboard.
 
 * *Dashboard:* Provides an overall status of your storage system.
-**	*Watchlist:* Provides you the flexibility to access systems inside Active IQ that have already been selected. You can use watchlists to add systems from either one or more customers.
+**	*Watchlist:* Provides you the flexibility to access systems inside Active IQ Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
 ** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
-** *Score:*: Displays the status of your Dashboard based on the conditions of the systems. Score can be good, average, or poor.
 **	*Risks:* Displays a list of systems with their respective issues. It has different severity levels:
 *** High risks
 *** Medium risks
@@ -39,29 +38,29 @@ As you start using Active IQ, it is important that you understand some of the ba
     |image:green_color.png[Green] | No risks
 |===
 
-* *Wellness Score widget:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
-** *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system. It lists all the risks related to performance and efficiency and the actions that should be taken to mitigate these risks.
-** *Availability & Protection:* Displays information about the availability and protection of the storage system. It lists all the risks related to availability and protection and the actions that should be taken to mitigate these risks.
+* *Wellness widget:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
+** *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system.
+** *Availability & Protection:* Displays information about the availability and protection of the storage system.
 **	*Capacity:* Consists of risks with a capacity attribute for impact area values.
 **	*Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
 **	*Security:* Consists of risks with a security attribute for impact area values.
-**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* widget.
+**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
 **	*Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
 
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
 
 * *Planning widget:* Displays information about the hardware add-ons, software, and hardware that needs to be renewed.
-**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness Score* and in the *Planning* widget.
+**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
 
 *	*Upgrades widget:* Provides the number of upgrades that are available and the issues that will be fixed on upgrading. It also displays current interoperability details.
 **	*Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
 
-* *Quick links:* Provides the list of applications that can be launched using Active IQ.
+* *Quick links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 **	*Interoperability Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers, and firmware.
 **	*Upgrade Advisor:* Generates an upgrade plan with steps and commands to successfully perform a Data ONTAP upgrade or revert.
 **	*Cluster Viewer:* Provides the capacity at the aggregate and volume levels.
 
 * *Search:* Allows you to search for systems based on various categories, such as customer name, serial number, cluster, site name, group name, hostname, and others.
-** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ.
+** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ .
 ** *Cluster:* Provides information about ONTAP clusters. The Dashboard also consolidates health, capacity, storage efficiency, and performance insights.
 ** *Serial Number:* Provides information about the serial number that is assigned to the customer.

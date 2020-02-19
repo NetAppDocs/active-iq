@@ -141,7 +141,7 @@ entries:
         url: /concept_getting_started_2.html
       - title: Key Active IQ concepts
         url: /concept_key_terms.html
-      - title: Log in to Active IQ
+      - title: Log in to Active IQ Digital Advisor
         url: /task_login_activeiq.html
       - title: Provision the dashboard
         entries:
