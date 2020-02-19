@@ -27,16 +27,16 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 **	*Actions:* Displays the number of unique actions that you can take to fix the issues.
 **	*Color-coded risk status*: Displays risk levels and their color codes that are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 [%autowidth, indent=1]
-|===
-    |*Color*  | *Severity*
+    |===
+        |*Color*  | *Severity*
 
-    |image:black_color.png[Black] | Critical
-    |image:red_color.png[Red] | High
-    |image:orange_color.png[Orange] | Medium
-    |image:yellow_color.png[yellow] | Low
-    |image:blue_color.png[Blue] | Best practice
-    |image:green_color.png[Green] | No risks
-|===
+        |image:black_color.png[Black] | Critical
+        |image:red_color.png[Red] | High
+        |image:orange_color.png[Orange] | Medium
+        |image:yellow_color.png[yellow] | Low
+        |image:blue_color.png[Blue] | Best practice
+        |image:green_color.png[Green] | No risks
+    |===
 
 * *Wellness widget:* Displays information about the performance, efficiency, capacity, configuration settings, security, and others. It proactively determines the systems that have either exceeded the capacity or are near exceeding 90% capacity. In addition, it provides information about software and hardware that have either expired or set to expire in the next 6 months.
 ** *Performance & Efficiency:* Displays information about the performance and efficiency of the storage system.
