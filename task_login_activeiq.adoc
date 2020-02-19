@@ -18,7 +18,7 @@ summary: Provides information to log in to Active IQ Digital Advisor.
 You must have a valid NetApp Support site credential to log in to Active IQ Digital Advisor. If you do not have an account and are getting started, click link:https://mysupport.netapp.com/info/web/ECMP1150550.html[here].
 
 .Step
-. Click link:https://activeiq.netapp.com[here] to access Active IQ Web Portal.
+. Click link:https://activeiq.netapp.com[here] to access Active IQ Digital Advisor.
 +
 Active IQ Digital Advisor shows systems with a valid support contract. If contracts expire, a grace period of 90 days is given in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ Digital Advisor.
 . Provide your username and password and click *Sign In*.

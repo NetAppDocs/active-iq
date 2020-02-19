@@ -12,17 +12,16 @@ summary: Provides information to view the risks that can be automatically remedi
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/
+:imagesdir: ./media/ActiveIQ2.0
 
 [.lead]
 You can analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager.
 
 .Step
-. Click *Fix it using Active IQ Unified Manager* on the dashboard.
-+
-All risks that can be fixed using Unified Manager are listed.
+. Click *View All* on the dashboard.
 . Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
-. Click the risk to view information about the systems that are impacted by this risk.
++
+If the risk can be mitigated using Active IQ Unified Manager, the image:spanner.png[Spanner] icon is highlighted.
 . Click *Fix It* to launch Active IQ Unified Manager.
 . Click *Install* to install Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
 . Click *Upgrade* to upgrade to Active IQ Unified Manager 9.7 or later to use the *Fix It* option.

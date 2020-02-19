@@ -49,16 +49,16 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
 
-* *Planning widget:* Displays information about the hardware add-ons, software, and hardware that needs to be renewed.
+* *Planning widget:* Displays information about the hardware add-on, software, and hardware that needs to be renewed.
 **	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
 
 *	*Upgrades widget:* Provides the number of upgrades that are available and the issues that will be fixed on upgrading. It also displays current interoperability details.
 **	*Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
 
-* *Quick links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
+* *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 **	*Interoperability Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers, and firmware.
 **	*Upgrade Advisor:* Generates an upgrade plan with steps and commands to successfully perform a Data ONTAP upgrade or revert.
-**	*Cluster Viewer:* Provides the capacity at the aggregate and volume levels.
+**	*ClusterViewer:* Provides the capacity at the aggregate and volume levels.
 
 * *Search:* Allows you to search for systems based on various categories, such as customer name, serial number, cluster, site name, group name, hostname, and others.
 ** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ .

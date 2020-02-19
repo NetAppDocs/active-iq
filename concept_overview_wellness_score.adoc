@@ -17,6 +17,4 @@ summary: Provides information about the wellness, which helps you to improve you
 [.lead]
 Wellness provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
 
-It lists the risks associated with each of these attributes, and also provides information to mitigate these risks, thereby improving the overall condition of the storage system.
-
 image:wellness_score_workflow.png[wellness workflow]
