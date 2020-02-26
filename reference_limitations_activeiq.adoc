@@ -21,7 +21,7 @@ Known limitations identify platforms, devices, or functions that are not support
 You cannot acknowledge a risk or view the details of the risk from the risk page. For more information about the risk or the process to acknowledge the risk, see the Active IQ documentation.
 
 === Drill down details for all widgets are not supported
-The Hardware Add-on, capacity recommendation, and inventory widgets do not have any drill down details. You can only view the limited information that is available in the top level cards.
+The inventory, capacity addition, and upgrade widgets do not have any drill down details. You can only view the limited information that is available in the top level cards.
 
 === Limited support for ClusterViewer
 The ClusterViewer feature only provides information about the summary of the clusters and the storage information at a cluster level.
