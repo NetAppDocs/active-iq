@@ -42,6 +42,8 @@ For NetApp internal users, Search is the default home page.
 
 image:image5.png[image,width=586,height=227]
 
+Active IQ only displays systems with a valid support contract. After the support contract expires, the systems continue to be visible until 90 days after the expiry. Thereafter, systems are not visible in Active IQ until the contract is renewed. 
+
 You can now search for various categories including NetApp Active IQ OneCollect and NetApp Active IQ Config Advisor by clicking the *Advanced Search results*.
 
 image:image6.png[image,width=533,height=216]
