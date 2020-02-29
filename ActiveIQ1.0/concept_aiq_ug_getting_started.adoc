@@ -5,7 +5,7 @@ keywords: Active IQ, user guide, getting started, favorites, search, navigation,
 summary: Provides information that helps you get started with Active IQ.
 ---
 
-= Getting Started with Active IQ
+= Getting Started with Active IQ 1.0
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -81,3 +81,7 @@ When you first login after a release, you will see a summary of the new features
 This information is also available from the feedback option, which is on the right of the screen.
 
 image:aiq_whats_new.png[Whaat's New]
+
+=== Watch Active IQ videos
+
+link:https://www.youtube.com/playlist?list=PLdXI3bZJEw7lFU-L4EFC5Mt91HybXKOnO[Active IQ videos] – get help and connect with peers

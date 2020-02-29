@@ -1,0 +1,23 @@
+---
+sidebar: sidebar
+permalink: reference_aiq_api_FAQ.html
+keywords: system risk, health summary
+summary: Provides FAQ about the API services feature
+---
+
+= FAQ
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+
+== What is an Access Token? Why do I need a Refresh Token?
+An access token is a character string, that when added to an API query, authenticates the user and receives a response from Active IQ. The refresh token can be used in a specific API query to obtain a new access token, either before or after the current access token has expired.
+
+== For how long are tokens valid?
+The access token expires after 1 hour and the refresh token expires after 7 days. For information on generating new set to tokens, click here.
+
+== How do I know if my token has expired?
+API requests will return HTTP Status Code 401 (Unauthorized) and the response body will contain {"message":"Unauthorized"}.

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: task_view_risk_and_acknowledge.html
+keywords: wellness, performance, efficiency, availability, capacity, security, protection, protect, space
+summary: Provides information to view and analyze the wellness of your storage system and mitigate the risks.
+---
+
+= View all the risks or the risks associated with the wellness attributes
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can analyze the wellness attributes of your storage system by viewing the action and risks associated with them.
+
+.Step
+. Click the wellness attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.
+. View the *Action* and *Risks* associated with the wellness attribute.
+. Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
+. Click the systems to view information about the systems that are impacted by this risk.

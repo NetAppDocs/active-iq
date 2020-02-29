@@ -1,0 +1,33 @@
+---
+sidebar: sidebar
+permalink: concept_overview_dashboard.html
+keywords: overview, provision, dashboard, widget, watchlist
+summary: Provides information about the dashboard, watchlists, and the widgets.
+---
+
+= Understand Active IQ Dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+The Active IQ Digital Advisor Dashboard displays information about the overall status of your storage system. It analyzes the storage system based on performance and efficiency, availability and protection, capacity, configuration, security, and renewals.
+
+When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 25 dashboards and add watchlists to these dashboards.
+
+You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
+
+Key highlights of the Active IQ Digital Advisor Dashboards are:
+
+* link:task_add_watchlist.html[Allows you to add multiple dashboards and view all them at once.]
+
+* link:task_view_risk_and_acknowledge.html[Actions vs Risks – Displays all the risks to your storage system and the actions to mitigate the risks.]
+
+* link:task_renew_software_and_hardware.html[Proactively identifies and highlights hardware and software that have expired or are near-expiration within the next 6 months.]
+
+* link:task_view_risks_remediated_unified_manager.html[Mitigates risks using Active IQ Unified Manager.]

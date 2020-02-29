@@ -11,24 +11,30 @@ summary: Active IQ Documentation.
 :linkattrs:
 :imagesdir: ./media/
 
-NetApp® Active IQ® intelligence engine is a cloud based service that provides predictive analytics and proactive support to optimize operations across the NetApp hybrid cloud.
+Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud.
 
-== Get Started
+Active IQ delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app. NetApp uses Community Wisdom and peer comparisons gained from its massive installed base to deliver an advanced set of unparalleled analytics services through Active IQ.
 
-* link:concept_aiq_ug_getting_started.html[Get started with Active IQ]
+=== Accessing Active IQ Web Portal and Downloading the Mobile App
 
-== Watch Active IQ videos
+[cols=",",options="header",]
+|=======================================================================================================
+|Active IQ Web Portal |https://mysupport.netapp.com/myautosupport/home.html[https://activeiq.netapp.com]
+|Active IQ Mobile App Download (iOS) |https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8
+|Active IQ Mobile App Download (Android) |https://play.google.com/store/apps/details?id=com.netapp.myautosupport
+|=======================================================================================================
 
-https://www.youtube.com/playlist?list=PLdXI3bZJEw7lFU-L4EFC5Mt91HybXKOnO[Active IQ videos^]
+NOTE: You must have valid NetApp Support site credentials to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
 
-== Get help and connect with peers
+Active IQ displays systems with a valid support contract. If contracts expire, there is a grace period of 90 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
 
-* https://community.netapp.com/t5/Products-and-Services/ct-p/products-and-solutions[NetApp Community: Active IQ and AutoSupport^]
+=== Documentation, Feedback, and Support
 
-== Find more information about Active IQ
-
-https://www.netapp.com/us/documentation/active-iq.aspx[Documentation resource page^]
-
-*Technical Reports*
-https://www.netapp.com/us/media/tr-4688.pdf[Security and Privacy of NetApp Telemetry Data^]
-https://www.netapp.com/us/media/tr-4444.pdf[ONTAP AutoSupport and AutoSupport On Demand^]
+[cols=",",options="header",]
+|========================================================================================================================================
+|Documentation Resources |https://www.netapp.com/us/documentation/active-iq.aspx
+|Report Issues |https://mysupport.netapp.com/myautosupport/dist/index.html#/feedback
+|Feedback & Enhancement Requests |ng-activeiq-feedback@netapp.com
+|User Community |http://communities.netapp.com/community/products_and_solutions/efficient_it/my_autosupport_and_autosupport?view=overview
+|Follow us on Twitter |https://twitter.com/NetAppActiveIQ
+|========================================================================================================================================

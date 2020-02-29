@@ -1,0 +1,44 @@
+---
+sidebar: sidebar
+permalink: concept_getting_started_2.html
+keywords: overview, get started, wellness, performance, configuration, renewal, risk, remediation, planning, inventory
+summary: Helps you understand the workflows and get started on Active IQ Digital Advisor.
+---
+
+= Getting started with Active IQ Digital Advisor
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/ActiveIQ2.0
+
+[.lead]
+
+Active IQ Digital Advisor has been enhanced and redesigned to help you perform the task more effectively. The user interface has been developed to guide you perform your desired goal.
+
+You can look at the following diagram to understand the workflows of Active IQ Digital Advisor.
+
+image:activeiq2_workflow.png[Active IQ Digital Advisor workflow]
+
+All Active IQ widgets are not supported on all platforms. Active IQ Digital Advisor identifies the platform of your storage system and displays only the set of tasks that can be performed on your storage system.
+
+Read the following information to be aware of the widgets that are supported on your storage system.
+
+[%autowidth, cols=4*, options="header"]
+|===
+| *Widget* | *Customer* | *Cluster* | *Node*
+
+| Wellness | Supported on all platforms | Supported on all platforms | Supported on all platforms
+
+| Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
+
+| Capacity Addition | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
+
+| Inventory  | Supported on all platforms | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
+
+| Upgrades | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
+
+| Interoperability | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
+|===

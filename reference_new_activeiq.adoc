@@ -1,0 +1,46 @@
+---
+sidebar: sidebar
+permalink: reference_new_activeiq.html
+keywords: what's new, features, new
+summary: Provides information about the new features in the release.
+---
+
+= What's new in Active IQ Digital Advisor
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
+
+=== Active IQ Digital Advisor (20 Feb 2020)
+This update includes the following new features and enhancements.
+
+=== Enhanced user interfaces
+The latest Active IQ Digital Advisor Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
+
+=== Customizable dashboards
+Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 25 dashboards and make effective business decisions.
+
+=== Mitigate risks using Active IQ Unified Manager
+You can view the risks and rectify them by using Active IQ Unified Manager.
+
+=== Wellness
+Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
+[disc]
+* Performance & Efficiency
+* Availability & Capacity
+* Capacity
+* Configuration
+* Security
+* Renewals
+
+=== Smarter and faster search
+Allows you to search parameters, such as serial number, system ID, host name, site name, group name, and cluster name using the single-system view. You can also search for group of systems, in addition, you can search by a customer name, site name, or group name by group of systems.
+
+=== Drill into details
+Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required by selecting and viewing the required dashboards, widgets, and drilldowns.

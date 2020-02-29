@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: reference_limitations_activeiq.html
+keywords: limitation, issues, not supported, drawbacks
+summary: Provides information about the limitations in the release.
+---
+
+= Known limitations
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
+
+=== Limited support for wellness (risk assessment)
+You cannot acknowledge a risk or view the details of the risk from the risk page. For more information about the risk or the process to acknowledge the risk, see the Active IQ documentation.
+
+=== Drill down details for all widgets are not supported
+The inventory, capacity addition, and upgrade widgets do not have any drill down details. You can only view the limited information that is available in the top level cards.
+
+=== Limited support for ClusterViewer
+The ClusterViewer feature only provides information about the summary of the clusters and the storage information at a cluster level.
+
+=== Value Report for renewing requests is not supported
+This feature is not available for this release.

@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: concept_overview_wellness_score.html
+keywords: overview, wellness, performance, configuration, renewal, risk, remediation
+summary: Provides information about the wellness, which helps you to improve your storage system.
+---
+
+= Understand Wellness
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/ActiveIQ2.0
+
+[.lead]
+Wellness provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
+
+image:wellness_score_workflow.png[wellness workflow]
