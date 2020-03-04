@@ -22,3 +22,4 @@ You can analyze the wellness attributes of your storage system by viewing the ac
 . View the *Action* and *Risks* associated with the wellness attribute.
 . Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
 . Click the systems to view information about the systems that are impacted by this risk.
+. Click the associated KB article and follow the information listed in the KB article to resolve the risk.

@@ -33,10 +33,10 @@ entries:
             url: /task_renew_software_and_hardware.html
       - title: Identify system requriements proactively
         entries:
-          - title: Renew the software and hardware of your storage system
-            url: /task_renew_software_and_hardware.html
           - title: Identify the capacity of your storage system
             url: /task_identify_capacity_system.html
+          - title: Renew the software and hardware of your storage system
+            url: /task_renew_software_and_hardware.html
       - title: Ensuring your storage system is up to date
         entries:
           - title: View and upgrade your storage system
