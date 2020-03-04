@@ -12,7 +12,7 @@ summary: Helps you understand the workflows and get started on Active IQ Digital
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/ActiveIQ2.0
+:imagesdir: ./media/
 
 [.lead]
 

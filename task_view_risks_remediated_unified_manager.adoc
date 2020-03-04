@@ -12,7 +12,7 @@ summary: Provides information to view the risks that can be automatically remedi
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/ActiveIQ2.0
+:imagesdir: ./media/
 
 [.lead]
 You can analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager.
