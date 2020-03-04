@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: task_view_upgrade.html
+keywords: upgrade, current version, benefits
+summary: Provides information to view and upgrade your storage system.
+---
+
+= View and upgrade your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can view the pending upgrades of your storage system and the number of issues that will be resolved on upgrading to the new release.
+
+You can also view the current interoperability data. The interoperability data is populated based on the Active IQ OneCollect AutoSupport data.
+
+.Step
+. In the *Upgrade* widget of the dashboard, click *Upgrades* to view the pending upgrades.
+. Click the number of Action items to view the pending upgrades.
+. Select the required upgrade option.
++
+You can view the key feature of the release and the future interoperability data. You can also click the Release Notes to view detailed information about the release.
+. Click *Plan Upgrade*.

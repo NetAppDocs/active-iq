@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: reference_activeiq1.html
+keywords: Active IQ
+summary: Provides information and the links to Active IQ
+---
+
+= Active IQ
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Active IQ is the earlier version of Active IQ Digital Advisor.
+
+You can view the link:https://docs.netapp.com/us-en/active-iq-1/[Active IQ Documentation] to understand more about the features that are supported in Active IQ.
