@@ -33,7 +33,7 @@ You can view the risks and rectify them by using Active IQ Unified Manager.
 Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
 [disc]
 * Performance & Efficiency
-* Availability & Capacity
+* Availability & Protection
 * Capacity
 * Configuration
 * Security
