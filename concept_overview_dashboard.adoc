@@ -30,4 +30,8 @@ Key highlights of the Active IQ Digital Advisor Dashboards are:
 
 * link:task_renew_software_and_hardware.html[Proactively identifies and highlights hardware and software that have expired or are near-expiration within the next 6 months.]
 
+* link:task_identify_capacity_system.html[Proactively identifies and highlights systems that have exceeded 90% capacity or are nearing 90% capacity.]
+
 * link:task_view_risks_remediated_unified_manager.html[Mitigates risks using Active IQ Unified Manager.]
+
+* link:task_view_upgrade.html[Upgrades your storage system]
