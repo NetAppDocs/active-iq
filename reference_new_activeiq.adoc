@@ -17,7 +17,7 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
 
-=== 13 March 2020
+== 13 March 2020
 This update includes the following new features and enhancements.
 
 === Upgrade workflow
@@ -32,7 +32,7 @@ Provides deeper information, which is a powerful way to dig deeper into the data
 === Capacity additions
 You can proactively identify systems that have exceeded capacity or are nearing 90% capacity and send a request to increase capacity.
 
-=== 29 February 2020
+== 29 February 2020
 This update includes the following new features and enhancements.
 
 === Enhanced user interfaces
