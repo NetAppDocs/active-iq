@@ -52,7 +52,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 * *Planning widget:* Displays information about the capacity addition, software, and hardware that needs to be renewed.
 **	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
 
-*	*Upgrades widget:* Provides the number of upgrades that are available and the issues that will be fixed on upgrading. It also displays current interoperability details.
+*	*Upgrades widget:* Provides the number of upgrades that are available. It also displays current interoperability details.
 **	*Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
 
 *	*Valuable Insights:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.

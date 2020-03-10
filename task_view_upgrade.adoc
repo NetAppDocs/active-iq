@@ -15,7 +15,7 @@ summary: Provides information to view and upgrade your storage system.
 :imagesdir: ./media/
 
 [.lead]
-You can view the pending upgrades of your storage system and the number of issues that will be resolved on upgrading to the new release.
+You can view the pending upgrades of your storage system and upgrade to a later version of ONTAP.
 
 You can also view the current interoperability data. The interoperability data is populated based on the Active IQ OneCollect AutoSupport data.
 
