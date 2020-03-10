@@ -50,7 +50,8 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
 
 * *Planning widget:* Displays information about the capacity addition, software, and hardware that needs to be renewed.
-**	*Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
+** *Capacity Additions:*  Provides information about systems that have exceeded 90% capacity or are nearing 90% capacity in 1,3, and 6 months.
+**	*Renewals:* Provides information about the software and hardware that have expired or are near expiration in the next 6 months. You can find this option in *Wellness* and in the *Planning* widget.
 
 *	*Upgrades widget:* Provides the number of upgrades that are available. It also displays current interoperability details.
 **	*Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.

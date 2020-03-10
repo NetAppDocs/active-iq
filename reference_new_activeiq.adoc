@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
 
 == 13 March 2020
-This update includes the following new features and enhancements.
+This update includes the following new features and enhancements:
 
 === Upgrade workflow
 You can use the upgrade workflow to plan your upgrade to a later version of ONTAP.
@@ -27,19 +27,19 @@ You can use the upgrade workflow to plan your upgrade to a later version of ONTA
 You can view the summary of the benefits that you received through Active IQ and your support contract. For selected systems, the value report consolidates the  benefits from last one year.
 
 === Drill into details
-Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required by selecting and viewing the required dashboards, widgets, and drilldowns.
+Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required.
 
 === Capacity additions
 You can proactively identify systems that have exceeded capacity or are nearing 90% capacity and send a request to increase capacity.
 
 == 29 February 2020
-This update includes the following new features and enhancements.
+This update includes the following new features and enhancements:
 
 === Enhanced user interfaces
 The latest Active IQ Digital Advisor Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
 
 === Customizable dashboards
-Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 25 dashboards and make effective business decisions.
+Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 10 dashboards and make effective business decisions.
 
 === Mitigate risks using Active IQ Unified Manager
 You can view the risks and rectify them by using Active IQ Unified Manager.
