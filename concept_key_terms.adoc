@@ -50,7 +50,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
 
 * *Planning widget:* Displays information about the capacity addition, software, and hardware that needs to be renewed.
-** *Capacity Additions:*  Provides information about systems that have exceeded 90% capacity or are nearing 90% capacity in 1,3, and 6 months.
+** *Capacity Additions:*  Provides information about systems that have exceeded 90% capacity or are nearing 90% capacity in 1, 3, and 6 months.
 ** *Renewals:* Provides information about the software and hardware that have expired or are near expiration in the next 6 months. You can find this option in *Wellness* and in the *Planning* widget.
 
 *	*Upgrades widget:* Provides the number of upgrades that are available. It also displays current interoperability details.
@@ -64,7 +64,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *API Services:* Allows you to pull data of interest and integrate it directly into your company’s workflow.
 ** *AutoSupport Upload:* Enables you to submit AutoSupport messages from ONTAP and E-Series systems that lack Internet access or the capability to regularly send these messages.
 ** *Discovery Dashboard:* Enables you to watch systems that are important to our users and quickly recognize critical events and technical issues, and take corrective actions.
-** *Asset Insight:* Provides scripted and target, value-selling conversations with individual customers. 
+** *Asset Insight:* Provides scripted and target, value-selling conversations with individual customers.
 
 * *Search:* Allows you to search for systems based on various categories, such as customer name, serial number, cluster, site name, group name, hostname, and others.
 ** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ .
