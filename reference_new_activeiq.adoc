@@ -21,7 +21,7 @@ Active IQ typically introduces a new release every month to bring you new featur
 This update includes the following new features and enhancements:
 
 === Upgrade workflow
-You can use the upgrade workflow to plan your upgrade to a later version of ONTAP.
+You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release.
 
 === Valuable insights
 You can view the summary of the benefits that you received through Active IQ and your support contract. For selected systems, the value report consolidates the  benefits from last one year.

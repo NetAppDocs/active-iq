@@ -25,3 +25,6 @@ The ClusterViewer feature only provides information about the summary of the clu
 
 === Limited support for Value Report
 This Valuable insights widget provides high level information about the storage system. It is only available on the Dashboard and does not have any drill down details.
+
+=== Limited support for Upgrade Advisor
+The upgrade workflow is not complete; please utilize the Upgrade Advisor workflow in Active IQ to generate upgrade plans.
