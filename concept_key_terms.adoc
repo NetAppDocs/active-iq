@@ -56,7 +56,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *	*Upgrades widget:* Provides the number of upgrades that are available. It also displays current interoperability details.
 ** *Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
 
-*	*Valuable Insights:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
+*	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 ** *Datacenter View:* Provides information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration.
