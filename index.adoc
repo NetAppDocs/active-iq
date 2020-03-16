@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar
 permalink: index.html
-summary: Active IQ Documentation.
+summary: Active IQ Digital Advisor Documentation.
 ---
 
-= NetApp Active IQ Documentation
+= Overview
 :hardbreaks:
 :nofooter:
 :icons: font
