@@ -1,7 +1,7 @@
 entries:
-  - title: Active IQ Digital Advisor Overview
+  - title: Overview
     url: /index.html
-  - title: Active IQ Digital Advisor Documentation
+  - title: Active IQ Digital Advisor
     entries:
       - title: Release Notes
         entries:
