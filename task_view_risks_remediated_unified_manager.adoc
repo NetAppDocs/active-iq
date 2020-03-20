@@ -12,14 +12,14 @@ summary: Provides information to view the risks that can be automatically remedi
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/ActiveIQ2.0
+:imagesdir: ./media/
 
 [.lead]
 You can analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager.
 
 .Step
 . Click *View All* on the dashboard.
-. Click *Action* to view the risks associated with the action or click *Risks* tab to view all the risks.
+. Click *Actions* to view the risks associated with the actions or click *Risks* tab to view all the risks.
 +
 If the risk can be mitigated using Active IQ Unified Manager, the image:spanner.png[Spanner] icon is highlighted.
 . Click *Fix It* to launch Active IQ Unified Manager.

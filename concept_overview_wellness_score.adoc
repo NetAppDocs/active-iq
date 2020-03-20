@@ -12,7 +12,7 @@ summary: Provides information about the wellness, which helps you to improve you
 :nofooter:
 :icons: font
 :linkattrs:
-:imagesdir: ./media/ActiveIQ2.0
+:imagesdir: ./media/
 
 [.lead]
 Wellness provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
