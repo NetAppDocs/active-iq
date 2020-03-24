@@ -17,6 +17,9 @@ summary: Provides information about the limitations in the release.
 [.lead]
 Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
 
+=== Low Impact Risks and Best Practices Removed
+To help you take the best action for improving the wellness of your installed base, we have removed the low impact risks and best practice checks, except in areas such as storage efficiency. We urge you to review and mitigate high and medium impact risks at the earliest to ensure the highest levels of availability and optimization for your NetApp installed base.
+
 === Limited support for wellness (risk assessment)
 You cannot acknowledge a risk or view the details of the risk from the risk page. For more information about the risk or the process to acknowledge the risk, see the Active IQ documentation.
 
