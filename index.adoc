@@ -11,9 +11,9 @@ summary: Active IQ Digital Advisor Documentation.
 :linkattrs:
 :imagesdir: ./media/
 
-Active IQ is a family of cloud-based services that combine AutoSupport telemetry and My AutoSupport features with new capabilities that help customers optimize operations across their hybrid cloud.
+Active IQ enables you to optimize your data infrastructure across your global hybrid cloud by delivering actionable predictive analytics and proactive support through a cloud-based portal and mobile app.
 
-Active IQ delivers actionable predictive analytics and proactive support to help you optimize your data infrastructure across your global hybrid cloud through a cloud based portal and mobile app. NetApp uses Community Wisdom and peer comparisons gained from its massive installed base to deliver an advanced set of unparalleled analytics services through Active IQ.
+Active IQ's cloud-based services leverage community wisdom and peer comparisons that are drawn from NetApp's massive installed base, combining these insights with AutoSupport telemetry and My AutoSupport features to deliver an advanced set of unparalleled analytics services.
 
 === Accessing Active IQ Web Portal and Downloading the Mobile App
 
