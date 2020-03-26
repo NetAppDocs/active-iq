@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: task_view_and_acknowledge_risks.html
+keywords: wellness, performance, efficiency, availability, capacity, security, protection, protect, acknowledge, unacknowledge, disregard
+summary: Provides information to view and analyze the wellness of your storage system and acknowledge the risks.
+---
+
+= View and acknowledge the risk
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can analyze the wellness attributes of your storage system by viewing the actions and risks associated with them. You should view the associated KB article and manually mitigate the risk.
+
+.Step
+. Click the wellness attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.
+. View the *Actions* and *Risks* associated with the wellness attribute.
+. Click *Actions* to view the risks associated with the actions or click *Risks* tab to view all the risks.
+. Click the risk to view the risk summary.
+. Click *Ack* to acknowledge the risk.
++
+The detailed risk summary information is provided along with corrective actions that should be manually performed to mitigate the risk.
+. If do not want to or are unable to mitigate the risk at this time, provide the values for the fields and click *Acknowledge*.
++
+The risk will be added to acknowledged risks.
+
+NOTE: If you no longer want a risk to be acknowledged, you can disregard the risk by clicking *Un-ack* and following the same steps.
