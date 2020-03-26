@@ -25,10 +25,12 @@ NOTE: You must have valid NetApp Support site credentials to log in. If you do n
 
 Active IQ displays systems with a valid support contract. If contracts expire, there is a grace period of 90 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
 
-=== Documentation, Feedback, and Support
+=== Documentation and Support
 
 * link:https://www.netapp.com/us/documentation/active-iq.aspx[Documentation Resources]
 * link:https://mysupport.netapp.com/myautosupport/dist/index.html#/feedback[Report Issues]
-* ng-activeiq-feedback@netapp.com[Feedback & Enhancement Requests]
 * link:http://communities.netapp.com/community/products_and_solutions/efficient_it/my_autosupport_and_autosupport?view=overview[User Community]
 * link:https://twitter.com/NetAppActiveIQ[Follow us on Twitter]
+
+=== Feedback
+You can provide your feedback and enhancement request by sending a mail to: ng-activeiq-feedback@netapp.com.
