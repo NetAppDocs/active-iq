@@ -17,9 +17,9 @@ Active IQ's cloud-based services leverage community wisdom and peer comparisons 
 
 === Accessing Active IQ Web Portal and Downloading the Mobile App
 
-* Active IQ Web Portal: https://mysupport.netapp.com/myautosupport/home.html[https://activeiq.netapp.com]
-* Active IQ Mobile App Download (iOS): https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8
-* Active IQ Mobile App Download (Android): https://play.google.com/store/apps/details?id=com.netapp.myautosupport
+* link:https://mysupport.netapp.com/myautosupport/home.html[Active IQ Web Portal]
+* link:https://itunes.apple.com/us/app/my-autosupport/id1230542480?ls=1&mt=8[Active IQ Mobile App Download (iOS)]
+* link:https://play.google.com/store/apps/details?id=com.netapp.myautosupport[Active IQ Mobile App Download (Android)]
 
 NOTE: You must have valid NetApp Support site credentials to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
 
@@ -27,8 +27,8 @@ Active IQ displays systems with a valid support contract. If contracts expire, t
 
 === Documentation, Feedback, and Support
 
-* Documentation Resources: https://www.netapp.com/us/documentation/active-iq.aspx
-* Report Issues: https://mysupport.netapp.com/myautosupport/dist/index.html#/feedback
-* Feedback & Enhancement Requests: ng-activeiq-feedback@netapp.com
-* User Community: http://communities.netapp.com/community/products_and_solutions/efficient_it/my_autosupport_and_autosupport?view=overview
-* Follow us on Twitter: https://twitter.com/NetAppActiveIQ
+* link:https://www.netapp.com/us/documentation/active-iq.aspx[Documentation Resources]
+* link:https://mysupport.netapp.com/myautosupport/dist/index.html#/feedback[Report Issues]
+* link:ng-activeiq-feedback@netapp.com[Feedback & Enhancement Requests]
+* link:http://communities.netapp.com/community/products_and_solutions/efficient_it/my_autosupport_and_autosupport?view=overview[User Community]
+* link:https://twitter.com/NetAppActiveIQ[Follow us on Twitter]

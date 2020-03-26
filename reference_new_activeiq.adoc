@@ -23,7 +23,7 @@ This update includes the following new features and enhancements:
 === Support for onboarding users
 The onboarding feature helps users to quickly get familiar with the options and features of Active IQ Digital Advisor.
 
-== Wellness score
+=== Wellness score
 Wellness score provides customers with a consolidated score of their installed base based on the number of high risks and the expired contracts. Score can be good, average, or poor.
 
 === Risk Summary
