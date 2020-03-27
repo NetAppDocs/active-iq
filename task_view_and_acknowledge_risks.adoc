@@ -29,4 +29,4 @@ The detailed risk summary information is provided along with corrective actions 
 +
 The risk will be added to acknowledged risks.
 
-NOTE: If you no longer want a risk to be acknowledged, you can disregard the risk by clicking *Un-ack* and following the same steps.
+NOTE: If you no longer want a risk to be acknowledged, you can disregard the risk by clicking *Un-Ack* and following the same steps.
