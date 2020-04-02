@@ -22,10 +22,12 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Watchlist:* Provides you the flexibility to access systems inside Active IQ Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
 ** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
 ** *Risks:* Displays a list of systems with their respective issues. It has different severity levels:
+*** Critical
 *** High risks
 *** Medium risks
+*** No risks
 ** *Actions:* Displays the number of unique actions that you can take to fix the issues.
-** *Color-coded risk status*: Displays risk levels and their color codes that are classified into 6 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
+** *Color-coded risk status*: Displays risk levels and their color codes that are classified into 4 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 [%autowidth, indent=8]
 |===
     |*Color*  | *Severity*
@@ -44,7 +46,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Security:* Consists of risks with a security attribute for impact area values.
 ** *Renewals:* Provides information about the end date of a service contract sorted by hostname that have expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
 ** *Acknowledge Risks (Ack):* Allows you to acknowledge the risks and systems that have been impacted. You can acknowledge these risks and familiarize yourself with the actions that you can perform to mitigate these risks.
-** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged. 
+** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged.
 ** *Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
 
 *	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
@@ -54,7 +56,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Renewals:* Provides information about the software and hardware that have expired or are near expiration in the next 6 months. You can find this option in *Wellness* and in the *Planning* widget.
 
 *	*Upgrades widget:* Provides the number of upgrades that are available. It also displays current interoperability details.
-** *Current Interoperability:* Recommends the supported and unsupported upgrade compatibility information based on the Active IQ OneCollect AutoSupport.
+** *Current Interoperability:* Shows the host compatibility information based on the Active IQ OneCollect AutoSupport.
 
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 

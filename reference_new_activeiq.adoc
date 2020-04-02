@@ -20,17 +20,17 @@ Active IQ typically introduces a new release every month to bring you new featur
 == 02 April 2020
 This update includes the following new features and enhancements:
 
-=== Support for onboarding users
-The onboarding feature helps users to quickly get familiar with the options and features of Active IQ Digital Advisor.
+=== Onboarding overview video
+The onboarding video helps users to quickly get familiar with the options and features of Active IQ Digital Advisor.
 
 === Wellness score
 Wellness score provides customers with a consolidated score of their installed base based on the number of high risks and the expired contracts. Score can be good, average, or poor.
 
-=== Risk Summary
+=== Risk summary
 The risk summary provides detailed information about the risk, the impact of the risk, the corrective actions.
 
 === Support for acknowledging and disregarding risks
-Provides the option to acknowledge a risk if you do want to mitigate or are unable to mitigate the risk. You can also disregard a risk if you do not want the risk to be acknowledged.
+Provides the option to acknowledge a risk if you do want to mitigate or are unable to mitigate the risk.
 
 == 19 March 2020
 This update includes the following new features and enhancements:
