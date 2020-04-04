@@ -25,9 +25,11 @@ entries:
         entries:
           - title: Overview
             url: /concept_overview_wellness_score.html
-          - title: View all the risks or the risks associated with the wellness attributes
-            url: /task_view_risk_and_acknowledge.html
-          - title: View risks that can be automatically remediated using Active IQ Unified Manager
+          - title: View the risk and manually take corrective actions
+            url: /task_view_risk_and_take_action.html
+          - title: View and acknowledge the risk
+            url: /task_view_and_acknowledge_risks.html
+          - title: View the risks that can be automatically remediated using Active IQ Unified Manager
             url: /task_view_risks_remediated_unified_manager.html
           - title: Renew the software and hardware of your storage system
             url: /task_renew_software_and_hardware.html
