@@ -1,0 +1,146 @@
+---
+sidebar: sidebar
+permalink: reference_SE_FAQ.html
+keywords: Active IQ, storage efficiency, AFF, FAQs, storage efficiency calculator
+summary: Provides FAQs on storage efficiency.
+---
+
+= FAQs
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/AFFSEcalculator
+
+== How do I access the AFF Efficiency in Active IQ?
+
+. Open home page of https://activeiq.netapp.com[[.underline]#Active IQ#].
+. Search for a cluster from the top right search box to reach the cluster dashboard. The efficiency portlet on the dashboard displays the top-level ratios. Click to see further details.
+
+== Does Active IQ display ratios for all AFF systems?
+
+Active IQ displays ratios for All-Flash systems running ONTAP 8.3.2 and later.
+
+== What is the ‘Without Snapshots’ checkbox in the AFF efficiency dashboard?
+
+By default, *Active IQ AFF Efficiency Dashboard* calculates overall ratio at cluster-level, node-level, and aggregate-level. Overall ratio includes the ratio from the following storage efficiency technologies:
+
+	* Deduplication
+	* Compression
+	* Data compaction
+	* Snapshots and
+	* Clones
+
+By selecting *Without Snapshots* checkbox, the tool will calculate data reduction ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at cluster-level, node-level, and aggregate-level.
+
+This option is provided to support customers who have signed up for NetApp storage guarantee program that guarantees x:1 data reduction ratio based on customer-workload. Customers can use Active IQ Storage Efficiency dashboard to monitor data reduction ratios during the guarantee period.
+
+To know more about NetApp Storage Guarantee program, refer https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[[.underline]#All-Flash Guarantee#].
+
+== How are aggregate-level, node-level and cluster-level ratios calculated? My customer’s systems are behind a secure DMZ/CMZ and cannot send AutoSupport to NetApp. How do I calculate the ratios for those systems?
+
+This is how we calculate different ratios. You can follow these steps to calculate the ratios manually
+
+. Aggregate-level ratios
+
+*Aggregate Overall Ratio*
+
+Overall ratio at aggregate-level are directly obtained from ONTAP using ZAPI. They can also be obtained from aggr-efficiency.xml section in AutoSupport.
+
+For systems that do not have access to AutoSupport, ‘aggregate show-efficiency …’ CLI commands can be used.
+
+*Aggregate Data Reduction Ratio*
+
+The formula to calculate aggregate-level data reduction ratio is as follows:
+image:image4.jpeg[image,width=530,height=31]
+
+[start=2]
+. Node-level and Cluster-level ratios
+
+*Node/Cluster Overall Ratio*
+
+Active IQ uses data from aggr-efficiency.xml output to calculate node/cluster- level overall ratio.
+
+For systems that do not have access to AutoSupport, you can use data from ‘aggregate show-efficiency –advanced’ to calculate node/cluster-level overall ratio.
+
+Follow the steps below to calculate Node/Cluster overall ratio:
+
+. Sum ‘Total/Cumulative Logical Used’ and ‘Total/Cumulative Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Logical Used’ and ‘Node/Cluster Physical Used’ respectively.
+. Divide ‘Node/Cluster Logical Used’ by ‘Node/Cluster Physical Used’ to get node/cluster data reduction ratio.
+
+*Node/Cluster Data Reduction Ratio*
+
+Active IQ uses the following steps to calculate node/cluster-level overall ratio.
+
+. Calculate ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster using the formula mentioned in Aggregate Data Reduction Ratio.
+. Sum ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Data Reduction Logical Used’ and ‘Node/Cluster Data Reduction Physical Used’ respectively.
+. Divide ‘Node/Cluster Data Reduction Logical Used’ by ‘Node/Cluster Data Reduction Physical Used’ to get node/cluster data reduction ratio.
+
+== Which sections of AutoSupport are used for determining the efficiency ratios and how do I view the section?
+
+The calculator leverages the aggr-efficiency.xml section in AutoSupport for ONTAP 9.x systems to calculate the node, cluster, and aggregate level ratios. This section contains efficiency information of the node the AutoSupport is transmitted from and its HA pair. In ONTAP 8.3.2 systems such a section is not available and so the calculator leverages various other sections in AutoSupport to arrive at the ratios, but the approach is the same as ONTAP 9.x
+
+For the volume level ratio calculations, we use the df –s section of AutoSupport. Volume level calculations are arrived at using the following formula:
+
+Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]# / df-s (used)
+
+NOTE: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
+
+These AutoSupport sections are viewable from the *Raw AutoSupport Data* tab in left navigation of cluster dashboard of https://activeiq.netapp.com[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
+
+== Which AutoSupports are used for calculating efficiency ratios?
+
+Calculations are performed using either the latest weekly or user-triggered AutoSupports which tend to contain most of the sections required for calculating the ratios.
+
+== Which volumes or aggregates are excluded from efficiency calculations?
+
+Following objects are NOT considered while calculating AFF efficiency ratios:
+
+* Root aggregates
+* Offline volumes
+* Vserver root/admin root volumes
+* MCC configuration volumes
+
+== Why do my displays look different in my laptop vs. a smartphone?
+
+The AFF storage efficiency calculator UI is optimized for viewing in smartphones. Although there may be small differences in display, the data and content of the calculator is same across devices.
+
+== How can I see the efficiency ratios of all my AFF systems in a single view within Active IQ?
+
+Currently, efficiency ratios are only visible at a cluster level. Customer level views may be considered for a future release.
+
+== How can I see the trend in efficiency ratios?
+
+Currently, efficiency ratios are based on the latest weekly or user-triggered AutoSupport. Efficiency trending may be considered for a future release.
+
+== How are customer-level ratios and efficiency savings calculated?
+
+Customer level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer install base for *systems running ONTAP 9.1 and later*. The required parameters, for the following calculations, are taken from ONTAP AutoSupport:
+
+=== Without Snapshot copies (calculated for per Aggr first):
+* *Aggr Logical Used without Snapshot copies = Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate – Logical Size Used by Snapshot Copies*
+* *Aggr Physical Used Without Snapshot copies = Total Physical Used – Physical Size Used by Snapshot copies*
+* *Customer Efficiency Ratio without Snapshot copies = Sum [Aggr Logical Used without Snapshot copies for all aggregates and for all nodes of a customer] / Sum [Aggr Physical Used without Snapshot copies for all aggregates and for all nodes of a customer] : 1*
+
+=== With Snapshot copies:
+*	*Customer Logical Size with Snapshot copies* = Sum *[Logical Size Used by Volumes, Clones, Snapshot copies for all aggregates and for all nodes of a customer]*
+*	*Customer Physical Size Used with Snapshot copies* = Sum *[Total Physical Size Used for all aggregates and for all nodes of a customer]*
+*	*Customer Efficiency Ratio with Snapshot copies = Customer Logical Size with Snapshot copies and Clones / Customer Physical Size Used with Snapshot copies and Clones : 1*
+
+=== Efficiency feature table calculations:
+
+*	*Total Physical Space Used:*
+**	*Customer Physical Space Used = Sum of Physical Space Used by the Aggregate* for all aggregates and of all nodes of a customer.
+*	*Total Logical Used:*
+**	*Customer Logical Size Used without Snapshot copies = Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies* for all aggregates of all nodes of a customer
+**	*Customer Logical Size Used with Snapshot copies = Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate* for all aggregates of all nodes of a customer
+*	*Total Space Saved = Total Logical Space Used – Total Physical Space Used*
+*	*Deduplication Savings*: Sum of *Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection* of each aggregate of all nodes of a customer.
+*	*Compression Savings*: Sum of *Space Saved by Volume Compression* of each aggregate of all nodes of a customer.
+*	*Compaction Savings*: Sum of *Space Saved by Aggregate Compaction* of each aggregate of all nodes of a customer.
+*	*FlexClone Savings*: Sum of *(Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes)* of all aggregates of all nodes of a customer.
+*	*Snapshot copies Backup Savings*: Sum of *(Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies)* of all aggregates of all nodes of a customer.
+
+== How do I provide feedback or ask other questions related to the calculator?
+
+For feedback or questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]

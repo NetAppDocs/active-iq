@@ -60,6 +60,10 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
+* *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the configuration, stack diagram, the network interfaces, a summary of SVMs & aggregates, volume and LUN information, and a few visualizations. The details available from Cluster Viewer are downloadable in DOC, XLS, and PDF. Note that the graphical view download is currently separate from the download of all the tables.
+
+* *Datacenter View:* Provides information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration. The view is enabled by collecting and uploading data from customer environment using NetApp Active IQ OneCollect.
+
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 ** *Datacenter View:* Provides information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration.
 ** *Interop Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers, and firmware.
