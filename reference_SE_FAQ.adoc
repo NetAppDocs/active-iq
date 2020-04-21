@@ -14,6 +14,7 @@ summary: Provides FAQs on storage efficiency.
 
 == How do I access the AFF Efficiency in Active IQ?
 
+.Step
 . Open home page of https://activeiq.netapp.com[[.underline]#Active IQ#].
 . Search for a cluster from the top right search box to reach the cluster dashboard. The efficiency portlet on the dashboard displays the top-level ratios. Click to see further details.
 
@@ -41,6 +42,7 @@ To know more about NetApp Storage Guarantee program, refer https://www.netapp.co
 
 This is how we calculate different ratios. You can follow these steps to calculate the ratios manually
 
+.Step
 . Aggregate-level ratios
 
 *Aggregate Overall Ratio*
@@ -52,9 +54,8 @@ For systems that do not have access to AutoSupport, ‘aggregate show-efficiency
 *Aggregate Data Reduction Ratio*
 
 The formula to calculate aggregate-level data reduction ratio is as follows:
-image:image4.jpeg[image,width=530,height=31]
+image:calculate_formula.jpeg[image,width=530,height=31]
 
-[start=2]
 . Node-level and Cluster-level ratios
 
 *Node/Cluster Overall Ratio*
@@ -65,6 +66,7 @@ For systems that do not have access to AutoSupport, you can use data from ‘agg
 
 Follow the steps below to calculate Node/Cluster overall ratio:
 
+.Step
 . Sum ‘Total/Cumulative Logical Used’ and ‘Total/Cumulative Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Logical Used’ and ‘Node/Cluster Physical Used’ respectively.
 . Divide ‘Node/Cluster Logical Used’ by ‘Node/Cluster Physical Used’ to get node/cluster data reduction ratio.
 
@@ -72,6 +74,7 @@ Follow the steps below to calculate Node/Cluster overall ratio:
 
 Active IQ uses the following steps to calculate node/cluster-level overall ratio.
 
+.Step
 . Calculate ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster using the formula mentioned in Aggregate Data Reduction Ratio.
 . Sum ‘Data Reduction Logical Used’ and ‘Data Reduction Physical Used’ for all the aggregates in the node/cluster to get ‘Node/Cluster Data Reduction Logical Used’ and ‘Node/Cluster Data Reduction Physical Used’ respectively.
 . Divide ‘Node/Cluster Data Reduction Logical Used’ by ‘Node/Cluster Data Reduction Physical Used’ to get node/cluster data reduction ratio.
