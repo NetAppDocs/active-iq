@@ -53,6 +53,7 @@ For systems that do not have access to AutoSupport, ‘aggregate show-efficiency
 ==== Aggregate Data Reduction Ratio
 
 The formula to calculate aggregate-level data reduction ratio is as follows:
+
 image:calculate_formula.jpeg[image,width=530,height=31]
 
 === Node-level and Cluster-level ratios
