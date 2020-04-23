@@ -25,9 +25,12 @@ You can view the storage efficiency ratio and savings of your storage system wit
 
 === Performance
 
+
 === Support contract
 
 
+=== FW upgrades using Ansible
+Update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
 
 == 02 April 2020
 This update includes the following new features and enhancements:

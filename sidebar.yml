@@ -51,6 +51,8 @@ entries:
         entries:
           - title: View and upgrade your storage system
             url: /task_view_upgrade.html
+          - title: Update ONTAP firmware using Ansible
+            url: /task_update_ontap_firmware.html
   - title: Active IQ
     url: /reference_activeiq1.html
   - title: Get more information

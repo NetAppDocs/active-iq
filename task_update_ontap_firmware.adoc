@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: task_update_ontap_firmware.html
+keywords: update, ONTAP firmware, firmware
+summary: Provides information to update the ONTAP firmware.
+---
+
+= Update your ONTAP firmware using Ansible
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You should update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+
+.Step
+. Click the wellness attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.
+. Click *Firmware Upgrades* to view all the firmware upgrade risks.
+. Click *ONTAP FW Update* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
+. Click *Download* to download the package and update your storage system.
