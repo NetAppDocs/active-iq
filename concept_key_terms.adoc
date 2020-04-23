@@ -58,6 +58,15 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *	*Upgrades widget:* Provides the number of upgrades that are available. It also displays current interoperability details.
 ** *Current Interoperability:* Shows the host compatibility information based on the Active IQ OneCollect AutoSupport.
 
+* *Storage Efficiency:* Identifies the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both.
+
+* *Performance graph:* Enables you to analyze the performance of your storage devices by viewing graphical format of performance data. You can view detailed performance graphs of the ONTAP cluster for the selected node. It displays cluster nodes for systems running ONTAP 8.3.1 and later.
+
+* *Support Contract:* Allows you to view information about the features included in each support contracts levels. The available contract levels are:
+  . Level 1: Warranty
+  . Level 2: Advisor
+  . Level 3: Expert
+
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
 * *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in SVG format.
