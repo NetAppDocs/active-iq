@@ -1,0 +1,50 @@
+---
+sidebar: sidebar
+permalink: concept_understand_activeiq_features.html
+keywords: activeiq, active iq digital advisor, features,
+summary: Provides information about the dashboard, watchlists, features, and the widgets.
+---
+
+= Understand Active IQ Features
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The features available in Active IQ Digital Advisor Dashboard:
+
+* Helps you customize dashboards and monitor your systems at a glance by providing key insights and analysis of your data on one or more pages or screens.
+* Allows you to add multiple dashboards and view all of them at once.
+* Allows you to analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager.
+* Helps you identify and highlight hardware and software that have expired or are nearing expiration within the next 6 months.
+* Helps you identify and highlight systems that have exceeded 90% capacity or are nearing 90% capacity.
+* Helps you view all the risks to your storage system and the actions to mitigate the risks.
+* Helps you view information about the performance, efficiency, capacity, configuration settings, security, and renewals.
+* Helps you upgrade your storage system.
+* Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
+** Performance & Efficiency
+** Availability & Protection
+** Capacity
+** Configuration
+** Security
+** Renewals
+* Helps you arrive at exactly you want to find in a smarter and faster manner.
+Helps you view the status of your Dashboard based on the conditions of the systems in the watchlist. The available scores are:
+** Good
+** Average
+** Poor
+* Helps you view the pending upgrades of your storage system and upgrade to a later version of ONTAP.
+* Informs you about the benefits that you received through Active IQ and your support contract. For selected systems, the value report consolidates the benefits from last one year.
+* Helps you identify systems that have exceeded capacity or are nearing 90% capacity and send a request to increase capacity.
+* Provides an option to acknowledge a risk if you do want to mitigate or are unable to mitigate the risk.
+* Helps you view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both.
+* Enables you to analyze the performance of your storage devices by viewing graphical format of performance data.
+* Helps you update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+* Allows you to view information about the features included in each support contracts levels. The available contract levels are:
+** Level 1: Warranty
+** Level 2: Advisor
+** Level 3: Expert
