@@ -17,7 +17,7 @@ summary: Provides information to renew the software and hardware of your storage
 [.lead]
 You can view the storage efficiency ratio and savings of your storage system and take appropriate actions to make optimum use of your storage system.
 
-.Step
+.Steps
 . From the left pane, click *Storage Efficiency*.
 . View the storage efficiency and the data savings of your storage system.
 +

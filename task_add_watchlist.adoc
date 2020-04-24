@@ -17,7 +17,7 @@ summary: Provides information to add a watchlist to the dashboard.
 [.lead]
 You can create a watchlist to access preselected systems inside Active IQ Digital Advisor quickly and easily. You should create a new dashboard to add a watchlist.
 
-.Step
+.Steps
 . Click *+ Add New Dashboard*.
 +
 You can import an existing watchlist or create a watchlist.
