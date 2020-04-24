@@ -28,9 +28,9 @@ Performance graphs enable you to assess the performance of your storage devices 
 
 === Support contract
 Lists the features that are supported based on the following contract levels:
-. Level 1: Warranty
-. Level 2: Advisor
-. Level 3: Expert
+* Level 1: Warranty
+* Level 2: Advisor
+* Level 3: Expert
 
 === FW upgrades using Ansible
 Update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.

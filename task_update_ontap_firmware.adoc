@@ -17,7 +17,13 @@ summary: Provides information to update the ONTAP firmware.
 [.lead]
 You should update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
 
-To use this feature, you should ensure that the system is running on ONTAP 9.1 or later, the account is configured with an administrator role, and Ansible 2.9 with Collections 20.4.1 is installed on the storage system.
+== Prerequisites
+
+For updating ONTAP firmware using Ansible, your storage system should meet the following requirements:
+
+* Storage system should be running on ONTAP 9.1 or later
+* Account should be configured with an administrator role
+* Ansible 2.9 with Collections 20.4.1 should be installed on the storage system.
 
 .Steps
 . Click the wellness attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.

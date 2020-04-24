@@ -63,9 +63,9 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 * *Performance graph:* Enables you to analyze the performance of your storage devices by viewing graphical format of performance data. You can view detailed performance graphs of the ONTAP cluster for the selected node. It displays cluster nodes for systems running ONTAP 8.3.1 and later.
 
 * *Support Contract:* Allows you to view information about the features included in each support contracts levels. The available contract levels are:
-  . Level 1: Warranty
-  . Level 2: Advisor
-  . Level 3: Expert
+** Level 1: Warranty
+** Level 2: Advisor
+** Level 3: Expert
 
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
