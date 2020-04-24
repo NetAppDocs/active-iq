@@ -5,7 +5,7 @@ keywords: overview, provision, dashboard, widget, watchlist
 summary: Provides information about the dashboard, watchlists, and the widgets.
 ---
 
-= Understand Storage Efficiency
+= Understand Active IQ Dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
