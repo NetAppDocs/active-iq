@@ -16,9 +16,11 @@ summary:
 
 [.lead]
 Performance graphs enable you to analyze the performance of your storage devices. You can view detailed performance graphs of the ONTAP cluster for the selected node. It displays cluster nodes for systems running ONTAP 8.3.1 and later. These graphs provide historical performance data, which can be used for understanding performance trend and pattern analysis. You can select a date from calendar to view performance graphs for a day, week, month, and two months. You can select multiple nodes to view a particular graph at the same time.
+
 You have an option to set the preferences, for example, you can view either one graph for three nodes or two graphs for three nodes.
 
 When the graph is first displayed, 1-week tab is preselected and it presents the data for 1 week in a graphical format to make it easier to understand large quantities of data and the relationship between different series of data. If you want to reset the duration, for example, you can click 1-month tab and select the dates in the calendar.
+
 You also have an option to zoom in the performance graph; the individual data points are displayed.
 
 .Steps

@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: concept_understand_activeiq_features.html
-keywords: activeiq, active iq digital advisor, features,
+keywords: active IQ, active IQ digital advisor, features
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
-= Understand Active IQ Features
+= Understand Active IQ features
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,6 +15,12 @@ summary: Provides information about the dashboard, watchlists, features, and the
 :imagesdir: ./media/
 
 [.lead]
+The Active IQ Digital Advisor Dashboard displays information about the overall status of your storage system. It displays high level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level. You can also view the wellness score of the dashboard. Wellness score provides customers with a consolidated score of their installed base based on the number of high risks and the expired contracts.
+
+When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 10 dashboards and add watchlists to these dashboards.
+
+You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
+
 The features available in Active IQ Digital Advisor Dashboard:
 
 * Helps you customize dashboards and monitor your systems at a glance by providing key insights and analysis of your data on one or more pages or screens.
@@ -25,6 +31,10 @@ The features available in Active IQ Digital Advisor Dashboard:
 * Helps you view all the risks to your storage system and the actions to mitigate the risks.
 * Helps you view information about the performance, efficiency, capacity, configuration settings, security, and renewals.
 * Helps you upgrade your storage system.
+* Helps you track systems inventory.
+* Helps you get a view of system risks that you think are most critical to your environment, best practices, and end of support so that as you mitigate these conditions, you can also track the progress of your storage devices.
+* Helps you identify systems with security risks and provides information about the specific risk, the potential negative impact, and links to corrective actions.
+* Helps you gain insights into the consolidated recommendations for ONTAP, shelf, drive, and system firmware upgrade recommendations
 * Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
 ** Performance & Efficiency
 ** Availability & Protection
@@ -32,8 +42,8 @@ The features available in Active IQ Digital Advisor Dashboard:
 ** Configuration
 ** Security
 ** Renewals
-* Helps you arrive at exactly you want to find in a smarter and faster manner.
-Helps you view the status of your Dashboard based on the conditions of the systems in the watchlist. The available scores are:
+* Helps you arrive at exactly what you want to find in a smarter and faster manner.
+* Helps you view the status of your Dashboard based on the conditions of the systems in the watchlist. The available scores are:
 ** Good
 ** Average
 ** Poor
