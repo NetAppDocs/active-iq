@@ -28,6 +28,7 @@ Performance graphs enable you to assess the performance of your storage devices 
 
 === Support contract
 Lists the features that are supported based on the following contract levels:
+
 * Level 1: Warranty
 * Level 2: Advisor
 * Level 3: Expert
