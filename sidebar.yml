@@ -49,7 +49,7 @@ entries:
             url: /task_track_increase_storage_efficiency.html
           - title: FAQs
             url: /reference_SE_FAQ.html
-      - title: View the performance graph
+      - title: View performance graphs
         url: /task_view_performance_graphs.html
       - title: Ensure your storage system is up to date
         entries:

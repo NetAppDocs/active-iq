@@ -26,8 +26,8 @@ You also have an option to zoom in the performance graph; the individual data po
 .Steps
 . On the Dashboard, click *Performance*.
 . Select either 1 day, 1 week, 1 month, or 2 months, in the calendar, for viewing performance data in a graphical format. Confirm that you want to perform the operation.
-  +
-  For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
++
+For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
 . Select the number of nodes from the *Select Graphs to View* and *Select Nodes* drop-down lists.
 . View performance graphs with the required metrics, including:
 .. Peak Performance (Headroom)
