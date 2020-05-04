@@ -38,6 +38,19 @@ This option is provided to support customers who have signed up for NetApp stora
 
 To know more about NetApp Storage Guarantee program, refer https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[[.underline]#All-Flash Guarantee#].
 
+== What is physical data used and logical data used?
+
+* *Physical Blocks Consumed / Physical Data Used*
+** The amount of space being used for data now (rather than being reserved for future use).
+** Includes space used by aggregate Snapshot copies.
+** Space actually consumed/written by the client
+
+* *Total Logical Data Used*
+** Displays the logical size used in the aggregate.
+** This includes Volumes, Clones and Snapshots in the aggregate.
+** The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
+** Does not include space reserved for future use.
+
 == How are aggregate-level, node-level and cluster-level ratios calculated? My customer’s systems are behind a secure DMZ/CMZ and cannot send AutoSupport to NetApp. How do I calculate the ratios for those systems?
 
 This is how we calculate different ratios. You can follow these steps to calculate the ratios manually
@@ -122,7 +135,7 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 
 === Without Snapshot copies (calculated for per Aggr first):
 * *Aggr Logical Used without Snapshot copies = Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate – Logical Size Used by Snapshot Copies*
-* *Aggr Physical Used Without Snapshot copies = Total Physical Used – Physical Size Used by Snapshot copies*
+* *Aggr Physical Used Without Snapshot copies = Total Physical Used – (Physical Size Used by Snapshot copies / Aggregate Data Reduction SE Ratio)*
 * *Customer Efficiency Ratio without Snapshot copies = Sum [Aggr Logical Used without Snapshot copies for all aggregates and for all nodes of a customer] / Sum [Aggr Physical Used without Snapshot copies for all aggregates and for all nodes of a customer] : 1*
 
 === With Snapshot copies:

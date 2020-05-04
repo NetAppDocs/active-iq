@@ -45,8 +45,8 @@ entries:
         entries:
           - title: Overview
             url: /concept_overview_storage_efficiency.html
-          - title: View the storage efficiency ratio and savings
-            url: /task_track_increase_storage_efficiency.html
+          - title: Analyze storage efficiency savings
+            url: /task_analyze_storage_efficiency.html
           - title: FAQs
             url: /reference_SE_FAQ.html
       - title: View performance graphs
@@ -55,8 +55,8 @@ entries:
         entries:
           - title: View and upgrade your storage system
             url: /task_view_upgrade.html
-          - title: Update ONTAP firmware using Ansible
-            url: /task_update_ontap_firmware.html
+          - title: Update AFF/FAS firmware using Ansible
+            url: /task_update_AFF_FAS_firmware.html
   - title: Active IQ
     url: /reference_activeiq1.html
   - title: Get more information

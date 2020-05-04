@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
-permalink: task_track_increase_storage_efficiency.html
+permalink: task_analyze_storage_efficiency.html
 keywords: renew, hardware, software
 summary: Provides information to renew the software and hardware of your storage system.
 ---
 
-= View the storage efficiency ratio and savings
+= Analyze Storage Efficiency Savings
 :toc: macro
 :toclevels: 1
 :hardbreaks:
