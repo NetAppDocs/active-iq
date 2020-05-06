@@ -5,7 +5,7 @@ keywords: renew, hardware, software
 summary: Provides information to renew the software and hardware of your storage system.
 ---
 
-= Analyze Storage Efficiency Savings
+= Analyze storage efficiency savings
 :toc: macro
 :toclevels: 1
 :hardbreaks:

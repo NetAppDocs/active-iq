@@ -22,7 +22,7 @@ You should update the FAS/AFF firmware using Ansible on your storage system to m
 Before updating FAS/AFF firmware using Ansible, your should:
 
 * link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/[Install and set up Ansible on your storage system]
-* link:https://netapp.io/2019/09/17/coming-together-nicely/[Install Ansible 2.9 with Collections on your storage system]
+* link:https://netapp.io/2019/09/17/coming-together-nicely/[Install Ansible 2.9 with collections on your storage system]
 * Upgrade your storage system to ONTAP 9.1 or later
 * Configure your account with an administrator role
 
