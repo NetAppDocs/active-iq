@@ -26,7 +26,7 @@ entries:
       - title: Analyze the wellness
         entries:
           - title: Overview
-            url: /concept_overview_wellness_score.html
+            url: /concept_overview_wellness.html
           - title: View the risk and manually take corrective actions
             url: /task_view_risk_and_take_action.html
           - title: View and acknowledge the risk
