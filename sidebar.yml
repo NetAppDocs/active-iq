@@ -17,13 +17,13 @@ entries:
         url: /task_login_activeiq.html
       - title: Understand Active IQ features
         url: /concept_understand_activeiq_features.html
-      - title: Provision the dashboard
+      - title: Provision dashboard
         entries:
           - title: Overview
             url: /concept_overview_dashboard.html
           - title: Add a watchlist to the dashboard
             url: /task_add_watchlist.html
-      - title: Analyze the wellness
+      - title: Analyze wellness
         entries:
           - title: Overview
             url: /concept_overview_wellness.html
@@ -41,7 +41,7 @@ entries:
             url: /task_identify_capacity_system.html
           - title: Renew the software and hardware
             url: /task_renew_software_and_hardware.html
-      - title: View the storage efficiency details
+      - title: View storage efficiency details
         entries:
           - title: Overview
             url: /concept_overview_storage_efficiency.html
