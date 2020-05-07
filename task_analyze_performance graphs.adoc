@@ -1,0 +1,34 @@
+---
+sidebar: sidebar
+permalink: task_analyze_performance_graphs.html
+keywords: performance, performance graph, graphs, activeiq, active iq digital advisor, performance charts, day, week, 1 month, 2 months, calendar, chart data, performance on node level, graph, node level
+summary:
+---
+
+= Analyze performance graphs
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Performance graphs enable you to analyze performance of your storage devices. You can view detailed performance graphs for a single node of an ONTAP cluster. It displays cluster nodes for systems running ONTAP 8.3.1 and later. These graphs provide historical performance data, which can be used for understanding performance trend and pattern analysis. You can select a date from calendar to view performance graphs for a day, week, month, and two months. You can select multiple nodes to view a particular graph at the same time.
+You have an option to set preferences, for example, you can view either one graph for three nodes or two graphs for three nodes.
+
+When the graph is first displayed, 1-week tab is preselected and it presents data for 1 week in a graphical format to make it easier to understand large quantities of data and its relationship between different series of data. If you want to reset the date range, for example, you can click 1-month tab and select dates in the calendar.
+You also have an option to zoom in performance graph; the individual data points are displayed.
+
+.Steps
+. On the Dashboard, click *Performance*.
+. Select either 1 day, 1 week, 1 month, or 2 months, in the calendar, for viewing performance data in a graphical format. Confirm that you want to perform the operation.
++
+For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
+. View performance graphs with required metrics, including:
+.. Peak Performance (Headroom)
+.. CPU and Disk Utilization
+.. Latency
+.. IOPS
+.. Throughput

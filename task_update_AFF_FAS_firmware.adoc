@@ -19,7 +19,7 @@ You should update the FAS/AFF firmware using Ansible on your storage system to m
 
 == Before you begin
 
-Before updating FAS/AFF firmware using Ansible, your should:
+Before updating FAS/AFF firmware using Ansible, you should:
 
 * link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/[Install and set up Ansible on your storage system]
 * link:https://netapp.io/2019/09/17/coming-together-nicely/[Install Ansible 2.9 with collections on your storage system]
@@ -29,7 +29,7 @@ Before updating FAS/AFF firmware using Ansible, your should:
 .Steps
 . Click the wellness attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.
 . Click *Firmware Upgrades* to view all the firmware upgrade risks.
-. Click *ONTAP FW Update* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
+. Click *AFF/FAS FW Update* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
 . Click *Download* to download the zip files and update your storage system.
 
 If you encounter any issues, you can click link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[here] to view the troubleshooting information.
