@@ -23,7 +23,7 @@ entries:
             url: /concept_overview_dashboard.html
           - title: Add a watchlist to the dashboard
             url: /task_add_watchlist.html
-      - title: Analyze wellness
+      - title: Analyze wellness attributes
         entries:
           - title: Overview
             url: /concept_overview_wellness.html

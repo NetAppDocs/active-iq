@@ -23,7 +23,7 @@ You should also be aware of the colors applied to the cards, which indicate the 
 
 From the Active IQ Digital Advisor Dashboard you can:
 
-* View multiple dashboards and actionable and useful information at a glance
+* View multiple dashboards, actionable and useful at-a-glance views of information
 * Gain insights regarding all the risks to your storage system and the actions to mitigate the risks
 * Mitigate risks using Active IQ Unified Manager
 * Upgrade your storage system

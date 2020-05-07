@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_analyze_performance_graphs.html
 keywords: performance, performance graph, graphs, activeiq, active iq digital advisor, performance charts, day, week, 1 month, 2 months, calendar, chart data, performance on node level, graph, node level
-summary:
+summary: Provides information about the performance.
 ---
 
 = Analyze performance graphs
