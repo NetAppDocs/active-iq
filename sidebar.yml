@@ -49,7 +49,7 @@ entries:
             url: /task_analyze_storage_efficiency.html
           - title: FAQs
             url: /reference_SE_FAQ.html
-      - title: Analyze Storage Performance
+      - title: Analyze storage performance
         url: /task_analyze_performance_graphs.html
       - title: Ensure your storage system is up to date
         entries:
