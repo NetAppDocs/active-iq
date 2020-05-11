@@ -17,7 +17,7 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you the new features and enhancements.
 
-== 13 May 2020
+== 18 May 2020
 This update includes the following new features and enhancements:
 
 === Storage efficiency
@@ -35,6 +35,9 @@ Lists the features that are supported based on the following contract levels:
 
 === FW upgrades using Ansible
 Update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+
+=== Disabling the wellness score feature
+The wellness score feature is being temporarily disabled to improve the scoring algorithm and simplify the overall experience.
 
 == 02 April 2020
 This update includes the following new features and enhancements:
