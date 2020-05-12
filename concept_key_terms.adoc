@@ -48,7 +48,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged.
 ** *Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
 
-*	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products. From the Inventory widget, you can also schedule a configuration report.
+*	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products.
 
 * *Planning widget:* Displays information about the capacity addition, software, and hardware that needs to be renewed.
 ** *Capacity Additions:*  Provides information about systems that have exceeded 90% capacity or are nearing 90% capacity in 1, 3, and 6 months.

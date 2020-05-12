@@ -17,7 +17,7 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you the new features and enhancements.
 
-== 18 May 2020
+== 19 May 2020
 This update includes the following new features, enhancements, and changes:
 
 === Storage efficiency
