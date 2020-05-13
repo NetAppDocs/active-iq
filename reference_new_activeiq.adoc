@@ -33,10 +33,10 @@ Lists the features that are supported based on the following contract levels:
 * Level 2: Advisor
 * Level 3: Expert
 
-=== FW upgrades using Ansible
-Update the ONTAP firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+=== AFF/FAS firmware upgrades using Ansible
+Update the AFF/FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
 
-=== Set default home page
+=== Set the default home page
 You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
 
 === Disabling the wellness score feature
