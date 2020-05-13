@@ -22,3 +22,15 @@ You must have a valid NetApp Support site credential to log in to Active IQ Digi
 +
 Active IQ Digital Advisor shows systems with a valid support contract. If contracts expire, a grace period of 90 days is given in which systems continue to be visible. Thereafter, systems are not searchable or visible within Active IQ Digital Advisor.
 . Provide your username and password and click *Sign In*.
+
+[cols=2*,cols="50,50"]
+|===
+| If you have logged in for the first time | If you have already selected the home page
+|
+.Steps
+. Select the default home page
++
+You will be directed to the selected page from the next time you log in.
+. Click Active IQ Digital Advisor to view the Active IQ Digital Advisor dashboard.
+| The selected home page is displayed.
+|===
