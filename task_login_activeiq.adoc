@@ -29,11 +29,11 @@ You will be directed to the selected page from the next time you log in.
 .. Click *Active IQ Digital Advisor* to view the Active IQ Digital Advisor dashboard.
 . If you have already selected the home page, then the dashboard of the selected home page is displayed.
 
-[cols=2*, option=header, cols="50,50"]
+[cols=2*,options="header",cols="50,50"]
 |===
-| If you have logged in for the first time, then | If you have already selected the home page, then
+| If you have logged in for the first time, then
+| If you have already selected the home page, then
 a|
-.Steps
 . Select the default home page
 You will be directed to the selected page from the next time you log in.
 . Click *Active IQ Digital Advisor* to view the Active IQ Digital Advisor dashboard.
