@@ -29,12 +29,15 @@ You can view the storage efficiency ratio and savings of your storage system wit
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
 
-=== Support contract
-Lists the features that are supported based on the following contract levels:
+=== Support offerings
+Lists the features that are supported based on the following support offerings:
 
-* Level 1: Warranty
-* Level 2: Advisor
-* Level 3: Expert
+** SupportEdge Warranty
+** SupportEdge Basic
+** SupportEdge Standard
+** SupportEdge Premium
+** SupportEdge Advisor
+** SupportEdge Expert
 
 === AFF/FAS firmware upgrades using Ansible
 Update the AFF/FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.

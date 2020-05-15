@@ -30,6 +30,7 @@ Active IQ Digital Advisor shows systems with a valid support contract. If contra
 a|
 . Select the default home page.
 You will be directed to the selected home page from the next time you log in.
+. Click *Save*.
 . Click *Active IQ Digital Advisor* to view the Active IQ Digital Advisor dashboard.
 
 | The dashboard of the selected home page is displayed.
