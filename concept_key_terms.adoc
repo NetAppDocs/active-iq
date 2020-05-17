@@ -59,7 +59,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *Storage Efficiency:* Identifies the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both.
 
-* *Performance graph:* Enables you to analyze the performance of your storage devices by viewing graphical format of performance data. You can view detailed performance graphs of the ONTAP cluster for the selected node. It displays cluster nodes for systems running ONTAP 8.3.1 and later.
+* *Performance graph:* Enables you to analyze the performance of your storage devices by viewing graphical format of performance data. You can view detailed performance graphs of the ONTAP cluster for the selected node.
 
 * *Support Contract:* Acquaints you with features included in the following support offerings:
 ** SupportEdge Warranty
