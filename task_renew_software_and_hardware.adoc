@@ -17,7 +17,7 @@ summary: Provides information to renew the software and hardware of your storage
 [.lead]
 You can proactively identify the software and hardware that have expired or are near expiration in the next 6 months, and send a request to renew the hardware and software.
 
-.Step
+.Steps
 . Click the *Renewals* widget on the dashboard or click *Renewals* from the *Planning* widget.
 . Select the systems that you want to renew and click *Renew*.
 . Optionally, provide additional comments.

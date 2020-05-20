@@ -17,7 +17,7 @@ summary: Provides information to view the risks that can be automatically remedi
 [.lead]
 You can analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager.
 
-.Step
+.Steps
 . Click *View All* on the dashboard.
 . Click *Actions* to view the risks associated with the actions or click *Risks* tab to view all the risks.
 +

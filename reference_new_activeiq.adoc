@@ -15,7 +15,35 @@ summary: Provides information about the new features in the release.
 :imagesdir: ./media/
 
 [.lead]
-Active IQ typically introduces a new release every month to bring you new features, enhancements, and bug fixes.
+Active IQ typically introduces a new release every month to bring you the new features and enhancements.
+
+== 19 May 2020
+This update includes the following new features, enhancements, and changes:
+
+=== Set the default home page
+You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
+
+=== Storage efficiency
+You can view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a cluster level or a node level.
+
+=== Performance
+Performance graphs enable you to assess the performance of your storage devices in different significant areas.
+
+=== Support offerings
+Lists the features that are supported based on the following support offerings:
+
+** SupportEdge Warranty
+** SupportEdge Basic
+** SupportEdge Standard
+** SupportEdge Premium
+** SupportEdge Advisor
+** SupportEdge Expert
+
+=== AFF/FAS firmware upgrades using Ansible
+Update the AFF/FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+
+=== Disabling the wellness score feature
+The wellness score feature is being temporarily disabled to improve the scoring algorithm and simplify the overall experience.
 
 == 02 April 2020
 This update includes the following new features and enhancements:

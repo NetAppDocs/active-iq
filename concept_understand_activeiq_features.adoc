@@ -1,0 +1,38 @@
+---
+sidebar: sidebar
+permalink: concept_understand_activeiq_features.html
+keywords: activeiq, active iq digital advisor, features,
+summary: Provides information about the dashboard, watchlists, features, and the widgets.
+---
+
+= Understand Active IQ Dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The Active IQ Digital Advisor Dashboard displays information about the overall status of your storage system. It displays high-level information about wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level. You can also view the wellness score of the dashboard. Wellness score provides customers with a consolidated score of their installed base based on the number of high risks and the expired contracts.
+
+When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 10 dashboards and add watchlists to these dashboards.
+
+You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
+
+From the Active IQ Digital Advisor Dashboard you can:
+
+* View multiple dashboards, actionable and useful at-a-glance views of information
+* Gain insights regarding all the risks to your storage system and the actions to mitigate the risks
+* Mitigate risks using Active IQ Unified Manager
+* Upgrade your storage system
+* View storage efficiency ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later
+* Analyze the performance of your storage devices by viewing the graphical format of performance data
+* Get information about the hardware and software that have expired or are near-expiration within the next 6 months
+* Update your ONTAP firmware using Ansible
+* Get details about systems that have exceeded 90% capacity or are nearing 90% capacity
+* View detailed physical and logical configuration information, including a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations
+* Provide cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration
+* Check the compatibility of hosts, and provide upgrade recommendations for host operating systems, drivers, and firmware
+* Arrive at exactly what you want to find in a smarter and faster manner

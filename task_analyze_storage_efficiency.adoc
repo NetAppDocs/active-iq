@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: task_analyze_storage_efficiency.html
+keywords: renew, hardware, software
+summary: Provides information to renew the software and hardware of your storage system.
+---
+
+= Analyze storage efficiency savings
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can view the storage efficiency ratio and savings of your storage system and take appropriate actions to make optimum use of your storage system.
+
+.Steps
+. From the left pane, click *Storage Efficiency*.
+. View the storage efficiency and the data savings of your storage system.
++
+Based on the condition of your storage system, you can either share your success story or contact NetApp to help improve the storage efficiency of your system.
+. If the storage efficiency ratio of your storage system is higher than the average storage efficiency ratio, click *Share Your Success Story* to let us know the best practices followed.
+. If the storage efficiency ratio of your storage system is less than the average storage efficiency ratio, click *Contact Us* to let us know the configurations of your storage system.
