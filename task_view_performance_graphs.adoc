@@ -27,8 +27,8 @@ You also have an option to zoom in performance graph; the individual data points
 +
 For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
 . View performance graphs with required metrics, including:
-.. Peak Performance (Headroom)
-.. CPU and Disk Utilization
+.. CPU Utilization - Peak Performance (Headroom)
 .. Latency
 .. IOPS
-.. Throughput
+.. Protocol IOPS
+.. Network Throughput
