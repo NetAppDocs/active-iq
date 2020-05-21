@@ -18,6 +18,6 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 
 The Active IQ Digital Advisor Dashboard displays information about the overall status of your storage system. It displays high level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level.
 
-When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 10 dashboards and add watchlists to these dashboards.
+When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 50 dashboards and add watchlists to these dashboards.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
