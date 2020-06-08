@@ -37,6 +37,8 @@ entries:
             url: /task_renew_software_and_hardware.html
       - title: Identify system requriements proactively
         entries:
+          - title: Overview
+            url: /concept_overview_planning.html
           - title: Identify the capacity requirements
             url: /task_identify_capacity_system.html
           - title: Renew the software and hardware

@@ -21,3 +21,5 @@ The Active IQ Digital Advisor Dashboard displays information about the overall s
 When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 50 dashboards and add watchlists to these dashboards.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
+
+video::ITgFFwjJfjA[youtube, width=848, height=480]
