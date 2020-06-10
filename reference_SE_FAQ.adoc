@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_SE_FAQ.html
-keywords: Active IQ, storage efficiency, AFF, FAQs, storage efficiency calculator
+keywords: Active IQ, storage efficiency, FAQs, storage efficiency
 summary: Provides FAQs on storage efficiency.
 ---
 
@@ -12,31 +12,32 @@ summary: Provides FAQs on storage efficiency.
 :linkattrs:
 :imagesdir: ./media/
 
-== How do I access the AFF Efficiency in Active IQ?
+== How do I access the storage efficiency in Active IQ?
 
 .Step
-. Open home page of https://activeiq.netapp.com[[.underline]#Active IQ#].
-. Search for a cluster from the top right search box to reach the cluster dashboard. The efficiency portlet on the dashboard displays the top-level ratios. Click to see further details.
+. Open home page of link:https://activeiq.netapp.com[Active IQ].
+. Search for a Customer/Site/Group/Cluster/Node from the top right search box to reach the respective dashboard.
+. Click *Storage Efficiency* from the left navigation.
 
-== Does Active IQ display ratios for all AFF systems?
+== Does Active IQ display ratios for all ONTAP systems?
 
-Active IQ displays ratios for All-Flash systems running ONTAP 8.3.2 and later.
+Active IQ displays ratios for systems running ONTAP 9.1 and later.
 
-== What is the ‘Without Snapshots’ checkbox in the AFF efficiency dashboard?
+== What is the ‘Without Snapshots’ checkbox in the efficiency dashboard?
 
-By default, *Active IQ AFF Efficiency Dashboard* calculates overall ratio at cluster-level, node-level, and aggregate-level. Overall ratio includes the ratio from the following storage efficiency technologies:
+By default, *Active IQ Efficiency Dashboard* calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
 
 	* Deduplication
 	* Compression
 	* Data compaction
-	* Snapshots and
-	* Clones
+	* Clones and
+	* Snapshots
 
-By selecting *Without Snapshots* checkbox, the tool will calculate data reduction ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at cluster-level, node-level, and aggregate-level.
+By selecting *Without Snapshots* checkbox, Active IQ will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
 
 This option is provided to support customers who have signed up for NetApp storage guarantee program that guarantees x:1 data reduction ratio based on customer-workload. Customers can use Active IQ Storage Efficiency dashboard to monitor data reduction ratios during the guarantee period.
 
-To know more about NetApp Storage Guarantee program, refer https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[[.underline]#All-Flash Guarantee#].
+To know more about NetApp Storage Guarantee program, refer link:https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[All-Flash Guarantee].
 
 == What is physical data used and logical data used?
 
@@ -94,15 +95,9 @@ Active IQ uses the following steps to calculate node/cluster-level overall ratio
 
 == Which sections of AutoSupport are used for determining the efficiency ratios and how do I view the section?
 
-The calculator leverages the aggr-efficiency.xml section in AutoSupport for ONTAP 9.x systems to calculate the node, cluster, and aggregate level ratios. This section contains efficiency information of the node the AutoSupport is transmitted from and its HA pair. In ONTAP 8.3.2 systems such a section is not available and so the calculator leverages various other sections in AutoSupport to arrive at the ratios, but the approach is the same as ONTAP 9.x
+Active IQ uses aggr-efficiency.xml section in AutoSupport for ONTAP 9.x. This section contains efficiency and capacity information of all aggregates of the cluster.
 
-For the volume level ratio calculations, we use the df –s section of AutoSupport. Volume level calculations are arrived at using the following formula:
-
-Vol [n] (Eff ratio) = [.underline]#[ df-s (used) + df-s (saved) ]# / df-s (used)
-
-NOTE: Volume level ratios only include savings contributions from deduplication and compression and may not add up to the node level ratios.
-
-These AutoSupport sections are viewable from the *Raw AutoSupport Data* tab in left navigation of cluster dashboard of https://activeiq.netapp.com[[.underline]#Active IQ#]. Remember to view a weekly or a user triggered AutoSupport.
+These AutoSupport sections are viewable from the AutoSupport tab in left navigation of cluster dashboard of link:https://activeiq.netapp.com[Active IQ]. Remember to view a weekly or a user triggered AutoSupport.
 
 == Which AutoSupports are used for calculating efficiency ratios?
 
@@ -110,20 +105,12 @@ Calculations are performed using either the latest weekly or user-triggered Auto
 
 == Which volumes or aggregates are excluded from efficiency calculations?
 
-Following objects are NOT considered while calculating AFF efficiency ratios:
+The following objects are not considered while calculating efficiency ratios:
 
 * Root aggregates
 * Offline volumes
 * Vserver root/admin root volumes
 * MCC configuration volumes
-
-== Why do my displays look different in my laptop vs. a smartphone?
-
-The AFF storage efficiency calculator UI is optimized for viewing in smartphones. Although there may be small differences in display, the data and content of the calculator is same across devices.
-
-== How can I see the efficiency ratios of all my AFF systems in a single view within Active IQ?
-
-Currently, efficiency ratios are only visible at a cluster level. Customer level views may be considered for a future release.
 
 == How can I see the trend in efficiency ratios?
 
@@ -153,10 +140,23 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 *	*Total Space Saved = Total Logical Space Used – Total Physical Space Used*
 *	*Deduplication Savings*: Sum of *Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection* of each aggregate of all nodes of a customer.
 *	*Compression Savings*: Sum of *Space Saved by Volume Compression* of each aggregate of all nodes of a customer.
-*	*Compaction Savings*: Sum of *Space Saved by Aggregate Compaction* of each aggregate of all nodes of a customer.
+*	*Compaction Savings (for ONTAP 	9.1)*: Sum of *Space Saved by Aggregate Compaction* of each aggregate of all nodes of a customer.
+*	*Compaction Savings (for ONTAP 	9.2 and later)*: Sum of *Space Saved by Aggregate Data Reduction* of each aggregate of all nodes of a customer.
 *	*FlexClone Savings*: Sum of *(Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes)* of all aggregates of all nodes of a customer.
 *	*Snapshot copies Backup Savings*: Sum of *(Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies)* of all aggregates of all nodes of a customer.
 
-== How do I provide feedback or ask other questions related to the calculator?
+== Why adding all individual efficiency savings does not add up to total data saved by storage efficiency?
+
+Efficiency savings are shown in the *Storage Efficiency Dashboard* for volumes and local tiers (aggregates).  You cannot linearly add volume savings and aggregate savings as they both happen at different storage objects.
+
+== Is the efficiency ratio shown in Active IQ same as AFF Efficiency Guarantee Ratio?
+
+Efficiency Ratio in Active IQ is same as AFF Efficiency Guarantee Ratio unless data compression and deduplication have been performed on the data, the data is encrypted, or the data contains raw images and video files. Please contact NetApp Sales for validating guarantee ratio. To know more about NetApp Storage Guarantee program, see link:https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[All-Flash Guarantee].
+
+== Why storage efficiencies were reported incorrectly or higher before upgrading to ONTAP?
+
+Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue is fixed in ONTAP 9.3P11. Storage efficiency can report correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
+
+== How do I provide feedback or ask other questions related to storage efficiency?
 
 For feedback or questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]
