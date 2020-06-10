@@ -16,7 +16,7 @@ summary: Provides FAQs on storage efficiency.
 
 .Step
 . Open home page of link:https://activeiq.netapp.com[Active IQ].
-. Search for a Customer/Site/Group/Cluster/Node from the top right search box to reach the respective dashboard.
+. Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
 
 == Does Active IQ display ratios for all ONTAP systems?
@@ -34,10 +34,6 @@ By default, *Active IQ Efficiency Dashboard* calculates overall ratio at custome
 	* Snapshots
 
 By selecting *Without Snapshots* checkbox, Active IQ will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
-
-This option is provided to support customers who have signed up for NetApp storage guarantee program that guarantees x:1 data reduction ratio based on customer-workload. Customers can use Active IQ Storage Efficiency dashboard to monitor data reduction ratios during the guarantee period.
-
-To know more about NetApp Storage Guarantee program, refer link:https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[All-Flash Guarantee].
 
 == What is physical data used and logical data used?
 
@@ -97,7 +93,7 @@ Active IQ uses the following steps to calculate node/cluster-level overall ratio
 
 Active IQ uses aggr-efficiency.xml section in AutoSupport for ONTAP 9.x. This section contains efficiency and capacity information of all aggregates of the cluster.
 
-These AutoSupport sections are viewable from the AutoSupport tab in left navigation of cluster dashboard of link:https://activeiq.netapp.com[Active IQ]. Remember to view a weekly or a user triggered AutoSupport.
+These AutoSupport sections are viewable from the *AutoSupport* tab in left navigation of cluster dashboard of link:https://activeiq.netapp.com[Active IQ]. Remember to view a weekly or a user triggered AutoSupport.
 
 == Which AutoSupports are used for calculating efficiency ratios?
 
@@ -149,9 +145,9 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 
 Efficiency savings are shown in the *Storage Efficiency Dashboard* for volumes and local tiers (aggregates).  You cannot linearly add volume savings and aggregate savings as they both happen at different storage objects.
 
-== Is the efficiency ratio shown in Active IQ same as AFF Efficiency Guarantee Ratio?
+== Is the efficiency ratio shown in Active IQ same as AFF efficiency guarantee ratio?
 
-Efficiency Ratio in Active IQ is same as AFF Efficiency Guarantee Ratio unless data compression and deduplication have been performed on the data, the data is encrypted, or the data contains raw images and video files. Please contact NetApp Sales for validating guarantee ratio. To know more about NetApp Storage Guarantee program, see link:https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[All-Flash Guarantee].
+Efficiency Ratio in Active IQ is same as AFF efficiency guarantee ratio unless compression and deduplication have been performed on the data, the data is encrypted, or the data contains raw images and video files. Please contact NetApp Sales for validating guarantee ratio. To know more about NetApp Storage Guarantee program, see link:https://www.netapp.com/us/media/netapp-aff-efficiency-guarantee.pdf[All-Flash Guarantee].
 
 == Why storage efficiencies were reported incorrectly or higher before upgrading to ONTAP?
 
