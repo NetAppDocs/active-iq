@@ -19,8 +19,6 @@ Performance graphs enable you to analyze performance of your storage devices. Yo
 
 You have an option to set preferences, for example, you can view either one graph for three nodes or two graphs for three nodes.
 
-Note: Node latency performance graphs are supported only on systems that are running ONTAP 9.2 and later.
-
 When the graph is first displayed, 1-week tab is preselected and it presents data for 1 week in a graphical format to make it easier to understand large quantities of data and its relationship between different series of data. If you want to reset the date range, for example, you can click 1-month tab and select dates in the calendar.
 
 You also have an option to zoom in performance graph; the individual data points are displayed.
@@ -46,3 +44,5 @@ For example, select 2-months tab to view data for 2 months. This enables you to 
 |  | Protocol IOPS
 |  | Network Throughput
 |===
+
+NOTE: Node latency performance graphs are supported only on systems that are running ONTAP 9.2 and later.

@@ -33,7 +33,7 @@ The storage efficiency widget has been enhanced to enable you to view the storag
 You can now provide your feedback and let us know the reason you are the updating the default home page screen for Active IQ.
 
 === Update to the inventory widget
-The inventory widget has been enhanced to improve the user experience, by providing user friendly date formats, additional columns or end of platform support and end of version support.
+The inventory widget has been enhanced to improve the user experience, by providing user-friendly date formats, additional columns for end of platform support and end of version support.
 
 == 19 May 2020
 This update includes the following new features, enhancements, and changes:
