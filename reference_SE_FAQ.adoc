@@ -14,10 +14,12 @@ summary: Provides FAQs on storage efficiency.
 
 == How do I access the storage efficiency in Active IQ?
 
-.Step
+.Steps
 . Open home page of link:https://activeiq.netapp.com[Active IQ].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
+
+NOTE: The dashboards created using a watchlist will not be displayed in the storage efficiency widget.
 
 == Does Active IQ display ratios for all ONTAP systems?
 
@@ -86,8 +88,8 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 |===
     |*Operation*  | *Formula*
 
-    |Customer Logical Size with Snapshot copies | Sum [Logical Size Used by Volumes, Clones, Snapshot copies for all aggregates and for all nodes of a customer]
-    |Customer Physical Size Used with Snapshot copies | Sum [Total Physical Size Used for all aggregates and for all nodes of a customer]
+    |Customer Logical Size with Snapshot copies | Sum *[Logical Size Used by Volumes, Clones, Snapshot copies for all aggregates and for all nodes of a customer]*
+    |Customer Physical Size Used with Snapshot copies | Sum *[Total Physical Size Used for all aggregates and for all nodes of a customer]*
     |Customer Efficiency Ratio with Snapshot copies | Customer Logical Size with Snapshot copies and Clones / Customer Physical Size Used with Snapshot copies and Clones : 1
 |===
 
@@ -97,9 +99,9 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 |===
     |*Operation*  | *Formula*
 
-    |Customer Physical Space Used | Sum of Physical Space Used by the Aggregate* for all aggregates and of all nodes of a customer
-    |Customer Logical Size Used without Snapshot copies | Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies for all aggregates of all nodes of a customer
-    |Customer Logical Size Used with Snapshot copies | Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate for all aggregates of all nodes of a customer
+    |Customer Physical Space Used | *Sum of Physical Space Used by the Aggregate* for all aggregates and of all nodes of a customer
+    |Customer Logical Size Used without Snapshot copies | *Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies* for all aggregates of all nodes of a customer
+    |Customer Logical Size Used with Snapshot copies | *Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate* for all aggregates of all nodes of a customer
 		|Total Space Saved | Total Logical Space Used – Total Physical Space Used
     |Deduplication Savings | Sum of *Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection* of each aggregate of all nodes of a customer
 		|Compression Savings | Sum of *Space Saved by Volume Compression* of each aggregate of all nodes of a customer
