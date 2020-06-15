@@ -21,7 +21,6 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Watchlist:* Provides you the flexibility to access systems inside Active IQ Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
 ** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
 ** *Risks:* Displays a list of systems with their respective issues. It has different severity levels:
-*** Critical
 *** High risks
 *** Medium risks
 *** No risks
@@ -31,7 +30,6 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 |===
     |*Color*  | *Severity*
 
-    |image:black_color.png[Black] | Critical
     |image:red_color.png[Red] | High
     |image:orange_color.png[Orange] | Medium
     |image:green_color.png[Green] | No risks
