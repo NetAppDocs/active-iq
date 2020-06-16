@@ -113,7 +113,7 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 
 == Why adding all individual efficiency savings does not add up to total data saved by storage efficiency?
 
-Efficiency savings are shown in the *Storage Efficiency Dashboard* for volumes and local tiers (aggregates).  You cannot linearly add volume savings and aggregate savings as they both happen at different storage objects.
+Efficiency savings are shown in the *Storage Efficiency Dashboard* for volumes and local tiers (aggregates).  You cannot add volume savings and aggregate savings as they both happen at different storage objects.
 
 == Why storage efficiencies were reported incorrectly or higher before upgrading to ONTAP?
 
