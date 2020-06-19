@@ -37,6 +37,8 @@ entries:
             url: /task_renew_software_and_hardware.html
       - title: Identify system requriements proactively
         entries:
+          - title: Overview
+            url: /concept_overview_planning.html
           - title: Identify the capacity requirements
             url: /task_identify_capacity_system.html
           - title: Renew the software and hardware
@@ -47,8 +49,6 @@ entries:
             url: /concept_overview_storage_efficiency.html
           - title: Analyze storage efficiency savings
             url: /task_analyze_storage_efficiency.html
-          - title: FAQs
-            url: /reference_SE_FAQ.html
       - title: Analyze storage performance
         url: /task_view_performance_graphs.html
       - title: Ensure your storage system is up to date
@@ -57,6 +57,10 @@ entries:
             url: /task_view_upgrade.html
           - title: Update AFF/FAS firmware using Ansible
             url: /task_update_AFF_FAS_firmware.html
+      - title: Frequently asked questions
+        entries:
+          - title: Storage efficiency
+            url: /reference_SE_FAQ.html
   - title: Active IQ
     url: /reference_activeiq1.html
   - title: Get more information
