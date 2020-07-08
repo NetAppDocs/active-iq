@@ -12,8 +12,9 @@ The following performance counters can be used to enhance the performance of you
 [cols=4*,options="header",cols="20,20,20,40"]
 |===
 | Counters |  Calculations |  |
-|          |System | Counter |Formula
+|          |  *System* |  *Counter* | *Formula*
 | Cluster IOPS | systems | total_ops  | Sum (system.total_ops of all nodes associated with this cluster nodes)
 | Cluster Network Throughput  | systems | net_data_recv,fcp_data_recv,net_data_sent,fcp_data_sent  | Total Ins: sum( (net_data_recv + fcp_data_recv) for all nodes)
-Total Outs: sum( (net_data_sent + fcp_data_sent) for all nodes)
+                                                                                                     Total Outs: sum( (net_data_sent + fcp_data_sent) for all nodes)
+| 
 |===

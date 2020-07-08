@@ -32,10 +32,10 @@ For example, select 2-months tab to view data for 2 months. This enables you to 
 | For Node
 | For Local Tier
 | IOPS | CPU Utilization - Peak Performance (Headroom) | Local Tier Utilization
-| Network Throughput | Latency
-|  | IOPS |
-|  | Protocol IOPS |
-|  | Network Throughput |
+| Network Throughput | Latency  |
+|   | IOPS |
+|   | Protocol IOPS |
+|   | Network Throughput |
 |===
 
 NOTE: Node latency performance graphs are supported only on systems that are running ONTAP 9.2 and later.
