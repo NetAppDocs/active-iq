@@ -26,6 +26,7 @@ By default, the cluster performance is displayed. You can click the *Node* tab t
 For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
 . View performance graphs with required metrics, including:
 
+[cols=3*,options="header",cols="25,35,40"]
 |===
 | For Cluster
 | For Node

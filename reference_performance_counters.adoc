@@ -9,7 +9,7 @@ summary: Provides information about the performance counters.
 
 The following performance counters can be used to enhance the performance of your system:
 
-[cols=4*,options="header",cols="25,75"]
+[cols=4*,options="header",cols="25,25,25,25"]
 |===
 | Counters |  Calculations
 |          |System | Counter |Formula
