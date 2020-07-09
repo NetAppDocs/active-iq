@@ -55,8 +55,6 @@ entries:
             url: /concept_overview_performance.html
           - title: Analyze storage performance
             url: /task_view_performance_graphs.html
-          - title: View performance counters
-            url: /reference_performance_counters.html
       - title: Ensure your storage system is up to date
         entries:
           - title: View and upgrade your storage system
