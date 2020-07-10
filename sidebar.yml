@@ -49,12 +49,8 @@ entries:
             url: /concept_overview_storage_efficiency.html
           - title: Analyze storage efficiency savings
             url: /task_analyze_storage_efficiency.html
-      - title: View performance details
-        entries:
-          - title: Overview
-            url: /concept_overview_performance.html
-          - title: Analyze storage performance
-            url: /task_view_performance_graphs.html
+      - title: Analyze storage performance
+        url: /task_view_performance_graphs.html
       - title: Ensure your storage system is up to date
         entries:
           - title: View and upgrade your storage system
