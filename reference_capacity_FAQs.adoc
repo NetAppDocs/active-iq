@@ -1,0 +1,72 @@
+---
+sidebar: sidebar
+permalink: reference_capacity_FAQs.html
+keywords: Active IQ, capacity, snapshot copies, physical used space, logical used space, capacity forecast, efficiency, FAQs
+summary: Provides FAQs on capacity.
+---
+
+= FAQs
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== How are capacities calculated in Active IQ?
+The capacities in Active IQ are calculated for cluster and node—excluding root and including Snapshot copies):
+[%autowidth, indent=10]
+|===
+    |*Capacity*  | *Calculated by adding each aggregate…*
+
+    |Raw Capacity | All Phys (MB/blks) of “SYSCONFIG -R"
+    |Usable Capacity | Kbytes (Allocated) of "DF -A"
+    |Used Capacity with Reserves |Used of   “DF -A”
+    |Available Capacity|Avail of “DF -A”
+    |Physical Capacity Actual|Total Physical Used of “AGGR-EFFICIENCY.XML”
+    |Logical Capacity Effective|Logical Size Used by Volumes, Clones, and Snapshot copies in the Aggregate of “AGGR-EFFICIENCY.XML”
+|===
+
+*For Local tier (Aggregate with Snapshot copies)*
+[%autowidth, indent=10]
+|===
+    |*Capacity*  | *Calculated by using…*
+
+    |Usable Capacity | kbytes (allocated) of "DF -A"
+    |Used Capacity with Reserves | Used of   “DF -A”
+    |Available Capacity| Avail of “DF -A”
+    |Physical Capacity Actual| Total Physical Used of “AGGR-EFFICIENCY.XML”
+    |Logical Capacity Effective| Logical Size Used by Volumes, Clones, and Snapshot copies in the Aggregate of “AGGR-EFFICIENCY.XML”
+|===
+
+*For Volume (Volume with Snapshot copies)*
+[%autowidth, indent=10]
+|===
+
+    |*Capacity*  | *Calculated by using…*
+
+    |Volume Capacity | Volume Size of “VOLUME.XML”
+    |Used Capacity with Reserves | Used Size of "VOLUME.XML"
+    |Available Capacity| Available Size of “VOLUME.XML”
+    |Physical Capacity Actual| Total Physical Used of “VOL STATUS -S”
+    |Logical Capacity Effective| Logical Used Size of “VOLUME.XML”
+    |===
+
+== What are Physical Capacity Actual, Logical Capacity Effective, and Used Capacity with Reserve?
+*Physical Blocks Consumed/Physical Capacity Actual*
+* The amount of space being used for data now (rather than being reserved for future use)
+* Includes space used by aggregate Snapshot copies
+* Space actually consumed or written by the client
+
+*Logical Capacity Effective/Logical Data Used*
+* Displays the logical size used in the aggregate.
+* The aggregate incudes Volumes, Clones, and Snapshot copies.
+* The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
+*Note*:	It does not include space reserved for future use.
+* Total Data Used/Used Capacity with Reserves
+* The sum of all space used or reserved in the aggregate by volumes, metadata, or Snapshot copies.
+*Note*:	It includes space reserved for volumes with guarantee volume.
+
+== Why Used Capacity at Node does not match all the volume Used Capacity in the node?
+Used Capacity at node includes space reserved by volumes, metadata and Snapshot copies. It also includes space reserved for volumes—file or volume guarantee type. Hence, both might not match.
+== Are Capacities shown in Active IQ are Base 2 or Base 10?
+All capacities displayed on Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. The ONTAP storage and other NetApp products also display capacity usage in Base 2.

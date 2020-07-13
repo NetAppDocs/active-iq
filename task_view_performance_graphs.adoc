@@ -39,7 +39,7 @@ For example, select 2-months tab to view data for 2 months. This enables you to 
 | For Cluster
 | For Node
 | For Local Tier
-| IOPS | CPU Utilization - Peak Performance (Headroom) | Local Tier Utilization
+| IOPS | CPU Utilization - Peak Performance (Headroom) | Average Throughput
 | Network Throughput | Latency  |
 |   | IOPS |
 |   | Protocol IOPS |

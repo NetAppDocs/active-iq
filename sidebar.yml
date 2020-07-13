@@ -61,6 +61,8 @@ entries:
         entries:
           - title: Storage efficiency
             url: /reference_SE_FAQ.html
+          - title: Capacity
+            url: /reference_capacity_FAQs.html
   - title: Active IQ
     url: /reference_activeiq1.html
   - title: Get more information
