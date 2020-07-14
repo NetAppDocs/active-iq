@@ -49,7 +49,7 @@ The capacities in Active IQ are calculated for cluster and node—excluding root
     |Available Capacity| Available Size of “VOLUME.XML”
     |Physical Capacity Actual| Total Physical Used of “VOL STATUS -S”
     |Logical Capacity Effective| Logical Used Size of “VOLUME.XML”
-    |===
+|===
 
 == What are Physical Capacity Actual, Logical Capacity Effective, and Used Capacity with Reserve?
 *Physical Blocks Consumed/Physical Capacity Actual*
@@ -68,5 +68,6 @@ The capacities in Active IQ are calculated for cluster and node—excluding root
 
 == Why Used Capacity at Node does not match all the volume Used Capacity in the node?
 Used Capacity at node includes space reserved by volumes, metadata and Snapshot copies. It also includes space reserved for volumes—file or volume guarantee type. Hence, both might not match.
+
 == Are Capacities shown in Active IQ are Base 2 or Base 10?
 All capacities displayed on Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. The ONTAP storage and other NetApp products also display capacity usage in Base 2.
