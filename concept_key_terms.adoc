@@ -25,7 +25,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *** Medium risks
 *** No risks
 ** *Actions:* Displays the number of unique actions that you can take to fix the issues.
-** *Color-coded risk status*: Displays risk levels and their color codes that are classified into 4 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
+** *Color-coded risk status*: Displays risk levels and their color codes that are classified into 3 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 [%autowidth, indent=8]
 |===
     |*Color*  | *Severity*
