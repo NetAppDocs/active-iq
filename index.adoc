@@ -4,7 +4,7 @@ permalink: index.html
 summary: Active IQ Digital Advisor Documentation.
 ---
 
-= Overview
+= Active IQ Digital Advisor Documentation
 :hardbreaks:
 :nofooter:
 :icons: font
