@@ -42,9 +42,9 @@ For example, select 2-months tab to view data for 2 months. This enables you to 
 | For Volume
 | IOPS | CPU Utilization - Peak Performance (Headroom) | Average Throughput| IOPS
 | Network Throughput | Latency  | Average Utilization | Latency
-|   | IOPS |
-|   | Protocol IOPS |
-|   | Network Throughput |
+|   | IOPS |   |
+|   | Protocol IOPS |  |
+|   | Network Throughput |  |
 |===
 
 NOTE: Node latency performance graphs are supported only on systems that are running ONTAP 9.2 and later.
