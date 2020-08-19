@@ -30,5 +30,5 @@ Active IQ displays systems with a valid support contract. If contracts expire, t
 === Documentation and Support
 
 * link:https://www.netapp.com/us/documentation/active-iq.aspx[Documentation Resources]
-* link:http://communities.netapp.com/community/products_and_solutions/efficient_it/my_autosupport_and_autosupport?view=overview[User Community]
+* link:https://community.netapp.com/t5/Active-IQ-and-AutoSupport/ct-p/autosupport-and-my-autosupport#[User Community]
 * link:https://twitter.com/NetAppActiveIQ[Follow us on Twitter]

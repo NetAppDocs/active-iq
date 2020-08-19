@@ -27,7 +27,7 @@ Before updating FAS/AFF firmware using Ansible, you should:
 * Configure your account with an administrator role
 
 .Steps
-. Click the wellness attribute widget on the dashboard or click *View All* to view the list of all the actions and risks.
+. Click the wellness attribute widget on the dashboard or click *View All Actions* to view the list of all the actions and risks.
 . Click *Firmware Upgrades* to view all the firmware upgrade risks.
 . Click *AFF/FAS FW Update* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
 . Click *Download* to download the zip files and update your storage system.

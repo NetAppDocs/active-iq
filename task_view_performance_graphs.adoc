@@ -28,22 +28,23 @@ video::fWrHYX17xT8[youtube, width=848, height=480]
 .Steps
 . On the Dashboard, click *Performance*.
 +
-By default, the cluster performance is displayed. You can click the *Node* tab to view the performance of a single node of an ONTAP cluster or click the *Local Tier* tab to view the performance of the local tier.
+By default, the cluster performance is displayed. You can click the *Node* tab to view the performance of a single node of an ONTAP cluster, click the *Local Tier* tab to view the performance of the local tier, or click the *Volume* tab to view the performance of the volume.
 . Select either 1 day, 1 week, 1 month, or 2 months, in the calendar, for viewing performance data in a graphical format. Confirm that you want to perform the operation.
 +
 For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
 . View performance graphs with required metrics, including:
 
-[cols=3*,options="header",cols="25,35,40"]
+[cols=4*,options="header",cols="25,25,25,25"]
 |===
 | For Cluster
 | For Node
 | For Local Tier
-| IOPS | CPU Utilization - Peak Performance (Headroom) | Average Throughput
-| Network Throughput | Latency  | Average Utilization
-|   | IOPS |
-|   | Protocol IOPS |
-|   | Network Throughput |
+| For Volume
+| IOPS | CPU Utilization - Peak Performance (Headroom) | Average Throughput| IOPS
+| Network Throughput | Latency  | Average Utilization | Latency
+|   | IOPS |   |
+|   | Protocol IOPS |  |
+|   | Network Throughput |  |
 |===
 
 NOTE: Node latency performance graphs are supported only on systems that are running ONTAP 9.2 and later.
