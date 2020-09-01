@@ -33,9 +33,9 @@ Before updating FAS/AFF firmware using Ansible, you should:
 . Click *Download* to download the zip files and update your storage system.
 +
 The zip file contains the following:
-. Ansible playbook - A YAML file containing the ansible script to perform the disk and shelf firmware updates.
-. Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
+  * Ansible playbook - A YAML file containing the ansible script to perform the disk and shelf firmware updates.
+  * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
 
-NOTE: Manual addition of clusters and controllers are not supported in the inventory file.
+  NOTE: Manual addition of clusters and controllers are not supported in the inventory file.
 
 If you encounter any issues, you can click link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[here] to view the troubleshooting information.
