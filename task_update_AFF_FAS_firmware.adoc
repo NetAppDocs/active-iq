@@ -29,7 +29,14 @@ Before updating FAS/AFF firmware using Ansible, you should:
 .Steps
 . Click the wellness attribute widget on the dashboard or click *View All Actions* to view the list of all the actions and risks.
 . Click *Firmware Upgrades* to view all the firmware upgrade risks.
-. Click *AFF/FAS FW Update* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
+. Click *Update FAS/AFF Firmware* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
 . Click *Download* to download the zip files and update your storage system.
++
+The zip file contains the following:
+
+	* Ansible playbook - A YAML file containing the ansible script to perform the disk, shelf, and service processor firmware updates.
+  * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
+
+	NOTE: Manual addition of clusters and controllers are not supported in the inventory file.
 
 If you encounter any issues, you can click link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[here] to view the troubleshooting information.
