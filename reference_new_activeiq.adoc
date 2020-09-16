@@ -17,6 +17,15 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you the new features and enhancements.
 
+== 01 October 2020
+This update includes the following new features, enhancements, and changes:
+
+=== Config Drift
+This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time.
+
+=== AFF/FAS firmware using Ansible Playbook
+The documentation has been enhanced to include information about downloading, installing, and executing the FAS/AFF firmware ansible automation package.
+
 == 18 August 2020
 This update includes the following new features, enhancements, and changes:
 

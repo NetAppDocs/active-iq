@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: task_compare_config_drift_template.html
+keywords: config deviation, drift, configuration, compare template
+summary: Provides information to compare a configuration drift template.
+---
+
+= Compare a config drift template
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can compare the system and cluster configurations and detect the configuration deviations in near real time.
+
+.Steps
+. From the left pane, click *Config Drift*.
+. Select one of the existing template or click *Create Template* to add a new template.
+. Optional: Click *Edit* to edit the template or click *Delete* to delete a template.
+. In the *Compare* section, provide the values of the template to compare.
+. Click *Generate Report*.
++
+An email is sent with the details of the configuration deviation between the selected systems.
