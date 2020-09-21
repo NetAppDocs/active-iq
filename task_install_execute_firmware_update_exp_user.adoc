@@ -5,7 +5,7 @@ keywords: install, execute, firmware update, ansible playbook, ansible, playbook
 summary: Provides information to install and execute firmware update using ansible playbook.
 ---
 
-= Install and execute FAS/AFF firmware Ansible Automation package (Experienced Users)
+= Install and execute FAS/AFF firmware Ansible automation package (Experienced Users)
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,20 +15,14 @@ summary: Provides information to install and execute firmware update using ansib
 :imagesdir: ./media/
 
 [.lead]
-You should install and execute the FAS/AFF firmware ansible automation package.
+Experienced users can follow the steps below to install and execute the FAS/AFF firmware ansible automation package quickly.
 
-Experienced users can follow the steps below to complete this task quickly.
+Users who require detailed steps to install and execute the FAS/AFF firmware ansible automation package, click here.
 
 == Firmware update with Ansible using NetApp Docker Image
 
 .Steps
 . Pull the Ansible Docker image to the Linux host
-----
-$ docker pull schmots1/netapp-ansible
-Using default tag: latest
-latest: Pulling from schmots1/netapp-ansible
-docker.io/schmots1/netapp-ansible:latest
-----
 . Run the docker image as container on the Linux host
 ----
 Playbook and the inventory file must be in the same path.
@@ -57,6 +51,7 @@ NOTE: If the URLs for disk firmware and shelf firmware are _http://<web-server>/
 1.11.3   NA01              X423_HCOBE900A10
 1.11.4   NA01              X423_HCOBE900A10
 ----
+
 
 == Firmware update if Ansible is already used
 
