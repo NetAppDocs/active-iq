@@ -46,9 +46,7 @@ For more information about the docker pull command, refer to the link:https://do
 ----
 $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
 ----
-The container starts and the console is now at bash shell of the container.
-
-For more information about the docker run command, refer to the link:https://docs.docker.com/engine/reference/run/[Docker Run Documentation].
+The container starts and the console is now at bash shell of the container. For more information about the docker run command, refer to the link:https://docs.docker.com/engine/reference/run/[Docker Run Documentation].
 
 . Execute the playbook inside the container by using the *ansible-playbook* command:
 +
@@ -61,7 +59,6 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-
 For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
 
 After executing the playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post execution instructions.
