@@ -1,0 +1,62 @@
+---
+sidebar: sidebar
+permalink: concept_work_with_inventory_file.html
+keywords: inventory file, file format
+summary: Provides information about working with the inventory file.
+---
+
+= Work with inventory file
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+The inventory file consists of the cluster management LIFs of the systems that are eligible for firmware updates. It contains the list of clusters with disk and shelf firmware filename information wherever applicable.
+
+== Inventory file format
+
+The following is a sample inventory file format with both disk and shelf firmware updates:
+
+----
+clusters:
+  - clustername: <cluster management LIF-1>
+    disk_fw_file: all.zip
+    shelf_fw_file: all_shelf_fw.zip
+
+  - clustername: <cluster management LIF-2>
+    disk_fw_file: all.zip
+----
+
+In the example, both shelf and disk firmware updates are applicable on cluster-1 and only disk firmware updates are applicable on cluster-2.
+
+== Deleting a cluster from the inventory file
+
+In case you do not want to apply firmware updates on a particular cluster, you can remove it from the inventory file.
+
+For example, if you do not want to apply disk firmware updates on cluster-2, you can remove it from the inventory file by using the following command:
+
+----
+clusters:
+  - clustername: <cluster management LIF-1>
+    disk_fw_file: all.zip
+    shelf_fw_file: all_shelf_fw.zip
+----
+
+You can observe that all the data for cluster-2 has been deleted.
+
+If you want to apply only disk firmware updates on cluster-1 and not shelf firmware updates, you can do so by using the following command:
+
+----
+clusters:
+  - clustername: <cluster management LIF-1>
+    disk_fw_file: all.zip
+----
+
+You can see that the _shelf_fw_file_ key and value from cluster-1 have been removed.
+
+NOTE: Manual addition of clusters or controllers is not supported.

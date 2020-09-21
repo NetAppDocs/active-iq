@@ -5,7 +5,7 @@ keywords: update, AFF, FAS firmware, firmware
 summary: Provides information to update the FAS/AFF firmware.
 ---
 
-= Update your FAS/AFF firmware using Ansible
+= Download the FAS/AFF firmware Ansible Automation package
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -36,7 +36,6 @@ The zip file contains the following:
 
 	* Ansible playbook - A YAML file containing the ansible script to perform the disk, shelf, and service processor firmware updates.
   * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
+	* Disk and Shelf Firmware packages are named as *all.zip* and *all_shelf_fw.zip* respectively.
 
 	NOTE: Manual addition of clusters and controllers are not supported in the inventory file.
-
-If you encounter any issues, you can click link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[here] to view the troubleshooting information.

@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: reference_ansible_troubleshoot_feedback_support.html
+keywords: troubleshoot, feedback, support
+summary: Provides more information about Ansible.
+---
+
+= Getting more information
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+You can get help and find more information through various resources.
+
+
+* link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[Troubleshooting information]
+* link:www.netapp.io/slack[Slack workspace]
+* link:ng-active-iq-feedback@netapp.com[Email]
+* You can use the Support button in Active IQ Digital Advisor for support and feedback.
