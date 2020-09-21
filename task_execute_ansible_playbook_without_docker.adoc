@@ -17,8 +17,9 @@ summary: Provides information to execute ansible playbook using the docker image
 [.lead]
 
 .Steps
-. Install link:https://docs.python.org/3/using/windows.html[Python] and link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html[Ansible]
+. Install link:https://docs.python.org/3/using/windows.html[Python] and link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html[Ansible].
 . Install the required Python packages by using *pip*:
++
 ----
 $ pip install netapp-lib requests
  
@@ -26,6 +27,7 @@ Installing collected packages: netapp-lib, requests
 Successfully installed netapp-lib-2020.3.12 requests-2.23.0 
 ----
 . Install NetApp Ansible collection by using the *ansible-galaxy* command:
++
 ----
 To install the collection only for the current user
 $ ansible-galaxy collection install netapp.ontap
@@ -35,10 +37,10 @@ $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collectio
 
 $ chmod -R +rw /usr/share/ansible/collections
 ----
-For more information on the ansible-galaxy command, refer to link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html[Ansible Galaxy Documentation].
-For more details on the NetApp Ansible Collection, refer to the link:https://galaxy.ansible.com/netapp/ontap[NetApp Ansible Collection page].
+For more information about the ansible-galaxy command, refer to link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html[Ansible Galaxy Documentation] and for more details about the NetApp Ansible Collection, refer to the link:https://galaxy.ansible.com/netapp/ontap[NetApp Ansible Collection page].
 
 . Execute the Ansible playbook by using *ansible-playbook* command:
++
 ----
 $ cd <downloaded_playbook_path>
 $ ansible-playbook na_ontap_pb_upgrade_firmware.yml
@@ -49,8 +51,6 @@ Enter the base URL to the firmware package (using HTTP is recommended): http://<
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
 
-For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation].
+For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
 
-To execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
-
-After executing the playbook, refer to Firmware installation validations for post execution instructions.
+After executing the playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post execution instructions.

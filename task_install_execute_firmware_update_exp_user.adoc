@@ -22,7 +22,7 @@ Users who require detailed steps to install and execute the FAS/AFF firmware ans
 == Firmware update with Ansible using NetApp Docker Image
 
 .Steps
-. Pull the Ansible Docker image to the Linux host
+. Pull the Ansible Docker image to the Linux host:
 +
 ----
 $ docker pull schmots1/netapp-ansible
@@ -30,7 +30,7 @@ Using default tag: latest
 latest: Pulling from schmots1/netapp-ansible
 docker.io/schmots1/netapp-ansible:latest
 ----
-. Run the docker image as container on the Linux host
+. Run the docker image as container on the Linux host:
 +
 ----
 Playbook and the inventory file must be in the same path.
@@ -47,9 +47,9 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-NOTE: If the URLs for disk firmware and shelf firmware are _http://<web-server>/path/all_shelf_fw.zip_ and _http://<web-server>/path/all.zip_, provide _http://<web-server>/path/_  as the input for the base URL to the firmware package.
+NOTE: If the URLs for disk firmware and shelf firmware are *http://<web-server>/path/all_shelf_fw.zip* and *http://<web-server>/path/all.zip*, provide *http://<web-server>/path/* as the input for the base URL to the firmware package.
 
-. Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed
+. Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed:
 +
 ----
 ::> storage disk show -fields firmware-revision,model
@@ -74,7 +74,7 @@ $ pip install netapp-lib requests
 Installing collected packages: netapp-lib, requests
 Successfully installed netapp-lib-2020.3.12 requests-2.23.0
 ----
-. Install the NetApp Ansible Collection
+. Install the NetApp Ansible Collection:
 +
 ----
 To install the collection only for the current user:
@@ -84,10 +84,8 @@ For universal installation:
 $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collections
 $ chmod -R +rw /usr/share/ansible/collections
 ----
-. Execute the playbook. Firmware updates run in the background for a few hours
+. Execute the playbook. Firmware updates run in the background for a few hours.
 +
-NOTE: The playbook and the inventory file must be in the same path.
-
 ----
 $ cd <playbook_path>
 $ ansible-playbook na_ontap_pb_upgrade_firmware_disk.yml
@@ -97,7 +95,9 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-. Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed.
+NOTE: The playbook and the inventory file should be in the same path.
+
+. Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed:
 +
 ----
 ::> storage disk show -fields firmware-revision,model
