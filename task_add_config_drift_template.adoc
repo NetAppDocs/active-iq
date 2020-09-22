@@ -19,6 +19,6 @@ The config drift feature enables you to add a template and compare the system an
 
 .Steps
 . From the left pane, click *Config Drift*.
-. Click *Create Template*.
+. Click *Add Template*.
 . Provide the requested values.
 . Click *Add Template*.

@@ -61,15 +61,15 @@ entries:
         url: /task_install_execute_firmware_update_exp_user.html
       - title: Install and execute the FAS/AFF firmware Ansible Automation package (Beginners)
         entries:
-          - title: Hosting Firmware files using web server
+          - title: Host Firmware files using web server
             url: /task_hosting_firmware_files_using_web_server.html
-          - title: Working with Inventory file
+          - title: Work with Inventory file
             url: /concept_work_with_inventory_file.html
-          - title: Execution of Ansible playbook using NetApp Docker image
+          - title: Execute Ansible playbook using NetApp Docker image
             url: /task_execute_ansible_playbook_using_docker.html
-          - title: Execution of Ansible playbook without Docker
+          - title: Execute Ansible playbook without Docker
             url: /task_execute_ansible_playbook_without_docker.html
-          - title: Firmware installation Validations
+          - title: Validate Firmware installation
             url: /task_validate_firmware_installation.html
           - title: Troubleshooting, Feedback and Support
             url: /reference_ansible_troubleshoot_feedback_support.html
