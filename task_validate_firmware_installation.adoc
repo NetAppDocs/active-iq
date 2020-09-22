@@ -32,14 +32,14 @@ disk     firmware-revision model
 1.11.3   NA01              X423_HCOBE900A10
 1.11.4   NA01              X423_HCOBE900A10
 ----
-For more information on the command, refer to link:link-with-underscores:https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-910%2Fstorage__disk__show.html[storage disk show].
+For more information on the command, refer to link:++https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-910%2Fstorage__disk__show.html++[storage disk show].
 
 . Verify that new NVMe Flash Cache firmware is installed:
 +
 ----
 ::*> system controller flash-cache show
 ----
-For more information on the command, refer to link:https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-960%2Fsystem__controller__flash-cache__show.html++[system controller flash-cache show].
+For more information on the command, refer to link:++https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-960%2Fsystem__controller__flash-cache__show.html++[system controller flash-cache show].
 
 == Validate shelf firmware installation
 
