@@ -47,7 +47,7 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-NOTE: If the URLs for disk firmware and shelf firmware are '*http://<web-server>/path/all_shelf_fw.zip*' and '*http://<web-server>/path/all.zip*', provide '*http://<web-server>/path/*' as the input for the base URL to the firmware package.
+NOTE: If the URLs for disk firmware and shelf firmware are *\http://<web-server>/path/all_shelf_fw.zip* and *\http://<web-server>/path/all.zip*, provide *\http://<web-server>/path/* as the input for the base URL to the firmware package.
 
 . Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed:
 +
