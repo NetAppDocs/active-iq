@@ -32,14 +32,14 @@ disk     firmware-revision model
 1.11.3   NA01              X423_HCOBE900A10
 1.11.4   NA01              X423_HCOBE900A10
 ----
-For more information on the command, refer to link:https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-960%2Fstorage&#8212disk&#8212show.html[storage disk show].
+For more information on the command, refer to link:++https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-910%2Fstorage__disk__show.html++[storage disk show].
 
 . Verify that new NVMe Flash Cache firmware is installed:
 +
 ----
 ::*> system controller flash-cache show
 ----
-For more information on the command, refer to link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-960/system&#8212ontroller&#8212flash-cache&#8212show.html[system controller flash-cache show].
+For more information on the command, refer to link:++https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-960%2Fsystem__controller__flash-cache__show.html++[system controller flash-cache show].
 
 == Validate shelf firmware installation
 
@@ -61,18 +61,18 @@ For more information on the command, refer to link:++https://docs.netapp.com/ont
 ----
 ::*> storage shelf acp module show -instance
 ----
-For more information on the command, refer to link:http://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/storage__shelf__acp__module__show.html[storage shelf acp module show].
+For more information on the command, refer to link:++http://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/storage__shelf__acp__module__show.html++[storage shelf acp module show].
 
 . Verify that the desired ACP mode is configured:
 +
 ----
 ::*> storage shelf acp show
 ----
-For more information on the command, refer to link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-910/storage__shelf__acp__show.html[storage shelf acp show].
+For more information on the command, refer to link:++https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-910/storage__shelf__acp__show.html++[storage shelf acp show].
 
 . Change the ACP mode (channel):
 +
 ----
 ::*> storage shelf acp configure -channel [in-band | out-of-band]
 ----
-For more information on the command, refer to link:http://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/storage__shelf__acp__configure.html[storage shelf acp configure].
+For more information on the command, refer to link:++http://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/storage__shelf__acp__configure.html++[storage shelf acp configure].
