@@ -39,7 +39,7 @@ docker.io/schmots1/netapp-ansible:lates
 ----
 For more information about the docker pull command, refer to the link:https://docs.docker.com/engine/reference/commandline/pull/[Docker Pull Documentation].
 
-. Run the docker image as a container and login to the container to execute the playbook:
+. Run the docker image as a container and login to the container to execute the playbook.
 . Copy the path of the folder which contains the extracted Ansible playbook and inventory files, for example, *downloaded_playbook_path*. The Ansible playbook and inventory files should be in the same folder for successful execution.
 . Mount the folder as a volume on the Docker container. For example, to mount the folder *container_path*, you should execute the following command:
 +
