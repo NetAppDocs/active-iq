@@ -54,7 +54,7 @@ In the output, verify that each shelf's firmware is updated to the desired level
 ----
 Shelf 1: IOM6 Firmware rev. IOM6 A: 0191 IOM3 B: 0191
 ----
-For more information on the command, refer to link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/system__node__run.html[system node run].
+For more information on the command, refer to link:++https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/system__node__run.html++[system node run].
 
 . Verify that the new ACP firmware is updated:
 +
