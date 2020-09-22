@@ -23,6 +23,15 @@ This update includes the following new features, enhancements, and changes:
 === Config Drift
 This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time.
 
+=== Periodic Digest
+You can now subscribe to the periodic digest that gives you an overview of your storage system and actions.
+
+=== AutoSupport Alerts:
+You can now view AutoSupport data and review the details.
+
+=== Wellness review email
+You can subscribe to the wellness review email to receive a monthly email that summarizes wellness status, systems that are nearing renewal, systems that require an upgrade for the NetApp products in your installed base.
+
 === AFF/FAS firmware using Ansible Playbook
 The documentation has been enhanced to include information about downloading, installing, and executing the FAS/AFF firmware ansible automation package.
 

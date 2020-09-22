@@ -31,6 +31,8 @@ entries:
         url: /task_view_and_acknowledge_risks.html
       - title: View the risks that can be automatically remediated using Active IQ Unified Manager
         url: /task_view_risks_remediated_unified_manager.html
+      - title: Subscribe to wellness review email
+        url: /task_subscribe_to_wellness_review_email.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
   - title: Identify system requriements proactively
