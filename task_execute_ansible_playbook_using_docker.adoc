@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_execute_ansible_playbook_using_docker.html
-keywords: Ansible Playbook, Ansible, playbook, docker
+keywords: Ansible Playbook, Ansible, Playbook, docker
 summary: Provides information to execute Ansible Playbook using the docker image.
 ---
 
@@ -15,7 +15,7 @@ summary: Provides information to execute Ansible Playbook using the docker image
 :imagesdir: ./media/
 
 [.lead]
-Before you execute the playbook, ensure that the *NetApp_Ansible_**.*zip* file has been extracted and the web server with disk or shelf firmware files is ready.
+Before you execute the Ansible Playbook, ensure that the *NetApp_Ansible_**.*zip* file has been extracted and the web server with disk or shelf firmware files is ready.
 
 == Before you begin
 
@@ -39,7 +39,7 @@ docker.io/schmots1/netapp-ansible:lates
 ----
 For more information about the docker pull command, refer to the link:https://docs.docker.com/engine/reference/commandline/pull/[Docker Pull Documentation].
 
-. Run the docker image as a container and log in to the container to execute the playbook.
+. Run the docker image as a container and log in to the container to execute the Ansible Playbook.
 . Copy the path of the folder which contains the extracted Ansible Playbook and inventory files, for example, *downloaded_playbook_path*. The Ansible Playbook and inventory files should be in the same folder for successful execution.
 . Mount the folder as a volume on the Docker container. For example, to mount the folder *container_path*, you should execute the following command:
 +
@@ -48,7 +48,7 @@ $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp
 ----
 The container starts and the console is now at bash shell of the container. For more information about the docker run command, refer to the link:https://docs.docker.com/engine/reference/run/[Docker Run Documentation].
 
-. Execute the playbook inside the container by using the *ansible-playbook* command:
+. Execute the Ansible Playbook inside the container by using the *ansible-playbook* command:
 +
 ----
 $ cd <container_path>
@@ -61,4 +61,4 @@ PLAY [ONTAP Firmware Upgrade] **************************************************
 ----
 For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
 
-After executing the playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post execution instructions.
+After executing the Ansible Playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post execution instructions.

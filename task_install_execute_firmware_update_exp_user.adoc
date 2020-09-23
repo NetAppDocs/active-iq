@@ -35,7 +35,7 @@ docker.io/schmots1/netapp-ansible:latest
 ----
 $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
 ----
-NOTE: The Ansible Playbook and the inventory file must be in the same path.
+NOTE: The Ansible Playbook and the inventory file should be in the same path.
 
 . Execute the Ansible Playbook on the Linux host. Firmware updates run in the background for a few hours.
 +
@@ -85,9 +85,8 @@ For universal installation:
 $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collections
 $ chmod -R +rw /usr/share/ansible/collections
 ----
-. Execute the Ansible Playbook. Firmware updates run in the background for a few hours.
+. Ensure that the Ansible Playbook and the inventory file are in the same path and then execute the Ansible Playbook. Firmware updates run in the background for a few hours.
 +
-The Ansible Playbook and the inventory file should be in the same path.
 ----
 $ cd <playbook_path>
 $ ansible-playbook na_ontap_pb_upgrade_firmware_disk.yml
