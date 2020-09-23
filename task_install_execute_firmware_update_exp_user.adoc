@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: task_install_execute_firmware_update_exp_user.html
-keywords: install, execute, firmware update, ansible playbook, ansible, playbook, docker, experienced user
-summary: Provides information to install and execute firmware update using ansible playbook.
+keywords: install, execute, firmware update, Ansible Playbook, ansible, playbook, docker, experienced user
+summary: Provides information to install and execute firmware update using Ansible Playbook.
 ---
 
 = Install and execute FAS/AFF firmware Ansible automation package (Experienced Users)
@@ -33,10 +33,11 @@ docker.io/schmots1/netapp-ansible:latest
 . Run the docker image as container on the Linux host:
 +
 ----
-Playbook and the inventory file must be in the same path.
 $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
 ----
-. Execute the playbook on the Linux host. Firmware updates will occur as a background process over a few hours.
+NOTE: The Ansible Playbook and the inventory file must be in the same path.
+
+. Execute the Ansible Playbook on the Linux host. Firmware updates run in the background for a few hours.
 +
 ----
 $ cd <container_path>
@@ -84,8 +85,9 @@ For universal installation:
 $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collections
 $ chmod -R +rw /usr/share/ansible/collections
 ----
-. Execute the playbook. Firmware updates run in the background for a few hours.
+. Execute the Ansible Playbook. Firmware updates run in the background for a few hours.
 +
+The Ansible Playbook and the inventory file should be in the same path.
 ----
 $ cd <playbook_path>
 $ ansible-playbook na_ontap_pb_upgrade_firmware_disk.yml
@@ -95,7 +97,7 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-NOTE: The playbook and the inventory file should be in the same path.
+NOTE: If the URLs for disk firmware and shelf firmware are *\http://<web-server>/path/all_shelf_fw.zip* and *\http://<web-server>/path/all.zip*, provide *\http://<web-server>/path/* as the input for the base URL to the firmware package.
 
 . Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed:
 +

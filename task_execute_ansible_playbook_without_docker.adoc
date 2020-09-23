@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: task_execute_ansible_playbook_without_docker.html
-keywords: ansible playbook, ansible, playbook, without docker
-summary: Provides information to execute ansible playbook using the docker image.
+keywords: Ansible Playbook, Ansible, playbook, without docker
+summary: Provides information to execute Ansible Playbook using the docker image.
 ---
 
-= Execute Ansible playbook without NetApp Docker image
+= Execute Ansible Playbook without NetApp Docker image
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -39,7 +39,7 @@ $ chmod -R +rw /usr/share/ansible/collections
 ----
 For more information about the ansible-galaxy command, refer to link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html[Ansible Galaxy Documentation] and for more details about the NetApp Ansible Collection, refer to the link:https://galaxy.ansible.com/netapp/ontap[NetApp Ansible Collection page].
 
-. Execute the Ansible playbook by using *ansible-playbook* command:
+. Execute the Ansible Playbook by using *ansible-playbook* command:
 +
 ----
 $ cd <downloaded_playbook_path>
@@ -51,6 +51,6 @@ Enter the base URL to the firmware package (using HTTP is recommended): http://<
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
 
-For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
+For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible Playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
 
 After executing the playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post execution instructions.

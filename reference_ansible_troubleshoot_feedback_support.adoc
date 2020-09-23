@@ -5,7 +5,7 @@ keywords: troubleshoot, feedback, support
 summary: Provides more information about Ansible.
 ---
 
-= Getting more information
+= Get more information
 :toc: macro
 :toclevels: 1
 :hardbreaks:

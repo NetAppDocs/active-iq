@@ -5,7 +5,7 @@ keywords: validate, firmware, firmware installation
 summary: Provides information to validate the firmware installation.
 ---
 
-= Validate Firmware installation
+= Validate firmware installation
 :toc: macro
 :toclevels: 1
 :hardbreaks:

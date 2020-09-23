@@ -23,4 +23,4 @@ The web server can be setup in multiple ways. For instructions to set up a simpl
 .Steps
 . Save the web server base URL. If the URL to disk and shelf firmware are *\http://<web-server>/path/all_shelf_fw.zip* and *\http://<web-server>/path/all.zip*, save *\http://<web-server>/path/* as the base URL.
 
-The filename is automatically detected by the Ansible playbook.
+The filename is automatically detected by the Ansible Playbook.

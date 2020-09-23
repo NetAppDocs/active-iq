@@ -34,7 +34,7 @@ Before updating FAS/AFF firmware using Ansible, you should:
 +
 The zip file contains the following:
 
-	* Ansible playbook - A YAML file containing the ansible script to perform the disk, shelf, and service processor firmware updates.
+	* Ansible Playbook - A YAML file containing the Ansible script to perform the disk, shelf, and service processor firmware updates.
   * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
 	* Disk and Shelf Firmware packages are named as *all.zip* and *all_shelf_fw.zip* respectively.
 

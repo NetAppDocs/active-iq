@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: task_execute_ansible_playbook_using_docker.html
-keywords: ansible playbook, ansible, playbook, docker
-summary: Provides information to execute ansible playbook using the docker image.
+keywords: Ansible Playbook, Ansible, playbook, docker
+summary: Provides information to execute Ansible Playbook using the docker image.
 ---
 
-= Execute Ansible playbook using NetApp Docker image
+= Execute Ansible Playbook using NetApp Docker image
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,11 +15,11 @@ summary: Provides information to execute ansible playbook using the docker image
 :imagesdir: ./media/
 
 [.lead]
-Before you execute the playbook, ensure that the *NetApp_Ansible_*.zip* file has been extracted and the web server with disk or shelf firmware files is ready.
+Before you execute the playbook, ensure that the *NetApp_Ansible_**.*zip* file has been extracted and the web server with disk or shelf firmware files is ready.
 
 == Before you begin
 
-Before executing ansible playbook using NetApp docker, you should:
+Before executing Ansible Playbook using NetApp docker, you should:
 
 * link:task_update_AFF_FAS_firmware.html[Download the FAS/AFF firmware Ansible Automation package]
 * link:task_hosting_firmware_files_using_web_server.html[Host the Firmware files using the web server]
@@ -27,7 +27,7 @@ Before executing ansible playbook using NetApp docker, you should:
 * Ensure that NetApp Docker is installed.
 
 .Steps
-. link:https://docs.docker.com/get-started/[Setup Docker]
+. link:https://docs.docker.com/get-started/[Set up Docker]
 . Pull the NetApp Docker image from DockerHub by executing the following command:
 +
 ----
@@ -39,8 +39,8 @@ docker.io/schmots1/netapp-ansible:lates
 ----
 For more information about the docker pull command, refer to the link:https://docs.docker.com/engine/reference/commandline/pull/[Docker Pull Documentation].
 
-. Run the docker image as a container and login to the container to execute the playbook.
-. Copy the path of the folder which contains the extracted Ansible playbook and inventory files, for example, *downloaded_playbook_path*. The Ansible playbook and inventory files should be in the same folder for successful execution.
+. Run the docker image as a container and log in to the container to execute the playbook.
+. Copy the path of the folder which contains the extracted Ansible Playbook and inventory files, for example, *downloaded_playbook_path*. The Ansible Playbook and inventory files should be in the same folder for successful execution.
 . Mount the folder as a volume on the Docker container. For example, to mount the folder *container_path*, you should execute the following command:
 +
 ----
