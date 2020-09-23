@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_subscribe_to_wellness_review_email.html
-keywords: wellness, wellness review subscription, 1 month, monthly, email, activeiq, active iq digital advisor,
+keywords: wellness, wellness review subscription, 1 month, unsubscribe, edit, delete, share, subscriptions, supportedge expert, supportedge advisor, monthly, email, activeiq, active iq digital advisor,
 summary:
 ---
 
@@ -15,19 +15,19 @@ summary:
 :imagesdir: ./media/
 
 [.lead]
-You can subscribe to the wellness review email to receive a monthly email that summarizes wellness status, systems that are nearing renewal, systems that require an upgrade for the NetApp products in your installed base.
-You will receive a wellness review email so that you can view a monthly summary and take action for your systems.
+You can subscribe to the wellness review email to receive a monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base.
+You will receive wellness review email, so that you can view a monthly summary of your systems and take actions for your them.
 
-After the subscription is enabled, the email is sent monthly on the first Monday of each month.
-The monthly email summary provides a view of outstanding wellness, renewal, upgrade, and health check actions. You can confirm the email address and the email is sent to the specified email address.
+
+After the subscription is enabled, the email is sent out on the first Monday of each month.
+The email summary provides a view of outstanding wellness, renewal, upgrade, and health check actions. You can confirm the email address and the email is sent to the specified email address.
+You also have options to view, edit, share, and delete your subscriptions. At any time, if you decide to not receive email, you can unsubscribe from receiving email notifications.
+*Note*: This feature is available only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
 
 .Steps
 . On the Dashboard, click *Wellness Review Subscription*.
 . Click *Wellness Review Subscription*.
 . Click *Add Subscription*.
 . Provide the required information in the *Name the Subscription*, *Choose Category*, *Search Customer*, and *Email* fields in the *Add New Subscription* dialog box.
-
-
-
 . Click *Subscribe*.
-Upon successful subscription, a *Subscription was added* message is sent.
+Upon successful subscription, you will receive a *Subscription was added* message.
