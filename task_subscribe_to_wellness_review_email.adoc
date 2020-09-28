@@ -20,8 +20,10 @@ You will receive wellness review email, so that you can view a monthly summary o
 
 
 After the subscription is enabled, the email is sent out on the first Monday of each month. The email summary provides a view of outstanding wellness, renewal, upgrade, and health check actions. You can confirm the email address and the email is sent to the specified email address.
+
 You also have options to view, edit, share, and delete your subscriptions. At any time, if you decide to not receive email, you can unsubscribe from receiving email notifications.
-*Note*: This feature is available only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
+
+NOTE: This feature is available only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
 
 .Steps
 . On the Dashboard, click *Wellness Review Subscription*.
