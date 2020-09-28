@@ -73,12 +73,6 @@ entries:
             url: /task_validate_firmware_installation.html
           - title: Troubleshooting, Feedback and Support
             url: /reference_ansible_troubleshoot_feedback_support.html
-  - title: Identify configuration deviations
-    entries:
-      - title: Add a config drift template
-        url: /task_add_config_drift_template.html
-      - title: Compare a config drift template
-        url: /task_compare_config_drift_template.html
   - title: Frequently asked questions
     entries:
       - title: Storage efficiency

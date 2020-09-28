@@ -20,9 +20,6 @@ Active IQ typically introduces a new release every month to bring you the new fe
 == 30 September 2020
 This update includes the following new features, enhancements, and changes:
 
-=== Config Drift
-This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time.
-
 === Periodic Digest
 You can now subscribe to the periodic digest that gives you an overview of your storage system and actions.
 
