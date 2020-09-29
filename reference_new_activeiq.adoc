@@ -29,7 +29,7 @@ You can now view AutoSupport data and review the details.
 === Email subscription for receiving system status
 You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base.
 
-=== AFF/FAS firmware using Ansible Playbook
+=== FAS/AFF firmware using Ansible Playbook
 The documentation has been enhanced to include information about downloading, installing, and executing the FAS/AFF firmware ansible automation package.
 
 == 18 August 2020
