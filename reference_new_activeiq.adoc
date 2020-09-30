@@ -29,8 +29,8 @@ This update includes the following new features, enhancements, and changes:
 === Performance
 Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen.
 
-=== AFF/FAS firmware
-The update AFF/FAS firmware screen has been enhanced to provide a better user experience.
+=== AFF and FAS firmware using Ansible Playbook
+The AFF and FAS firmware screen has been enhanced to provide a better user experience.
 
 == 17 July 2020
 This update includes the following new features, enhancements, and changes:
@@ -71,8 +71,8 @@ You can view the storage efficiency ratio and savings of your storage system wit
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
 
-=== AFF/FAS firmware upgrades using Ansible
-Update the AFF/FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+=== AFF and FAS firmware upgrades using Ansible
+Update the AFF and FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
 
 === Disabling the wellness score feature
 The wellness score feature is being temporarily disabled to improve the scoring algorithm and simplify the overall experience.
