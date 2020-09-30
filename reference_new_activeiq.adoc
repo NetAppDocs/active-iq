@@ -71,7 +71,7 @@ You can view the storage efficiency ratio and savings of your storage system wit
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
 
-=== AFF and FAS firmware upgrades using Ansible
+=== AFF and FAS firmware upgrades using Ansible Playbook
 Update the AFF and FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
 
 === Disabling the wellness score feature
