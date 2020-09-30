@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: concept_work_with_inventory_file.html
+permalink: concept_working_with_inventory_file.html
 keywords: inventory file, file format
 summary: Provides information about working with the inventory file.
 ---

@@ -5,7 +5,7 @@ keywords: install, execute, firmware update, Ansible Playbook, ansible, playbook
 summary: Provides information to install and execute firmware update using Ansible Playbook.
 ---
 
-= Install and execute FAS/AFF firmware Ansible automation package (Experienced Users)
+= Install and execute AFF and FAS firmware Ansible automation package (Experienced Users)
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,9 +15,9 @@ summary: Provides information to install and execute firmware update using Ansib
 :imagesdir: ./media/
 
 [.lead]
-Experienced users can follow the steps below to install and execute the FAS/AFF firmware ansible automation package quickly.
+Experienced users can follow the steps below to install and execute the AFF and FAS firmware ansible automation package quickly.
 
-Users who require detailed steps to install and execute the FAS/AFF firmware ansible automation package, click here.
+Users who require detailed steps to install and execute the AFF and FAS firmware ansible automation package, click here.
 
 == Firmware update with Ansible using NetApp Docker Image
 

@@ -21,7 +21,7 @@ Before you execute the Ansible Playbook, ensure that the *NetApp_Ansible_**.*zip
 
 Before executing Ansible Playbook using NetApp docker, you should:
 
-* link:task_update_AFF_FAS_firmware.html[Download the FAS/AFF firmware Ansible Automation package]
+* link:task_update_AFF_FAS_firmware.html[Download the AFF and FAS firmware Ansible Automation package]
 * link:task_hosting_firmware_files_using_web_server.html[Host the Firmware files using the web server]
 * link:concept_work_with_inventory_file.html[Work with the inventory file]
 * Ensure that NetApp Docker is installed.
