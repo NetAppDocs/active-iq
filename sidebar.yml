@@ -49,12 +49,28 @@ entries:
         url: /task_analyze_storage_efficiency.html
   - title: Analyze storage performance
     url: /task_view_performance_graphs.html
-  - title: Ensure your storage system is up to date
+  - title: View and upgrade the ONTAP version of your storage system
+    url: /task_view_upgrade.html
+  - title: Update your AFF and FAS firmware using Ansible Playbook
     entries:
-      - title: View and upgrade your storage system
-        url: /task_view_upgrade.html
-      - title: Update AFF/FAS firmware using Ansible
+      - title: Download the AFF and FAS firmware Ansible Automation package
         url: /task_update_AFF_FAS_firmware.html
+      - title: Install and execute the AFF and FAS firmware Ansible Automation package (Experienced Users)
+        url: /task_install_execute_firmware_update_exp_user.html
+      - title: Install and execute the AFF and FAS firmware Ansible Automation package (Beginners)
+        entries:
+          - title: Host Firmware files using web server
+            url: /task_hosting_firmware_files_using_web_server.html
+          - title: Work with Inventory file
+            url: /concept_working_with_inventory_file.html
+          - title: Execute Ansible playbook using NetApp Docker image
+            url: /task_execute_ansible_playbook_using_docker.html
+          - title: Execute Ansible playbook without Docker
+            url: /task_execute_ansible_playbook_without_docker.html
+          - title: Validate Firmware installation
+            url: /task_validate_firmware_installation.html
+          - title: Troubleshooting, Feedback and Support
+            url: /reference_ansible_troubleshoot_feedback_support.html
   - title: Frequently asked questions
     entries:
       - title: Storage efficiency
