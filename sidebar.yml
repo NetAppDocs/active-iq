@@ -29,7 +29,7 @@ entries:
         url: /task_view_risk_and_take_action.html
       - title: View and acknowledge the risk
         url: /task_view_and_acknowledge_risks.html
-      - title: View the risks that can be automatically remediated using Active IQ Unified Manager
+      - title: View the risks that can be automatically mitigated using Active IQ Unified Manager or Ansible Playbook
         url: /task_view_risks_remediated_unified_manager.html
       - title: Subscribe to wellness review email
         url: /task_subscribe_to_wellness_review_email.html

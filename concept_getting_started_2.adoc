@@ -22,6 +22,10 @@ You can look at the following diagram to understand the workflows of Active IQ D
 
 image:activeiq2_workflow.png[Active IQ Digital Advisor workflow]
 
+You can view the following video to get started with Active IQ Digital Advisor:
+
+video::rEPtldosjWM[youtube, width=848, height=480]
+
 All Active IQ widgets are not supported on all platforms. Active IQ Digital Advisor identifies the platform of your storage system and displays only the set of tasks that can be performed on your storage system.
 
 Read the following information to be aware of the widgets that are supported on your storage system.
