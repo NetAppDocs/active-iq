@@ -31,6 +31,8 @@ entries:
         url: /task_view_and_acknowledge_risks.html
       - title: View the risks that can be automatically remediated using Active IQ Unified Manager
         url: /task_view_risks_remediated_unified_manager.html
+      - title: Subscribe to wellness review email
+        url: /task_subscribe_to_wellness_review_email.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
   - title: Identify system requriements proactively
@@ -41,6 +43,12 @@ entries:
         url: /task_identify_capacity_system.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
+  - title: Identify configuration deviations
+    entries:
+      - title: Add a config drift template
+        url: /task_add_config_drift_template.html
+      - title: Compare a config drift template
+        url: /task_compare_config_drift_template.html
   - title: View storage efficiency details
     entries:
       - title: Overview
@@ -49,7 +57,7 @@ entries:
         url: /task_analyze_storage_efficiency.html
   - title: Analyze storage performance
     url: /task_view_performance_graphs.html
-  - title: View and upgrade the ONTAP version of your storage system
+  - title: Upgrade the ONTAP version of your storage system
     url: /task_view_upgrade.html
   - title: Update your AFF and FAS firmware using Ansible Playbook
     entries:

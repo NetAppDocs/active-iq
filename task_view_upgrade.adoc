@@ -5,7 +5,7 @@ keywords: upgrade, current version, benefits
 summary: Provides information to view and upgrade your storage system.
 ---
 
-= View and upgrade the ONTAP version of your storage system
+= Upgrade the ONTAP version of your storage system
 :toc: macro
 :toclevels: 1
 :hardbreaks:
