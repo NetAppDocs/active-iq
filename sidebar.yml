@@ -79,6 +79,8 @@ entries:
             url: /task_validate_firmware_installation.html
           - title: Troubleshooting, Feedback and Support
             url: /reference_ansible_troubleshoot_feedback_support.html
+  - title: Generate reports
+    url: /task_generate_reports.html
   - title: Frequently asked questions
     entries:
       - title: Storage efficiency
