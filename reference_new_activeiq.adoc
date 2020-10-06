@@ -32,6 +32,9 @@ You can now view AutoSupport data and review the details.
 === Email subscription for receiving system status
 You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base.
 
+=== Reports
+You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis.
+
 == 30 September 2020
 This update includes the following new features, enhancements, and changes:
 

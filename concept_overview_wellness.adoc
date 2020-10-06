@@ -5,7 +5,7 @@ keywords: overview, wellness, performance, configuration, renewal, risk, remedia
 summary: Provides information about the wellness, which helps you to improve your storage system.
 ---
 
-= Understand Wellness
+= Understand wellness
 :toc: macro
 :toclevels: 1
 :hardbreaks:
