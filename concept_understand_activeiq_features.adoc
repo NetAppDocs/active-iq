@@ -5,7 +5,7 @@ keywords: activeiq, active iq digital advisor, features,
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
-= Understand Active IQ Dashboard and support offerings
+= Understand Active IQ features and support offerings
 :toc: macro
 :toclevels: 1
 :hardbreaks:
