@@ -5,7 +5,7 @@ keywords: activeiq, active iq digital advisor, features,
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
-= Understand Active IQ features and support offerings
+= Understand Active IQ features
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -36,9 +36,3 @@ From the Active IQ Digital Advisor Dashboard you can:
 * Provide cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration
 * Check the compatibility of hosts, and provide upgrade recommendations for host operating systems, drivers, and firmware
 * Arrive at exactly what you want to find in a smarter and faster manner
-
-== Support offerings
-
-You can view the following image to understand the features provided with each support offering:
-
-image:support_offering.png[Support offering]

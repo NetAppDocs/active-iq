@@ -60,14 +60,6 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *Performance graph:* Enables you to analyze the performance of your storage devices by viewing graphical format of performance data. You can view detailed performance graphs of the ONTAP cluster for the selected node.
 
-* *Support Contract:* Acquaints you with features included in the following support offerings:
-** SupportEdge Warranty
-** SupportEdge Basic
-** SupportEdge Standard
-** SupportEdge Premium
-** SupportEdge Advisor
-** SupportEdge Expert
-
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
 * *Periodic Digest:* Summarizes the status of your storage system and the actions that you have taken over the last month.
