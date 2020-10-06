@@ -29,12 +29,12 @@ If the risk can be mitigated using Active IQ Unified Manager, the image:spanner.
 |===
 | To mitigate the risk using Unified Manager
 | To mitigate the risk using Ansible Playbook
-|
+a|
 . Click the image:spanner.png[Spanner] icon.
 . Click *Fix It* to launch Active IQ Unified Manager.
 . Click *Install* to install Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
 . Click *Upgrade* to upgrade to Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
-|
+a|
 . Click the image:update_ansible.png[Update Ansible] icon.
 . Click Download to download the AFF and FAS firmware Ansible Automation package.
 |===
