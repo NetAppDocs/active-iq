@@ -35,6 +35,8 @@ entries:
         url: /task_subscribe_to_wellness_review_email.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
+  - title: View inventory details
+    url: /concept_view_inventory_details.html
   - title: Identify system requriements proactively
     entries:
       - title: Overview
@@ -49,7 +51,7 @@ entries:
         url: /task_add_config_drift_template.html
       - title: Compare a config drift template
         url: /task_compare_config_drift_template.html
-  - title: View storage efficiency details
+  - title: Improve the storage efficiency of your system
     entries:
       - title: Overview
         url: /concept_overview_storage_efficiency.html

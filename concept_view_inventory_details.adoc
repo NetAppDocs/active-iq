@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: concept_view_inventory_details.html
+keywords: inventory, platforms, systems, clusters, sites
+summary: Provides information about the overall inventory that you own.
+---
+
+= Understand inventory
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The inventory widget provides you with a rollup of the total systems that you own. This includes both Active IQ enabled and non-enabled products.
+
+Yo can also generate the report of the selected watchlist and email the report to a maximum of 5 recipients.
+
+video::ttbpbT5uTBI[youtube, width=848, height=480]
