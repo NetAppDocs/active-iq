@@ -5,7 +5,7 @@ keywords: overview, get started, wellness, performance, configuration, renewal, 
 summary: Helps you understand the workflows and get started on Active IQ Digital Advisor.
 ---
 
-= Get started with Active IQ Digital Advisor
+= Quick start for Active IQ Digital Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
