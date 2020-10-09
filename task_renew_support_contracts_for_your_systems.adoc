@@ -1,0 +1,23 @@
+---
+sidebar: sidebar
+permalink: task_renew_support_contracts_for_your_systems.html
+keywords: renew, renewals, support contracts, support & entitlements, active support contracts,
+summary: Provides information on how to renew support contracts for your systems.
+---
+
+= Renew your support contracts
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can view the score and summary for all the active support contracts. You can view the score provided in the dashboard and take actions based on the key recommendations, which are provided in the order of priority.
+
+*Steps*
+1. On the dashboard, click the *Support & Entitlements* widget.
+2. If any of your system support contracts have expired or nearing expiration, then click the *Active Support Contracts* widget.
+3. Select the check boxes and click *Renew* for initiating the renewal process for the selected systems.

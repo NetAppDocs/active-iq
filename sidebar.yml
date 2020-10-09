@@ -53,12 +53,20 @@ entries:
         url: /task_add_config_drift_template.html
       - title: Compare a config drift template
         url: /task_compare_config_drift_template.html
-  - title: Improve the efficiency and performance of your system
+  - title: Improve the efficiency and performance of your storage system
     entries:
       - title: Analyze storage efficiency savings
         url: /task_analyze_storage_efficiency.html
       - title: Analyze storage performance
         url: /task_view_performance_graphs.html
+  - title: Analyze the health of your storage system
+    entries:
+      - title: Overview
+        url: /concept_understand_health_check_assessment_dashboard.html
+      - title: Get started with Health Check Assessment Dashboard
+        url: /concept_get_started_with_health_check_assessment_dashboard.html
+      - title: Renew your support contracts
+        url: /task_renew_support_contracts_for_your_systems.html
   - title: Ensure your storage system is up to date
     entries:
       - title: Upgrade the ONTAP version of your storage system
