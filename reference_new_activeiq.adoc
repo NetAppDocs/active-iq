@@ -29,8 +29,8 @@ This feature enables you compare the system and cluster configurations and the d
 === Periodic Digest
 You can subscribe to the period digest that gives you an overview of your storage system and actions.
 
-=== AutoSupport Alerts
-You can now view AutoSupport data and review the details.
+=== AutoSupport
+You can view your AutoSupport data and review the details.
 
 === Email subscription for receiving system status
 You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base.

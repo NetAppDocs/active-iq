@@ -64,9 +64,9 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *Periodic Digest:* Summarizes the status of your storage system and the actions that you have taken over the last month.
 
-* *AutoSupport Alerts:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
+* *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
 
-* *Keystone:* Provides information on your committed, consumed, and burst storage capacity on the service levels that you have opted for. 
+* *Keystone:* Provides information on your committed, consumed, and burst storage capacity on the service levels that you have opted for.
 
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 ** *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in SVG format.
