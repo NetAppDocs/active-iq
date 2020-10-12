@@ -27,7 +27,7 @@ The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time r
 This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time.
 
 === Periodic Digest
-You can now subscribe to the periodic digest that gives you an overview of your storage system and actions.
+You can subscribe to the period digest that gives you an overview of your storage system and actions.
 
 === AutoSupport Alerts
 You can now view AutoSupport data and review the details.
@@ -39,7 +39,7 @@ You can subscribe to receiving monthly email notifications that summarize wellne
 You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis.
 
 === Manual AutoSupport Upload:
-Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for users to add any remarks.
+Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
 
 === Keystone
 You can monitor your committed, consumed, and burst storage capacity using Keystone.
