@@ -62,8 +62,6 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
-* *Periodic Digest:* Summarizes the status of your storage system and the actions that you have taken over the last month.
-
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
 
 * *Keystone:* Provides information on your committed, consumed, and burst storage capacity on the service levels that you have opted for.
