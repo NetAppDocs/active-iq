@@ -19,7 +19,7 @@ summary: Provides more information about Active IQ.
 You can get help and find more information through various resources.
 
 
-* link:https://community.netapp.com/t5/Products-and-Services/ct-p/products-and-solutions[NetApp Community]
+* link:https://community.netapp.com/t5/Active-IQ-Digital-Advisor-and-AutoSupport/ct-p/autosupport-and-my-autosupport[NetApp Community]
 * link:https://www.netapp.com/us/documentation/active-iq.aspx[Documentation resources]
 * link:https://www.netapp.com/us/media/tr-4688.pdf[Security and Privacy of NetApp Telemetry Data]
 * link:https://www.netapp.com/us/media/tr-4444.pdf[ONTAP AutoSupport and AutoSupport On Demand]
