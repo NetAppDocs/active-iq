@@ -47,7 +47,7 @@ The following features which exist in Active IQ Classic are not planned to be ad
 * Protection Advisor – part of this will be available in Data Center Viewer
 * Performance guarantee program - this is being supported by AIQ Unified Manager
 
-The following features which exist in Active IQ Classic and will also be available soon in Active IQ Digital Advisor:
+The following features which exist in Active IQ Classic will also be available soon in Active IQ Digital Advisor:
 
 * Wellness actions history & trending
 * Notifications
