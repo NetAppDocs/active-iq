@@ -39,7 +39,7 @@ entries:
         url: /task_renew_software_and_hardware.html
   - title: View inventory details
     url: /task_view_inventory_details.html
-  - title: Identify system requriements proactively
+  - title: Identify system requirements proactively
     entries:
       - title: Overview
         url: /concept_overview_planning.html
