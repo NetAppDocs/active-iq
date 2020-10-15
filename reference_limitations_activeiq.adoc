@@ -20,13 +20,10 @@ Known limitations identify platforms, devices, or functions that are not support
 === Low Impact Risks and Best Practices Removed
 To help you take the best action for improving the wellness of your installed base, we have removed the low impact risks and best practice checks, except in areas such as storage efficiency. We urge you to review and mitigate high and medium impact risks at the earliest to ensure the highest levels of availability and optimization for your NetApp installed base.
 
-=== Limited support for ClusterViewer
-The ClusterViewer feature only provides information about the summary of the clusters and the storage information at a cluster level.
-
 === Limited support for Value Report
 This Valuable insights widget provides high level information about the storage system. It is only available on the Dashboard and does not have any drill down details.
 
-=== Disparities in features between Active IQ Classic and Active IQ Digital Advisor
+=== Differences in features between Active IQ Classic and Active IQ Digital Advisor
 The following features which exist in Active IQ Classic are not planned to be added in Active IQ Digital Advisor due to low usage (unless otherwise noted):
 
 * For ONTAP 7-Mode systems only (7-mode is nearing End of Support Life)
@@ -45,7 +42,7 @@ The following features which exist in Active IQ Classic are not planned to be ad
 * AutoSupport Notifications
 * AutoSupport Alerts – some of the features will be merged with wellness actions and risks
 * Protection Advisor – part of this will be available in Data Center Viewer
-* Performance guarantee program - this is being supported by AIQ Unified Manager
+* Performance charts supporting guarantee program - this is being supported by AIQ Unified Manager
 
 The following features which exist in Active IQ Classic will also be available soon in Active IQ Digital Advisor:
 
