@@ -5,7 +5,7 @@ keywords: overview, wellness, performance, configuration, renewal, risk, remedia
 summary: Provides information about the wellness, which helps you to improve your storage system.
 ---
 
-= Understand Wellness
+= Understand wellness
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -18,3 +18,7 @@ summary: Provides information about the wellness, which helps you to improve you
 Wellness provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
 
 image:wellness_workflow.png[wellness workflow]
+
+You can view the following video to understand the importance of the wellness attributes:
+
+video::-lTF3oWZB1M[youtube, width=848, height=480]

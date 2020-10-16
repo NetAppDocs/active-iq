@@ -5,7 +5,7 @@ keywords: upgrade, current version, benefits
 summary: Provides information to view and upgrade your storage system.
 ---
 
-= View and upgrade the ONTAP version of your storage system
+= Upgrade the ONTAP version of your storage system
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -25,4 +25,4 @@ You can also view the current interoperability data. The interoperability data i
 . Select the required upgrade option.
 +
 You can view the key feature of the release. You can also click the Release Notes to view detailed information about the release.
-. Click *Plan Upgrade*.
+. Click *Learn More* to navigate to *Upgrade Advisor*.

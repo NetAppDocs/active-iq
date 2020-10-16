@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: task_view_inventory_details.html
+keywords: inventory, platforms, systems, clusters, sites
+summary: Provides information about the overall inventory that you own.
+---
+
+= View inventory details
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The inventory widget provides you with a rollup of the total systems that you own. This includes both Active IQ enabled and non-enabled products.
+
+Yo can also generate the report of the selected watchlist and email the report to a maximum of 5 recipients.
+
+video::ttbpbT5uTBI[youtube, width=848, height=480]
+
+.Steps
+. In the *Inventory* widget, click *Systems* to view the system information of all platforms or click the platform type and then click *Systems* to view systems specific to that platform.
+. Click the node or cluster to view detailed information about the system.

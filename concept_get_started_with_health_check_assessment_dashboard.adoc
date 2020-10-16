@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: concept_get_started_with_health_check_assessment_dashboard.html
+keywords: activeiq, health check, health, HCA, health check assessment dashboard, autosupport, autosupport adoption, best practices, support, support and entitlements, support contract, contracts, active contracts, expired contracts, nearing-expiration, key recommendations, recommendations, active iq digital advisor, features,
+summary: Provides information about the dashboard, health scores, features, and the widgets.
+---
+
+= Get started with Health Check Assessment Dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+This dashboard provides at-a-glance summary through the following widgets:
+
+* *AutoSupport*: Displays a high-level summary of the number and percentage of systems that you have opted for sending AutoSupport data to NetApp for analysis. View AutoSupport adoption, systems marked as declined, HTTPS transport, and AutoSupport on Demand. To view the score and information about the systems, in your installed base, click the *AutoSupport* widget.
+* *Support & Entitlements*: Displays support contracts that have expired and are nearing expiration within 6 to 12 months. Using this widget, you can also send a request for renewing your systems support contracts. This also displays the end of support platforms, disks and shelves, entitlement compliance, and pending expirations. You can view the score provided in the dashboard and take actions based on the key recommendations, which are provided in the order of priority.
+To view detailed information about support contracts, click the *Support & Entitlements* widget. Using this widget, you can also renew support contracts of your systems.
+* *Best Practices*: Displays health check score by assessing the best practice attributes of your storage system—performance and efficiency, availability & protection, capacity, configuration, and security. The NetApp best practices help sustaining system health, which optimizes the performance of your installed base.
+
+NOTE: This feature is available only to customers with the SupportEdge Advisor and SupportEdge Expert contracts.

@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: concept_understand_health_check_assessment_dashboard.html
+keywords: activeiq, health check, health, HCA, health check assessment dashboard, health check score
+summary: Provides information for familiarizing yourself with the Health Check Assessment Dashboard.
+---
+
+= Understand Health Check Assessment Dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment.
+
+Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. It helps you monitor all the systems running ONTAP software and hardware through a centralized user interface. Health Check Assessment scores enable you to quickly gain insights about system risks. The key recommendations and best practices help you take actions to improve the health of your installed base.

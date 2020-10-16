@@ -1,0 +1,38 @@
+---
+sidebar: sidebar
+permalink: task_generate_reports.html
+keywords: reports, generate reports
+summary: Provides information to generate reports.
+---
+
+= Generate reports
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can generate reports immediately or schedule a report to be generated on a weekly or monthly basis. You can generate reports for areas like inventory, wellness, and storage efficiency.
+
+.Steps
+. From the left pane, click *Reports*.
+. Click *Create Report* to generate a new report.
++
+You can generate a report immediately or you can schedule the report to be generated on a weekly or monthly basis.
+
+[cols=2*,options="header", cols="50,50"]
+|===
+| To generate a report immediately
+| To schedule the report to be generated on a weekly or monthly basis
+a|
+. Select the type of report and provide the requested values for the report.
+. Click *Submit*.
+a|
+. Click the *Schedule Report* tab.
+. Select the type of report and provide the requested values for the report.
+. Select the frequency and the start date and end date for the report.
+. Click *Submit*.
+|===

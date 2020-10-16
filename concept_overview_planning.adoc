@@ -5,7 +5,7 @@ keywords: overview, planning, increate capacity, renew, software, hardware, expi
 summary: Provides information to identify system capacity and software and hardware that are expiring.
 ---
 
-= Understand Planning
+= Understand planning
 :toc: macro
 :toclevels: 1
 :hardbreaks:

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: task_add_config_drift_template.html
+keywords: config deviation, drift, configuration, add template
+summary: Provides information to add a configuration drift template.
+---
+
+= Add a config drift template
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The config drift feature enables you to detect configuration deviations. You can add a template and compare the system and cluster configurations and detect the configuration deviations in near real time. The config drift templates are added using systems running AutoSupport data.
+
+.Steps
+. From the left pane, click *Config Drift*.
+. Click *Add Template*.
+. Provide the requested values.
+. Click *Add Template*.

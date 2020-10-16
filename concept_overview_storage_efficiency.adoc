@@ -5,7 +5,7 @@ keywords: overview, storage efficiency, deduplication, compression
 summary: Provides information about tracking the efficiency of your storage system.
 ---
 
-= Understand Storage Efficiency
+= Understand storage efficiency
 :toc: macro
 :toclevels: 1
 :hardbreaks:

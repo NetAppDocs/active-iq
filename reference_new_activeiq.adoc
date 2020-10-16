@@ -17,6 +17,30 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you the new features and enhancements.
 
+== 15 October 2020
+This update includes the following new features, enhancements, and changes:
+
+=== Health Check Assessment Dashboard
+The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base.
+
+=== Config Drift
+This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time.
+
+=== AutoSupport
+You can view your AutoSupport data and review the details.
+
+=== Wellness Review Subscription
+You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base.
+
+=== Reports
+You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis.
+
+=== Manual AutoSupport Upload
+Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
+
+=== Keystone
+You can monitor your committed, consumed, and burst storage capacity using Keystone.
+
 == 30 September 2020
 This update includes the following new features, enhancements, and changes:
 
