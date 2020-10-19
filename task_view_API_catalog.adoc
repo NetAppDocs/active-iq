@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: task_view_API_catalog.html
+keywords: API Catalog, APIs, integrate data, view catalog
+summary: Provides information about the APIs available in the API catalog.
+---
+
+= View API catalog
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The API catalog allows you to browse through the categories and the available APIs within each of those categories.
+
+.Steps
+. From the *Quick Links* menu, click *API Services*.
+. Click *Browse* under the *API Catalog* section.
++ The API Catalog is displayed
+. From the left navigation, expand the categories and select the API to view detailed information.

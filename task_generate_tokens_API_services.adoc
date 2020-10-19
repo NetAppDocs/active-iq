@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: task_generate_tokens_API_services.html
+keywords: generate token, access token, refresh token, API services
+summary: Provides information to generate token to access APIs.
+---
+
+= Generate tokens to access APIs
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The API catalog allows you to browse through the categories and the available APIs within each of those categories.
+
+.Steps
+. From the *Quick Links* menu, click *API Services*.
+. Click *Generate Token*
++ A notification is sent to NetApp requesting access to use the APIs. Once you have been authorized to use the Active IQ APIs, you will need to generate a set of tokens to be able to make API calls. Tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
+.  If you are authorized, the access token and refresh token are provided to invoke APIs.
++
+You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
+. Use the access token and refresh token to invoke APIs.
+NOTE:
+.Steps
+. The refresh token used in this API call will be invalidated after a new refresh token is generated.
+. An access token expires after one hour and a refresh token expires after 7 days. When the Refresh Token expires, a new token set must be obtained through the web portal to be able to make API calls again.
