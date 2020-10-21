@@ -5,7 +5,7 @@ keywords: overview, information, more details
 summary: Provides more information about Active IQ.
 ---
 
-= Getting more information
+= Get more information
 :toc: macro
 :toclevels: 1
 :hardbreaks:
