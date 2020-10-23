@@ -53,20 +53,20 @@ The capacities in Active IQ are calculated for cluster and node—excluding root
 
 == What are Physical Capacity (Actual), Logical Capacity (Effective), and Used Capacity (with Reserve)?
 
-*Physical Blocks Consumed/Physical Capacity Used (Actual)*
-* The amount of space being used for data now (rather than being reserved for future use)
-* Includes space used by aggregate Snapshot copies
-* Space actually consumed or written by the client
+* *Physical Blocks Consumed/Physical Capacity Used (Actual)*
+** The amount of space being used for data now (rather than being reserved for future use)
+** Includes space used by aggregate Snapshot copies
+** Space actually consumed or written by the client
 
-*Logical Capacity (Effective) Logical Data Used*
-* Displays the logical size used in the aggregate.
-* The aggregate incudes Volumes, Clones, and Snapshot copies.
-* The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
+* *Logical Capacity (Effective) Logical Data Used*
+** Displays the logical size used in the aggregate.
+** The aggregate incudes Volumes, Clones, and Snapshot copies.
+** The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
 
 NOTE:	It does not include space reserved for future use.
 
-*Total Data Used/Used Capacity (with Reserve)*
-* The sum of all space used or reserved in the aggregate by volumes, metadata, or Snapshot copies.
+* *Total Data Used/Used Capacity (with Reserve)*
+** The sum of all space used or reserved in the aggregate by volumes, metadata, or Snapshot copies.
 
 NOTE: It includes space reserved for volumes that are of file or volume guarantee type. It includes delayed frees, aggr blog, and metadata in addition to reserves. It shows up as used space until the delayed free blocks are purged. After it is purged, the used space decreases.
 
