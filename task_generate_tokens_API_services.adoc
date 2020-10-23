@@ -27,6 +27,6 @@ A notification is sent to NetApp requesting access to use the APIs. Once you hav
 You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days.
 . Use the access token and refresh token to invoke APIs.
 
-NOTE:
+NOTE:   
 . The refresh token used in this API call will be invalidated after a new refresh token is generated.
 . An access token expires after one hour and a refresh token expires after 7 days. When the Refresh Token expires, a new token set must be obtained through the web portal to be able to make API calls again.

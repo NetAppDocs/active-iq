@@ -61,11 +61,11 @@ The capacities in Active IQ are calculated for cluster and node—excluding root
 * Displays the logical size used in the aggregate.
 * The aggregate incudes Volumes, Clones, and Snapshot copies.
 * The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
-*Note*:	It does not include space reserved for future use.
+NOTE:	It does not include space reserved for future use.
 
 *Total Data Used/Used Capacity (with Reserve)*
 * The sum of all space used or reserved in the aggregate by volumes, metadata, or Snapshot copies.
-*Note*: It includes space reserved for volumes that are of file or volume guarantee type. It includes delayed frees, aggr blog, and metadata in addition to reserves. It shows up as used space until the delayed free blocks are purged. After it is purged, the used space decreases.
+NOTE: It includes space reserved for volumes that are of file or volume guarantee type. It includes delayed frees, aggr blog, and metadata in addition to reserves. It shows up as used space until the delayed free blocks are purged. After it is purged, the used space decreases.
 
 
 == Why added Used Capacity of each volume does not match the aggregated Used Capacity at node?
