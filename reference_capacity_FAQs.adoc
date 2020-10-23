@@ -72,5 +72,6 @@ NOTE: It includes space reserved for volumes that are of file or volume guarante
 
 == Why added Used Capacity of each volume does not match the aggregated Used Capacity at node?
 Used Capacity at node includes space reserved by volumes, metadata, and Snapshot copies. It also includes space reserved for volumes—file or volume guarantee type. Hence, both might not match.
+
 == Are Capacities shown in Active IQ are Base 2 or Base 10?
 All capacities are displayed on Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. The ONTAP storage and other NetApp products also display capacity usage in Base 2.
