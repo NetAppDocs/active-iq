@@ -28,6 +28,5 @@ You must download and save the access token and refresh token for later use. Acc
 . Use the access token and refresh token to invoke APIs.
 
 NOTE:
-.Steps
 . The refresh token used in this API call will be invalidated after a new refresh token is generated.
 . An access token expires after one hour and a refresh token expires after 7 days. When the Refresh Token expires, a new token set must be obtained through the web portal to be able to make API calls again.
