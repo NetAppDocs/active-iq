@@ -52,6 +52,7 @@ The capacities in Active IQ are calculated for cluster and node—excluding root
 |===
 
 == What are Physical Capacity (Actual), Logical Capacity (Effective), and Used Capacity (with Reserve)?
+
 *Physical Blocks Consumed/Physical Capacity Used (Actual)*
 * The amount of space being used for data now (rather than being reserved for future use)
 * Includes space used by aggregate Snapshot copies
