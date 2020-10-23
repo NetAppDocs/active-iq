@@ -20,5 +20,6 @@ The API catalog allows you to browse through the categories and the available AP
 .Steps
 . From the *Quick Links* menu, click *API Services*.
 . Click *Browse* under the *API Catalog* section.
-+ The API Catalog is displayed
++
+The API Catalog is displayed.
 . From the left navigation, expand the categories and select the API to view detailed information.
