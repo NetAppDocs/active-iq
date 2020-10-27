@@ -22,7 +22,9 @@ The API catalog allows you to browse through the categories and the available AP
 . Click *Register*.
 . Complete the request for authorization form and click *Submit*.
 +
-Once you have been authorized to use the Active IQ APIs, you will need to generate a set of tokens to be able to make API calls. Tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
+NetApp will send an email to notify you about the approval or rejection of the request. Once you have been authorized to use the Active IQ APIs, you will need to generate a set of tokens to be able to make API calls. Tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
 . Click *Generate Token* to view and download the access token and refresh token to invoke APIs.
++
+The portal gives you multiple ways to save one or both tokens in the set. You can copy to the clipboard, download as a text file, or view it as plain text.
 
 NOTE: You must download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days. The refresh token used in this API call will be invalidated after a new refresh token is generated.
