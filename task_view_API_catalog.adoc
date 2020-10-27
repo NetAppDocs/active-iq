@@ -17,9 +17,19 @@ summary: Provides information about the APIs available in the API catalog.
 [.lead]
 The API catalog allows you to browse through the categories and the available APIs within each of those categories.
 
+YouUsing a valid Access Token, and correct inputs for the other required fields, a user can make a test call using an API.
+
 .Steps
 . From the *Quick Links* menu, click *API Services*.
 . Click *Browse* under the *API Catalog* section.
 +
 The API Catalog is displayed.
 . From the left navigation, expand the categories and select the API to view detailed information.
+. Expand the API
+. Click *Try it out*.
+. Provide the required parameters and click *Execute*.
++
+The results are displayed.
+. Enable the API Explorer option to view the API samples in the code view.
++
+You can view the code examples of the APIs in different languages.

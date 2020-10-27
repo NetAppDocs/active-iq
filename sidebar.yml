@@ -101,10 +101,10 @@ entries:
     entries:
       - title: Overview
         url: /concept_overview_API_service.html
-      - title: View API catalog
-        url: /task_view_API_catalog.html
       - title: Generate tokens to access APIs
         url: /task_generate_tokens_API_services.html
+      - title: View API catalog
+        url: /task_view_API_catalog.html
   - title: Generate reports
     url: /task_generate_reports.html
   - title: Frequently asked questions
