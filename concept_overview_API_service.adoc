@@ -25,4 +25,4 @@ Even prior to authorization, you can browse through the available *API Catalog* 
 
 Once you generate tokens and are authorized, you can leverage tokens to make queries and retrieve data. It is also possible to test out an API from within the API Catalog to see first-hand how the query works and the type of data that is returned. This is a great way to make sure you understand how an API will work prior to building out the code framework in your system.
 
-video::Tk9HB-LWlnM[youtube, width=848, height=480]
+video::GQskCeCrtQA[youtube, width=848, height=480]
