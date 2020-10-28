@@ -97,14 +97,6 @@ entries:
                 url: /task_validate_firmware_installation.html
               - title: Troubleshooting, Feedback and Support
                 url: /reference_ansible_troubleshoot_feedback_support.html
-  - title: Integrate data using APIs
-    entries:
-      - title: Overview
-        url: /concept_overview_API_service.html
-      - title: Generate tokens to access APIs
-        url: /task_generate_tokens_API_services.html
-      - title: View API catalog
-        url: /task_view_API_catalog.html
   - title: Generate reports
     url: /task_generate_reports.html
   - title: Frequently asked questions
