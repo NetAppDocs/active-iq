@@ -1,0 +1,35 @@
+---
+sidebar: sidebar
+permalink: task_view_API_catalog.html
+keywords: API Catalog, APIs, integrate data, view catalog
+summary: Provides information about the APIs available in the API catalog.
+---
+
+= View API catalog
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The API catalog allows you to browse through the categories and the available APIs within each of those categories.
+
+Using a valid Access Token, and correct inputs for the other required fields, you can make a test call using an API.
+
+.Steps
+. From the *Quick Links* menu, click *API Services*.
+. Click *Browse* under the *API Catalog* section.
++
+The API Catalog is displayed.
+. From the left navigation, expand the categories and select the API to view detailed information.
+. Expand the API
+. Click *Try it out*.
+. Provide the required parameters and click *Execute* to view the results.
++
+For the Field called “level,” you should enter one of the values specified. That is, you can only enter the words “customer,” “site,” “group,” or “serial_numbers.” You can also examine the *Responses* section of the API to better understand the data that will be returned. You can click on *Example Value* to see the format of the data or click on *Model*, and by clicking on the carets to expand the sections, see the definitions of each element.
+. Enable the API Explorer option to view the API samples in the code view.
++
+You can view the code examples of the APIs in different languages.
