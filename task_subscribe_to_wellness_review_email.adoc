@@ -22,7 +22,7 @@ At any time, if you decide to not receive email, you can unsubscribe from gettin
 After the subscription is enabled, you should select a start date when adding subscription.
 The monthly email summary provides a view of outstanding wellness, renewal, and health check actions. You can confirm the email address and the email is sent to the specified email address.
 
-*Note*: This feature is available only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
+NOTE: This feature is available only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
 
 .Steps
 . On the Dashboard, click *Wellness Review Subscription*.

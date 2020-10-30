@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: task_view_valuable_insight_widget.html
+keywords: valuable insight, support cases, storage efficiency savings, mitigated risks
+summary: Provides information about the valuable insight widget.
+---
+
+= View valuable insights
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The valuable insight widget provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
+
+video::QPJY2TWnRxQ[youtube, width=848, height=480]
+
+.Steps
+. In the *Inventory* widget, click *Systems* to view the system information of all platforms or click the platform type and then click *Systems* to view systems specific to that platform.
+. Click the node or cluster to view detailed information about the system.
++
+The *Valuable Insights* widget is available on the dashboard.
+. Review the information in the widget to understand the business and technical value received from your support contract.

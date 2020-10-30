@@ -17,12 +17,6 @@ summary: Provides information about the limitations in the release.
 [.lead]
 Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
 
-=== Low Impact Risks and Best Practices Removed
-To help you take the best action for improving the wellness of your installed base, we have removed the low impact risks and best practice checks, except in areas such as storage efficiency. We urge you to review and mitigate high and medium impact risks at the earliest to ensure the highest levels of availability and optimization for your NetApp installed base.
-
-=== Limited support for Value Report
-This Valuable insights widget provides high level information about the storage system. It is only available on the Dashboard and does not have any drill down details.
-
 === Differences in features between Active IQ Classic and Active IQ Digital Advisor
 The following features which exist in Active IQ Classic are not planned to be added in Active IQ Digital Advisor due to low usage (unless otherwise noted):
 
@@ -41,16 +35,17 @@ The following features which exist in Active IQ Classic are not planned to be ad
 * Cloud Control Recommendations
 * AutoSupport Notifications
 * AutoSupport Alerts – some of the features will be merged with wellness actions and risks
-* Protection Advisor – part of this will be available in Data Center Viewer
+* Protection Advisor – part of this will be available in DataCenter Viewer
 * Performance charts supporting guarantee program - this is being supported by AIQ Unified Manager
 
 The following features which exist in Active IQ Classic will also be available soon in Active IQ Digital Advisor:
 
 * Wellness actions history & trending
 * Notifications
-* Cluster Viewer reporting
+* ClusterViewer reporting PDF and Word reports
 * Scheduled report for capacity and efficiency
 * Workload tagging
 * Peak performance graph for Aggregate utilization
 * Download performance Reports in PNG/JPG format
 * Newsletter Subscriptions
+* Downloading Value Report details

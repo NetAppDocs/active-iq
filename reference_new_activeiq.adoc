@@ -23,17 +23,19 @@ This update includes the following new features, enhancements, and changes:
 === Health Check Assessment Dashboard
 The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base.
 
+link:concept_understand_health_check_assessment_dashboard.html[Learn how to get started].
+
 === Config Drift
-This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time.
+This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn more].
 
 === AutoSupport
 You can view your AutoSupport data and review the details.
 
 === Wellness Review Subscription
-You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base.
+You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base. link:task_subscribe_to_wellness_review_email.html[Subscribe now].
 
 === Reports
-You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis.
+You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis. link:task_generate_reports.html[Learn how].
 
 === Manual AutoSupport Upload
 Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
@@ -47,11 +49,15 @@ This update includes the following new features, enhancements, and changes:
 === AFF and FAS firmware using Ansible Playbook
 The documentation has been enhanced to include information about downloading, installing, and executing the AFF and FAS firmware ansible automation package.
 
+link:task_update_AFF_FAS_firmware.html[Learn how to update AFF and FAS firmware using Ansible Playbook].
+
 == 18 August 2020
 This update includes the following new features, enhancements, and changes:
 
 === Performance
 Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen.
+
+link:task_view_performance_graphs.html[Learn to view the performance graph].
 
 === AFF and FAS firmware using Ansible Playbook
 The AFF and FAS firmware screen has been enhanced to provide a better user experience.
@@ -69,7 +75,7 @@ The wellness attributes have been enhanced to view all the affected systems with
 This update includes the following new features, enhancements, and changes:
 
 === Generate report for inventory
-You can now generate report of the selected watchlist and emails the report to a maximum of 5 recipients.
+You can now generate report of the selected watchlist and emails the report to a maximum of 5 recipients. link:task_view_inventory_details.html[Learn how].
 
 === Performance
 Performance graphs have been enhanced to enable you to assess the cluster performance of your storage system. You can navigate and toggle between the node tab and the cluster tab on the same screen.
@@ -90,7 +96,7 @@ This update includes the following new features, enhancements, and changes:
 You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
 
 === Storage efficiency
-You can view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level.
+You can view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn to view storage efficiency savings].
 
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
@@ -120,10 +126,10 @@ Provides the option to acknowledge a risk if you do want to mitigate or are unab
 This update includes the following new features and enhancements:
 
 === Upgrade workflow
-You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release.
+You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release. link:task_view_upgrade.html[Learn how].
 
 === Valuable insights
-You can view the summary of the benefits that you received through Active IQ and your support contract. For selected systems, the value report consolidates the  benefits from last one year.
+You can view the summary of the benefits that you received through Active IQ and your support contract. For selected systems, the value report consolidates the benefits from last one year. link:task_view_valuable_insight_widget.html[View now].
 
 === Drill into details
 Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required.
@@ -140,8 +146,10 @@ The latest Active IQ Digital Advisor Dashboards offer a personalized experience.
 === Customizable dashboards
 Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 10 dashboards and make effective business decisions.
 
+link:concept_overview_dashboard.html[Learn how to get started].
+
 === Mitigate risks using Active IQ Unified Manager
-You can view the risks and rectify them by using Active IQ Unified Manager.
+You can view the risks and rectify them by using Active IQ Unified Manager. link:task_view_risks_remediated_unified_manager.html[Learn more].
 
 === Wellness
 Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
@@ -152,6 +160,8 @@ Provides detailed information about the status of your storage system that is cl
 * Configuration
 * Security
 * Renewals
+
+See link:concept_overview_wellness.html[Analyze wellness attributes] for more details.
 
 === Smarter and faster search
 Allows you to search parameters, such as serial number, system ID, host name, site name, group name, and cluster name using the single-system view. You can also search for group of systems, in addition, you can search by a customer name, site name, or group name by group of systems.

@@ -37,8 +37,14 @@ entries:
         url: /task_subscribe_to_wellness_review_email.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
-  - title: View inventory details
-    url: /task_view_inventory_details.html
+  - title: View system details
+    entries:
+      - title: View inventory details
+        url: /task_view_inventory_details.html
+      - title: View cluster and node configuration
+        url: /task_view_cluster_and_node_configuration.html
+      - title: View valuable insights
+        url: /task_view_valuable_insight_widget.html
   - title: Identify system requirements proactively
     entries:
       - title: Overview
