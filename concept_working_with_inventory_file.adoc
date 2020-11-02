@@ -16,7 +16,7 @@ summary: Provides information about working with the inventory file.
 
 [.lead]
 
-The inventory file consists of the cluster management LIFs of the systems that are eligible for firmware updates. It contains the list of clusters with disk and shelf firmware filename information wherever applicable.
+The inventory file consists of the cluster management LIFs of the systems that are eligible for firmware updates. It contains the list of clusters with disk firmware, shelf firmware, and service processor/BMC filename information wherever applicable.
 
 == Inventory file format
 
@@ -30,6 +30,17 @@ clusters:
 
   - clustername: <cluster management LIF-2>
     disk_fw_file: all.zip
+    sp_nodes:
+    - hostname: <node hostname 1>
+      sp_fw_file: SP_FW_308-03990_11.5.zip
+      sp_fw_type: bmc
+      sp_fw_ver: '11.5'
+      sp_ip: <BMC IP>
+    - hostname: <node hostname 2>
+      sp_fw_file: SP_FW_308-03991_5.8.zip
+      sp_fw_type: sp
+      sp_fw_ver: '5.8'
+      sp_ip: <SP IP>
 ----
 
 In the example, both shelf and disk firmware updates are applicable on cluster-1 and only disk firmware updates are applicable on cluster-2.
@@ -57,6 +68,6 @@ clusters:
     disk_fw_file: all.zip
 ----
 
-You can see that the _shelf_fw_file_ key and value from cluster-1 have been removed.
+You can see that the _shelf_fw_file_ key and value have been removed from cluster-1.
 
 NOTE: Manual addition of clusters or controllers is not supported.

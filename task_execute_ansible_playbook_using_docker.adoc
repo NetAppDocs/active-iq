@@ -59,6 +59,8 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
+NOTE: If there are set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
+
 For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
 
 After executing the Ansible Playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post execution instructions.

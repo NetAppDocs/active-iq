@@ -21,10 +21,10 @@ summary: Provides information to execute Ansible Playbook using the docker image
 . Install the required Python packages by using *pip*:
 +
 ----
-$ pip install netapp-lib requests
+$ pip install netapp-lib requests paramiko
  
-Installing collected packages: netapp-lib, requests
-Successfully installed netapp-lib-2020.3.12 requests-2.23.0 
+Installing collected packages: netapp-lib, requests, paramiko
+Successfully installed netapp-lib-2020.3.12 requests-2.23.0  paramiko-2.7.2
 ----
 . Install NetApp Ansible collection by using the *ansible-galaxy* command:
 +
@@ -50,6 +50,7 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
+NOTE: If there are set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
 
 For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible Playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
 
