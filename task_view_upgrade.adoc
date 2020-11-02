@@ -23,6 +23,7 @@ You can also view the current interoperability data. The interoperability data i
 . In the *Upgrade* widget of the dashboard, click *Upgrades* to view the pending upgrades.
 . Click the number of Action items to view the pending upgrades.
 . Select the required upgrade option.
+. Click the *Overview* tab to view the new and changed features of the release. You can also click Release Notes to view detailed information about the release.
 +
-You can view the key feature of the release. You can also click the Release Notes to view detailed information about the release.
+You can also click the Release Notes to view detailed information about the release. You can view the list of risks, in the *Risk Advisor* tab, along with their severity level, which would be mitigated because of the upgrade.
 . Click *Generate Upgrade Plan* to navigate to *Upgrade Advisor*.

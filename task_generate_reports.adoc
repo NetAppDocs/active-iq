@@ -33,6 +33,7 @@ a|
 a|
 . Click the *Schedule Report* tab.
 . Select the type of report and provide the requested values for the report.
+. Optionally,  select any filter criteria that you want.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
 . Click *Submit*.

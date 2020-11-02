@@ -49,3 +49,6 @@ The following features which exist in Active IQ Classic will also be available s
 * Download performance Reports in PNG/JPG format
 * Newsletter Subscriptions
 * Downloading Value Report details
+
+== Wellness - Upgrades widget
+Send us an mailto:ng-active-iq-feedback@netapp.com[Email] to open a support ticket for upgrading your Data ONTAP storage systems operating in 7-Mode.

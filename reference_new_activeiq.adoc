@@ -17,6 +17,27 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you the new features and enhancements.
 
+== 11 November 2020
+This update includes the following new features, enhancements, and changes:
+
+=== Integrating data using APIs
+You can use Active IQ APIs to pull data of interest and integrate it directly into your company’s workflow. link:concept_overview_API_service.html[Learn more].
+
+== Wellness - Upgrades widget
+The enhanced Risk Advisor and Upgrade Advisor tabs enable you to view all the system risks and help you plan for an upgrade for mitigating all the risks.
+
+== Health Check Assessment Dashboard
+The Recommended Configuration widget has been added to the dashboard, and it provides a summary on the number of systems that are monitored for remote management risks, spares and failed drives risks, and HA pair risks.
+
+== FabricPool Advisor
+You can monitor the status of your data and review the details.
+
+== Localization in Simplified Chinese and Japanese
+Active IQ Digital Advisor is now available in three languages – Chinese, English, and Japanese.
+
+== Reports
+You can add detailed filter criteria to the reports that you want to schedule. link:task_generate_reports.html[Learn more].
+
 == 15 October 2020
 This update includes the following new features, enhancements, and changes:
 
