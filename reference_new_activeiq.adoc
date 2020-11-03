@@ -36,7 +36,7 @@ You can monitor the status of your data and review the details.
 Active IQ Digital Advisor is now available in three languages – Chinese, English, and Japanese.
 
 === Reports
-You can add detailed filter criteria to the reports that you want to schedule. link:task_generate_reports.html[Learn more].
+You can add detailed filter criteria to the reports that you schedule. link:task_generate_reports.html[Learn more].
 
 == 15 October 2020
 This update includes the following new features, enhancements, and changes:
