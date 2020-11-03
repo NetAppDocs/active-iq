@@ -23,6 +23,7 @@ You can generate reports immediately or schedule a report to be generated on a w
 +
 You can generate a report immediately or you can schedule the report to be generated on a weekly or monthly basis.
 
+. Perform the following:
 [cols=2*,options="header", cols="50,50"]
 |===
 | To generate a report immediately

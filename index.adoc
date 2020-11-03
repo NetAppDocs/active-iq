@@ -15,7 +15,7 @@ Active IQ enables you to optimize your data infrastructure across your global hy
 
 Active IQ's cloud-based services leverage community wisdom and peer comparisons that are drawn from NetApp's massive installed base, combining these insights with AutoSupport telemetry and My AutoSupport features to deliver an advanced set of unparalleled analytics services.
 
-The new version of Active IQ, known as Active IQ Digital Advisor, is simple and enables you to quickly identify and take the next best action to improve the wellness of your NetApp environment. Active IQ Digital Advisor has been enhanced and redesigned help you perform tasks more effectively. We are incrementally enhancing this version and urge you to try out this new experience. You can give us your feedback or report issues by clicking the image:support.png[Support] (support) icon.
+The new version of Active IQ, known as Active IQ Digital Advisor, is simple and enables you to quickly identify and take the next best action to improve the wellness of your NetApp environment. Active IQ Digital Advisor has been enhanced and redesigned to help you perform tasks more effectively. We are incrementally enhancing this version and urge you to try out this new experience. You can give us your feedback or report issues by clicking the image:support.png[Support] (support) icon.
 
 === Accessing Active IQ Web Portal and Downloading the Mobile App
 

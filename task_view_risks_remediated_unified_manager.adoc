@@ -25,6 +25,7 @@ video::XusFvXM7h-E[youtube, width=848, height=480]
 +
 If the risk can be mitigated using Active IQ Unified Manager, the image:spanner.png[Spanner] icon is highlighted and if the risk can be mitigated using Ansible Playbook, the image:update_ansible.png[Update Ansible] icon is highlighted.
 
+. Perform the following:
 [cols=2*,options="header", cols="50,50"]
 |===
 | To mitigate the risk using Unified Manager
