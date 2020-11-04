@@ -5,7 +5,7 @@ keywords: API Catalog, APIs, integrate data, view catalog
 summary: Provides information about the APIs available in the API catalog.
 ---
 
-= View API catalog
+= View the API catalog
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -17,19 +17,19 @@ summary: Provides information about the APIs available in the API catalog.
 [.lead]
 The API catalog allows you to browse through the categories and the available APIs within each of those categories.
 
-Using a valid Access Token, and correct inputs for the other required fields, you can make a test call using an API.
+Using a valid Access Token, and correct inputs for the other required fields, you can make a test call for an API.
 
 .Steps
 . From the *Quick Links* menu, click *API Services*.
-. Click *Browse* under the *API Catalog* section.
+. Click *Browse* under the *API Catalog* icon.
 +
 The API Catalog is displayed.
+. At the top of the page, slide the toggle to “Experiment”.
 . From the left navigation, expand the categories and select the API to view detailed information.
 . Expand the API
-. Click *Try it out*.
+. Click the *Try it out* button on the right.
 . Provide the required parameters and click *Execute* to view the results.
 +
-For the Field called “level,” you should enter one of the values specified. That is, you can only enter the words “customer,” “site,” “group,” or “serial_numbers.” You can also examine the *Responses* section of the API to better understand the data that will be returned. You can click on *Example Value* to see the format of the data or click on *Model*, and by clicking on the carets to expand the sections, see the definitions of each element.
-. Enable the API Explorer option to view the API samples in the code view.
-+
-You can view the code examples of the APIs in different languages.
+You can also examine the *Responses* section of the API to better understand the data that will be returned. You can click on *Example Value* to see the format of the data or click on *Model*, and by clicking on the carets to expand the sections, see the definitions of each element.
+
+By sliding the toggle to the *Code* view, you can view code samples in various languages.
