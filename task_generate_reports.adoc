@@ -23,7 +23,6 @@ You can generate reports immediately or schedule a report to be generated on a w
 +
 You can generate a report immediately or you can schedule the report to be generated on a weekly or monthly basis.
 
-. Perform the following:
 [cols=2*,options="header", cols="50,50"]
 |===
 | To generate a report immediately
@@ -34,7 +33,6 @@ a|
 a|
 . Click the *Schedule Report* tab.
 . Select the type of report and provide the requested values for the report.
-. Optionally,  select any filter criteria that you want.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
 . Click *Submit*.
