@@ -20,9 +20,11 @@ You can view the pending upgrades of your storage system and upgrade to a later 
 You can also view the current interoperability data. The interoperability data is populated based on the Active IQ OneCollect AutoSupport data.
 
 .Steps
-. View pending upgrades in the *Upgrade* widget of the dashboard.
+. In the dashboard, view pending upgrades in the *Upgrades* widget.
+. Click the number of *Action* items to view the pending upgrades.
 . Select the required upgrade option.
-. Click the *Overview* tab to view the new and changed features of the release. 
+. Click the number of systems, displayed on the widget, to view the *Upgrade Advisor* tab.
 +
-You can also click the Release Notes to view detailed information about the release. You can view the list of risks, in the *Risk Advisor* tab, along with their severity level, which would be mitigated because of the upgrade.
+You can also click the Release Notes to view detailed information about the release.
+. View the list of risks, in the *Risk Advisor* tab, along with their severity level, which would be mitigated because of the upgrade.
 . Click *Generate Upgrade Plan* to navigate to *Upgrade Advisor*.

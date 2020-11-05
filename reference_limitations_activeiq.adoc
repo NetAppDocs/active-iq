@@ -22,6 +22,8 @@ The following features which exist in Active IQ Classic are not planned to be ad
 
 * For ONTAP 7-Mode systems only (7-mode is nearing End of Support Life)
 ** Upgrade Advisor - also deprecating clustered ONTAP < 9.0
++
+Send us an mailto:ng-aiq-ticket@netapp.com[Email] to open a support ticket for upgrading your Data ONTAP storage systems operating in 7-Mode.
 ** Performance charts
 ** Storage efficiency
 * Performance Charts (see above for 7-mode) (Most of the features have been moved to Active IQ Digital Advisor)
@@ -49,6 +51,3 @@ The following features which exist in Active IQ Classic will also be available s
 * Download performance Reports in PNG/JPG format
 * Newsletter Subscriptions
 * Downloading Value Report details
-
-== Wellness - Upgrades widget
-Send us an mailto:ng-active-iq-feedback@netapp.com[Email] to open a support ticket for upgrading your Data ONTAP storage systems operating in 7-Mode.
