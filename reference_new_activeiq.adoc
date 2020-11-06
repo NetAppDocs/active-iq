@@ -41,10 +41,10 @@ This update includes the following new features, enhancements, and changes:
 === Health Check Assessment Dashboard
 The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base.
 
-link:concept_understand_health_check_assessment_dashboard.html[Learn how to get started].
+link:concept_understand_health_check_assessment_dashboard.html[Learn more].
 
 === Config Drift
-This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn more].
+This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn how to add a config drift template].
 
 === AutoSupport
 You can view your AutoSupport data and review the details.
@@ -73,9 +73,7 @@ link:task_update_AFF_FAS_firmware.html[Learn how to update AFF and FAS firmware 
 This update includes the following new features, enhancements, and changes:
 
 === Performance
-Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen.
-
-link:task_view_performance_graphs.html[Learn to view the performance graph].
+Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen. link:task_view_performance_graphs.html[Learn how].
 
 === AFF and FAS firmware using Ansible Playbook
 The AFF and FAS firmware screen has been enhanced to provide a better user experience.
@@ -114,7 +112,7 @@ This update includes the following new features, enhancements, and changes:
 You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
 
 === Storage efficiency
-You can view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn to view storage efficiency savings].
+You can view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn how].
 
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
@@ -164,10 +162,10 @@ The latest Active IQ Digital Advisor Dashboards offer a personalized experience.
 === Customizable dashboards
 Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 10 dashboards and make effective business decisions.
 
-link:concept_overview_dashboard.html[Learn how to get started].
+link:concept_overview_dashboard.html[Learn more].
 
 === Mitigate risks using Active IQ Unified Manager
-You can view the risks and rectify them by using Active IQ Unified Manager. link:task_view_risks_remediated_unified_manager.html[Learn more].
+You can view the risks and rectify them by using Active IQ Unified Manager. link:task_view_risks_remediated_unified_manager.html[Learn how].
 
 === Wellness
 Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
