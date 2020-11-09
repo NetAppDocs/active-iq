@@ -1,0 +1,21 @@
+---
+sidebar: sidebar
+permalink: concept_overview_config_drift.html
+keywords: config drift, configuration deviation, add template, compare template
+summary: Provides an overview of the config drift feature
+---
+
+= Understand configuration deviation
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+The Config Drift feature helps in proactively identifying the configuration deviations on the system. It allows you to compare the system or cluster configuration, on-demand with the template created using a system generating AutoSupport data.
+
+image:config_drift.png[config drift workflow]
