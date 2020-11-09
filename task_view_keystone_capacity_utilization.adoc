@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: task_view_keystone_capacity_utilization.html
+keywords: keystone, capacity utilization, service tiers
+summary: Provides information on your Keystone capacity utilization.
+---
+
+= View Keystone capacity utilization
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+If you are subscribed to the Keystone Flex Subscription Service, you can view the Keystone widget on the Active IQ Digital Advisor Dashboard. The widget displays a summary of the consumed capacity for the selected account. It displays the capacity utilization charts with respect to the committed capacity, the snapshot being rounded up to the last five minutes. The utilization over and above the committed capacity (the burst capacity) is marked in red.
+
+The *Keystone - Capacity Utilization* dashboard graphically represents the utilization trend of the capacity and usage for all the subscribed storage link:https://docs.netapp.com/us-en/keystone/nkfsosm_terms_and_conditions_for_the_service_tiers.html[services tiers], such as premium, extreme, and standard, associated with your Keystone account.
+
+The link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html[Keystone service capacity] and usage of each subscribed service for your block, file services, or object storage are represented in a concentric circle having three centric rings: the inner ring displays the committed capacity, the middle ring indicates the burst capacity, and the outer ring the consumed capacity. The consumed capacity for a specific date and time within the selected time range is indicated by a blue line graph.
+
+.Steps
+. Click *View Details* to view the utilization trend in the detailed *Keystone - Capacity Utilization* dashboard.
+. Select either 30 days, 7 days, or 1 day to view the recent average usage trend.

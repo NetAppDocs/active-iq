@@ -64,8 +64,6 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
 
-* *Keystone:* Provides information on your billed and consumed storage capacity. You can also view the capacity by which you have exceeded the billed capacity. The information has further been grouped on the basis of the capacity service levels that you have opted for.
-
 * *FabricPool Advisor:* Enables you to monitor the status of your data. Data has been classified as active or hot, tiered, inactive or cold, and data without Inactive Data Reporting (IDR) enabled. You can also download the information in XLSX format.
 
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
