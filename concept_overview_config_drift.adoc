@@ -18,4 +18,8 @@ summary: Provides an overview of the config drift feature
 
 The Config Drift feature helps in proactively identifying the configuration deviations on the system. It allows you to compare the system or cluster configuration, on-demand with the template created using a system generating AutoSupport data.
 
+More community wisdom-based templates and additional options are being added in future release.
+
+You can look at the following diagram to understand the workflow to identify configuration deviations and generate the report.
+
 image:config_drift.png[config drift workflow]

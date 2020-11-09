@@ -57,6 +57,8 @@ entries:
         url: /task_renew_software_and_hardware.html
   - title: Identify configuration deviations
     entries:
+      - title: Overview
+        url: /concept_overview_config_drift.html
       - title: Add a config drift template
         url: /task_add_config_drift_template.html
       - title: Compare a config drift template
