@@ -35,6 +35,9 @@ You can monitor the status of your data and review the details.
 === Localization in Simplified Chinese and Japanese
 Active IQ Digital Advisor is now available in three languages – Chinese, English, and Japanese.
 
+=== Reports
+You can generate or schedule ClusterViewer reports to view detailed information on the physical and logical configuration of your systems. link:task_generate_reports.html[Learn how].
+
 == 15 October 2020
 This update includes the following new features, enhancements, and changes:
 

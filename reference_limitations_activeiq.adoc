@@ -50,4 +50,3 @@ The following features which exist in Active IQ Classic will also be available s
 * Peak performance graph for Aggregate utilization
 * Download performance Reports in PNG/JPG format
 * Newsletter Subscriptions
-* Downloading Value Report details
