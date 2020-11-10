@@ -5,7 +5,7 @@ keywords: capacity, space, increase,
 summary: Provides information to increase the capacity of the system.
 ---
 
-= Identify the capacity of your storage system
+= Identify systems reaching capacity limits
 :toc: macro
 :toclevels: 1
 :hardbreaks:
