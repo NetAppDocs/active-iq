@@ -39,4 +39,4 @@ a|
 . Click Download to download the AFF and FAS firmware Ansible Automation package.
 |===
 
-Note: A SupportEdge Advisor or SupportEdge Expert contract is required to use the *Fix It* option and the Ansible Playbook features.
+NOTE: A SupportEdge Advisor or SupportEdge Expert contract is required to use the *Fix It* option and the Ansible Playbook features.
