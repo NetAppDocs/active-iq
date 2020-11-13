@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: task_generate_tokens_API_services.html
+keywords: generate token, access token, refresh token, API services
+summary: Provides information to generate token to access APIs.
+---
+
+= Generate tokens to use APIs
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+It is easy to register for API Services and to generate tokens.
+
+.Steps
+. From the *Quick Links* menu, click *API Services*.
+. Click *Register*.
+. Complete the request for authorization form and click *Submit*.
++
+Activation is automatic and should be instantaneous. Once you have been authorized to use the Active IQ APIs, you can generate tokens to use when making programmatic API calls. You can also use these tokens to execute “try it out” from within the API Catalog. When obtained programmatically, tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
+. On the Main API Services page, click *Generate Token* to view and download the access token and refresh token to invoke APIs.
++
+The portal gives you multiple ways to save one or both tokens in the set. You can copy to the clipboard, download as a text file, or view it as plain text.
+
+NOTE: You should download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days. The refresh token used in this API call will be invalidated after a new refresh token is generated.

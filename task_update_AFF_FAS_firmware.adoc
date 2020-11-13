@@ -36,6 +36,6 @@ The zip file contains the following:
 
 	* Ansible Playbook - A YAML file containing the Ansible script to perform the disk, shelf, and service processor firmware updates.
   * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
-	* Disk and Shelf Firmware packages are named as *all.zip* and *all_shelf_fw.zip* respectively.
+	* Disk, Shelf, and Service Processor/BMC Firmware packages are named as *all.zip*, *all_shelf_fw.zip*, and *<SP/BMC>_<version_number>_fw.zip* respectively.
 
 	NOTE: Manual addition of clusters and controllers are not supported in the inventory file.

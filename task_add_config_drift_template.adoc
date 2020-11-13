@@ -15,7 +15,7 @@ summary: Provides information to add a configuration drift template.
 :imagesdir: ./media/
 
 [.lead]
-The config drift feature enables you to detect configuration deviations. You can add a template and compare the system and cluster configurations and detect the configuration deviations in near real time. The config drift templates are added using systems running AutoSupport data.
+You should add a template to compare the system and cluster configurations and detect the configuration deviations in near real time. The config drift templates are added using systems running AutoSupport data.
 
 .Steps
 . From the left pane, click *Config Drift*.

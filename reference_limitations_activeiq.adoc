@@ -20,11 +20,13 @@ Known limitations identify platforms, devices, or functions that are not support
 === Differences in features between Active IQ Classic and Active IQ Digital Advisor
 The following features which exist in Active IQ Classic are not planned to be added in Active IQ Digital Advisor due to low usage (unless otherwise noted):
 
-* For ONTAP 7-Mode systems only (7-mode is nearing End of Support Life)
+* For Data ONTAP storage systems operating in 7-Mode only (Data ONTAP storage systems operating in 7-Mode is nearing End of Support Life)
 ** Upgrade Advisor - also deprecating clustered ONTAP < 9.0
++
+Send us an mailto:ng-aiq-ticket@netapp.com[Email] to open a support ticket for upgrading your Data ONTAP storage systems operating in 7-Mode.
 ** Performance charts
 ** Storage efficiency
-* Performance Charts (see above for 7-mode) (Most of the features have been moved to Active IQ Digital Advisor)
+* Performance Charts (see above for Data ONTAP storage systems operating in 7-Mode) (Most of the features have been moved to Active IQ Digital Advisor)
 ** Node Headroom Confidence Factor
 ** Node Disk Throughput
 ** Cluster CPU Utilization
@@ -48,4 +50,3 @@ The following features which exist in Active IQ Classic will also be available s
 * Peak performance graph for Aggregate utilization
 * Download performance Reports in PNG/JPG format
 * Newsletter Subscriptions
-* Downloading Value Report details

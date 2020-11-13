@@ -39,4 +39,4 @@ a|
 . Click Download to download the AFF and FAS firmware Ansible Automation package.
 |===
 
-Note: ONTAP 9.1 or later or support contract higher than *Basic* is required to use the *Fix It* option.
+NOTE: A SupportEdge Advisor or SupportEdge Expert contract is required to use the *Fix It* option and the Ansible Playbook features.

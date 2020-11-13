@@ -1,0 +1,37 @@
+---
+sidebar: sidebar
+permalink: concept_overview_API_service.html
+keywords: API services, access token, refresh token, API Catalog
+summary: Provides an overview of the API services feature.
+---
+
+= Understand API Services
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+Active IQ API Services use automation to add efficiency to your workflows. Inside API Services resides the *API Catalog*, which describes over 100 different API endpoints that are grouped into 20+ different service areas. These APIs are available to you as a NetApp customer, and they span many different areas of interest, such as system information, storage efficiency, performance, health, and upgrades.
+
+If you are new to the API concept, APIs are interfaces that enable you to write simple code that can contact Active IQ, programmatically and bring back data into your compute environment. You can write your code in such a way that it contacts Active IQ every day and brings back the latest data in the areas that are of interest to you. You can then use this data to populate your ticketing system or to create your own dashboards, webpages, or reports. The Active IQ API Catalog has both code samples and a facility for you to try out the APIs right in the browser.
+
+Automation with APIs is a great way to add efficiency and accuracy to daily or weekly repetitive tasks. It frees up your resources to perform more complex activities or to automate new workflows. For example, if you have system health risks that need to be fixed, you can automate at least the pullout of those items from Active IQ and the push into your ticketing system.
+
+
+== API Catalog
+
+The toggle at the top of the page allows the user to switch between two modes of viewing the Catalog. The Code view focuses on the input parameters needed, the content and format of the return data, and code samples to get the user started down the path to putting code in place. The Experiment view offers the user a chance to “try out” the API right in the browser, using a generated token obtained from the main API Services page.
+
+Either view allows the user to browse through the available items using the navigation pane on the left. The items are organized by service in alphabetical order. Within a given service, you can expand the heading to show the individual API Endpoints. Clicking on the service heading or an API Endpoint will take you to that section of the Catalog in the middle pane.
+
+
+== Using the APIs
+
+Once you are authorized and generate tokens, you can leverage the tokens to make programmatic queries and retrieve data. It is also possible to test out an API from within the API Catalog to see first-hand how the query works and the type of data that is returned. This is a great way to make sure you understand how an API will work prior to building out the code framework in your system.
+
+video::GQskCeCrtQA[youtube, width=848, height=480]
