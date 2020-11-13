@@ -42,9 +42,7 @@ You can generate or schedule ClusterViewer reports to view detailed information 
 This update includes the following new features, enhancements, and changes:
 
 === Health Check Assessment Dashboard
-The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base.
-
-link:concept_understand_health_check_assessment_dashboard.html[Learn more].
+The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
 
 === Config Drift
 This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn how to add a config drift template].
