@@ -17,8 +17,6 @@ summary: Provides information to install and execute firmware update using Ansib
 [.lead]
 Experienced users can follow the steps below to install and execute the AFF and FAS firmware ansible automation package quickly.
 
-Users who require detailed steps to install and execute the AFF and FAS firmware ansible automation package, click here.
-
 == Firmware update with Ansible using NetApp Docker Image
 
 .Steps
