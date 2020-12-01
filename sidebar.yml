@@ -99,7 +99,7 @@ entries:
                 url: /task_execute_ansible_playbook_using_docker.html
               - title: Execute Ansible playbook without Docker
                 url: /task_execute_ansible_playbook_without_docker.html
-              - title: Validate Firmware installation
+              - title: Validate firmware installation
                 url: /task_validate_firmware_installation.html
               - title: Troubleshooting, Feedback and Support
                 url: /reference_ansible_troubleshoot_feedback_support.html

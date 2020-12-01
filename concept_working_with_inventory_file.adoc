@@ -47,7 +47,7 @@ clusters:
 
 In the example, both shelf and disk firmware updates are applicable on cluster-1, and disk and SP/BMC firmware updates are applicable on cluster-2.
 
-== Deleting a cluster from the inventory file
+== Delete a cluster from the inventory file
 
 In case you do not want to apply firmware updates on a particular cluster, you can remove it from the inventory file.
 
