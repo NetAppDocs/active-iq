@@ -107,7 +107,7 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
 		|Compression Savings | Sum of *Space Saved by Volume Compression* of each aggregate of all nodes of a customer
 		|Compaction Savings (for ONTAP 	9.1) | Sum of *Space Saved by Aggregate Compaction* of each aggregate of all nodes of a customer
     |Compaction Savings (for ONTAP 	9.2 and later) | Sum of *Space Saved by Aggregate Data Reduction* of each aggregate of all nodes of a customer
-		|FlexClone Savings | Sum of *Space Saved by Aggregate Compaction* of each aggregate of all nodes of a customer
+		|FlexClone Savings | Sum of *(Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes)* of each aggregate of all nodes of a customer
     |Snapshot copies Backup Savings | Sum of *(Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies)* of all aggregates of all nodes of a customer
 |===
 
