@@ -38,4 +38,4 @@ The zip file contains the following:
   * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
 	* Disk, Shelf, and Service Processor/BMC Firmware packages are named as *all.zip*, *all_shelf_fw.zip*, and *<SP/BMC>_<version_number>_fw.zip* respectively.
 
-	NOTE: Manual addition of clusters and controllers are not supported in the inventory file.
+NOTE: Manual addition of clusters and controllers are not supported in the inventory file.

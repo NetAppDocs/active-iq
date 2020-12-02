@@ -15,7 +15,7 @@ summary: Provides information about the valuable insight widget.
 :imagesdir: ./media/
 
 [.lead]
-The valuable insight widget provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
+The Valuable Insights widget provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
 video::QPJY2TWnRxQ[youtube, width=848, height=480]
 
