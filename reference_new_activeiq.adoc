@@ -42,7 +42,7 @@ The enhanced Risk Advisor and Upgrade Advisor tabs enable you to view all the sy
 The Recommended Configuration widget has been added to the dashboard, and it provides a summary on the number of systems that are monitored for remote management risks, spares and failed drives risks, and HA pair risks.
 
 === FabricPool Advisor
-You can monitor the status of your data and review the details.
+You can reduce your storage footprint and associated costs by monitoring your clusters, which have been classified into four categories: inactive local tier (aggregate) data, inactive volume data, tiered data, and those that are not IDR enabled.
 
 === Localization in Simplified Chinese and Japanese
 Active IQ Digital Advisor is now available in three languages – Chinese, English, and Japanese.
