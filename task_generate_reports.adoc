@@ -15,7 +15,7 @@ summary: Provides information to generate reports.
 :imagesdir: ./media/
 
 [.lead]
-You can generate reports immediately or schedule a report to be generated on a weekly or monthly basis. You can generate reports for areas like Inventory, Wellness, Discovery Dashboard, ClusterViewer, and others. 
+You can generate reports immediately or schedule a report to be generated on a weekly or monthly basis. You can generate reports for areas like inventory, wellness, and configuration (ClusterViewer).
 
 .Steps
 . From the left pane, click *Reports*.

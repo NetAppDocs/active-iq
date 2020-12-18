@@ -26,9 +26,6 @@ The following widgets have been added to the dashboard:
 * Recommended Software:  This widget provides a consolidated list of all the software and firmware upgrades and currency recommendations.
 * Loss of Signal: This widget provides scores and information about the systems, which have stopped sending AutoSupport data for some reason. It provides information if no AutoSupport data has been received from a hostname within a 7-day period.
 
-=== Reports
-You can generate and schedule reports for Recommended Software and Firmware and End of Support. link:task_generate_reports.html[Learn how].
-
 == 12 November 2020
 This update includes the following new features, enhancements, and changes:
 
