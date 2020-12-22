@@ -15,7 +15,7 @@ summary: Provides FAQs on storage efficiency.
 == How do I access the storage efficiency in Active IQ?
 
 .Steps
-. Open home page of link:https://activeiq.netapp.com[Active IQ].
+. Open home page of link:https://activeiq.netapp.com/?source=onlinedocs[Active IQ].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
 
