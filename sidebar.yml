@@ -67,7 +67,7 @@ entries:
         url: /task_compare_config_drift_template.html
   - title: Improve the efficiency and performance of your storage system
     entries:
-      - title: Analyze storage efficiency savings
+      - title: Analyze capacity and efficiency savings
         url: /task_analyze_storage_efficiency.html
       - title: Analyze storage performance
         url: /task_view_performance_graphs.html
