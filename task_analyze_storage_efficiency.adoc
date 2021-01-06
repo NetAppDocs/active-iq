@@ -35,5 +35,5 @@ Based on the capacity forecast, you can add capacity to your system.
 . View the storage efficiency and the data savings of your storage system.
 +
 Based on the condition of your storage system, you can either share your success story or contact NetApp to help improve the storage efficiency of your system.
-** If the storage efficiency ratio of your storage system is higher than the average storage efficiency ratio, click *Share Your Success Story* to let us know the best practices followed.
-** If the storage efficiency ratio of your storage system is less than the average storage efficiency ratio, click *Contact Us* to let us know the configurations of your storage system.
+.. If the storage efficiency ratio of your storage system is higher than the average storage efficiency ratio, click *Share Your Success Story* to let us know the best practices followed.
+.. If the storage efficiency ratio of your storage system is less than the average storage efficiency ratio, click *Contact Us* to let us know the configurations of your storage system.
