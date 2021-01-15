@@ -16,6 +16,6 @@ summary: Provides information to identify system capacity and software and hardw
 
 [.lead]
 
-The planning widget helps customers identify capacity requirements that have exceeded 90% capacity or are nearing 90% capacity and identify the software and hardware that have expired or are near expiration in the next 6 months. You can send a request to increase the capacity of your storage system and to renew the hardware and software.
+The *Planning* widget helps customers identify capacity requirements that have exceeded 90% capacity or are nearing 90% capacity and identify the software and hardware that have expired or are near expiration in the next 6 months. You can send a request to increase the capacity of your storage system and to renew the hardware and software.
 
 video::ZJwz3WSD2u0[youtube, width=848, height=480]
