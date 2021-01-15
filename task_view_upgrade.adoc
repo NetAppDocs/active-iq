@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_view_upgrade.html
 keywords: upgrade, current version, benefits
-summary: Provides information to view and upgrade your storage system.
+summary: Provides information on how to view and upgrade your storage system.
 ---
 
 = Upgrade the ONTAP version of your storage system
@@ -17,14 +17,14 @@ summary: Provides information to view and upgrade your storage system.
 [.lead]
 You can view the pending upgrades of your storage system and upgrade to a later version of ONTAP.
 
-You can also view the current interoperability data. The interoperability data is populated based on the Active IQ OneCollect AutoSupport data.
+You can also view the current interoperability data. It is populated based on Active IQ OneCollect AutoSupport data.
 
 .Steps
-. In the dashboard, view pending upgrades in the *Upgrades* widget.
-. Click the number of *Action* items to view the pending upgrades.
+. On the dashboard, view pending upgrades in the *Upgrades* widget.
+. Click the number of *Actions* to view the pending upgrades.
 . Select the required upgrade option.
-. Click the number of systems, displayed on the widget, to view the *Upgrade Advisor* tab.
+. Click the number of systems displayed on the widget to view the *Upgrade Advisor* tab.
 +
-You can also click the Release Notes to view detailed information about the release.
-. View the list of risks, in the *Risk Advisor* tab, along with their severity level, which would be mitigated because of the upgrade.
+You can also check the Release Notes to view detailed information about the release.
+. View the list of risks in the *Risk Advisor* tab, along with their severity level, which would be mitigated because of the upgrade.
 . Click *Generate Upgrade Plan* to navigate to *Upgrade Advisor*.

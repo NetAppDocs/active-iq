@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_validate_firmware_installation.html
 keywords: validate, firmware, firmware installation
-summary: Provides information to validate the firmware installation.
+summary: Provides information on how to validate the firmware installation.
 ---
 
 = Validate firmware installation
@@ -35,7 +35,7 @@ disk     firmware-revision model
 :link-with-underscores: https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-910%2Fstorage__disk__show.html
 For more information about the command, refer to {link-with-underscores}[storage disk show].
 
-. Verify that new NVMe Flash Cache firmware is installed:
+. Verify that the new NVMe Flash Cache firmware is installed:
 +
 ----
 ::*> system controller flash-cache show
@@ -85,6 +85,6 @@ For more information about the command, refer to {link-with-underscores}[storage
 
 == Validating SP/BMC Firmware installation
 
-The Ansible Playbook for Service Processor/BMC firmware updates is enabled with an option to verify the installation of latest SP/BMC Firmware on the controller. After the verification is complete (the updates could take a maximum time of two hours), the Ansible Playbook applies internal switch firmware updates by connecting to the SP/BMC console.
+The Ansible Playbook for Service Processor/BMC firmware updates is enabled with an option to verify the installation of latest SP/BMC firmware on the controller. After the verification is complete (the updates could take a maximum time of two hours), the Ansible Playbook applies internal switch firmware updates by connecting to the SP/BMC console.
 
-The failure and success information for SP/BMC Firmware and the internal switch firmware installations will be notified at the end of Ansible Playbook execution. Follow the steps mentioned in the Ansible Playbook in case the SP/BMC Firmware/internal switch Firmware installation fails.
+The failure and success information for SP/BMC firmware and the internal switch firmware installations will be notified at the end of Ansible Playbook execution. Follow the steps mentioned in the Ansible Playbook in case the SP/BMC firmware/internal switch firmware installation fails.
