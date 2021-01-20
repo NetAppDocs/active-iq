@@ -20,4 +20,4 @@ You can view the score and summary of all the active support contracts on the da
 .Steps
 . On the Health Check Assessment Dashboard, click the *Support & Entitlements* widget.
 . If any of your system support contracts have expired or are nearing expiration, then click the *Active Support Contracts* widget.
-. Select the check boxes and click *Renew* for initiating the renewal process for the selected systems.
+. Select the checkboxes and click *Renew* for initiating the renewal process for the selected systems.
