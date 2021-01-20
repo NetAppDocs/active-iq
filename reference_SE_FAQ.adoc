@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: reference_SE_FAQ.html
 keywords: Active IQ, storage efficiency, FAQs, storage efficiency
-summary: Provides FAQs on storage efficiency.
+summary: Answers FAQs on storage efficiency.
 ---
 
 = FAQs
@@ -12,47 +12,47 @@ summary: Provides FAQs on storage efficiency.
 :linkattrs:
 :imagesdir: ./media/
 
-== How do I access the storage efficiency in Active IQ?
+== How do I access Storage Efficiency in Active IQ Digital Advisor?
 
 .Steps
-. Open home page of link:https://activeiq.netapp.com/?source=onlinedocs[Active IQ].
+. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Active IQ Digital Advisor].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
 
-NOTE: The dashboards created using a watchlist will not be displayed in the storage efficiency widget.
+NOTE: The dashboards created using a watchlist will not be displayed in the Storage Efficiency widget.
 
-== Does Active IQ display ratios for all ONTAP systems?
+== Does Active IQ Digital Advisor display ratios for all ONTAP systems?
 
 Active IQ displays ratios for systems running ONTAP 9.1 and later.
 
-== What is the ‘Without Snapshots’ checkbox in the efficiency dashboard?
+== What is the ‘Without Snapshots’ checkbox on the efficiency dashboard?
 
 By default, *Active IQ Efficiency Dashboard* calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
 
 	* Deduplication
 	* Compression
 	* Data compaction
-	* Clones and
+	* Clones
 	* Snapshots
 
-By selecting *Without Snapshots* checkbox, Active IQ will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
+If you select the *Without Snapshots* checkbox, Active IQ Digital Advisor will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
 
 == What is physical data used and logical data used?
 
 * *Physical Blocks Consumed / Physical Data Used*
-** The amount of space being used for data now (rather than being reserved for future use).
-** Includes space used by aggregate Snapshot copies.
+** The amount of space being used for data now (rather than being reserved for future use)
+** Includes space used by aggregate Snapshot copies
 ** Space actually consumed/written by the client
 
 * *Total Logical Data Used*
 ** Displays the logical size used in the aggregate.
-** This includes Volumes, Clones and Snapshots in the aggregate.
+** This includes Volumes, Clones, and Snapshots in the aggregate.
 ** The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
-** Does not include space reserved for future use.
+** Does not include space reserved for future use
 
-== Which AutoSupports are used for calculating efficiency ratios?
+== Which AutoSupport instances are used for calculating efficiency ratios?
 
-Calculations are performed using either the latest weekly or user-triggered AutoSupports which tend to contain most of the sections required for calculating the ratios.
+Calculations are performed using either the latest weekly or user-triggered AutoSupport instances which tend to contain most of the sections required for calculating the ratios.
 
 == Which volumes or aggregates are excluded from efficiency calculations?
 
@@ -65,11 +65,11 @@ The following objects are not considered while calculating efficiency ratios:
 
 == How can I see the trend in efficiency ratios?
 
-Currently, efficiency ratios are based on the latest weekly or user-triggered AutoSupport. Efficiency trending may be considered for a future release.
+Currently, efficiency ratios are calculated based on the latest weekly or user-triggered AutoSupport instance. Efficiency trending may be considered for a future release.
 
 == How are customer-level ratios and efficiency savings calculated?
 
-Customer level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer install base for *systems running ONTAP 9.1 and later*. The required parameters, for the following calculations, are taken from ONTAP AutoSupport:
+Customer-level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer installed base for *systems running ONTAP 9.1 and later*. The required parameters for the following calculations are taken from ONTAP AutoSupport:
 
 === Without Snapshot copies (calculated for per Aggr first):
 
@@ -111,14 +111,14 @@ Customer level storage efficiency dashboard provides the efficiency ratio with a
     |Snapshot copies Backup Savings | Sum of *(Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies)* of all aggregates of all nodes of a customer
 |===
 
-== Why adding all individual efficiency savings does not add up to total data saved by storage efficiency?
+== Why does adding all individual efficiency savings not add up to total data saved by storage efficiency?
 
 Efficiency savings are shown in the *Storage Efficiency Dashboard* for volumes and local tiers (aggregates).  You cannot add volume savings and aggregate savings as they both happen at different storage objects.
 
-== Why storage efficiencies were reported incorrectly or higher before upgrading to ONTAP?
+== Why were storage efficiencies reported as higher or incorrectly before upgrading to ONTAP?
 
-Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue is fixed in ONTAP 9.3P11. Storage efficiency can report correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
+Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Storage Efficiency reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
 
-== How do I provide feedback or ask other questions related to storage efficiency?
+== How do I provide feedback or ask other questions related to Storage Efficiency?
 
-For feedback or questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]
+To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]
