@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_update_AFF_FAS_firmware.html
 keywords: update, AFF, FAS firmware, firmware
-summary: Provides information to update the AFF and FAS firmware.
+summary: Provides information on how to update the AFF and FAS firmware.
 ---
 
 = Download the AFF and FAS firmware Ansible Automation package
@@ -15,7 +15,7 @@ summary: Provides information to update the AFF and FAS firmware.
 :imagesdir: ./media/
 
 [.lead]
-You should update the AFF and FAS firmware using Ansible on your storage system to mitigate the identified risks and to keep your storage system up to date.
+You should update the AFF and FAS firmware using Ansible to mitigate the identified risks and keep your storage system up to date.
 
 == Before you begin
 
@@ -27,9 +27,9 @@ Before updating AFF and FAS firmware using Ansible, you should:
 * Configure your account with an administrator role
 
 .Steps
-. Click the wellness attribute widget on the dashboard or click *View All Actions* to view the list of all the actions and risks.
-. Click *Firmware Upgrades* to view all the firmware upgrade risks.
-. Click *Update FAS/AFF Firmware* to view all the available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
+. Click any wellness widget on the dashboard or click *View All Actions* to view a list of all the actions and risks.
+. Click *Firmware Upgrade* to view all firmware upgrade risks.
+. Click *Update AFF and FAS Firmware* to view all available update packages or click image:update_ansible.png[Update Ansible] next to each risk to update the package specific to that risk.
 . Click *Download* to download the zip files and update your storage system.
 +
 The zip file contains the following:
@@ -38,4 +38,4 @@ The zip file contains the following:
   * Inventory - A YAML file containing the details of the systems that are applicable for firmware updates.
 	* Disk, Shelf, and Service Processor/BMC Firmware packages are named as *all.zip*, *all_shelf_fw.zip*, and *<SP/BMC>_<version_number>_fw.zip* respectively.
 
-NOTE: Manual addition of clusters and controllers are not supported in the inventory file.
+NOTE: Manual addition of clusters and controllers to the inventory file is not supported.

@@ -16,7 +16,7 @@ summary: Provides information about working with the inventory file.
 
 [.lead]
 
-The inventory file consists of the cluster management LIFs of the systems that are eligible for firmware updates. It contains the list of clusters with disk and shelf firmware file name information wherever applicable.
+The inventory file consists of the cluster management LIFs of the systems that are eligible for firmware updates. It contains the list of clusters with disk and shelf firmware filename information wherever applicable.
 
 For service processor firmware update, node hostnames and SP/BMC IP is included in the inventory file.
 
@@ -45,13 +45,13 @@ clusters:
       sp_ip: <SP IP>
 ----
 
-In the example, both shelf and disk firmware updates are applicable on cluster-1, and disk and SP/BMC firmware updates are applicable on cluster-2.
+In the example, both shelf and disk firmware updates are applicable on cluster-1 and disk and SP/BMC firmware updates are applicable on cluster-2.
 
 == Delete a cluster from the inventory file
 
-In case you do not want to apply firmware updates on a particular cluster, you can remove it from the inventory file.
+In case you do not want to apply firmware updates on a particular cluster, you can remove the cluster from the inventory file.
 
-For example, if you do not want to apply disk firmware updates on cluster-2, you can remove it from the inventory file by using the following command:
+For example, if you do not want to apply disk firmware updates on cluster-2, you can remove it from the inventory file using the following command:
 
 ----
 clusters:
@@ -62,7 +62,7 @@ clusters:
 
 You can observe that all the data for cluster-2 has been deleted.
 
-If you want to apply only disk firmware updates on cluster-1 and not shelf firmware updates, you can do so by using the following command:
+If you want to apply only disk firmware updates on cluster-1 and not shelf firmware updates, you can do so using the following command:
 
 ----
 clusters:

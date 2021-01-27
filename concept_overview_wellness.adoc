@@ -15,7 +15,7 @@ summary: Provides information about the wellness, which helps you to improve you
 :imagesdir: ./media/
 
 [.lead]
-Wellness provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
+Wellness widget provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
 
 image:wellness_workflow.png[wellness workflow]
 

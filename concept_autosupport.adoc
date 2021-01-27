@@ -18,7 +18,7 @@ summary: Provides an overview of AutoSupport.
 
 AutoSupport is a telemetry mechanism that proactively monitors the health of your system and automatically sends configuration, status, performance, and system events data to NetApp.
 
-This data is used by NetApp Technical Support to speed the diagnosis and resolution of issues, and by Active IQ to proactively detect and avoid potential issues. It can also be sent to your internal support organization, and a support partner.
+This data is used by NetApp Technical Support to speed the diagnosis and resolution of issues, and by Active IQ to proactively detect and avoid potential issues. It can also be sent to your internal support organization and a support partner.
 
 NOTE: AutoSupport data does not contain any user data.
 

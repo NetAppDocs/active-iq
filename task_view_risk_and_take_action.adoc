@@ -18,7 +18,7 @@ summary: Provides information to view and analyze the wellness of your storage s
 You can analyze the wellness attributes of your storage system by viewing the actions and risks associated with them. You should view the associated corrective actions and manually mitigate the risk.
 
 .Steps
-. Click the wellness attribute widget on the dashboard or click *View All Actions* to view the list of all the actions and risks.
+. Click the *Wellness*  widget on the dashboard or click *View All Actions* to view the list of all the actions and risks.
 . View the *Actions* and *Risks* associated with the wellness attribute.
 . Click *Actions* to view the risks associated with the actions, click *Risks* to view all the risks, or click *Affected Systems* to view the systems that require attention.
 . Click the risk name to view information about the risk.

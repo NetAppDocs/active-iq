@@ -15,7 +15,7 @@ summary: Provides information to view the risks that can be automatically remedi
 :imagesdir: ./media/
 
 [.lead]
-You can analyze your storage system by viewing the actions and risks and mitigate them using Active IQ Unified Manager or Ansible Playbook.
+You can analyze your storage system by viewing the actions and risks, and mitigate them using Active IQ Unified Manager or Ansible Playbook.
 
 video::XusFvXM7h-E[youtube, width=848, height=480]
 
@@ -36,7 +36,7 @@ a|
 . Click *Upgrade* to upgrade to Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
 a|
 . Click the image:update_ansible.png[Update Ansible] icon.
-. Click Download to download the AFF and FAS firmware Ansible Automation package.
+. Click *Download* to download the AFF and FAS firmware Ansible Automation package.
 |===
 
 NOTE: A SupportEdge Advisor or SupportEdge Expert contract is required to use the *Fix It* option and the Ansible Playbook features.

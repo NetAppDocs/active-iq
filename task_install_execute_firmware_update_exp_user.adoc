@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_install_execute_firmware_update_exp_user.html
 keywords: install, execute, firmware update, Ansible Playbook, ansible, playbook, docker, experienced user
-summary: Provides information to install and execute firmware update using Ansible Playbook.
+summary: Provides information on how to install and execute firmware update using Ansible Playbook.
 ---
 
 = Install and execute AFF and FAS firmware Ansible automation package (Experienced Users)
@@ -15,7 +15,7 @@ summary: Provides information to install and execute firmware update using Ansib
 :imagesdir: ./media/
 
 [.lead]
-Experienced users can follow the steps below to install and execute the AFF and FAS firmware ansible automation package quickly.
+Experienced users can install and execute the AFF and FAS firmware ansible automation package quickly.
 
 == Firmware update with Ansible using NetApp Docker Image
 
@@ -28,7 +28,7 @@ Using default tag: latest
 latest: Pulling from schmots1/netapp-ansible
 docker.io/schmots1/netapp-ansible:latest
 ----
-. Run the docker image as container on the Linux host:
+. Run the docker image as a container on the Linux host:
 +
 ----
 $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
@@ -46,7 +46,7 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-NOTE: If the URLs for disk firmware, shelf firmware, and service processor firmware are *\http://<web-server>/path/all_shelf_fw.zip*, *\http://<web-server>/path/all.zip* and  *\http://<web-server>/path/<SP/BMC>_<version_number>_fw.zip*, provide *\http://<web-server>/path/* as the input for the base URL to the firmware package. If there are set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
+NOTE: If the URLs for disk firmware, shelf firmware, and service processor firmware are *\http://<web-server>/path/all_shelf_fw.zip*, *\http://<web-server>/path/all.zip* and  *\http://<web-server>/path/<SP/BMC>_<version_number>_fw.zip*, provide *\http://<web-server>/path/* as the input for the base URL to the firmware package. If there are a set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
 
 . Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed:
 +
@@ -94,7 +94,7 @@ Enter the password for your ONTAP admin user: ****
 Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
 PLAY [ONTAP Firmware Upgrade] ****************************************************************
 ----
-NOTE: If the URLs for disk firmware, shelf firmware, and service processor firmware are *\http://<web-server>/path/all_shelf_fw.zip*, *\http://<web-server>/path/all.zip* and  *\http://<web-server>/path/<SP/BMC>_<version_number>_fw.zip*, provide *\http://<web-server>/path/* as the input for the base URL to the firmware package. If there are set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
+NOTE: If the URLs for disk firmware, shelf firmware, and service processor firmware are *\http://<web-server>/path/all_shelf_fw.zip*, *\http://<web-server>/path/all.zip* and  *\http://<web-server>/path/<SP/BMC>_<version_number>_fw.zip*, provide *\http://<web-server>/path/* as the input for the base URL to the firmware package. If there are a set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
 
 . Log in to the cluster as the cluster administrator and verify that the new drive firmware has been installed:
 +
