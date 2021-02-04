@@ -68,8 +68,8 @@ You can use the reports feature to generate reports immediately or schedule a re
 === Manual AutoSupport Upload
 Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
 
-=== Keystone
-You can monitor your committed, consumed, and burst storage capacity using Keystone.
+=== NetApp Keystone
+You can monitor your committed, consumed, and burst storage capacity using NetApp Keystone.
 
 == 30 September 2020
 This update includes the following new features, enhancements, and changes:
