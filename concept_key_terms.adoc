@@ -64,11 +64,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
 
-*Cloud ready workloads:* Provides information about the different types of workloads available within your storage system and identify the workloads that you should move to the cloud. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
-
-You can move workloads and volumes that are running on Oracle, SAP, SAP Hana, File Share, SQL, and SharePoint.
-
-NetApp® Cloud Volumes helps in moving workloads and volumes to the cloud by delivering extreme performance and advanced data management capabilities to satisfy even your most demanding applications in the cloud. For more information about using NetApp® Cloud Volumes, see the link:https://docs.netapp.com/us-en/occm/task_managing_ontap.html[Cloud Manager] documentation.
+*Cloud ready workloads:* Provides information about the different types of workloads available within your storage system and identify the workloads that you should move to the cloud. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery. You can move workloads and volumes that are running on Oracle, SAP, SAP Hana, File Share, SQL, and SharePoint. NetApp® Cloud Volumes helps in moving workloads and volumes to the cloud by delivering extreme performance and advanced data management capabilities to satisfy even your most demanding applications in the cloud. For more information about using NetApp® Cloud Volumes, see the link:https://docs.netapp.com/us-en/occm/task_managing_ontap.html[Cloud Manager] documentation.
 
 * *FabricPool Advisor:* Enables you to monitor the status of your data. Data has been classified as active or hot, tiered, inactive or cold, and data without Inactive Data Reporting (IDR) enabled. You can also download the information in XLSX format.
 
