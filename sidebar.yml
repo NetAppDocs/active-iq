@@ -47,7 +47,7 @@ entries:
         url: /task_view_cluster_and_node_configuration.html
       - title: View valuable insights
         url: /task_view_valuable_insight_widget.html
-      - title: View NetApp Keystone capacity utilization
+      - title: View Flex Subscription capacity utilization
         url: /task_view_keystone_capacity_utilization.html
   - title: Identify system requirements proactively
     entries:
