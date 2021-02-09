@@ -17,6 +17,12 @@ summary: Provides information about the new features in the release.
 [.lead]
 Active IQ typically introduces a new release every month to bring you the new features and enhancements.
 
+== 10 February 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Cloud ready workloads
+You can understand about the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
+
 == 21 December 2020
 This update includes the following new features, enhancements, and changes:
 
