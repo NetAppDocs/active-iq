@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
+keywords: FabricPool, FabricPool Advisor, inactive data, tiered data, IDR
+summary: Provides information on tiering inactive data with FabricPool Advisor.
+---
+
+= Monitor and tier inactive data with FabricPool Advisor
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can reduce your storage footprint and associated costs by monitoring and tiering your cold or inactive data to low-cost object storage tiers.
+
+The FabricPool dashboard displays details of your inactive local tier (aggregate) data, inactive volume data, tiered data, and data without Inactive Data Reporting (IDR) enabled. This information is available at customer, site, group, watchlist, cluster, and node levels. 
+
+If there is more than 60% inactive volume data, you can tier the data to low-cost object storage tiers using Cloud Manager. For more information on cloud tiering, refer to link:https://docs.netapp.com/us-en/occm/concept_cloud_tiering.html[Learn about Cloud Tiering].
+
+.Steps
+. Select *FabricPool* from the left navigation pane.
+. Click *Tier Data* to tier the data using Cloud Manager.
