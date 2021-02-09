@@ -74,7 +74,7 @@ You can use the reports feature to generate reports immediately or schedule a re
 === Manual AutoSupport Upload
 Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
 
-=== Keystone Widget
+=== Keystone widget
 You can monitor the committed, consumed, and burst storage capacity for your NetApp Keystone Flex Subscription Service.
 
 == 30 September 2020
