@@ -71,6 +71,8 @@ entries:
         url: /task_analyze_storage_efficiency.html
       - title: Analyze storage performance
         url: /task_view_performance_graphs.html
+  - title: Monitor and tier inactive data with FabricPool Advisor
+    url: /task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
   - title: Analyze the health of your storage system
     entries:
       - title: Overview
