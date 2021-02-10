@@ -20,6 +20,9 @@ Active IQ typically introduces a new release every month to bring you the new fe
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
 
+=== FabricPool Advisor
+The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp® Cloud Manager.
+
 === Cloud ready workloads
 You can understand about the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
 
