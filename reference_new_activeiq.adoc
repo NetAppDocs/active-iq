@@ -24,7 +24,7 @@ This update includes the following new features, enhancements, and changes:
 The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp® Cloud Manager.
 
 === Cloud ready workloads
-You can understand about the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
+You can view the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
 
 == 21 December 2020
 This update includes the following new features, enhancements, and changes:
