@@ -76,3 +76,5 @@ Used Capacity at the node level includes space reserved by volumes, metadata, an
 
 == Are Capacities shown in Active IQ Digital Advisor Base 2 or Base 10?
 All capacities displayed in Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. ONTAP storage and other NetApp products also display capacity usage in Base 2.
+
+For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.

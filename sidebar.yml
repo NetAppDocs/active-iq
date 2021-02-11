@@ -47,7 +47,7 @@ entries:
         url: /task_view_cluster_and_node_configuration.html
       - title: View valuable insights
         url: /task_view_valuable_insight_widget.html
-      - title: View Keystone capacity utilization
+      - title: View Flex Subscription capacity utilization
         url: /task_view_keystone_capacity_utilization.html
   - title: Identify system requirements proactively
     entries:
@@ -71,6 +71,8 @@ entries:
         url: /task_analyze_storage_efficiency.html
       - title: Analyze storage performance
         url: /task_view_performance_graphs.html
+  - title: Monitor and tier inactive data with FabricPool Advisor
+    url: /task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
   - title: Analyze the health of your storage system
     entries:
       - title: Overview
