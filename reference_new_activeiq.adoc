@@ -30,15 +30,15 @@ This release provides the following functionality:
 * *Inventory widget:* View inventory of StorageGRID systems available under the selected level.
 * *Wellness widget:* View all the Risks and Actions, including the ones related to StorageGRID if they are applicable based on existing ARS rules for the available systems.
 * *Planning widget:*
-** *Capacity Addition:* For any GRID sites that are exceeding the threshold of 70% of existing capacity, you’ll be notified. It also provides a forecast for the next 1, 3, 6, & 9 months if the capacity threshold is likely to exceed 70%.
+** *Capacity Addition:* For any GRID sites that are exceeding the threshold of 70% of existing capacity, you’ll be notified. You have the option to add capacity for the Storage Grids in the site, for the next 1, 3, & 6months if the capacity threshold is likely to exceed 70%.
 ** *Renewals:* For any StorageGRID systems for which the license contract that is either expired or nearing expiration in the next 6 months, you’ll be notified. You can select one or more systems to raise a request to the NetApp support team for renewal.
 * *GRID dashboard:* The GRID dashboard provides wellness, planning, and configuration details for the selected GRID.
 * *Configuration widget:* Provides basic details of the selected StorageGRID in the widget, such as GRID Name, Host Name, Serial Number, Model, OS Version, Customer Name, Shipped Location, and Contact Details.
-* *GRID Viewer:* Under the configuration section, you can view the GRID configuration in detail by clicking the *GRID Viewer* link.
-* *GRID summary:* Contains basic information, such as License Type, License Capacity, # of installed nodes, Support Term (Date of termination of license contract), Primary Admin Node, and Primary Site of the Primary Admin Node
-* *Site details:* Contains site name and the number of storage nodes tagged under the corresponding site. In this release, you can view the list of node names upon clicking the hyperlink available for viewing storage nodes for the corresponding site.
-* *Capacity Details tab:* Provides the capacity details configured for the GRID and respective sites under the selected GRID.
-* *GRID Viewer (Configuration Details) as Download:* You can download the site details and capacity details for the selected StorageGRID by clicking on the *Download* button.
+* *GRID Viewer:* From the *Configuration* widget, you can view the GRID configuration in detail by clicking the *GRID Viewer* link.
+* *Site details:* This tab provides the Grid Summary and Storage Nodes available for each site.
+* *GRID summary:* Contains basic information, such as License Type, License Capacity, number of installed nodes, Support Term (Date of termination of license contract), Primary Admin Node, and Primary Site of the Primary Admin Node. This tab also provides the Site name and the number of storage nodes tagged under the corresponding site. In this release, you can view the list of node names upon clicking the hyperlink available for viewing storage nodes for the corresponding site.
+* *Capacity Details tab:* Provides the Grid Level and Site capacity details configured for the GRID. The Capacity details, such as Installed Storage Capacity, Available Storage Capacity, Total Used Storage Capacity, and Capacity used for Data and Metadata. These details are available at both the Grid and Site levels.
+* *GRID Viewer (Configuration Details) as Download:* You can download the site details and capacity details for the selected StorageGRID by clicking the *Download* button in the Grid Viewer screen.
 
 === FabricPool Advisor
 The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp® Cloud Manager.
