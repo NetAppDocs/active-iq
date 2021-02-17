@@ -38,7 +38,6 @@ This release provides the following functionality:
 * *Site details:* This tab provides the Grid Summary and Storage Nodes available for each site.
 * *GRID summary:* Contains basic information, such as License Type, License Capacity, number of installed nodes, Support Term (Date of termination of license contract), Primary Admin Node, and Primary Site of the Primary Admin Node. This tab also provides the Site name and the number of storage nodes tagged under the corresponding site. In this release, you can view the list of node names upon clicking the hyperlink available for viewing storage nodes for the corresponding site.
 * *Capacity Details tab:* Provides the Grid Level and Site capacity details configured for the GRID. The Capacity details, such as Installed Storage Capacity, Available Storage Capacity, Total Used Storage Capacity, and Capacity used for Data and Metadata. These details are available at both the Grid and Site levels.
-* *GRID Viewer (Configuration Details) as Download:* You can download the site details and capacity details for the selected StorageGRID, by clicking the *Download* button, in the *Grid Viewer* screen.
 
 === FabricPool Advisor
 The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp® Cloud Manager.
