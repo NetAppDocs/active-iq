@@ -5,7 +5,7 @@ keywords: Active IQ, capacity, snapshot copies, physical used space, logical use
 summary: Answers FAQs on capacity.
 ---
 
-= FAQs
+= Capacity FAQs
 :hardbreaks:
 :nofooter:
 :icons: font
