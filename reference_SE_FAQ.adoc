@@ -5,7 +5,7 @@ keywords: Active IQ, storage efficiency, FAQs, storage efficiency
 summary: Answers FAQs on storage efficiency.
 ---
 
-= FAQs
+= Storage efficiency FAQs
 :hardbreaks:
 :nofooter:
 :icons: font

@@ -15,7 +15,7 @@ summary: Provides information about the new features in the release.
 :imagesdir: ./media/
 
 [.lead]
-Active IQ typically introduces a new release every month to bring you the new features and enhancements.
+The following are the new features and enhancements.
 
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
@@ -34,11 +34,10 @@ This release provides the following functionality:
 ** *Renewals:* For any StorageGRID systems for which the license contract has expired or is nearing expiration in the next 6 months, you’ll be notified. You can select one or more systems to raise a request to the NetApp support team for renewal.
 * *GRID dashboard:* The GRID dashboard provides wellness, planning, and configuration details for the selected GRID.
 * *Configuration widget:* Provides basic details of the selected StorageGRID in the widget, such as GRID Name, Host Name, Serial Number, Model, OS Version, Customer Name, Shipped Location, and Contact Details.
-* *GRID Viewer:* From the *Configuration* widget, you can view the GRID configuration in detail by clicking the *GRID Viewer* link.
+* *GRID Viewer:* From the *Configuration* widget, you can view the GRID configuration in detail by clicking the *GRID Viewer* link. From the *Configuration* widget, you can download the Site Details and Capacity Details for the selected StorageGRID by clicking the *Download* button in the *Grid Viewer* screen.
 * *Site details:* This tab provides the Grid Summary and Storage Nodes available for each site.
 * *GRID summary:* Contains basic information, such as License Type, License Capacity, number of installed nodes, Support Term (Date of termination of license contract), Primary Admin Node, and Primary Site of the Primary Admin Node. This tab also provides the Site name and the number of storage nodes tagged under the corresponding site. In this release, you can view the list of node names upon clicking the hyperlink available for viewing storage nodes for the corresponding site.
 * *Capacity Details tab:* Provides the Grid Level and Site capacity details configured for the GRID. The Capacity details, such as Installed Storage Capacity, Available Storage Capacity, Total Used Storage Capacity, and Capacity used for Data and Metadata. These details are available at both the Grid and Site levels.
-* *GRID Viewer (Configuration Details) as Download:* You can download the site details and capacity details for the selected StorageGRID, by clicking the *Download* button, in the *Grid Viewer* screen.
 
 === FabricPool Advisor
 The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp® Cloud Manager.
