@@ -20,6 +20,18 @@ The following are the new features and enhancements.
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
 
+=== Config Drift
+
+This release provides the following functionality:
+
+* Ability to edit attributes during template creation.
+* Grouping of AutoSupport sections. 
+* Generate config drift report across customer, site, group, and watchlist.
+* Schedule a config drift report.
+
+== 10 February 2021
+This update includes the following new features, enhancements, and changes:
+
 === StorageGRID
 StorageGRID Dashboard is enabled using the NextGen API framework.
 
