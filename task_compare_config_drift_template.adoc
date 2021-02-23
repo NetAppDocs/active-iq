@@ -38,5 +38,4 @@ a|
 . Select the start date and end date for the report.
 . Click *Submit*.
 |===
-+
 An email is sent with the details of the configuration deviation between the selected systems.

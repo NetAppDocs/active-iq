@@ -17,7 +17,7 @@ summary: Provides information about the new features in the release.
 [.lead]
 The following are the new features and enhancements.
 
-== 10 February 2021
+== 24 February 2021
 This update includes the following new features, enhancements, and changes:
 
 === Config Drift
@@ -25,7 +25,7 @@ This update includes the following new features, enhancements, and changes:
 This release provides the following functionality:
 
 * Ability to edit attributes during template creation.
-* Grouping of AutoSupport sections. 
+* Grouping of AutoSupport sections.
 * Generate config drift report across customer, site, group, and watchlist.
 * Schedule a config drift report.
 
