@@ -26,8 +26,7 @@ This release provides the following functionality:
 
 * Ability to edit attributes during template creation.
 * Grouping of AutoSupport sections.
-* Generate config drift report across customer, site, group, and watchlist.
-* Schedule a config drift report.
+* Generate or schedule a config drift report across customer, site, group, watchlist, cluster, and hostname. link:task_compare_config_drift_template.html[Learn how].
 
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
