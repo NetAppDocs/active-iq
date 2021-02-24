@@ -28,6 +28,9 @@ This release provides the following functionality:
 * Grouping of AutoSupport sections.
 * Generate or schedule a config drift report across customer, site, group, watchlist, cluster, and hostname. link:task_compare_config_drift_template.html[Learn how].
 
+=== Reports
+You can generate or schedule capacity and efficiency reports to view detailed information on the capacity and storage efficiency savings of your system. 
+
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
 
