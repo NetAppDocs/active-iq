@@ -21,4 +21,5 @@ You should add a template to compare the system and cluster configurations and d
 . From the left pane, click *Config Drift*.
 . Click *Add Template*.
 . Provide the requested values.
+. Optional: Click *Edit* to edit the template.
 . Click *Add Template*.

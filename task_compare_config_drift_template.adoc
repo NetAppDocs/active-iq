@@ -20,8 +20,22 @@ You can compare the system and cluster configurations and detect the configurati
 .Steps
 . From the left pane, click *Config Drift*.
 . Select one of the existing templates or click *Add Template* to add a new template.
-. Optional: Click *Edit* to edit the template or click *Delete* to delete a template.
-. In the *Compare Template* section, provide the values of the template to compare.
-. Click *Generate Report*.
+. Generate a config drift report
 +
+You can generate a report immediately or you can schedule the report to be generated on a weekly or monthly basis.
+
+[cols=2*,options="header", cols="50,50"]
+|===
+| To generate a report immediately
+| To schedule the report to be generated on a weekly or monthly basis
+a|
+. Select a category and provide the requested values for the report.
+. Click *Submit*.
+a|
+. Click the *Schedule Report* tab.
+. Select a category and provide the requested values for the report.
+. Select the frequency of the report.
+. Select the start date and end date for the report.
+. Click *Submit*.
+|===
 An email is sent with the details of the configuration deviation between the selected systems.
