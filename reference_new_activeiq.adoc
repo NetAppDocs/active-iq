@@ -17,6 +17,20 @@ summary: Provides information about the new features in the release.
 [.lead]
 The following are the new features and enhancements.
 
+== 24 February 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Config Drift
+
+This release provides the following functionality:
+
+* Ability to edit attributes during template creation.
+* Grouping of AutoSupport sections.
+* Generate or schedule a config drift report across customer, site, group, watchlist, cluster, and hostname. link:task_compare_config_drift_template.html[Learn how].
+
+=== Reports
+You can generate or schedule Capacity and Efficiency reports to view detailed information on the capacity and storage efficiency savings of your system. 
+
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
 
