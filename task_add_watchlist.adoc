@@ -5,7 +5,7 @@ keywords: dashboard, watchlist, add watchlist
 summary: Provides information to add a watchlist to the dashboard.
 ---
 
-= Add a watchlist to the Dashboard
+= Create a watchlist
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,18 +15,17 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-You can create a watchlist to access preselected systems inside Active IQ Digital Advisor quickly and easily. You should create a new dashboard to add a watchlist.
+You can create a watchlist to access a set of systems  quickly and easily. You can combine the set of systems based on the category, serial number, incumbent reseller, sales representative, and location.
 
 .Steps
-. Click *+ Add New Dashboard*.
+. From the left pane, click *Watchlists*
 +
-You can import an existing watchlist or create a watchlist.
+The *Manage Watchlist* screen is displayed.
+. Click *Create Watchlist*.
 . Provide a name for the watchlist.
-. Select a *Category* or *Serial Number*, and follow the steps in the Dashboard to add systems to the watchlist.
+. Provide the details of the systems that you want to add to the watchlist.
 +
 You can add a maximum of 15,000 systems under a category and 500 systems under a serial number.
-. Click *Next*.
-. Provide a name for the dashboard.
-. Select the widgets to be added to the dashboard.
-. Optionally, you can make this dashboard as your default dashboard.
-. Click *Create* to add the watchlist to the dashboard.
+. Click *Create Watchlist*.
++
+The watchlist dashboard is displayed.

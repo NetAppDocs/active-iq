@@ -5,7 +5,7 @@ keywords: overview, provision, dashboard, widget, watchlist
 summary: Provides information about the dashboard, watchlists, and the widgets.
 ---
 
-= Understand Active IQ Dashboard
+= Understand watchlist
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,10 +16,8 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 
 [.lead]
 
-The Active IQ Digital Advisor Dashboard displays information about the overall status of your storage system. It displays high-level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level.
+Watchlist are used to access preselected systems inside Active IQ Digital Advisor quickly and easily. If you view a certain customer or a set of systems frequently, we recommend you create watchlists. You can create up to 50 watchlists and each watchlist can contain up to 15,000 systems by category or 500 systems by serial numbers.
 
-When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 50 dashboards and add watchlists to these dashboards.
+When you access Active IQ Digital Advisor for the first time, you can either create a watchlist or search for a category of systems.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
-
-video::ITgFFwjJfjA[youtube, width=848, height=480]

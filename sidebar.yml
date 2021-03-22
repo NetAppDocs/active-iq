@@ -19,12 +19,14 @@ entries:
         url: /concept_autosupport.html
       - title: Log in to Active IQ Digital Advisor
         url: /task_login_activeiq.html
-  - title: Provision dashboard
+  - title: Provision watchlist
     entries:
       - title: Overview
         url: /concept_overview_dashboard.html
-      - title: Add a watchlist to the dashboard
+      - title: Create a watchlist
         url: /task_add_watchlist.html
+      - title: Manage a watchlist
+        url: /task_manage_watchlists.html
   - title: Analyze wellness attributes
     entries:
       - title: Overview
