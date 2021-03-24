@@ -17,6 +17,12 @@ summary: Provides information about the new features in the release.
 [.lead]
 The following are the new features and enhancements.
 
+== 01 April 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Watchlist
+When you access Active IQ Digital Advisor for the first time, you should now create a watchlist instead of a dashboard. You can also view the dashboard for different watchlists, edit the details of an existing watchlist, share a watchlist, and delete a watchlist.
+
 == 24 February 2021
 This update includes the following new features, enhancements, and changes:
 
@@ -29,7 +35,7 @@ This release provides the following functionality:
 * Generate or schedule a config drift report across customer, site, group, watchlist, cluster, and hostname. link:task_compare_config_drift_template.html[Learn how].
 
 === Reports
-You can generate or schedule Capacity and Efficiency reports to view detailed information on the capacity and storage efficiency savings of your system. 
+You can generate or schedule Capacity and Efficiency reports to view detailed information on the capacity and storage efficiency savings of your system.
 
 == 10 February 2021
 This update includes the following new features, enhancements, and changes:
