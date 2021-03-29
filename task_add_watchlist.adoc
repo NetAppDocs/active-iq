@@ -15,7 +15,7 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-You can create a watchlist to access a set of systems  quickly and easily. You can combine the set of systems based on the category, serial number, incumbent reseller, sales representative, and location.
+You can create a watchlist to access a set of systems  quickly and easily. You can combine the set of systems based on the category or location.
 
 .Steps
 . From the left pane, click *Watchlists*
