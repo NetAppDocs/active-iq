@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_manage_watchlists.html
 keywords: dashboard, watchlist, add watchlist
-summary: Provides information to add a watchlist to the dashboard.
+summary: Provides information to manage watchlists.
 ---
 
 = Manage a watchlist
@@ -15,7 +15,7 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-You can view the dashboard for different watchlists, edit the details of an existing watchlist, share a watchlist, and delete a watchlist.
+You can view the dashboard for different watchlists, edit the details of an existing watchlist, and delete a watchlist.
 
 .Steps
 . From the left pane, click *Watchlists*.
@@ -23,5 +23,4 @@ You can view the dashboard for different watchlists, edit the details of an exis
 The *Manage Watchlist* screen is displayed.
 . Click the name of the watchlist to view the dashboard details of the watchlist.
 . Click *Edit* to update the details of the watchlist.
-. Click *Share* to share the watchlist.
 . Click *Delete* to delete the watchlist.
