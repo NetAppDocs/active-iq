@@ -15,15 +15,15 @@ summary: Provides information about the dashboard, watchlists, features, and the
 :imagesdir: ./media/
 
 [.lead]
-The Active IQ Digital Advisor Dashboard displays information about the overall status of your storage system. It displays high-level information about wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level. You can also view the wellness score of the dashboard. Wellness score provides customers with a consolidated score of their installed base based on the number of high risks and the expired contracts.
+You can view the overall status of your storage system, high-level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level using Active IQ Digital Advisor.
 
-When you access Active IQ Digital Advisor for the first time, by default, the information populated in the dashboard is based on your customer ID. You can then create a maximum of 50 dashboards and add watchlists to these dashboards.
+When you access Active IQ Digital Advisor for the first time, you can either create a watchlist or search for a customer name, site name, group name, StorageGRID, hostname, cluster, serial number, or system ID.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
 
-From the Active IQ Digital Advisor Dashboard you can:
+The following are some of the features of Active IQ Digital Advisor:
 
-* View multiple dashboards, actionable and useful at-a-glance views of information
+* View multiple watchlists, actionable and useful at-a-glance views of information
 * Gain insights regarding all the risks to your storage system and the actions to mitigate the risks
 * Mitigate risks using Active IQ Unified Manager
 * Upgrade your storage system
