@@ -15,7 +15,7 @@ summary: Provides information about the dashboard, watchlists, features, and the
 :imagesdir: ./media/
 
 [.lead]
-The Active IQ Digital Advisor displays information about the overall status of your storage system. It displays high-level information about wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level.
+You can view the overall status of your storage system, high-level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level using Active IQ Digital Advisor.
 
 When you access Active IQ Digital Advisor for the first time, you can either create a watchlist or search for a customer name, site name, group name, StorageGRID, hostname, cluster, serial number, or system ID.
 
