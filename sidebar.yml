@@ -19,12 +19,14 @@ entries:
         url: /concept_autosupport.html
       - title: Log in to Active IQ Digital Advisor
         url: /task_login_activeiq.html
-  - title: Provision dashboard
+  - title: Provision watchlist
     entries:
       - title: Overview
         url: /concept_overview_dashboard.html
-      - title: Add a watchlist to the dashboard
+      - title: Create a watchlist
         url: /task_add_watchlist.html
+      - title: Manage a watchlist
+        url: /task_manage_watchlists.html
   - title: Analyze wellness attributes
     entries:
       - title: Overview
@@ -111,7 +113,7 @@ entries:
         url: /concept_overview_API_service.html
       - title: Generate tokens to access APIs
         url: /task_generate_tokens_API_services.html
-      - title: View API catalog
+      - title: Use the API Catalog to execute APIs
         url: /task_view_API_catalog.html
   - title: Generate reports
     url: /task_generate_reports.html

@@ -5,7 +5,7 @@ keywords: API Catalog, APIs, integrate data, view catalog
 summary: Provides information about the APIs available in the API Catalog.
 ---
 
-= View the API Catalog
+= Use the API Catalog to execute APIs
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -21,9 +21,10 @@ Using a valid Access Token and correct inputs for the required fields, you can m
 
 .Steps
 . From the *Quick Links* menu, click *API Services*.
-. Click *Browse* under the *API Catalog* icon.
+. Click link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction[*Browse*] under the *API Catalog* icon.
 +
 The API Catalog is displayed.
+. Select any API
 . At the top of the page, slide the toggle to “Experiment”.
 . From the left navigation, expand the categories and select any API to view detailed information.
 . Expand the API.

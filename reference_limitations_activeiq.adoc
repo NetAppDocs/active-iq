@@ -51,3 +51,6 @@ The following features which exist in Active IQ Classic will also be available s
 * Download performance Reports in PNG/JPG format
 * Newsletter Subscriptions
 * Capacity Forecast
+
+=== Editing a watchlist may take 60 minutes to reflect in Active IQ Digital Advisor
+Editing a watchlist does not update the information in Active IQ Digital Advisor immediately. It may take up to 60 minutes for the changes to reflect in Active IQ Digital Advisor.

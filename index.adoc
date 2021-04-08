@@ -25,7 +25,7 @@ The new version of Active IQ, known as Active IQ Digital Advisor, is simple and 
 
 NOTE: You must have valid NetApp Support site credentials to log in. If you do not have an account and are just getting started with NetApp Support, please visit - https://mysupport.netapp.com/info/web/ECMP1150550.html
 
-Active IQ displays systems with a valid support contract. If contracts expire, there is a grace period of 90 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
+Active IQ displays systems with a valid support contract. If contracts expire, there is a grace period of 30 days during which the systems continue to be visible. Thereafter, the systems are not searchable or visible within Active IQ.
 
 === Documentation and Support
 
