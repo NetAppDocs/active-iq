@@ -54,3 +54,6 @@ The following features which exist in Active IQ Classic will also be available s
 
 === Editing a watchlist may take 60 minutes to reflect in Active IQ Digital Advisor
 Editing a watchlist does not update the information in Active IQ Digital Advisor immediately. It may take up to 60 minutes for the changes to reflect in Active IQ Digital Advisor.
+
+=== A blank report is displayed while scheduling reports
+Scheduled reports are available only with a SupportEdge Advisor or a SupportEdge Expert support contract. If your systems are not under SupportEdge Advisor or a SupportEdge Expert support contract, you may get a blank report while scheduling reports.
