@@ -1,0 +1,34 @@
+---
+sidebar: sidebar
+permalink: task_avoid_the_downtime_and_possible_data_loss.html
+keywords: downtime, data loss, avoid downtime, avoid data loss
+summary: Provides information on how to avoid the downtime and possible data loss.
+---
+
+= Avoid the downtime and possible data loss
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+When you log in to the Active IQ Digital Advisor and notice the red badge on the *Availability and Protection* widget, you can take actions to fix critical risks. Without the firmware fix, these drives are vulnerable to become inoperable after a certain number of hours of being powered on. Fixing this would avoid both the downtime and possible data loss.
+
+.Steps
+. Log in to the Active IQ Digital Advisor.
+. Click *Actions* in the *Availability & Protection* widget.
+image:availabilty and protection_image 1_Scenario 2.png[Availability & Protection widget]
++
+For the high-impact security risks, follow the recommended action that is to update disk firmware.
++
+. Click the *Risk Name* link for viewing risk summary.
+image:risk summary _image 4_scenario 2.png[Risk summary]
+. Click the *Unique Risks* tab, and then click the link in the *Corrective Action* column.
+image:corrective action_image 3_scenario 2.png[Corrective action]
++
+Active IQ Digital Advisor generates custom Ansible scripts or playbooks to update the required disk firmware, including the disk firmware files.
+. Click the *Ansible “A”* icon to generate and download the scripts.
+image:update AFF and FAS firmware_image 5_Scenario 2.png[AFF and FAS firmware]
