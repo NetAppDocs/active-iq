@@ -22,5 +22,5 @@ Fixing this issue would avoid a volume filling up, which would make it go read-o
 . Log in to Active IQ Digital Advisor.
 . Click *Actions* in the *Configuration* widget.
 image:configuration_image 1_scenario 3.png[Configuration widget]
-. 3.	Click the *Unique Risks* tab. Upon clicking the *Corrective Action* link, you can either change the warning thresholds or allocate more space to the volume.
+. Click the *Unique Risks* tab. Upon clicking the *Corrective Action* link, you can either change the warning thresholds or allocate more space to the volume.
 image:risk summary_image 2_scenario 3.png[Risk summary]
