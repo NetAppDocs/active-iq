@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_task_avoid_a_volume_filling_up_to_prevent_an_outage/.html
+permalink: task_task_avoid_a_volume_filling_up_to_prevent_an_outage.html
 keywords: volume filling up, prevent an outage
 summary: Provides information on how to avoid a volume filling up to prevent an outage.
 ---
