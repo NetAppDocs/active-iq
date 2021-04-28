@@ -1,0 +1,29 @@
+---
+sidebar: sidebar
+permalink: task_analyze_wellness_clusters_and_nodes.html
+keywords: cluster, node, clusterviewer, configuration
+summary: Provides information on ClusterViewer.
+---
+
+= Analyze the wellness of clusters and nodes
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can analyze the wellness of your clusters and nodes using ClusterViewer, a one-stop source for information on the physical and logical configuration of your clusters and nodes.
+
+ClusterViewer provides information such as stack diagrams of your nodes, storage usage and efficiency, headroom in hardware capacity, and so on that helps you take informed decisions to improve the wellness of your clusters and nodes.
+
+You can view visualizations or graphical representations of the physical configuration of your nodes at cable, stack, and RAID Disk levels. You can also download the visualizations in SVG format.
+
+video::FVbb2bbIY9E[youtube, width=848, height=480]
+
+.Steps
+. In the *Inventory* widget, select the cluster or node (host) that you want.
+. At the cluster or node level, click *ClusterViewer* next to the *Configuration* widget.
+. Click the *Visualization* tab to view a graphical representation of the cluster.
