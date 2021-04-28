@@ -21,7 +21,7 @@ These risks are classified under four types of risks— *Unresolved*, *New*, *Re
 
 .Steps
 
-. On the dashboard, in the Wellness pane, click *View All Actions*.
+. On the dashboard, in the *Wellness* pane, click *View All Actions*.
 . Click *Wellness History*.
 . In the *Risk History* graph, click the category for which you want to view the risk history.
 +
