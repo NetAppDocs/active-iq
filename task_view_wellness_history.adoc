@@ -27,4 +27,4 @@ These risks are classified under four types of risks— *Unresolved*, *New*, *Re
 +
 When you hover over the colored bars, they display information on the number of risks in each category. Upon clicking the respective risk category, the information gets displayed in the *Risk Information* table.
 +
-. Click the *Download* icon to download risk summary in an Excel sheet.
+You can also download risk summary in an Excel sheet.
