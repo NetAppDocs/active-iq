@@ -17,6 +17,13 @@ summary: Provides information about the new features in the release.
 [.lead]
 The following are the new features and enhancements.
 
+== 29 April 2021
+This update includes the following new features, enhancements, and changes:
+
+* Here's how to protect your systems against hackers and Ransomware attacks. link:task_increase_protection_against_hackers_and_Ransomware_attacks[Learn how].
+* You can avoid the downtime and possible data loss. link:task_avoid_the_downtime_and_possible_data_loss.html[Learn how].
+* Learn how to avoid a volume filling up to prevent an outage. link:task_avoid_a_volume_filling_up_to_prevent_an_outage.html[Learn how].
+
 == 07 April 2021
 This update includes the following new features, enhancements, and changes:
 

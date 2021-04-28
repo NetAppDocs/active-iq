@@ -33,20 +33,26 @@ entries:
         url: /concept_overview_wellness.html
       - title: View the risk and manually take corrective actions
         url: /task_view_risk_and_take_action.html
+      - title: Increase protection against hackers and Ransomware attacks
+        url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
       - title: View and acknowledge the risk
         url: /task_view_and_acknowledge_risks.html
+      - title: View wellness history
+        url: /task_view_wellness_history.html
       - title: View the risks that can be automatically mitigated using Active IQ Unified Manager or Ansible Playbook
         url: /task_view_risks_remediated_unified_manager.html
+      - title: Avoid the downtime and possible data loss
+        url: /task_avoid_the_downtime_and_possible_data_loss.html
       - title: Subscribe to wellness review email
         url: /task_subscribe_to_wellness_review_email.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
+      - title: Analyze the wellness of clusters and nodes
+        url: /task_analyze_wellness_clusters_and_nodes.html
   - title: View system details
     entries:
       - title: View inventory details
         url: /task_view_inventory_details.html
-      - title: View cluster and node configuration
-        url: /task_view_cluster_and_node_configuration.html
       - title: View valuable insights
         url: /task_view_valuable_insight_widget.html
       - title: View Flex Subscription capacity utilization
@@ -57,6 +63,8 @@ entries:
         url: /concept_overview_planning.html
       - title: Identify systems reaching capacity limits
         url: /task_identify_capacity_system.html
+      - title: Avoid a volume filling up to prevent an outage
+        url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
   - title: Identify configuration deviations

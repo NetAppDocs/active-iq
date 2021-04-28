@@ -17,40 +17,12 @@ summary: Provides information about the limitations in the release.
 [.lead]
 Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
 
-=== Differences in features between Active IQ Classic and Active IQ Digital Advisor
-The following features which exist in Active IQ Classic are not planned to be added in Active IQ Digital Advisor due to low usage (unless otherwise noted):
+The following limitations exist:
 
 * For Data ONTAP storage systems operating in 7-Mode only (Data ONTAP storage systems operating in 7-Mode is nearing End of Support Life)
-** Upgrade Advisor - also deprecating clustered ONTAP < 9.0
-+
-Send us an mailto:ng-aiq-ticket@netapp.com[Email] to open a support ticket for upgrading your Data ONTAP storage systems operating in 7-Mode.
 ** Performance charts
 ** Storage efficiency
-* Performance Charts (see above for Data ONTAP storage systems operating in 7-Mode) (Most of the features have been moved to Active IQ Digital Advisor)
-** Node Headroom Confidence Factor
-** Node Disk Throughput
-** Cluster CPU Utilization
-** Cluster Latency
-** Cluster Disk Throughput
-* Event History (ONTAP node dashboard)
-* Flash Advisor
-* Cloud Control Recommendations
-* AutoSupport Notifications
-* AutoSupport Alerts – some of the features will be merged with wellness actions and risks
-* Protection Advisor – part of this will be available in DataCenter Viewer
-* Performance charts supporting guarantee program - this is being supported by AIQ Unified Manager
-
-The following features which exist in Active IQ Classic will also be available soon in Active IQ Digital Advisor:
-
-* Wellness actions history & trending
-* Notifications
-* ClusterViewer reporting PDF and Word reports
-* Scheduled report for capacity and efficiency
-* Workload tagging
-* Peak performance graph for Aggregate utilization
-* Download performance Reports in PNG/JPG format
-* Newsletter Subscriptions
-* Capacity Forecast
+* Upgrade Advisor will not support upgrade plans for clustered ONTAP earlier than 9.0.
 
 === Editing a watchlist may take 60 minutes to reflect in Active IQ Digital Advisor
 Editing a watchlist does not update the information in Active IQ Digital Advisor immediately. It may take up to 60 minutes for the changes to reflect in Active IQ Digital Advisor.
