@@ -17,7 +17,9 @@ summary: Provides information on ClusterViewer.
 [.lead]
 You can analyze the wellness of your clusters and nodes using ClusterViewer, a one-stop source for information on the physical and logical configuration of your clusters and nodes.
 
-ClusterViewer provides information such as a summary of the cluster and node configuration, network interface and port information, and so on. You can view visualizations or graphical representations of the physical configuration of your nodes at cable, stack, and RAID Disk levels. You can also download the visualizations in SVG format.
+ClusterViewer provides information such as stack diagrams of your nodes, storage usage and efficiency, headroom in hardware capacity, and so on that helps you take informed decisions to improve the wellness of your clusters and nodes.
+
+You can view visualizations or graphical representations of the physical configuration of your nodes at cable, stack, and RAID Disk levels. You can also download the visualizations in SVG format.
 
 video::FVbb2bbIY9E[youtube, width=848, height=480]
 
