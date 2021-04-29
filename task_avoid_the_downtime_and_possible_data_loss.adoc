@@ -20,15 +20,15 @@ When you log in to the Active IQ Digital Advisor and notice the red badge on the
 .Steps
 . Log in to the Active IQ Digital Advisor.
 . Click *Actions* in the *Availability & Protection* widget.
-image:availabilty and protection_image 1_Scenario 2.png[Availability & Protection widget]
+image:Availability and protection_image 1 downtime and data loss.png[Availability & Protection widget]
 +
 For the high-impact security risks, follow the recommended action that is to update disk firmware.
 +
 . Click the *Risk Name* link for viewing risk summary.
-image:risk summary _image 4_scenario 2.png[Risk summary]
+image:Risk summary_image 2 downtime and data loss.png[Risk summary]
 . Click the *Unique Risks* tab, and then click the link in the *Corrective Action* column.
-image:corrective action_image 3_scenario 2.png[Corrective action]
+image:Corrective action_image 3 downtime and data loss.png[Corrective action]
 +
 Active IQ Digital Advisor generates custom Ansible scripts or playbooks to update the required disk firmware, including the disk firmware files.
 . Click the *Ansible “A”* icon to generate and download the scripts.
-image:update AFF and FAS firmware_image 5_Scenario 2.png[AFF and FAS firmware]
+image:Update AFF and FAS Firmware_image 4 downtime and data loss.png[AFF and FAS firmware]
