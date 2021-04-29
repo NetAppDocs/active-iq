@@ -1,0 +1,30 @@
+---
+sidebar: sidebar
+permalink: task_view_wellness_history.html
+keywords: wellness history, risks, wellness, view all actions, risk history,
+summary: Provides information about system risks and how to view wellness history.
+---
+
+= View wellness history
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can view system risks occurring in the past three months, so that you can learn how they are faring overtime.
+
+These risks are classified under four types of risks— *Unresolved*, *New*, *Resolved*, and *Acknowledged*. They are represented by different colors. The summary of these risks is represented through a *Risk History* graph.
+
+.Steps
+
+. On the dashboard, in the *Wellness* pane, click *View All Actions*.
+. Click *Wellness History*.
+. In the *Risk History* graph, click the category for which you want to view the risk history.
++
+When you hover over the colored bars, they display information on the number of risks in each category. Upon clicking the respective risk category, the information gets displayed in the *Risk Information* table.
++
+You can also download risk summary in an Excel sheet.

@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: task_avoid_a_volume_filling_up_to_prevent_an_outage.html
+keywords: volume filling up, prevent an outage
+summary: Provides information on how to avoid a volume filling up to prevent an outage.
+---
+
+= Avoid a volume filling up to prevent an outage
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+When you log in to Active IQ Digital Advisor and notice the red badge on the *Configuration* widget. Upon clicking the widget, you see that the volume is 98% full and this might cause an outage. Fixing this issue would avoid a volume filling up, which would make it go read-only resulting in applications accessing it crash and fail.
+
+.Steps
+. Log in to Active IQ Digital Advisor.
+. Click *Actions* in the *Configuration* widget.
+image:Configuration_image 1 prevent an outage.png[Configuration widget]
+. Click the *Unique Risks* tab. Upon clicking the *Corrective Action* link, you can either change the warning thresholds or allocate more space to the volume.
+image:Risk summary_image 2 prevent an outage.png[Risk summary]
