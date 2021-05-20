@@ -17,6 +17,12 @@ summary: Provides information about the new features in the release.
 [.lead]
 The following are the new features and enhancements.
 
+== 20 May 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Drift Chat for capacity addition requests
+For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard.
+
 == 29 April 2021
 This update includes the following new features, enhancements, and changes:
 
