@@ -21,7 +21,7 @@ The following are the new features and enhancements.
 This update includes the following new features, enhancements, and changes:
 
 === Drift Chat for capacity addition requests
-For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard.
+For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard. link:task_identify_capacity_system.html[Learn how].
 
 == 29 April 2021
 This update includes the following new features, enhancements, and changes:
