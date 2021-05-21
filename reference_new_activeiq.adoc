@@ -17,6 +17,12 @@ summary: Provides information about the new features in the release.
 [.lead]
 The following are the new features and enhancements.
 
+== 20 May 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Drift Chat for capacity addition requests
+For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard. link:task_identify_capacity_system.html[Learn how].
+
 == 29 April 2021
 This update includes the following new features, enhancements, and changes:
 
@@ -165,7 +171,7 @@ Performance graphs have been enhanced to enable you to assess the cluster perfor
 The storage efficiency widget has been enhanced to enable you to view the storage efficiency ratio and savings at a cluster level. You can navigate and toggle between the node tab and the cluster tab on the same screen.
 
 === Update the default home page
-You can now provide your feedback and let us know the reason you are the updating the default home page screen for Active IQ.
+You can now provide your feedback and let us know the reason you are updating the default home page screen for Active IQ.
 
 === Update to the inventory widget
 The inventory widget has been enhanced to improve the user experience, by providing user-friendly date formats, additional columns for end of platform support and end of version support.
