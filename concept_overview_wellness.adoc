@@ -19,9 +19,9 @@ Wellness widget provides detailed information about your storage system. It prov
 
 image:wellness_workflow.png[wellness workflow]
 
-The wellness widget also provides information about the risks and the actions that should be taken to mitigate the risk for each wellness attribute. The following are the types of risks and the associated consequence for each risk.
+The wellness widget also provides information about the risks and the actions that should be taken to mitigate the risk for each wellness attribute. The following are the types of risks and the associated consequence for each risk:
 
-[cols=2*,options="header", cols="50,50"]
+[cols=2*,options="header", cols="25,75"]
 |===
 | Risk Type
 | Consequence
