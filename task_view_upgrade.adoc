@@ -17,6 +17,9 @@ summary: Provides information on how to view and upgrade your storage system.
 [.lead]
 You can view the pending upgrades of your storage system and upgrade to a later version of ONTAP.
 
+// 2021-06-02, Jira AIQ-49239, Reenu
+// You can also view the current interoperability data. It is populated based on Active IQ OneCollect AutoSupport data.
+
 .Steps
 . On the dashboard, view pending upgrades in the *Upgrades* widget.
 . Click the number of *Actions* to view the pending upgrades.
