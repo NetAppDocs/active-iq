@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: concept_overview_wellness.html
-keywords: overview, wellness, performance, configuration, renewal, risk, remediation
-summary: Provides information about the wellness, which helps you to improve your storage system.
+keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, renewal, risk, remediation
+summary: Provides information about the wellness and the risk types, which helps you to improve your storage system.
 ---
 
 = Understand wellness
