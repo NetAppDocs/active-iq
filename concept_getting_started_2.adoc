@@ -44,4 +44,7 @@ Read the following information to be aware of the widgets that are supported on 
 
 | Upgrades | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
 
+// 2021-06-02, Jira AIQ-49239, Reenu
+// | Interoperability | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
+
 |===

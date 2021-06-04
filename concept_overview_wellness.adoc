@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: concept_overview_wellness.html
-keywords: overview, wellness, performance, configuration, renewal, risk, remediation
-summary: Provides information about the wellness, which helps you to improve your storage system.
+keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, renewal, risk, remediation
+summary: Provides information about the wellness and the risk types, which helps you to improve your storage system.
 ---
 
 = Understand wellness
@@ -18,6 +18,20 @@ summary: Provides information about the wellness, which helps you to improve you
 Wellness widget provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security, renewals, and others.
 
 image:wellness_workflow.png[wellness workflow]
+
+The wellness widget also provides information about the risks and the actions that should be taken to mitigate the risk for each wellness attribute. The following are the types of risks and the associated consequence for each risk:
+
+[cols=2*,options="header", cols="25,75"]
+|===
+| Risk Type
+| Consequence
+| Critical  | Data loss, data corruption, cluster data outage, personal safety issue, or potential legal compliance issue.
+| High  | Short-term loss of data access or prolonged loss of node redundancy.
+| Medium  | Performance degradation or short-term loss of node redundancy.
+| Low  | Low impact scenarios
+| Best Practice  | Deviations from documented best practices
+|===
+
 
 You can view the following video to understand the importance of the wellness attributes:
 
