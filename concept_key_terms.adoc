@@ -18,7 +18,7 @@ summary: Provides information about the key terms used in Active IQ Digital Advi
 As you start using Active IQ Digital Advisor, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Digital Advisor.
 
 * *Watchlist:* Provides you the flexibility to access systems inside Active IQ Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
-** *Dashboard:* Provides an overall status of the systems in the watchlist.
+** *Wellness Dashboard:* Provides an overall status of the systems in the watchlist.
 ** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
 ** *Risks:* Displays a list of systems with their respective issues. It has different severity levels:
 *** High risks
