@@ -20,11 +20,14 @@ The following are the new features and enhancements.
 
 The following are the new features and enhancements.
 
-== 09 June 2021
+== 17 June 2021
 This update includes the following new features, enhancements, and changes:
 
 === Reports
 You can now generate aggregate volume performance reports for all volumes in a storage VM for any day, week, or month.
+
+== 09 June 2021
+This update includes the following new features, enhancements, and changes:
 
 === Health Check Assessment Dashboard
 You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Assessment Dashboard
