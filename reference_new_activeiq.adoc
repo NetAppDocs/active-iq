@@ -26,6 +26,19 @@ This update includes the following new features, enhancements, and changes:
 === Reports
 You can now generate aggregate volume performance reports for all volumes in a storage VM for any day, week, or month.
 
+=== Upgrade workflow
+
+* The user interface has been enhanced to provide you with a table view of the information.
+* You can now view information about the end of support of the ONTAP version in the Upgrade Details screen.
+
+=== Config Drift
+
+* Config Drift now supports over 200 AutoSupport sections for creating golden templates and generating drift reports across customer, site, group, watchlist, cluster, and host.
+* Config drift allows you to mitigate deviations using Ansible playbooks which are included in the config drift report payload.
+
+=== Health Check Assessment
+This feature has been enhanced to compare your storage VM (SVM) against a predefined catalog of risks to assess gaps and recommend the associated corrective actions.
+
 == 09 June 2021
 This update includes the following new features, enhancements, and changes:
 
