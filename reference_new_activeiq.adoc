@@ -87,7 +87,7 @@ This update includes the following new features, enhancements, and changes:
 === StorageGRID
 StorageGRID Dashboard is enabled using the NextGen API framework.
 
-You can use the StorageGRID Dashboard for viewing information at the Watchlist, Customer, and Group, Site level.
+You can use the StorageGRID Dashboard for viewing information at the Watchlist, Customer, Group, and Site level.
 
 This release provides the following functionality:
 
