@@ -26,6 +26,9 @@ This update includes the following new features, enhancements, and changes:
 === Reports
 You can now generate aggregate volume performance reports for all volumes in a storage VM for any day, week, or month.
 
+=== Wellness review email
+The wellness review email has been enhanced to include information about the support and entitlements from the health check and upgrade actions.
+
 === Upgrade workflow
 
 * The user interface has been enhanced to provide you with a table view of the information.
