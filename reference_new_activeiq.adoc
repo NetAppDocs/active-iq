@@ -15,7 +15,38 @@ summary: Provides information about the new features in the release.
 :imagesdir: ./media/
 
 [.lead]
+
 The following are the new features and enhancements.
+
+The following are the new features and enhancements.
+
+== 17 June 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Reports
+You can now generate aggregate volume performance reports for all volumes in a storage VM for any day, week, or month.
+
+=== Wellness review email
+The wellness review email has been enhanced to include information about the support and entitlements from the health check and upgrade actions.
+
+=== Upgrade workflow
+
+* The user interface has been enhanced to provide you with a table view of the information.
+* You can now view information about the end of support of the ONTAP version in the Upgrade Details screen.
+
+=== Config Drift
+
+* Config Drift now supports over 200 AutoSupport sections for creating golden templates and generating drift reports across customer, site, group, watchlist, cluster, and host.
+* Config drift allows you to mitigate deviations using Ansible playbooks which are included in the config drift report payload.
+
+=== Health Check Assessment
+This feature has been enhanced to compare your storage VM (SVM) against a predefined catalog of risks to assess gaps and recommend the associated corrective actions.
+
+== 09 June 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Health Check Assessment Dashboard
+You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Assessment Dashboard
 
 == 20 May 2021
 This update includes the following new features, enhancements, and changes:
@@ -56,7 +87,7 @@ This update includes the following new features, enhancements, and changes:
 === StorageGRID
 StorageGRID Dashboard is enabled using the NextGen API framework.
 
-You can use the StorageGRID Dashboard for viewing information at the Watchlist, Customer, and Group, Site level.
+You can use the StorageGRID Dashboard for viewing information at the Watchlist, Customer, Group, and Site level.
 
 This release provides the following functionality:
 

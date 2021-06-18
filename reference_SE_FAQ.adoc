@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_SE_FAQ.html
-keywords: Active IQ, storage efficiency, FAQs, storage efficiency
+keywords: Active IQ, storage efficiency, FAQ, FAQs, storage efficiency, frequently asked questions
 summary: Answers FAQs on storage efficiency.
 ---
 

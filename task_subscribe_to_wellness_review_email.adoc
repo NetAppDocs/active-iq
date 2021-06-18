@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_subscribe_to_wellness_review_email.html
-keywords: wellness, wellness review subscription, 1 month, unsubscribe, edit, delete, share, subscriptions, supportedg expert, supportedge advisor, monthly, email, activeiq, active iq digital advisor,
+keywords: wellness, wellness review subscription, unsubscribe, supportedge expert, supportedge advisor
 summary:
 ---
 

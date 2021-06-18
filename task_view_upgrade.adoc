@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: task_view_upgrade.html
-keywords: upgrade, current version, benefits
-summary: Provides information on how to view and upgrade your storage system.
+keywords: upgrade, ONTAP version, upgrade advisor, upgrade plan, risk advisor, pending upgrades
+summary: Provides information to view and upgrade the ONTAP version of your storage system.
 ---
 
-= Upgrade the ONTAP version of your storage system
+= Upgrade the ONTAP version by generating an upgrade plan
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,7 +15,7 @@ summary: Provides information on how to view and upgrade your storage system.
 :imagesdir: ./media/
 
 [.lead]
-You can view the pending upgrades of your storage system and upgrade to a later version of ONTAP.
+You can view the pending upgrades of your storage system and upgrade to a later version of ONTAP by generating an upgrade plan. You should also view the list of risks in the *Risk Advisor* tab which would be mitigate because of the upgrade.
 
 // 2021-06-02, Jira AIQ-49239, Reenu
 // You can also view the current interoperability data. It is populated based on Active IQ OneCollect AutoSupport data.
