@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_key_terms.html
-keywords: overview, inventory
+keywords: overview, inventory, wellness, widgets, actions
 summary: Provides information about the key terms used in Active IQ Digital Advisor.
 ---
 
@@ -18,7 +18,7 @@ summary: Provides information about the key terms used in Active IQ Digital Advi
 As you start using Active IQ Digital Advisor, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Digital Advisor.
 
 * *Watchlist:* Provides you the flexibility to access systems inside Active IQ Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
-** *Dashboard:* Provides an overall status of the systems in the watchlist.
+** *Wellness Dashboard:* Provides an overall status of the systems in the watchlist.
 ** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
 ** *Risks:* Displays a list of systems with their respective issues. It has different severity levels:
 *** High risks
@@ -66,10 +66,10 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
 
-* *Cloud ready workloads:* Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery. You can move workloads and volumes that are running on Oracle, SAP, SAP Hana, File Share, SQL, and SharePoint. NetApp® Cloud Volumes helps in moving workloads and volumes to the cloud by delivering extreme performance and advanced data management capabilities to satisfy even your most demanding applications in the cloud. For more information about using NetApp® Cloud Volumes, see the link:https://docs.netapp.com/us-en/occm/task_managing_ontap.html[Cloud Manager] documentation.
+* *Cloud ready workloads:* Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery. You can move workloads and volumes that are running on Oracle, SAP, SAP HANA, File Share, SQL, and SharePoint. NetApp® Cloud Volumes helps in moving workloads and volumes to the cloud by delivering extreme performance and advanced data management capabilities to satisfy even your most demanding applications in the cloud. For more information about using NetApp® Cloud Volumes, see the link:https://docs.netapp.com/us-en/occm/task_managing_ontap.html[Cloud Manager] documentation.
 
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
-** *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in SVG format.
+** *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in the SVG format.
 // 2021-06-02, Jira AIQ-49239, Reenu
 // ** * Datacenter View:* Provides cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration. The view is enabled by collecting and uploading data from the customer environment using link:https://mysupport.netapp.com/site/tools/tool-eula/activeiq-onecollect[NetApp Active IQ OneCollect].
 // ** * Interop Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers, and firmware.
@@ -77,6 +77,6 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *AutoSupport Upload:* Enables you to analyze the defects or issues in ONTAP and E-Series systems. The defects or issues are reviewed and fixed manually by Support Site personnel.
 
 * *Search:* Allows you to search for systems based on various categories, such as customer name, serial number, cluster, site name, group name, hostname, and others.
-** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ .
+** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ.
 ** *Cluster:* Provides information about ONTAP clusters. The Dashboard also consolidates health, capacity, storage efficiency, and performance insights.
 ** *Serial Number:* Provides information about the serial number that is assigned to the customer.

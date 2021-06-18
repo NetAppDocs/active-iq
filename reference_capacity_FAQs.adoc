@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_capacity_FAQs.html
-keywords: Active IQ, capacity, snapshot copies, physical used space, logical used space, capacity forecast, efficiency, FAQs
+keywords: Active IQ, frequently asked questions, capacity, snapshot copies, physical used space, logical used space, capacity forecast, efficiency, FAQ, FAQs
 summary: Answers FAQs on capacity.
 ---
 
