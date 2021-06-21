@@ -18,8 +18,6 @@ summary: Provides information about the new features in the release.
 
 The following are the new features and enhancements.
 
-The following are the new features and enhancements.
-
 == 17 June 2021
 This update includes the following new features, enhancements, and changes:
 
@@ -46,7 +44,7 @@ This feature has been enhanced to compare your storage VM (SVM) against a predef
 This update includes the following new features, enhancements, and changes:
 
 === Health Check Assessment Dashboard
-You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Assessment Dashboard
+You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Assessment Dashboard.
 
 == 20 May 2021
 This update includes the following new features, enhancements, and changes:
