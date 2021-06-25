@@ -16,9 +16,9 @@ summary: Provides an overview of the config drift feature
 
 [.lead]
 
-The Config Drift feature helps in proactively identifying the configuration deviations on the system. It allows you to compare the system or cluster configuration, on-demand with the template created using a system generating AutoSupport data.
+The Config Drift feature identifies configuration deviations by comparing a system template to a “golden” or base system template. You can schedule weekly or monthly drift reports or generate them on-demand. You can mitigate some deviations by using the Ansible Playbooks, which are provided in the config drift report.
 
-More community wisdom-based templates and additional options are being added in future release.
+This feature is available to systems with Advisor and Expert Support contracts only.
 
 You can look at the following diagram to understand the workflow to identify configuration deviations and generate the report.
 
