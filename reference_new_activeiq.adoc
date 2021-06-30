@@ -18,6 +18,24 @@ summary: Provides information about the new features in the release.
 
 The following are the new features and enhancements.
 
+== 01 July 2021
+This update includes the following new features, enhancements, and changes:
+
+=== System Firmware
+You can now view information about the system firmware that is shipped along with the major and patch versions of ONTAP. You can access this feature from the Quick Links menu.
+
+=== Health Check Assessment Dashboard
+* The Recommended Configuration widget has been enhanced to provide an in-depth analysis of the failed checks for your storage VM (SVM) and lets you take the recommended corrective actions for each risk.
+* The recommended target ONTAP version is now the same for all nodes in a cluster configured with different hardware models. The target version is supported on all the nodes.
+
+=== Inventory
+You can view the end dates of the support contracts for your hardware, software, and non-returnable disks on the detailed inventory page.
+
+=== Support Offering Upgrade
+
+* The user interface has been enhanced to display the specific support offering that you are subscribed to in Active IQ.
+* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features.
+
 == 17 June 2021
 This update includes the following new features, enhancements, and changes:
 
