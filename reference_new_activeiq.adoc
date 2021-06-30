@@ -24,7 +24,9 @@ This update includes the following new features, enhancements, and changes:
 === System Firmware
 You can now view information about the system firmware that is shipped along with the major and patch versions of ONTAP. You can access this feature from the Quick Links menu.
 
-=== Health Check Assessment Dashboard
+=== Health Check Dashboard
+
+* The Health Check Dashboard has been enhanced to include a blue banner notifying users that the systems that not supported by SupportEdge Advisor and SupportEdge Expert will not be factored in while calculating the health score.
 * The Recommended Configuration widget has been enhanced to provide an in-depth analysis of the failed checks for your storage VM (SVM) and lets you take the recommended corrective actions for each risk.
 * The recommended target ONTAP version is now the same for all nodes in a cluster configured with different hardware models. The target version is supported on all the nodes.
 
