@@ -127,11 +127,6 @@ entries:
     url: /task_generate_reports.html
   - title: Frequently asked questions
     url: reference_aiq_faq.html
-    entries:
-      - title: Storage efficiency
-        url: /reference_SE_FAQ.html
-      - title: Capacity
-        url: /reference_capacity_FAQs.html
   - title: Get more information
     url: /concept_get_more_information.html
   - title: Notices
