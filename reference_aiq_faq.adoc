@@ -34,7 +34,6 @@ A non-technical ticket should be created for the following cases:
 
 *How do I create a non-technical support ticket?*
 
-.Steps
 . Click here to open the “Non-Technical Feedback Tool" on the NetApp Support site.
 . Select the appropriate category from the *Feedback Category* drop-down list.
 . Enter the required details and provide additional information in the “Comments” box”.
@@ -50,7 +49,6 @@ To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedba
 
 *How do I access Storage Efficiency in Active IQ Digital Advisor?*
 
-.Steps
 . Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Active IQ Digital Advisor].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
@@ -63,7 +61,7 @@ Active IQ displays ratios for systems running ONTAP 9.1 and later.
 
 *What is the ‘Without Snapshots’ checkbox on the efficiency dashboard?*
 
-By default, *Active IQ Efficiency Dashboard* calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
+By default, Active IQ Efficiency Dashboard calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
 
 	* Deduplication
 	* Compression
@@ -105,7 +103,7 @@ Currently, efficiency ratios are calculated based on the latest weekly or user-t
 
 *How are customer-level ratios and efficiency savings calculated?*
 
-Customer-level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer installed base for *systems running ONTAP 9.1 and later*. The required parameters for the following calculations are taken from ONTAP AutoSupport:
+Customer-level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer installed base for systems running ONTAP 9.1 and later. The required parameters for the following calculations are taken from ONTAP AutoSupport:
 
 Without Snapshot copies (calculated for per Aggr first):
 
@@ -124,8 +122,8 @@ With Snapshot copies:
 |===
     |*Operation*  | *Formula*
 
-    |Customer Logical Size with Snapshot copies | Sum *[Logical Size Used by Volumes, Clones, Snapshot copies for all aggregates and for all nodes of a customer]*
-    |Customer Physical Size Used with Snapshot copies | Sum *[Total Physical Size Used for all aggregates and for all nodes of a customer]*
+    |Customer Logical Size with Snapshot copies | Sum [Logical Size Used by Volumes, Clones, Snapshot copies for all aggregates and for all nodes of a customer]
+    |Customer Physical Size Used with Snapshot copies | Sum [Total Physical Size Used for all aggregates and for all nodes of a customer]
     |Customer Efficiency Ratio with Snapshot copies | Customer Logical Size with Snapshot copies and Clones / Customer Physical Size Used with Snapshot copies and Clones : 1
 |===
 
@@ -135,21 +133,21 @@ Efficiency feature table calculations:
 |===
     |*Operation*  | *Formula*
 
-    |Customer Physical Space Used | *Sum of Physical Space Used by the Aggregate* for all aggregates and of all nodes of a customer
-    |Customer Logical Size Used without Snapshot copies | *Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies* for all aggregates of all nodes of a customer
-    |Customer Logical Size Used with Snapshot copies | *Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate* for all aggregates of all nodes of a customer
+    |Customer Physical Space Used | Sum of Physical Space Used by the Aggregate for all aggregates and of all nodes of a customer
+    |Customer Logical Size Used without Snapshot copies | Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies for all aggregates of all nodes of a customer
+    |Customer Logical Size Used with Snapshot copies | Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate for all aggregates of all nodes of a customer
 		|Total Space Saved | Total Logical Space Used – Total Physical Space Used
-    |Deduplication Savings | Sum of *Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection* of each aggregate of all nodes of a customer
-		|Compression Savings | Sum of *Space Saved by Volume Compression* of each aggregate of all nodes of a customer
-		|Compaction Savings (for ONTAP 	9.1) | Sum of *Space Saved by Aggregate Compaction* of each aggregate of all nodes of a customer
-    |Compaction Savings (for ONTAP 	9.2 and later) | Sum of *Space Saved by Aggregate Data Reduction* of each aggregate of all nodes of a customer
-		|FlexClone Savings | Sum of *(Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes)* of each aggregate of all nodes of a customer
-    |Snapshot copies Backup Savings | Sum of *(Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies)* of all aggregates of all nodes of a customer
+    |Deduplication Savings | Sum of Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection of each aggregate of all nodes of a customer
+		|Compression Savings | Sum of Space Saved by Volume Compression of each aggregate of all nodes of a customer
+		|Compaction Savings (for ONTAP 	9.1) | Sum of Space Saved by Aggregate Compaction of each aggregate of all nodes of a customer
+    |Compaction Savings (for ONTAP 	9.2 and later) | Sum of Space Saved by Aggregate Data Reduction of each aggregate of all nodes of a customer
+		|FlexClone Savings | Sum of (Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes) of each aggregate of all nodes of a customer
+    |Snapshot copies Backup Savings | Sum of (Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies) of all aggregates of all nodes of a customer
 |===
 
 *Why does adding all individual efficiency savings not add up to total data saved by storage efficiency?*
 
-Efficiency savings are shown in the *Storage Efficiency Dashboard* for volumes and local tiers (aggregates).  You cannot add volume savings and aggregate savings as they both happen at different storage objects.
+Efficiency savings are shown in the Storage Efficiency Dashboard for volumes and local tiers (aggregates).  You cannot add volume savings and aggregate savings as they both happen at different storage objects.
 
 *Why were storage efficiencies reported as higher or incorrectly before upgrading to ONTAP?*
 
