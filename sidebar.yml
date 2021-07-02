@@ -126,6 +126,7 @@ entries:
   - title: Generate reports
     url: /task_generate_reports.html
   - title: Frequently asked questions
+    url: reference_aiq_faq.html
     entries:
       - title: Storage efficiency
         url: /reference_SE_FAQ.html
