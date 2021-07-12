@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following are the new features and enhancements.
 
-== 01 July 2021
+== 12 July 2021
 This update includes the following new features, enhancements, and changes:
 
 === System Firmware

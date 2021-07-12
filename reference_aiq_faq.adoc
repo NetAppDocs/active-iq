@@ -43,7 +43,7 @@ A case is created, and a case number is provided for your reference.
 
 *How do I provide feedback or ask other questions related to Active IQ?*
 
-To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]
+To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#].
 
 == Storage efficiency
 
