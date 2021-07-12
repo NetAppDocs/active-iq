@@ -34,7 +34,7 @@ A non-technical ticket should be created for the following cases:
 
 *How do I create a non-technical support ticket?*
 
-. Click here to open the “Non-Technical Feedback Tool" on the NetApp Support site.
+. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
 . Select the appropriate category from the *Feedback Category* drop-down list.
 . Enter the required details and provide additional information in the “Comments” box”.
 . Click *Submit*.
