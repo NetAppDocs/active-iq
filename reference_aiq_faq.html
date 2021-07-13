@@ -1,0 +1,1722 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head class="at-element-marker">
+  <title>Frequently asked questions for Active IQ</title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+  <meta http-equiv="language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="Frequently asked questions for Active IQ" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://docs.netapp.com/us-en/active-iq/reference_aiq_faq.html" />
+	<meta property="og:description" content="This FAQ can help if you're just looking for a quick answer to a question." />
+  <meta property="og:image" content="https://docs.netapp.com/us-en/active-iq/images/logo-tophat-social.png" />
+  <meta property="og:image:alt" content="NetApp Logo" />
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="encoding" content="utf-8">
+  <meta http-equiv="nss-type" content="Product Documentation"/>
+  <meta http-equiv="nss-subtype" content="User Guide"/>
+  
+  <meta name="description" content="This FAQ can help if you're just looking for a quick answer to a question.">
+  <meta name="keywords" content=" faq, frequently asked questions">
+  
+  
+
+  <!-- Icons -->
+  <link rel="icon" href="/us-en/active-iq/images/favicon.ico" type="image/x-icon">
+
+  <!-- RSS Feed -->
+  
+
+  <!-- CSS Definitions: NetApp CSS should be defined after generic css -->
+
+  <!-- Elastic Search -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/searchkit/0.10.0/theme.css">
+
+  <!-- Controls AsciiDoctor Admonition Blocks -->
+  <link rel="stylesheet" type="text/css" href="/us-en/active-iq/css/font-awesome.min.css">
+
+  <!-- Controls the shadow effect for search dropdown menu -->
+  <link rel="stylesheet" href="/us-en/active-iq/css/boxshadowproperties.css">
+
+  <!-- NetApp CSS controls the technical content -->
+  <link rel="stylesheet" type="text/css" href="/us-en/active-iq/css/netapp.css">
+
+  <!-- WWW CSS Content -->
+  <link rel="stylesheet" type="text/css" href="/us-en/active-iq/css/www-luci-dotcom.min.css">
+  <link rel="stylesheet" type="text/css" href="/us-en/active-iq/css/www-netapp-dotcom.css">
+  <link rel="stylesheet" href="/us-en/active-iq/css/www-netapp-library-critical.min.css" media="all" >
+  <link rel="stylesheet" href="/us-en/active-iq/css/www-netapp-library-non-critical.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="/us-en/active-iq/css/www-netapp-library-global-header-footer.min.css">
+
+  <!-- NetApp IE Customizations -->
+  <link rel="stylesheet" href='/us-en/active-iq/css/na-utility.css' type='text/css'>
+  <link rel="stylesheet" href='/us-en/active-iq/css/na-sidebar.css' type='text/css'>
+  <link rel='stylesheet' href='/us-en/active-iq/css/clouddocs.css' type='text/css'>
+  <link rel='stylesheet' href='/us-en/active-iq/css/na-pagenav.css' type='text/css'>
+
+  
+
+  
+  <link rel='stylesheet' href='/us-en/active-iq/css/na-feature.css' type='text/css'>
+  
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+  <!-- Used to import Promise for IE. Required for SearchKit -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.5/bluebird.min.js"></script>
+  
+    <script src='/us-en/active-iq/js/na-search.js'></script>
+  
+
+  
+  <script src='/us-en/active-iq/js/na-pagenav.js'></script>
+  
+
+  <link rel='stylesheet' href='/us-en/active-iq/css/prism.css' type='text/css'>
+  <link rel='stylesheet' href='/us-en/active-iq/css/prism-netapp.css' type='text/css'>
+
+
+  <script src='/us-en/active-iq/js/na-utility.js'></script>
+  <script src='/us-en/active-iq/js/clouddocs.js'></script>
+  <script>
+  if (document.location.hostname === "docs.netapp.com") {
+    var head = document.getElementsByTagName('head')[0];
+    var adobe = document.createElement("script");
+    adobe.type = "text/javascript";
+    adobe.src = "//assets.adobedtm.com/60287eadf1ee/c284da483c83/launch-e9ff3acac59f.min.js";
+    head.appendChild(adobe);
+  }
+  </script>
+  <script src='/us-en/active-iq/js/jquery.navgoco.min.js'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src='/us-en/active-iq/js/toc.js'></script>
+  <script src='/us-en/active-iq/js/customscripts.js'></script>
+
+  <script>
+      $(document).ready(function() {
+          
+          var collapseOnInit = true;
+          
+
+          var navSettings = {
+              "caretHtml": '',
+              "accordion": collapseOnInit,
+              "openClass": 'active', // open
+              "save": false, // leave false or nav highlighting doesn't work right
+              "cookie": {
+                  "name": 'navgoco',
+                  "expires": false,
+                  "path": '/'
+              },
+              "slide": {
+                  "duration": 400,
+                  "easing": 'swing'
+              }
+          };
+
+          // Initialize navgoco with default options
+          $("#mysidebar").navgoco(navSettings);
+          
+
+          $("#collapseAll").click(function(e) {
+              e.preventDefault();
+              $("#mysidebar").navgoco('toggle', false);
+          });
+
+          $("#expandAll").click(function(e) {
+              e.preventDefault();
+              $("#mysidebar").navgoco('toggle', true);
+          });
+
+      });
+
+  </script>
+  <script>
+      $(document).ready(function() {
+          $("#tg-sb-link").click(function() {
+              $("#tg-sb-sidebar").toggle();
+              $("#tg-sb-content").toggleClass('col-md-9');
+              $("#tg-sb-content").toggleClass('col-md-12');
+              $("#tg-sb-icon").toggleClass('fa-toggle-on');
+              $("#tg-sb-icon").toggleClass('fa-toggle-off');
+          });
+      });
+  </script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-81697994-3"></script>
+  <script>
+  if (document.location.hostname === "docs.netapp.com") {
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-81697994-3');
+  }
+  </script>
+</head>
+
+
+  <body class role="document">
+    <div id="page" class="n-off-canvas-menu">
+      <div class="n-off-canvas-menu__menu"><!--TODO: Add offcanvas code --></div>
+      <div class="n-off-canvas-menu__content-wrap">
+        <header class="site-header" id="banner">
+  <!-- Start top_hat -->
+  <div class="n-top-hat">
+    <div class="n-container">
+      <div class="n-top-hat__cross-property-nav">
+        <ul class="n-top-hat__list">
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/products-a-z/" class="n-top-hat__link">Product and Solutions</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/support-and-training/netapp-university/" class="n-top-hat__link">Support and Training</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://cloud.netapp.com" class="n-top-hat__link">Cloud Central</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://community.netapp.com/" class="n-top-hat__link">Community</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://blog.netapp.com/" class="n-top-hat__link">Blog</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://customers.netapp.com/en/" class="n-top-hat__link">Customer Stories</a>
+          </li>
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/us/contact-us/index.aspx" target="_self" class="n-top-hat__link" data-ntap-ui="contact-us">Contact</a>
+          </li>
+        </ul>
+      </div>
+      <div class="n-top-hat__utils">
+        <ul class="n-top-hat__list">
+          <li class="n-top-hat__list-item">
+            <a href="https://www.netapp.com/us/contact-us/index.aspx" target="_self" class="n-top-hat__link" data-ntap-ui="contact-us">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- End top_hat -->
+
+  <!-- Start property bar -->
+  <style>
+    .n-property-navigation-bar__menus--desktop-experience .n-menu--mega__default-content__heading span {
+    color: #34B0FF;
+    }
+  </style>
+  <div class="n-property-bar " data-ntap-ui="sticky-nav">
+    <div class="n-property-bar__inner-wrap">
+      <div class="n-property-bar__menu-toggle">
+        <a href="#" class="n-property-bar__menu-toggle-link">
+          <span class="n-property-bar__menu-toggle-text">Menu</span>
+          <svg class="n-icon-bars n-property-bar__menu-toggle-icon" aria-labelledby="title">
+            <title>bars</title>
+            <use xlink:href="/us-en/active-iq/common/svg/sprite.svg#bars"></use>
+          </svg>
+        </a>
+      </div>
+      <div class="n-property-bar__property-mark ">
+        <a href="https://www.netapp.com" class="n-property-bar__property-link">
+          <div class="n-property-bar__logo">
+            <svg class="n-icon-netapp-mark n-icon-netapp-mark n-property-bar__netapp-mark-icon" aria-labelledby="title">
+              <title>netapp-mark</title>
+              <use xlink:href="/us-en/active-iq/common/svg/sprite.svg#netapp-mark"></use>
+            </svg>
+            <svg class="n-icon-netapp-logo n-property-bar__logo-svg" aria-labelledby="title">
+              <title>netapp-logo</title>
+              <use xlink:href="/us-en/active-iq/common/svg/sprite.svg#netapp-logo"></use>
+            </svg>
+          </div>
+        </a>
+      </div>
+
+      
+      <div class="search-property-bar">
+        <div id="search-demo-container" class="searchbox n-property-bar__search">
+          <div id="react-search" data-type="widget" data-placeholder="Search Documentation" data-no-results-found="No results were found for {query}" data-did-you-mean="Search for {suggestion}." data-no-results-found-did-you-mean="No results found for {query}. Did you mean {suggestion}?" data-results-found="{hitCount} results found"  ></div>
+          <button class="n-property-bar__search-toggle-button" type="button">
+            <svg class="n-icon-search n-property-bar__search-toggle-button-icon" aria-labelledby="title">
+              <title>search</title>
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#search"></use>
+            </svg>
+          </button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="n-property-bar__toolbar"><!-- Start Language Selector --><div id="ie-i18n" class="n-property-bar__lang-selector">
+      <div id="ie-i18n-menu">
+      <span class="ie-i18n-lang">English</span>
+        <button class="ie-i18n-icon-container" type="button">
+          <svg class="n-globe__icon" aria-labelledby="title">
+            <title>globe</title>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#globe"></use>
+          </svg>
+        </button>
+      </div>
+      <div id="n-property-navigation-bar__menu--language-selector" class="ie-i18n-results-container n-menu n-menu--v3 n-menu--is-active" style="display: none;">
+        <div class="n-language-selector-menu">
+          <div class="n-language-selector-menu__header">
+            <span class="n-language-selector-menu__title">Select Your Language</span>
+          </div>
+          <ul class="n-menu__list">
+            <li class="n-menu__list-column">
+              <ul class="n-menu__list"><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/us-en/active-iq" class="n-menu__header-text"><span translate="no" class="notranslate">English</span></a>
+                </li><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/ja-jp/active-iq" class="n-menu__header-text"><span translate="no" class="notranslate">日本語</span></a>
+                </li><li class="n-menu__list-item n-menu__list-item--level-1">
+                  <a href="https://docs.netapp.com/zh-cn/active-iq" class="n-menu__header-text"><span translate="no" class="notranslate">简体中文</span></a>
+                </li></ul>
+            </li>
+          </ul>
+          <div class="menu__footer">
+            <p>Current Language: English
+            </p>
+          </div>
+        </div>
+      </div>
+    </div><!-- End Language Selector -->
+
+    <div class="n-property-bar__cta"></div>
+  </div>
+  <script>
+    $(function(){
+        var currentLocalization = $('html').attr('lang');
+
+        var localizationsDictionary = {
+            "en-CA" : "https://www.netapp.com/search/index.aspx?for_cr=canada&",
+            "en-IN" : "https://www.netapp.com/search/index.aspx?for_cr=india&",
+            "nl-NL" : "https://www.netapp.com/search/index.aspx?for_cr=netherlands&",
+            "ru-RU" : "https://www.netapp.com/search/index.aspx?for_cr=russia&",
+            "sv-SE" : "https://www.netapp.com/search/index.aspx?for_cr=sweden&",
+            "it-IT" : "https://www.netapp.com/search/index.aspx?for_cr=italy&",
+            "he-IL" : "https://www.netapp.com/search/index.aspx?for_cr=israel&",
+            "ko-KR" : "https://www.netapp.com/search/index.aspx?for_cr=korea&",
+            "zh-TW" : "https://www.netapp.com/search/index.aspx?for_cr=taiwan&",
+            "en-GB" : "https://www.netapp.com/search/index.aspx?for_cr=unitedkingdom&",
+            "en-SG" : "https://www.netapp.com/search/index.aspx?for_cr=asean&",
+            "en-AU" : "https://www.netapp.com/search/index.aspx?for_cr=australia&",
+            "pt-BR" : "https://www.netapp.com/search/index.aspx?for_cr=brasil&",
+            "de-CH" : "https://www.netapp.com/search/index.aspx?for_cr=switzerland&",
+            "es-MX" : "https://www.netapp.com/search/index.aspx?for_cr=mexico&"
+        };
+
+        if($('html').hasClass('ntap-whitelisted') && localizationsDictionary.hasOwnProperty(currentLocalization)) {
+            $('.n-property-bar__property-link').attr('href', '/');
+        }
+    });
+  </script>
+  <!-- End property bar -->
+</header>
+
+        <div class="ie-utility">
+  <div class="ie-menu">
+    <div class="n-breadcrumb">
+      <ul class="n-breadcrumb__list">
+        <li class="n-breadcrumb__list-item">
+          <a href="https://www.netapp.com">Home</a>
+        </li>
+        <li class="n-breadcrumb__list-item">
+          <a href="https://docs.netapp.com">Documentation</a>
+        </li>
+        
+
+        <li class="n-breadcrumb__list-item">
+          <a href="/us-en/active-iq/">Active&nbsp;IQ&nbsp;Digital&nbsp;Advisor</a>
+        </li>
+        <li class="n-breadcrumb__list-item">
+          Frequently asked questions for Active IQ
+        </li>
+      </ul>
+    </div>
+
+    <div style="clear: both"></div><!-- Main needs to have height -->
+  </div>
+</div>
+
+
+        <main id="n-main-content" class="n-main-content">
+          <!-- Start Documentation Content -->
+<div class="ie-main">
+  <!-- Sidebar Column -->
+  
+  <div class="col-md-3" >
+      <div class="n-pdf-header">
+  <a id="toggleButtonPdf" class="n-pdf-button" type="button">PDFs<span>
+    </span>
+  </a>
+</div>
+<ul id="toggleContainerPdf" class="n-pdf-body" style="display:none;"><div class="n-pdf-section">
+      <span class="n-pdf-section-title">Site</span>
+    </div>
+    <li>
+      <a target="_blank" href="/us-en/active-iq/pdfs/fullsite-sidebar/Active_IQ_Digital_Advisor_Documentation.pdf" >
+        <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+        Active IQ Digital Advisor Documentation
+      </a>
+    </li>
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Release_notes.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Release notes
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Get_started.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Get started
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Provision_watchlist.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Provision watchlist
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Analyze_wellness_attributes.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Analyze wellness attributes
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/View_system_details.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            View system details
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Identify_system_requirements_proactively.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Identify system requirements proactively
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Identify_configuration_deviations.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Identify configuration deviations
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Improve_the_efficiency_and_performance_of_your_storage_system.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Improve the efficiency and performance of your storage system
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Analyze_the_health_of_your_storage_system.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Analyze the health of your storage system
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Ensure_your_storage_system_is_up_to_date.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Ensure your storage system is up to date
+          </a>
+        </li>
+        <span>
+          
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Update_your_AFF_and_FAS_firmware_using_Ansible_Playbook.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Update your AFF and FAS firmware using Ansible Playbook
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Install_and_execute_the_AFF_and_FAS_firmware_Ansible_Automation_package__Beginners_.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Install and execute the AFF and FAS firmware Ansible Automation package (Beginners)
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+    
+      <span class="subfolders" style="display:none;">
+        
+          <div class="n-pdf-section">
+            <span class="n-pdf-section-title">
+              Sections
+            </span>
+          </div>
+        
+        <li>
+          <a target="_blank" href="/us-en/active-iq/pdfs/sidebar/Integrate_data_using_APIs.pdf" >
+            <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+            Integrate data using APIs
+          </a>
+        </li>
+        <span>
+          
+
+
+
+
+
+
+
+
+          
+        </span>
+      </span>
+    
+
+  
+
+
+
+
+    <div class="n-pdf-section">
+  <span class="n-pdf-section-title">This page</span>
+</div>
+
+<li class="active">
+  <a target="_blank" href="/us-en/active-iq/pdfs/pages/reference_aiq_faq.pdf" >
+    <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>
+    Frequently asked questions for Active IQ
+  </a>
+</li>
+
+
+  
+
+
+
+
+
+
+</ul>
+
+<script>
+  $("#toggleContainerPdf li.active").parents('li').toggle('display');
+  $("#toggleContainerPdf li.active").parents('span.subfolders').toggle('display');
+  $("#toggleButtonPdf").click(function () {
+    $("#toggleContainerPdf").toggle('display');
+  });
+</script><ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="index.html">
+        Active IQ Digital Advisor Docs
+      </a></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Release notes</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="reference_new_activeiq.html">
+        What's new
+      </a></li><li class=" "><a class="na-navbar-padding" href="reference_limitations_activeiq.html">
+        Known limitations
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Get started</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_getting_started_2.html">
+        Quick start
+      </a></li><li class=" "><a class="na-navbar-padding" href="concept_understand_activeiq_features.html">
+        Understand Active IQ features
+      </a></li><li class=" "><a class="na-navbar-padding" href="concept_key_terms.html">
+        Key Active IQ concepts
+      </a></li><li class=" "><a class="na-navbar-padding" href="concept_autosupport.html">
+        Understand AutoSupport
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_login_activeiq.html">
+        Log in to Active IQ Digital Advisor
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Provision watchlist</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_overview_dashboard.html">
+        Overview
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_add_watchlist.html">
+        Create a watchlist
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_manage_watchlists.html">
+        Manage a watchlist
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Analyze wellness attributes</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_overview_wellness.html">
+        Overview
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_risk_and_take_action.html">
+        View the risk and manually take corrective actions
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_increase_protection_against_hackers_and_Ransomware_attacks.html">
+        Increase protection against hackers and Ransomware attacks
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_and_acknowledge_risks.html">
+        View and acknowledge the risk
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_wellness_history.html">
+        View wellness history
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_risks_remediated_unified_manager.html">
+        View the risks that can be automatically mitigated using Active IQ Unified Manager or Ansible Playbook
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_avoid_the_downtime_and_possible_data_loss.html">
+        Avoid the downtime and possible data loss
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_subscribe_to_wellness_review_email.html">
+        Subscribe to wellness review email
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_renew_software_and_hardware.html">
+        Renew the software and hardware
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_analyze_wellness_clusters_and_nodes.html">
+        Analyze the wellness of clusters and nodes
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> View system details</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="task_view_inventory_details.html">
+        View inventory details
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_valuable_insight_widget.html">
+        View valuable insights
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_keystone_capacity_utilization.html">
+        View Flex Subscription capacity utilization
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Identify system requirements proactively</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_overview_planning.html">
+        Overview
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_identify_capacity_system.html">
+        Identify systems reaching capacity limits
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_avoid_a_volume_filling_up_to_prevent_an_outage.html">
+        Avoid a volume filling up to prevent an outage
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_renew_software_and_hardware.html">
+        Renew the software and hardware
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Identify configuration deviations</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_overview_config_drift.html">
+        Overview
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_add_config_drift_template.html">
+        Add a config drift template
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_compare_config_drift_template.html">
+        Compare a config drift template
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Improve the efficiency and performance of your storage system</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="task_analyze_storage_efficiency.html">
+        Analyze capacity and efficiency savings
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_performance_graphs.html">
+        Analyze storage performance
+      </a></li></ul></li><li class=" "><a class="na-navbar-padding" href="task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html">
+        Monitor and tier inactive data with FabricPool Advisor
+      </a></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Analyze the health of your storage system</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_understand_health_check_assessment_dashboard.html">
+        Overview
+      </a></li><li class=" "><a class="na-navbar-padding" href="concept_get_started_with_health_check_assessment_dashboard.html">
+        Get started with Health Check Assessment Dashboard
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_renew_support_contracts_for_your_systems.html">
+        Renew your support contracts
+      </a></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Ensure your storage system is up to date</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="task_view_upgrade.html">
+        Upgrade the ONTAP version of your storage system
+      </a></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Update your AFF and FAS firmware using Ansible Playbook</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="task_update_AFF_FAS_firmware.html">
+        Download the AFF and FAS firmware Ansible Automation package
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_install_execute_firmware_update_exp_user.html">
+        Install and execute the AFF and FAS firmware Ansible Automation package (Experienced Users)
+      </a></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Install and execute the AFF and FAS firmware Ansible Automation package (Beginners)</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="task_hosting_firmware_files_using_web_server.html">
+        Host Firmware files using web server
+      </a></li><li class=" "><a class="na-navbar-padding" href="concept_working_with_inventory_file.html">
+        Work with Inventory file
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_execute_ansible_playbook_using_docker.html">
+        Execute Ansible playbook using NetApp Docker image
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_execute_ansible_playbook_without_docker.html">
+        Execute Ansible playbook without Docker
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_validate_firmware_installation.html">
+        Validate firmware installation
+      </a></li><li class=" "><a class="na-navbar-padding" href="reference_ansible_troubleshoot_feedback_support.html">
+        Troubleshooting, Feedback and Support
+      </a></li></ul></li></ul></li></ul></li><li class="subfolders "><a href="#">
+        <div class="na-navbar-padding"> Integrate data using APIs</div>
+      </a>
+      <ul><li class=" "><a class="na-navbar-padding" href="concept_overview_API_service.html">
+        Overview
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_generate_tokens_API_services.html">
+        Generate tokens to access APIs
+      </a></li><li class=" "><a class="na-navbar-padding" href="task_view_API_catalog.html">
+        Use the API Catalog to execute APIs
+      </a></li></ul></li><li class=" "><a class="na-navbar-padding" href="task_generate_reports.html">
+        Generate reports
+      </a></li><li class="  active "><a class="na-navbar-padding" href="reference_aiq_faq.html">
+        Frequently asked questions
+      </a></li><li class=" "><a class="na-navbar-padding" href="concept_get_more_information.html">
+        Get more information
+      </a></li><li class=" "><a class="na-navbar-padding" href="reference_legalnotices.html">
+        Notices
+      </a></li></ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+  </div>
+  
+
+  <div class="ie-content-pane n-doc__component-detail-content n-doc__component-detail-content--show-code">
+    <!-- Begin of page container -->
+    <article class="page-content">
+      
+
+
+
+<div class="n-doc__component-detail-heading-wrap">
+  <h1 class="n-doc__component-detail-heading">Frequently asked questions for Active IQ</h1>
+</div>
+
+
+<p class="page-details">
+  
+    
+    <time datetime="2021-07-12 03:31:49 +0000">07/12/2021</time>
+    
+  
+
+<span>Contributors
+</span>
+
+
+  <span>
+    <a target="_blank" href="/us-en/active-iq/pdfs/pages/reference_aiq_faq.pdf" role="button">
+      <img src="/us-en/active-iq/images/pdf.png" width="20" height="20"/>Download PDF of this page</a>
+  </span>
+
+
+</p>
+
+
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph lead">
+<p>The following questions give answers to your frequent queries about Active IQ.</p>
+</div>
+<div class="paragraph">
+<p><strong>What is a non-technical ticket?</strong></p>
+</div>
+<div class="paragraph">
+<p>Issues such as unable to view systems in the inventory, incorrect contract term dates, and so on, which are not technical in nature are classified as non-technical tickets.</p>
+</div>
+<div class="paragraph">
+<p><strong>When do I need to create a non-technical ticket?</strong></p>
+</div>
+<div class="paragraph">
+<p>A non-technical ticket should be created for the following cases:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Unable to access certain features</p>
+</li>
+<li>
+<p>Missing systems in inventory</p>
+</li>
+<li>
+<p>Decommissioning a system from the install base</p>
+</li>
+<li>
+<p>Incorrect or missing contract term dates</p>
+</li>
+<li>
+<p>Incorrect support offering</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>How do I create a non-technical support ticket?</strong></p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Click <a href="https://mysupport.netapp.com/site/help">here</a> to open the “Non-Technical Feedback Tool" on the NetApp Support site.</p>
+</li>
+<li>
+<p>Select the appropriate category from the <strong>Feedback Category</strong> drop-down list.</p>
+</li>
+<li>
+<p>Enter the required details and provide additional information in the “Comments” box”.</p>
+</li>
+<li>
+<p>Click <strong>Submit</strong>.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>A case is created, and a case number is provided for your reference.</p>
+</div>
+<div class="paragraph">
+<p><strong>How do I provide feedback or ask other questions related to Active IQ?</strong></p>
+</div>
+<div class="paragraph">
+<p>To provide feedback or ask questions, send an email to <a href="mailto:ng-activeiq-feedback@netapp.com"><span class="underline">ng-activeiq-feedback@netapp.com</span></a>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="storage-efficiency">Storage efficiency</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>How do I access Storage Efficiency in Active IQ Digital Advisor?</strong></p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Open the home page of <a href="https://activeiq.netapp.com/?source=onlinedocs">Active IQ Digital Advisor</a>.</p>
+</li>
+<li>
+<p>Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.</p>
+</li>
+<li>
+<p>Click <strong>Storage Efficiency</strong> from the left navigation.</p>
+</li>
+</ol>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+The dashboards created using a watchlist will not be displayed in the Storage Efficiency widget.
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p><strong>Does Active IQ Digital Advisor display ratios for all ONTAP systems?</strong></p>
+</div>
+<div class="paragraph">
+<p>Active IQ displays ratios for systems running ONTAP 9.1 and later.</p>
+</div>
+<div class="paragraph">
+<p><strong>What is the ‘Without Snapshots’ checkbox on the efficiency dashboard?</strong></p>
+</div>
+<div class="paragraph">
+<p>By default, Active IQ Efficiency Dashboard calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Deduplication</p>
+</li>
+<li>
+<p>Compression</p>
+</li>
+<li>
+<p>Data compaction</p>
+</li>
+<li>
+<p>Clones</p>
+</li>
+<li>
+<p>Snapshots</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If you select the <strong>Without Snapshots</strong> checkbox, Active IQ Digital Advisor will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.</p>
+</div>
+<div class="paragraph">
+<p><strong>What is physical data used and logical data used?</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Physical Blocks Consumed / Physical Data Used</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The amount of space being used for data now (rather than being reserved for future use)</p>
+</li>
+<li>
+<p>Includes space used by aggregate Snapshot copies</p>
+</li>
+<li>
+<p>Space actually consumed/written by the client</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Total Logical Data Used</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Displays the logical size used in the aggregate.</p>
+</li>
+<li>
+<p>This includes Volumes, Clones, and Snapshots in the aggregate.</p>
+</li>
+<li>
+<p>The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.</p>
+</li>
+<li>
+<p>Does not include space reserved for future use</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Which AutoSupport instances are used for calculating efficiency ratios?</strong></p>
+</div>
+<div class="paragraph">
+<p>Calculations are performed using either the latest weekly or user-triggered AutoSupport instances which tend to contain most of the sections required for calculating the ratios.</p>
+</div>
+<div class="paragraph">
+<p><strong>Which volumes or aggregates are excluded from efficiency calculations?</strong></p>
+</div>
+<div class="paragraph">
+<p>The following objects are not considered while calculating efficiency ratios:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Root aggregates</p>
+</li>
+<li>
+<p>Offline volumes</p>
+</li>
+<li>
+<p>Vserver root/admin root volumes</p>
+</li>
+<li>
+<p>MCC configuration volumes</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>How can I see the trend in efficiency ratios?</strong></p>
+</div>
+<div class="paragraph">
+<p>Currently, efficiency ratios are calculated based on the latest weekly or user-triggered AutoSupport instance. Efficiency trending may be considered for a future release.</p>
+</div>
+<div class="paragraph">
+<p><strong>How are customer-level ratios and efficiency savings calculated?</strong></p>
+</div>
+<div class="paragraph">
+<p>Customer-level storage efficiency dashboard provides the efficiency ratio with and without Snapshot copies for AFF and non-AFF systems and are combined across the customer installed base for systems running ONTAP 9.1 and later. The required parameters for the following calculations are taken from ONTAP AutoSupport:</p>
+</div>
+<div class="paragraph">
+<p>Without Snapshot copies (calculated for per Aggr first):</p>
+</div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"><strong>Operation</strong></th>
+<th class="tableblock halign-left valign-top"><strong>Formula</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Aggr Logical Used without Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate – Logical Size Used by Snapshot Copies</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Aggr Physical Used Without Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total Physical Used – (Physical Size Used by Snapshot copies / Aggregate Data Reduction SE Ratio)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Efficiency Ratio without Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum [Aggr Logical Used without Snapshot copies for all aggregates and for all nodes of a customer] / Sum [Aggr Physical Used without Snapshot copies for all aggregates and for all nodes of a customer] : 1</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>With Snapshot copies:</p>
+</div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"><strong>Operation</strong></th>
+<th class="tableblock halign-left valign-top"><strong>Formula</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Logical Size with Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum [Logical Size Used by Volumes, Clones, Snapshot copies for all aggregates and for all nodes of a customer]</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Physical Size Used with Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum [Total Physical Size Used for all aggregates and for all nodes of a customer]</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Efficiency Ratio with Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Logical Size with Snapshot copies and Clones / Customer Physical Size Used with Snapshot copies and Clones : 1</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Efficiency feature table calculations:</p>
+</div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"><strong>Operation</strong></th>
+<th class="tableblock halign-left valign-top"><strong>Formula</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Physical Space Used</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Physical Space Used by the Aggregate for all aggregates and of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Logical Size Used without Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Logical Size Used by Volumes, Clones, Snapshot Copies - Logical Size Used by Snapshot copies for all aggregates of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Customer Logical Size Used with Snapshot copies</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Logical Size Used by Volumes, Clones, Snapshot Copies in the Aggregate for all aggregates of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total Space Saved</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total Logical Space Used – Total Physical Space Used</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Deduplication Savings</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Space Saved by Volume Deduplication + Space Saved by Inline Zero Pattern Detection of each aggregate of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Compression Savings</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Space Saved by Volume Compression of each aggregate of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Compaction Savings (for ONTAP 	9.1)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Space Saved by Aggregate Compaction of each aggregate of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Compaction Savings (for ONTAP 	9.2 and later)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of Space Saved by Aggregate Data Reduction of each aggregate of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">FlexClone Savings</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of (Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes) of each aggregate of all nodes of a customer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Snapshot copies Backup Savings</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sum of (Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies) of all aggregates of all nodes of a customer</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p><strong>Why does adding all individual efficiency savings not add up to total data saved by storage efficiency?</strong></p>
+</div>
+<div class="paragraph">
+<p>Efficiency savings are shown in the Storage Efficiency Dashboard for volumes and local tiers (aggregates).  You cannot add volume savings and aggregate savings as they both happen at different storage objects.</p>
+</div>
+<div class="paragraph">
+<p><strong>Why were storage efficiencies reported as higher or incorrectly before upgrading to ONTAP?</strong></p>
+</div>
+<div class="paragraph">
+<p>Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Storage Efficiency reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="capacity">Capacity</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>How are capacities calculated in Active IQ Digital Advisor?</strong><br>
+The capacities in Active IQ Digital Advisor are calculated for cluster and node — excluding root and including Snapshot copies</p>
+</div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"><strong>Capacity</strong></th>
+<th class="tableblock halign-left valign-top"><strong>Calculated by adding each aggregate…</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Raw Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">All Phys (MB/blks) of “SYSCONFIG -R"</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Usable Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Kbytes (Allocated) of "DF -A"</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Used Capacity (with Reserve)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Used of   “DF -A”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Available Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Avail of “DF -A”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Physical Capacity (Actual)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total Physical Used of “AGGR-EFFICIENCY.XML”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Capacity (Effective)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Size Used by Volumes, Clones, and Snapshot copies in the Aggregate of “AGGR-EFFICIENCY.XML”</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p><strong>For Local tier (Aggregate with Snapshot copies)</strong></p>
+</div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"><strong>Capacity</strong></th>
+<th class="tableblock halign-left valign-top"><strong>Calculated by using…</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Usable Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Kbytes (allocated) of "DF -A"</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Used Capacity (with Reserve)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Used of   “DF -A”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Available Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Avail of “DF -A”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Physical Capacity (Actual)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total Physical Used of “AGGR-EFFICIENCY.XML”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Capacity (Effective)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Size Used by Volumes, Clones, and Snapshot copies in the Aggregate of “AGGR-EFFICIENCY.XML”</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p><strong>For Volume (Volume with Snapshot copies)</strong></p>
+</div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Capacity</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Calculated by using…</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Volume Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Volume Size of “VOLUME.XML”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Used Capacity (with Reserve)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Used Size of "VOLUME.XML"</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Available Capacity</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Available Size of “VOLUME.XML”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Physical Capacity (Actual)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total Physical Used of “VOL STATUS -S”</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Capacity (Effective)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Logical Used Size of “VOLUME.XML”</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p><strong>What are Physical Capacity (Actual), Logical Capacity (Effective), and Used Capacity (with Reserve)?</strong></p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Physical Blocks Consumed/Physical Capacity Used (Actual)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The amount of space being used for data now (rather than being reserved for future use)</p>
+</li>
+<li>
+<p>Includes space used by aggregate Snapshot copies</p>
+</li>
+<li>
+<p>Space actually consumed or written by the client</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Logical Capacity (Effective) Logical Data Used</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Displays the logical size used in the aggregate</p>
+</li>
+<li>
+<p>The aggregate incudes Volumes, Clones, and Snapshot copies.</p>
+</li>
+<li>
+<p>The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+It does not include space reserved for future use.
+</td>
+</tr>
+</table>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Total Data Used/Used Capacity (with Reserve)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>The sum of all space used or reserved in the aggregate by volumes, metadata, or Snapshot copies</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+It includes space reserved for volumes that are of file or volume guarantee type. It includes delayed frees, aggr blog, and metadata in addition to reserves. It shows up as used space until the delayed free blocks are purged. After it is purged, the used space decreases.
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p><strong>Why does added Used Capacity of each volume not match the aggregated Used Capacity at the node level?</strong><br>
+Used Capacity at the node level includes space reserved by volumes, metadata, and Snapshot copies. It also includes space reserved for volumes—file or volume guarantee type. Hence, both might not match.</p>
+</div>
+<div class="paragraph">
+<p><strong>Are Capacities shown in Active IQ Digital Advisor Base 2 or Base 10?</strong><br>
+All capacities displayed in Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. ONTAP storage and other NetApp products also display capacity usage in Base 2.</p>
+</div>
+<div class="paragraph">
+<p>For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.</p>
+</div>
+</div>
+</div>
+
+    </article>
+    <!-- Page Container -->
+  </div>
+
+  
+  <!-- Start Page Toolbar -->
+  <div class="page-nav-toolbar">
+    <div class="page-nav-contribute"  >
+      <div class="page-nav-contribute-title">CONTRIBUTE</div>
+      <a target="_blank" href="https://github.com/NetAppDocs/active-iq/blob/main/reference_aiq_faq.adoc" class="btn btn-default githubEditButton" role="button"><img src="/us-en/active-iq/images/github.png" class="github-icon" />Edit on GitHub</a>
+      <a target="_blank" href="https://github.com/NetAppDocs/active-iq/issues/new?body=Page%3A%20[Frequently asked questions for Active IQ](https://docs.netapp.com/us-en/active-iq/reference_aiq_faq.html)" class="btn btn-default githubEditButton" role="button"><img src="/us-en/active-iq/images/github.png" class="github-icon" />Request doc changes</a>
+      <a target="_blank" href="https://docs.netapp.com/us-en/contribute/" class="page-nav-contribute-link"  >Contributor's Guide</a>
+    </div>
+    <div class="page-nav-container">
+      <nav class="page-nav-fixed">
+        <div class="page-nav-title">ON THIS PAGE</div>
+        <div class="page-nav-links">
+          <ul class="page-nav-inner" id="page-menu"></ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+  
+  <div style="clear: both"></div><!-- Main needs to have height -->
+</div>
+
+        </main>
+
+        <footer class="n-footer">
+  <div class="n-footer__bottom">
+    <div class="n-container">
+      <div class="n-footer__bottom-left">
+
+        <div class="n-footer__copyright">
+          <ul class="n-footer__copyright-list">
+            <li class="n-footer__copyright-link">
+            <a href="https://www.netapp.com/us/legal/copyright.aspx">© 2021 NetApp, Inc.</a>
+            </li>
+
+</ul>
+</div>
+<div class="n-footer__social-links">
+<ul class="n-footer__social-link-list">
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-blog" href="https://blog.netapp.com" target="_blank" title="blog" alt="blog">
+<span class="n-footer__social-link-text">blog</span>
+<svg class="n-icon-blog n-footer__social-link-icon" aria-labelledby="title">
+  <title>blog@</title>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#blog"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-community" href="https://community.netapp.com/" target="_blank" title="community" alt="community">
+<span class="n-footer__social-link-text">community</span>
+<svg class="n-icon-community n-footer__social-link-icon" aria-labelledby="title">
+<title>community@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#comments"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-twitter" href="https://twitter.com/netapp" target="_blank" title="twitter" alt="twitter">
+<span class="n-footer__social-link-text">twitter</span>
+<svg class="n-icon-twitter n-footer__social-link-icon" aria-labelledby="title">
+<title>twitter@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#twitter"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-facebook" href="https://www.facebook.com/NetApp" target="_blank" title="facebook" alt="facebook">
+<span class="n-footer__social-link-text">facebook</span>
+<svg class="n-icon-facebook n-footer__social-link-icon" aria-labelledby="title">
+<title>facebook@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#facebook"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-linkedin" href="https://www.linkedin.com/company/netapp" target="_blank" title="linkedin" alt="linkedin">
+<span class="n-footer__social-link-text">linkedin</span>
+<svg class="n-icon-linkedin n-footer__social-link-icon" aria-labelledby="title">
+<title>linkedin@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#linkedin"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-youtube" href="https://www.youtube.com/user/NetAppTV" target="_blank" title="youtube" alt="youtube">
+<span class="n-footer__social-link-text">youtube</span>
+<svg class="n-icon-youtube n-footer__social-link-icon" aria-labelledby="title">
+<title>youtube@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#youtube"></use>
+</svg>
+
+</a>
+</li>
+<li class="n-footer__social-link-list-item">
+<a class="n-footer__social-link" data-ntap-social="follow-slideshare" href="https://www.slideshare.net/NetApp" target="_blank" title="slideshare" alt="slideshare">
+<span class="n-footer__social-link-text">slideshare</span>
+<svg class="n-icon-slideshare n-footer__social-link-icon" aria-labelledby="title">
+<title>slideshare@</title>
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/active-iq/common/svg/sprite.svg#slideshare"></use>
+</svg>
+
+</a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class="n-footer__bottom-right">
+  <p class="n-footer__fine-print">Have feedback for our website?<a target="_self" href="javascript:netapp_mailto()" class="n-footer__copyright">Let us know</a>
+  <a href="https://docs.netapp.com/us-en/announcements/" class="n-footer__copyright">Announcements</a>
+  </p>
+</div>
+</div>
+</div>
+</footer>
+
+      </div>
+
+      <!-- Elasticsearch JS -->
+      <script type="text/javascript" src='/us-en/active-iq/js/bundle.js'></script>
+
+      <!-- Syntax Highlighting -->
+      <script type="text/javascript" src='/us-en/active-iq/js/prism.js'></script>
+      <script type="text/javascript" src='/us-en/active-iq/js/prism-curl.js'></script>
+    </div>
+    <script>
+      document.body.offsetWidth=1903;
+      cookieLaw = {}
+      cookieLaw.euCountry = "US";
+      cookieLaw.invoke = function(){return false;}
+    </script>
+    <script src='/us-en/active-iq/js/www-ntap.js'></script>
+    <script src='/us-en/active-iq/js/tabbed-blocks.js'></script>
+  </body>
+
+  
+</html>
