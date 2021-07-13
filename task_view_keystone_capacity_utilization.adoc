@@ -15,14 +15,22 @@ summary: Provides information on your capacity utilization with NetApp Keystone 
 :imagesdir: ./media/
 
 [.lead]
-If you are subscribed to the NetApp Keystone Flex Subscription Service, you can view the Keystone widget on the Active IQ Digital Advisor Dashboard.
+If you are subscribed to Keystone Flex Subscription Service, you can view the Flex Subscription widget on the Active IQ Digital Advisor Dashboard.
 
-The widget provides you a summary of the consumed capacity for your account. You can view the capacity utilization charts with respect to the committed capacity, the snapshot being rounded up to the last five minutes. The utilization over and above the committed capacity (the burst capacity) is marked in red.
+The Flex Subscription widget provides you a summary of the capacity usage for your account. It consists of capacity utilization charts with respect to the logical capacity, the snapshot being rounded up to the last five minutes. The utilization over and above the committed capacity (the burst capacity) is marked in red.
 
 You can view the *Keystone - Capacity Utilization* dashboard, which analyzes the data in the widget and graphically represents the utilization trend of the capacity and usage for all the subscribed storage link:https://docs.netapp.com/us-en/keystone/nkfsosm_performance.html[services tiers], such as premium, extreme, and standard, associated with your NetApp Keystone Flex Subscription account.
 
-You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html[Flex Subscription service capacity] and usage of each subscribed service for your block, file services, or object storage on the dashboard. Capacity utilization is represented in a concentric circle having three centric rings: the inner ring displays the committed capacity, the middle ring indicates the burst capacity, and the outer ring the consumed capacity. The consumed capacity for a specific date and time within the selected time range is indicated by a blue line graph.
+You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html[Flex Subscription service capacity] and usage of each subscribed service for your block, file services, or object storage on the dashboard.
+
+NOTE: As an Active IQ user, you can choose between ONTAP Collector and AutoSupport to obtain data on your capacity usage.
 
 .Steps
 . Click *View Details* to view the utilization trend in the detailed *Keystone - Capacity Utilization* dashboard.
 . Select either 30 days, 7 days, or 1 day to view the recent average usage trend.
+. Optionally, if you have opted for ONTAP Collector to obtain data on your capacity usage, you can click through the tabs on the dashboard to view more details about your file shares and disks.
+
++
+Click *Shares* or *Disks* to identify the file shares or disks nearing the committed capacity and make informed decisions to save storage capacity.
+
++
