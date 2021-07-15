@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_understand_activeiq_features.html
-keywords: activeiq, active iq digital advisor, features,
+keywords: activeiq, active iq digital advisor, features, upgrade, support offering
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
