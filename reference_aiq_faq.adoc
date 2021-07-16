@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_aiq_faq.html
-keywords: faq, frequently asked questions
+keywords: faq, frequently asked questions, nontechnical case
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
@@ -18,13 +18,13 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 
 The following questions give answers to your frequent queries about Active IQ.
 
-*What is a non-technical ticket?*
+*What is a nontechnical case?*
 
-Issues such as unable to view systems in the inventory, incorrect contract term dates, and so on, which are not technical in nature are classified as non-technical tickets.
+Issues such as unable to view systems in the inventory, incorrect contract term dates, and so on, which are not technical in nature are classified as nontechnical cases.
 
-*When do I need to create a non-technical ticket?*
+*When do I need to create a nontechnical case?*
 
-A non-technical ticket should be created for the following cases:
+A nontechnical case should be created for the following cases:
 
 * Unable to access certain features
 * Missing systems in inventory
@@ -32,9 +32,9 @@ A non-technical ticket should be created for the following cases:
 * Incorrect or missing contract term dates
 * Incorrect support offering
 
-*How do I create a non-technical support ticket?*
+*How do I create a nontechnical case?*
 
-. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
+. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non Technical Feedback Tool" on the NetApp Support site.
 . Select the appropriate category from the *Feedback Category* drop-down list.
 . Enter the required details and provide additional information in the “Comments” box”.
 . Click *Submit*.
