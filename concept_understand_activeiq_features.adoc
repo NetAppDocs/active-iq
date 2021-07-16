@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_understand_activeiq_features.html
-keywords: activeiq, active iq digital advisor, features,
+keywords: activeiq, active iq digital advisor, features, upgrade, support offering
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
@@ -36,3 +36,5 @@ The following are some of the features of Active IQ Digital Advisor:
 * Provide cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration
 * Check the compatibility of hosts, and provide upgrade recommendations for host operating systems, drivers, and firmware
 * Arrive at exactly what you want to find in a smarter and faster manner
+
+NOTE: You can upgrade the support offering from the *Configuration* widget on the system dashboard to gain insights on your install base and receive personalized support.
