@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: task_upgrade_support_offering.html
+keywords: upgrade, support offering, supportedge, premium, standard, basic, expert, secure
+summary: Provides information on upgrading the support offering.
+---
+
+= Upgrade the support offering
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can upgrade the support offering to access more features and functionalities in Active IQ Digital Advisor and receive personalized support.
+
+You can purchase an upgrade to your current support offering to optimize your install base with the help of recommended practices and fixes, upgrade automation with Ansible playbooks, actionable reports and reviews, personalized support, and so on. The upgrade can be purchased when you renew your support contracts or at any other time from the system (node) dashboard.
+
+.Steps
+. Click *View All Systems* next to the *Inventory* widget.
+. On the Inventory Dashboard, select the node (host) for which you want to purchase the upgrade.
++
+You are redirected to the system or node dashboard.
++
+. Click *Upgrade* in the *Configuration* widget.
++
+image:Configuartion widget_Support offering upgrade.png[Configuration widget]
++
+. Optionally, click *Compare Support Offerings* to view the comparison chart and pick the support offering that fits your requirements.
++
+Alternatively, you can click *Support Offerings* on the left navigation menu to view the comparison chart.
++
+. Add any comments that you have and click *Send*.
++
+A request for support offering upgrade is sent to the NetApp Renewals team.
++
