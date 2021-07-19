@@ -27,7 +27,7 @@ You are redirected to the system or node dashboard.
 +
 . Click *Upgrade* in the *Configuration* widget.
 +
-image:Configuartion widget_Support offering upgrade.png[Configuration widget]
+image:Configuration widget_Support offering upgrade.PNG[Configuration widget]
 +
 . Optionally, click *Compare Support Offerings* to view the comparison chart and pick the support offering that fits your requirements.
 +
