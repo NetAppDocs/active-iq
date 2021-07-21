@@ -18,6 +18,12 @@ summary: Provides information about the new features in the release.
 
 The following are the new features and enhancements.
 
+== 22 July 2021
+This update includes the following new features, enhancements, and changes:
+
+=== Wellness Review
+You can now generate the on-demand report. In addition, you can download the last scheduled report from the Wellness Review Subscription screen.
+
 == 12 July 2021
 This update includes the following new features, enhancements, and changes:
 
