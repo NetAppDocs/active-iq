@@ -47,6 +47,8 @@ entries:
         url: /task_subscribe_to_wellness_review_email.html
       - title: Renew the software and hardware
         url: /task_renew_software_and_hardware.html
+      - title: Purchase an upgrade to the support offering
+        url: /task_purchase_support_offering_upgrade.html  
       - title: Analyze the wellness of clusters and nodes
         url: /task_analyze_wellness_clusters_and_nodes.html
   - title: View system details
