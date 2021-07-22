@@ -37,4 +37,4 @@ The following are some of the features of Active IQ Digital Advisor:
 * Check the compatibility of hosts, and provide upgrade recommendations for host operating systems, drivers, and firmware
 * Arrive at exactly what you want to find in a smarter and faster manner
 
-NOTE: You can upgrade the support offering from the *Configuration* widget on the system dashboard to gain insights on your install base and receive personalized support. link:task_purchase_support_offering_upgrade.html[Learn how].
+NOTE: You can upgrade the support offering from the *Configuration* widget on the system dashboard to gain insights on your install base and receive personalized support.
