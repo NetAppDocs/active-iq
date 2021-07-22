@@ -23,7 +23,4 @@ You can view the dashboard for different watchlists, edit the details of an exis
 The *Manage Watchlist* screen is displayed.
 . Click the name of the watchlist to view the dashboard details of the watchlist.
 . Click *Edit* to update the details of the watchlist.
-. Click image:share_icon.png[config drift workflow] to share the watchlist. Enter the usernames of the recipients and click *Share*.
-+
-The watchlist will appear on the *Manage Watchlist* screen of the recipients.
 . Click *Delete* to delete the watchlist.
