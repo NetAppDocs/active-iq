@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
-permalink: task_upgrade_support_offering.html
-keywords: upgrade, support offering, supportedge, premium, standard, basic, expert, secure
+permalink: task_purchase_support_offering_upgrade.html
+keywords: upgrade, support offering, supportedge, premium, standard, basic, expert, secure, purchase
 summary: Provides information on upgrading the support offering.
 ---
 
-= Upgrade the support offering
+= Purchase an upgrade to the support offering
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,9 +15,11 @@ summary: Provides information on upgrading the support offering.
 :imagesdir: ./media/
 
 [.lead]
-You can upgrade the support offering to access more features and functionalities in Active IQ Digital Advisor and receive personalized support.
+You can purchase an upgrade to the support offering to access more features and functionalities in Active IQ.
 
-You can purchase an upgrade to your current support offering to optimize your install base with the help of recommended practices and fixes, upgrade automation with Ansible playbooks, actionable reports and reviews, personalized support, and so on. The upgrade can be purchased when you renew your support contracts or at any other time from the system (node) dashboard.
+You can purchase an upgrade to your current support offering to optimize your install base with the help of recommended practices and fixes, upgrade automation with Ansible playbooks, actionable reports and reviews, personalized support, and so on. The upgrade can be purchased when you renew your support contracts or at any other time from the system (node) dashboard. To learn more about renewals, refer to link:task_renew_support_contracts_for_your_systems.html[Renew the software and hardware of your storage system].
+
+NOTE: You can opt for AIQ Upgrade only if you currently use the SupportEdge Premium or SupportEdge Secure support offerings.
 
 .Steps
 . Click *View All Systems* next to the *Inventory* widget.
@@ -35,5 +37,5 @@ Alternatively, you can click *Support Offerings* on the left navigation menu to 
 +
 . Add any comments that you have and click *Send*.
 +
-A request for support offering upgrade is sent to the NetApp Renewals team.
+A request to purchase the support offering upgrade is sent to the NetApp Renewals team.
 +
