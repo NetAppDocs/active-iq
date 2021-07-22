@@ -41,7 +41,7 @@ You can view the end dates of the support contracts for your hardware, software,
 === Support Offering Upgrade
 
 * The user interface has been enhanced to display the specific support offering that you are subscribed to in Active IQ.
-* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features. link:task_purchase_support_offering_upgrade.html[Learn how].
+* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features.
 
 == 25 June 2021
 
