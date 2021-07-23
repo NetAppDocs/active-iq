@@ -16,10 +16,9 @@ summary: Provides information about the new features in the release.
 
 [.lead]
 
-The following are the new features and enhancements.
+The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
 == 12 July 2021
-This update includes the following new features, enhancements, and changes:
 
 === System Firmware
 You can now view information about the system firmware that is shipped along with the major and patch versions of ONTAP. You can access this feature from the Quick Links menu.
@@ -39,8 +38,14 @@ You can view the end dates of the support contracts for your hardware, software,
 * The user interface has been enhanced to display the specific support offering that you are subscribed to in Active IQ.
 * You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features.
 
+== 25 June 2021
+
+=== Flex Subscription widget
+
+* If you have opted for ONTAP Collector to obtain data on your capacity usage, you can view the details of your file shares and disks in the Shares and Disks tabs. You can save storage space by identifying those nearing committed capacity.
+* The capacity usage, shown on the Keystone - Capacity Utilization dashboard and used for billing, is now based on the logical capacity.
+
 == 17 June 2021
-This update includes the following new features, enhancements, and changes:
 
 === Reports
 You can now generate aggregate volume performance reports for all volumes in a storage VM for any day, week, or month.
@@ -62,32 +67,27 @@ The wellness review email has been enhanced to include information about the sup
 This feature has been enhanced to compare your storage VM (SVM) against a predefined catalog of risks to assess gaps and recommend the associated corrective actions.
 
 == 09 June 2021
-This update includes the following new features, enhancements, and changes:
 
 === Health Check Assessment Dashboard
 You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Assessment Dashboard.
 
 == 20 May 2021
-This update includes the following new features, enhancements, and changes:
 
 === Drift Chat for capacity addition requests
 For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard. link:task_identify_capacity_system.html[Learn how].
 
 == 29 April 2021
-This update includes the following new features, enhancements, and changes:
 
 * Here's how to protect your systems against hackers and Ransomware attacks. link:task_increase_protection_against_hackers_and_Ransomware_attacks.html[Learn how].
 * You can avoid the downtime and possible data loss. link:task_avoid_the_downtime_and_possible_data_loss.html[Learn how].
 * Learn how to avoid a volume filling up to prevent an outage. link:task_avoid_a_volume_filling_up_to_prevent_an_outage.html[Learn how].
 
 == 07 April 2021
-This update includes the following new features, enhancements, and changes:
 
 === Watchlist
 When you access Active IQ Digital Advisor for the first time, you should now create a watchlist instead of a dashboard. You can also view the dashboard for different watchlists, edit the details of an existing watchlist, and delete a watchlist.
 
 == 24 February 2021
-This update includes the following new features, enhancements, and changes:
 
 === Config Drift
 
@@ -101,7 +101,6 @@ This release provides the following functionality:
 You can generate or schedule Capacity and Efficiency reports to view detailed information on the capacity and storage efficiency savings of your system.
 
 == 10 February 2021
-This update includes the following new features, enhancements, and changes:
 
 === StorageGRID
 StorageGRID Dashboard is enabled using the NextGen API framework.
@@ -129,7 +128,6 @@ The Tier Data button has been added to the FabricPool dashboard, and it lets you
 You can view the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
 
 == 21 December 2020
-This update includes the following new features, enhancements, and changes:
 
 === Health Check Assessment Dashboard
 The following widgets have been added to the dashboard:
@@ -138,7 +136,6 @@ The following widgets have been added to the dashboard:
 * Loss of Signal: This widget provides scores and information about the systems, which have stopped sending AutoSupport data for some reason. It provides information if no AutoSupport data has been received from a hostname within a 7-day period.
 
 == 12 November 2020
-This update includes the following new features, enhancements, and changes:
 
 === Integrating data using APIs
 You can use Active IQ APIs to pull data of interest and integrate it directly into your company’s workflow. link:concept_overview_API_service.html[Learn more].
@@ -159,7 +156,6 @@ Active IQ Digital Advisor is now available in three languages – Chinese, Engli
 You can generate or schedule ClusterViewer reports to view detailed information on the physical and logical configuration of your systems. link:task_generate_reports.html[Learn how].
 
 == 15 October 2020
-This update includes the following new features, enhancements, and changes:
 
 === Health Check Assessment Dashboard
 The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
@@ -179,11 +175,10 @@ You can use the reports feature to generate reports immediately or schedule a re
 === Manual AutoSupport Upload
 Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
 
-=== Keystone widget
+=== Flex Subscription widget
 You can monitor the committed, consumed, and burst storage capacity for your NetApp Keystone Flex Subscription Service.
 
 == 30 September 2020
-This update includes the following new features, enhancements, and changes:
 
 === AFF and FAS firmware using Ansible Playbook
 The documentation has been enhanced to include information about downloading, installing, and executing the AFF and FAS firmware ansible automation package.
@@ -191,7 +186,6 @@ The documentation has been enhanced to include information about downloading, in
 link:task_update_AFF_FAS_firmware.html[Learn how to update AFF and FAS firmware using Ansible Playbook].
 
 == 18 August 2020
-This update includes the following new features, enhancements, and changes:
 
 === Performance
 Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen. link:task_view_performance_graphs.html[Learn how].
@@ -200,7 +194,6 @@ Performance graphs have been enhanced to enable you to assess the performance of
 The AFF and FAS firmware screen has been enhanced to provide a better user experience.
 
 == 17 July 2020
-This update includes the following new features, enhancements, and changes:
 
 === Performance
 Performance graphs have been enhanced to enable you to assess the performance of the local tier. You can navigate and toggle between the node tab, cluster tab, and the local tier tab on the same screen.
@@ -209,7 +202,6 @@ Performance graphs have been enhanced to enable you to assess the performance of
 The wellness attributes have been enhanced to view all the affected systems without having to drill-down to the actions and risks.
 
 == 19 June 2020
-This update includes the following new features, enhancements, and changes:
 
 === Generate report for inventory
 You can now generate report of the selected watchlist and emails the report to a maximum of 5 recipients. link:task_view_inventory_details.html[Learn how].
@@ -227,7 +219,6 @@ You can now provide your feedback and let us know the reason you are updating th
 The inventory widget has been enhanced to improve the user experience, by providing user-friendly date formats, additional columns for end of platform support and end of version support.
 
 == 19 May 2020
-This update includes the following new features, enhancements, and changes:
 
 === Set the default home page
 You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
@@ -245,7 +236,6 @@ Update the AFF and FAS firmware using Ansible on your storage system to mitigate
 The wellness score feature is being temporarily disabled to improve the scoring algorithm and simplify the overall experience.
 
 == 02 April 2020
-This update includes the following new features and enhancements:
 
 === Onboarding overview video
 The onboarding video helps users to quickly get familiar with the options and features of Active IQ Digital Advisor.
@@ -260,7 +250,6 @@ The risk summary provides detailed information about the risk, the impact of the
 Provides the option to acknowledge a risk if you do want to mitigate or are unable to mitigate the risk.
 
 == 19 March 2020
-This update includes the following new features and enhancements:
 
 === Upgrade workflow
 You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release. link:task_view_upgrade.html[Learn how].
@@ -275,7 +264,6 @@ Provides deeper information, which is a powerful way to dig deeper into the data
 You can proactively identify systems that have exceeded capacity or are nearing 90% capacity and send a request to increase capacity.
 
 == 29 February 2020
-This update includes the following new features and enhancements:
 
 === Enhanced user interfaces
 The latest Active IQ Digital Advisor Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
