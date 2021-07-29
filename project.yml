@@ -1,5 +1,137 @@
 sidebar:
-
+  entries:
+    - title: Active IQ Digital Advisor Docs
+      url: /index.html
+    - title: Release notes
+      entries:
+        - title: What's new
+          url: /reference_new_activeiq.html
+        - title: Known limitations
+          url: /reference_limitations_activeiq.html
+    - title: Get started
+      entries:
+        - title: Quick start
+          url: /concept_getting_started_2.html
+        - title: Understand Active IQ features
+          url: /concept_understand_activeiq_features.html
+        - title: Key Active IQ concepts
+          url: /concept_key_terms.html
+        - title: Understand AutoSupport
+          url: /concept_autosupport.html
+        - title: Log in to Active IQ Digital Advisor
+          url: /task_login_activeiq.html
+    - title: Provision watchlist
+      entries:
+        - title: Overview
+          url: /concept_overview_dashboard.html
+        - title: Create a watchlist
+          url: /task_add_watchlist.html
+        - title: Manage a watchlist
+          url: /task_manage_watchlists.html
+    - title: Analyze wellness attributes
+      entries:
+        - title: Overview
+          url: /concept_overview_wellness.html
+        - title: View the risk and manually take corrective actions
+          url: /task_view_risk_and_take_action.html
+        - title: Increase protection against hackers and Ransomware attacks
+          url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
+        - title: View and acknowledge the risk
+          url: /task_view_and_acknowledge_risks.html
+        - title: View wellness history
+          url: /task_view_wellness_history.html
+        - title: View the risks that can be automatically mitigated using Active IQ Unified Manager or Ansible Playbook
+          url: /task_view_risks_remediated_unified_manager.html
+        - title: Avoid the downtime and possible data loss
+          url: /task_avoid_the_downtime_and_possible_data_loss.html
+        - title: Subscribe to wellness review email
+          url: /task_subscribe_to_wellness_review_email.html
+        - title: Renew the software and hardware
+          url: /task_renew_software_and_hardware.html
+        - title: Analyze the wellness of clusters and nodes
+          url: /task_analyze_wellness_clusters_and_nodes.html
+    - title: View system details
+      entries:
+        - title: View inventory details
+          url: /task_view_inventory_details.html
+        - title: View valuable insights
+          url: /task_view_valuable_insight_widget.html
+        - title: View Flex Subscription capacity utilization
+          url: /task_view_keystone_capacity_utilization.html
+    - title: Identify system requirements proactively
+      entries:
+        - title: Overview
+          url: /concept_overview_planning.html
+        - title: Identify systems reaching capacity limits
+          url: /task_identify_capacity_system.html
+        - title: Avoid a volume filling up to prevent an outage
+          url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html
+        - title: Renew the software and hardware
+          url: /task_renew_software_and_hardware.html
+    - title: Identify configuration deviations
+      entries:
+        - title: Overview
+          url: /concept_overview_config_drift.html
+        - title: Add a config drift template
+          url: /task_add_config_drift_template.html
+        - title: Compare a config drift template
+          url: /task_compare_config_drift_template.html
+    - title: Improve the efficiency and performance of your storage system
+      entries:
+        - title: Analyze capacity and efficiency savings
+          url: /task_analyze_storage_efficiency.html
+        - title: Analyze storage performance
+          url: /task_view_performance_graphs.html
+    - title: Monitor and tier inactive data with FabricPool Advisor
+      url: /task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
+    - title: Analyze the health of your storage system
+      entries:
+        - title: Overview
+          url: /concept_understand_health_check_assessment_dashboard.html
+        - title: Get started with Health Check Assessment Dashboard
+          url: /concept_get_started_with_health_check_assessment_dashboard.html
+        - title: Renew your support contracts
+          url: /task_renew_support_contracts_for_your_systems.html
+    - title: Ensure your storage system is up to date
+      entries:
+        - title: Upgrade the ONTAP version of your storage system
+          url: /task_view_upgrade.html
+        - title: Update your AFF and FAS firmware using Ansible Playbook
+          entries:
+            - title: Download the AFF and FAS firmware Ansible Automation package
+              url: /task_update_AFF_FAS_firmware.html
+            - title: Install and execute the AFF and FAS firmware Ansible Automation package (Experienced Users)
+              url: /task_install_execute_firmware_update_exp_user.html
+            - title: Install and execute the AFF and FAS firmware Ansible Automation package (Beginners)
+              entries:
+                - title: Host Firmware files using web server
+                  url: /task_hosting_firmware_files_using_web_server.html
+                - title: Work with Inventory file
+                  url: /concept_working_with_inventory_file.html
+                - title: Execute Ansible playbook using NetApp Docker image
+                  url: /task_execute_ansible_playbook_using_docker.html
+                - title: Execute Ansible playbook without Docker
+                  url: /task_execute_ansible_playbook_without_docker.html
+                - title: Validate firmware installation
+                  url: /task_validate_firmware_installation.html
+                - title: Troubleshooting, Feedback and Support
+                  url: /reference_ansible_troubleshoot_feedback_support.html
+    - title: Integrate data using APIs
+      entries:
+        - title: Overview
+          url: /concept_overview_API_service.html
+        - title: Generate tokens to access APIs
+          url: /task_generate_tokens_API_services.html
+        - title: Use the API Catalog to execute APIs
+          url: /task_view_API_catalog.html
+    - title: Generate reports
+      url: /task_generate_reports.html
+    - title: Frequently asked questions
+      url: reference_aiq_faq.html
+    - title: Get more information
+      url: /concept_get_more_information.html
+    - title: Legal notices
+      url: /reference_legalnotices.html
 
 homepage:
   tiles:
