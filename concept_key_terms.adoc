@@ -72,7 +72,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 ** *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in the SVG format.
 
-NOTE: The ClusterViewer feature is not supported on E-Series systems.
+The ClusterViewer feature is not supported on E-Series systems.
 
 // 2021-06-02, Jira AIQ-49239, Reenu
 // ** * Datacenter View:* Provides cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration. The view is enabled by collecting and uploading data from the customer environment using link:https://mysupport.netapp.com/site/tools/tool-eula/activeiq-onecollect[NetApp Active IQ OneCollect].
