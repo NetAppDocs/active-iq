@@ -17,11 +17,11 @@ summary: Provides information to renew the software and hardware of your storage
 [.lead]
 You can view the capacity details and the storage efficiency savings of your system and take appropriate actions. The capacity and storage efficiency information can be viewed either at a cluster level or a node level.
 
+NOTE: This feature is not supported on E-Series systems.
+
 The capacity dashboard displays the capacity details and the capacity forecast of your system. Capacity forecast uses historical capacity information to identify the utilization of each system. Based on the historical data (a year’s data, if available) of utilized and allocated capacity, the algorithm considers the current utilization of each system and generates a forecast for the system’s utilization over the next 1 through 6 months.
 
 The storage efficiency dashboard displays the storage efficiency ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later. The efficiency ratio and savings can be seen with and without Snapshot backups for AFF systems, non-AFF systems, or both. The total savings across customer storage can be seen per efficiency feature such as volume deduplication, volume compression, compaction, FlexClone volumes, and Snapshot backups. You can also view the top 5 storage systems with the best efficiency ratio.
-
-NOTE: This feature is not supported on E-Series systems.
 
 video::8Ge3_0qlyxA[youtube, width=848, height=480]
 
@@ -33,6 +33,8 @@ By default, the *Capacity* tab is selected.
 .. View the capacity forecast at the node level.
 +
 Based on the capacity forecast, you can add capacity to your system.
+NOTE: For ONTAP systems, information about RAW capacity is available in ClusterViewer.
+
 .. Click *Add Capacity* to send a notification to NetApp or your partner to add capacity.
 . View the storage efficiency and the data savings of your storage system.
 .. If the storage efficiency ratio of your storage system is higher than the average storage efficiency ratio, click *Share Your Success Story* to let us know the best practices followed.
