@@ -32,8 +32,7 @@ By default, the *Capacity* tab is selected.
 . View the capacity details at the cluster and node level.
 .. View the capacity forecast at the node level.
 +
-Based on the capacity forecast, you can add capacity to your system.
-NOTE: For ONTAP systems, information about RAW capacity is available in ClusterViewer.
+For ONTAP systems, information about RAW capacity is available in ClusterViewer.
 
 .. Click *Add Capacity* to send a notification to NetApp or your partner to add capacity.
 . View the storage efficiency and the data savings of your storage system.
