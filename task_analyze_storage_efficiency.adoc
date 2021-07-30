@@ -21,6 +21,8 @@ The capacity dashboard displays the capacity details and the capacity forecast o
 
 The storage efficiency dashboard displays the storage efficiency ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later. The efficiency ratio and savings can be seen with and without Snapshot backups for AFF systems, non-AFF systems, or both. The total savings across customer storage can be seen per efficiency feature such as volume deduplication, volume compression, compaction, FlexClone volumes, and Snapshot backups. You can also view the top 5 storage systems with the best efficiency ratio.
 
+NOTE: This feature is not supported on E-Series systems.
+
 video::8Ge3_0qlyxA[youtube, width=848, height=480]
 
 .Steps
