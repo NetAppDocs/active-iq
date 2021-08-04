@@ -24,6 +24,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *** High risks
 *** Medium risks
 *** No risks
+** *Unique Risks:* Displays the risk names and number of systems for a specific risk category.
 ** *Actions:* Displays the number of unique actions that you can take to fix the issues.
 ** *Color-coded risk status*: Displays risk levels and their color codes that are classified into 3 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 [%autowidth, indent=8]
@@ -66,6 +67,8 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
++
+To access the AutoSupport feature, log in to Active IQ Digital Advisor and search for a cluster or hostname. The AutoSupport option is available on the left pane.
 
 * *Cloud ready workloads:* Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery. You can move workloads and volumes that are running on Oracle, SAP, SAP HANA, File Share, SQL, and SharePoint. NetApp® Cloud Volumes helps in moving workloads and volumes to the cloud by delivering extreme performance and advanced data management capabilities to satisfy even your most demanding applications in the cloud. For more information about using NetApp® Cloud Volumes, see the link:https://docs.netapp.com/us-en/occm/task_managing_ontap.html[Cloud Manager] documentation.
 
