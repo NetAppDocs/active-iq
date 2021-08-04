@@ -135,3 +135,45 @@ sidebar:
 
 homepage:
   tiles:
+    - title: Get started
+      links:
+        - title: Learn about Active IQ
+          url: https://tv.netapp.com/detail/video/6254074753001/what-can-you-do-with-active-iq
+        - title: Quick start for Active IQ
+          url: concept_getting_started_2.html
+        - title: Key concepts
+          url: concept_key_terms.html
+        - title: Create a watchlist
+          url: task_add_watchlist.html
+    - title: Use Active IQ
+      links:
+        - title: Analyze risks and take corrective actions
+          url: task_view_risk_and_take_action.html
+        - title: Compare a config drift template
+          url: task_compare_config_drift_template.html
+        - title: Increase protection against hackers and Ransomware attacks
+          url: task_increase_protection_against_hackers_and_Ransomware_attacks.html
+        - title: Analyze storage performance
+          url: task_view_performance_graphs.html
+        - title: Generate reports
+          url: task_generate_reports.html
+    - title: Analyze using Active IQ
+      links:
+        - title: Upgrade the ONTAP version of your storage system (ONTAP)
+          url: task_view_upgrade.html
+        - title: Monitor and tier inactive data with FabricPool Advisor (Cloud Manager)
+          url: task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
+        - title: View capacity utilization with NetApp Keystone Flex Subscription (Keystone)
+          url: task_view_keystone_capacity_utilization.html
+    - title: More resources
+      links:
+        - title: Active IQ Web Portal
+          url: https://mysupport.netapp.com/myautosupport/home.html
+        - title: Active IQ Videos
+          url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7kWBxqwLYBchpMW4k9Z6Vum
+        - title: NetApp Community – Active IQ
+          url: https://community.netapp.com/t5/Active-IQ-and-AutoSupport/ct-p/autosupport-and-my-autosupport
+        - title: Active IQ Mobile Application (Android)
+          url: https://play.google.com/store/apps/details?id=com.netapp.myautosupport&hl=en_IN&gl=US
+        - title: Active IQ Mobile Application (iOS)
+          url: https://apps.apple.com/us/app/active-iq/id1230542480
