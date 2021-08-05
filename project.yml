@@ -92,10 +92,12 @@ sidebar:
           url: /concept_get_started_with_health_check_assessment_dashboard.html
         - title: Renew your support contracts
           url: /task_renew_support_contracts_for_your_systems.html
-    - title: Ensure your storage system is up to date
+    - title: Upgrade to optimize your install base
       entries:
         - title: Upgrade the ONTAP version of your storage system
           url: /task_view_upgrade.html
+        - title: Upgrade the support offering
+          url: /task_upgrade_support_offering.html
         - title: Update your AFF and FAS firmware using Ansible Playbook
           entries:
             - title: Download the AFF and FAS firmware Ansible Automation package
