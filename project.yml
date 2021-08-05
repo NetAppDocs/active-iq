@@ -149,11 +149,11 @@ homepage:
           url: task_add_watchlist.html
     - title: Use Active IQ
       links:
-        - title: Analyze risks and take corrective actions
+        - title: View risks and take corrective actions
           url: task_view_risk_and_take_action.html
-        - title: Compare a config drift template
+        - title: Detect configuration deviations
           url: task_compare_config_drift_template.html
-        - title: Increase protection against hackers and Ransomware attacks
+        - title: Fix critical security risks
           url: task_increase_protection_against_hackers_and_Ransomware_attacks.html
         - title: Analyze storage performance
           url: task_view_performance_graphs.html
@@ -161,11 +161,11 @@ homepage:
           url: task_generate_reports.html
     - title: Analyze using Active IQ
       links:
-        - title: Upgrade the ONTAP version of your storage system (ONTAP)
+        - title: View ONTAP upgrade recommendations
           url: task_view_upgrade.html
-        - title: Monitor and tier inactive data with FabricPool Advisor (Cloud Manager)
+        - title: Reduce storage footprint with Cloud Manager
           url: task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
-        - title: View capacity utilization with NetApp Keystone Flex Subscription (Keystone)
+        - title: View capacity utilization with NetApp Keystone Flex Subscription
           url: task_view_keystone_capacity_utilization.html
     - title: More resources
       links:
