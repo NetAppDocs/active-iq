@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_aiq_faq.html
-keywords: faq, frequently asked questions, nontechnical case
+keywords: faq, frequently asked questions, nontechnical, nontechnical case, non-technical, non-technical case
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
