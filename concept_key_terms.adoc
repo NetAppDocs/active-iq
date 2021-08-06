@@ -24,6 +24,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *** High risks
 *** Medium risks
 *** No risks
+** *Unique Risks:* Displays the risk names and number of systems for a specific risk category.
 ** *Actions:* Displays the number of unique actions that you can take to fix the issues.
 ** *Color-coded risk status*: Displays risk levels and their color codes that are classified into 3 levels on the basis of their severity levels. The use of colors allows a faster assessment of the levels of risk involved.
 [%autowidth, indent=8]
@@ -41,6 +42,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Capacity:* Consists of risks with a capacity attribute for impact area values.
 ** *Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
 ** *Security:* Consists of risks with a security attribute for impact area values.
+** *Wellness History:* Displays information about system risks occurring in the past three months, so that you can learn how they are faring overtime.
 ** *Renewals:* Provides information about the end date of a service contract sorted by hostname that has expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
 ** *Acknowledge Risks (Ack):* Allows you to acknowledge the risks and systems that have been impacted. You can acknowledge these risks and familiarize yourself with the actions that you can perform to mitigate these risks.
 ** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged.
@@ -65,11 +67,16 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 *	*Valuable Insights widget:* Provides information about the number of support cases, pending software upgrades, storage efficiency savings, risks mitigated, and others. It also proactively lists the risk notifications from the Wellness attribute.
 
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
++
+To access the AutoSupport feature, log in to Active IQ Digital Advisor and search for a cluster or hostname. The AutoSupport option is available on the left pane.
 
 * *Cloud ready workloads:* Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery. You can move workloads and volumes that are running on Oracle, SAP, SAP HANA, File Share, SQL, and SharePoint. NetApp® Cloud Volumes helps in moving workloads and volumes to the cloud by delivering extreme performance and advanced data management capabilities to satisfy even your most demanding applications in the cloud. For more information about using NetApp® Cloud Volumes, see the link:https://docs.netapp.com/us-en/occm/task_managing_ontap.html[Cloud Manager] documentation.
 
 * *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
 ** *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in the SVG format.
++
+The ClusterViewer feature is not supported on E-Series systems.
+
 // 2021-06-02, Jira AIQ-49239, Reenu
 // ** * Datacenter View:* Provides cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration. The view is enabled by collecting and uploading data from the customer environment using link:https://mysupport.netapp.com/site/tools/tool-eula/activeiq-onecollect[NetApp Active IQ OneCollect].
 // ** * Interop Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers, and firmware.
