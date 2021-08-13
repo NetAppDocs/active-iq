@@ -24,7 +24,7 @@ The following features and enhancements have been introduced in NetApp Active IQ
 You can now generate the on-demand report. In addition, you can download the last scheduled report from the Wellness Review Subscription screen.
 
 === Inventory
-You can now view the node details, in the Grid Inventory tab, based on site level in an expandable and collapsible format.
+In the Grid Inventory tab, you can now view the node details based on site level in an expandable and collapsible format.
 
 == 12 July 2021
 
