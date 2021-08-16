@@ -26,6 +26,12 @@ You can now generate the on-demand report. In addition, you can download the las
 === Inventory
 In the Grid Inventory tab, you can now view the node details based on site level in an expandable and collapsible format.
 
+=== Mixed-Model Cluster Flag
+Where clusters have mixed-hardware models, the OS version applied across the cluster is the one which all nodes can use. As a result, the OS version of some nodes of more recent hardware models might be downrev from where they should be. To make these mixed-model clusters more visible, we have applied a "mixed model" icon.
+
+=== Recommended Configuration / Storage Virtual Machine (SVM) Health: Volume-level Summary:
+Upon clicking the blue ‘Volume Summary’ box in the SVM table, a "pop-out" displays detailed information about the volumes which are hosted or attached to the specific serial number or physical node.
+
 == 12 July 2021
 
 === System Firmware
