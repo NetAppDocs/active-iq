@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 12 August 2021
+== 16 August 2021
 
 === Wellness Review
 You can now generate the on-demand report. In addition, you can download the last scheduled report from the Wellness Review Subscription screen.
