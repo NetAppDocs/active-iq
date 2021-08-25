@@ -18,6 +18,16 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 26 August 2021
+
+=== Active IQ Digital Advisor Mobile Application
+You can now enable biometric authentication on the Active IQ Digital Advisor mobile application. The options available for authentication vary, depending on the features supported by your mobile phone. Download the application to learn more:
+link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US[Active IQ Digital Advisor Mobile Application (Android)]
+link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322[Active IQ Digital Advisor Mobile Application (iOS)]
+
+=== Wellness
+Wellness widget has been enhanced with Ransomware Defense attribute. You can now view risks and corrective actions associated with ransomware detection, prevention, and recovery.
+
 == 16 August 2021
 
 === Wellness Review
@@ -50,7 +60,7 @@ You can view the end dates of the support contracts for your hardware, software,
 === Support Offering Upgrade
 
 * The user interface has been enhanced to display the specific support offering that you are subscribed to in Active IQ.
-* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features.
+* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features. link:task_upgrade_support_offering.html[Learn how].
 
 == 25 June 2021
 
