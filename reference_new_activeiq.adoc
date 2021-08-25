@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 26 August 2021
+== 25 August 2021
 
 === Active IQ Digital Advisor Mobile Application
 You can now enable biometric authentication on the Active IQ Digital Advisor mobile application. The options available for authentication vary, depending on the features supported by your mobile phone. Download the application to learn more:
