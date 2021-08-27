@@ -43,7 +43,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
 ** *Security:* Consists of risks with a security attribute for impact area values.
 ** *Wellness History:* Displays information about system risks occurring in the past three months, so that you can learn how they are faring overtime.
-** *Renewals:* Provides information about the end date of a service contract sorted by hostname that has expired or near-expiration contract. You can find this option in *Wellness* and in the *Planning* widget.
+** *Ransomware Defense:* Provides information about risks and corrective actions associated with ransomware detection, prevention, and recovery.
 ** *Acknowledge Risks (Ack):* Allows you to acknowledge the risks and systems that have been impacted. You can acknowledge these risks and familiarize yourself with the actions that you can perform to mitigate these risks.
 ** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged.
 ** *Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
@@ -53,7 +53,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *Planning widget:* Displays information about the capacity addition, software, and hardware that needs to be renewed.
 ** *Capacity Additions:*  Identifies systems that have exceeded or are nearing 90% capacity and GRID sites that have exceeded or are nearing 70% capacity. You can raise a request to increase the capacity of your storage system.
-** *Renewals:* Provides information about the software and hardware that has expired or are near expiration in the next 6 months. You can find this option in *Wellness* and in the *Planning* widget.
+** *Renewals:* Provides information about the software and hardware that has expired or are near expiration in the next 6 months. 
 
 *	*Upgrades widget:* Provides the number of upgrades that are available.
 // 2021-06-02, Jira AIQ-49239, Reenu
