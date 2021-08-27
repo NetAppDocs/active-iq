@@ -213,6 +213,8 @@ NOTE:	It does not include space reserved for future use.
 
 NOTE: It includes space reserved for volumes that are of file or volume guarantee type. It includes delayed frees, aggr blog, and metadata in addition to reserves. It shows up as used space until the delayed free blocks are purged. After it is purged, the used space decreases.
 
+*How is the Capacity Forecast calculated?*
+The Capacity Forecast uses Used Capacity data over the last year to calculate the average weekly growth rate of a system. This rate of change in system usage is then extrapolated forward from the current Used Capacity, to demonstrate how system utilization is expected to change over the next 6 months (assuming Total Usable Capacity remains the same).
 
 *Why does added Used Capacity of each volume not match the aggregated Used Capacity at the node level?*
 Used Capacity at the node level includes space reserved by volumes, metadata, and Snapshot copies. It also includes space reserved for volumes—file or volume guarantee type. Hence, both might not match.
