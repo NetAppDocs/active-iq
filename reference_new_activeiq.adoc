@@ -21,7 +21,7 @@ The following features and enhancements have been introduced in NetApp Active IQ
 == 01 September 2021
 
 === Capacity Forecast
-The Capacity Forecast widget has been updated with an improved algorithm that better accounts for system reconfigurations.
+The Capacity Forecast widget has been updated with an improved algorithm that better accounts for system reconfigurations. link:reference_aiq_faq.html[Learn more].
 
 == 26 August 2021
 
