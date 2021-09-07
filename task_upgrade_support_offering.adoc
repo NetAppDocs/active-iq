@@ -24,14 +24,14 @@ NOTE: You can opt for AIQ Upgrade only if you currently use the SupportEdge Prem
 .Steps
 . Click *View All Systems* next to the *Inventory* widget.
 . On the Inventory Dashboard, select the node (host) that you want to upgrade.
-+
 You are redirected to the system or node dashboard.
 . Click *Upgrade* in the *Configuration* widget.
 +
 image:Configuration widget_Support offering upgrade.PNG[Configuration widget]
 . Optionally, click *Compare Support Offerings* to view the comparison chart and pick the support offering that fits your requirements.
-+
 Alternatively, you can click *Support Offerings* on the left navigation menu to view the comparison chart.
+. Select the type of upgrade that you want.
+.. Add AIQ Upgrade to your SupportEdge Premium or SupportEdge Secure support offerings
+.. Any other upgrade request
 . Add any comments that you have and click *Send*.
-+
 A request to purchase the support offering upgrade is sent to the NetApp Renewals team.
