@@ -18,6 +18,11 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 06 September 2021
+
+=== Capacity Forecast
+The Capacity Forecast widget has been updated with an improved algorithm that better accounts for system reconfigurations. link:reference_aiq_faq.html#capacity[Learn more].
+
 == 26 August 2021
 
 === Active IQ Digital Advisor Mobile Application
