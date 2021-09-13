@@ -20,6 +20,13 @@ The following features and enhancements have been introduced in NetApp Active IQ
 
 == 06 September 2021
 
+=== StorageGRID
+
+* View AutoSupport: View the AutoSupport logs for the StorageGRID and the underlying nodes.
+* StorageGRID Appliance details: View StorageGRID appliance details such as the node type, appliance model, drive size, drive type, RAID mode, and so on in the GRID Viewer - GRID Inventory section.
+* Renewals: View the list of GRIDs and the underlying nodes that are due for renewal.
+* E-series SANtricity risks: View E-series SANtricity risks for the underlying nodes in the GRID Dashboard - Wellness section.
+
 === Capacity Forecast
 The Capacity Forecast widget has been updated with an improved algorithm that better accounts for system reconfigurations. link:reference_aiq_faq.html#capacity[Learn more].
 
