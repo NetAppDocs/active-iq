@@ -47,4 +47,4 @@ For example, select 2-months tab to view data for 2 months. This enables you to 
 |   | Network Throughput |  |
 |===
 
-NOTE: Node latency performance graphs are supported only on systems that are running ONTAP 9.2 and later.
+NOTE: Node latency performance graphs and volume performance graphs are supported only on systems that are running ONTAP 9.2 and later. 
