@@ -1,0 +1,18 @@
+---
+sidebar: sidebar
+permalink: task_renew_software_and_hardware.html
+keywords: renew, hardware, software
+summary: Provides information to renew the software and hardware of your storage system.
+---
+
+= Renew the software and hardware of your storage system
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+When you log in to the Active IQ Digital Advisor and notice the Actions highlighted on the Ransomware Defense widget, which shows the risk counts. You can view the risks related to Snapshot creation and retention and ONTAP FPolicy and take actions to fix them.
