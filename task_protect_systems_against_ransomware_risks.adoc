@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
-permalink: task_renew_software_and_hardware.html
-keywords: renew, hardware, software
-summary: Provides information to renew the software and hardware of your storage system.
+permalink: task_protect_systems_against_ransomware_risks.html
+keywords: ransomware, risks, ransomware risks
+summary:
 ---
 
-= Renew the software and hardware of your storage system
+= Protect systems against ransomware risks
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,4 +15,14 @@ summary: Provides information to renew the software and hardware of your storage
 :imagesdir: ./media/
 
 [.lead]
-When you log in to the Active IQ Digital Advisor and notice the Actions highlighted on the Ransomware Defense widget, which shows the risk counts. You can view the risks related to Snapshot creation and retention and ONTAP FPolicy and take actions to fix them.
+When you log in to the Active IQ Digital Advisor, you can view the *Actions* highlighted on the *Ransomware Defense* widget, which shows the risk counts.
+
+You can view the Snapshot creation, retention, and ONTAP FPolicy risks, and then take actions to fix them.
+
+.Steps
+. Log in to Active IQ Digital Advisor.
+. Click *Actions* on the *Ransomware Defense* widget.
+. For the risks that are displayed, check the impact level and follow the recommended actions.
+. Click the Unique Risks tab and link in the *Corrective Action* column.
+. Click the *Affected Systems* tab to view systems with risks.
+. Follow remediation actions that are recommended to protect the systems.
