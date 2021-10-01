@@ -18,6 +18,32 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 30 September 2021
+
+=== Customer Qualified Version
+Customer Qualified Version helps a Support Account Manager (SAM) manage a portion of their customer's install base, which hosts applications requiring:
+
+* An earlier and sometimes unsupported version of ONTAP
+* Or a customer's install base tested and certified to use a certain OS version.
+
+=== Technical Case Workflow
+In both the dashboard and drill down screen, graphical enhancements have been made to the data chart and line graph.  You have an option to view that data in a bar graph as well.
+In the line-graph window, you can view, select, and deselect graphs for Open, Closed, and Total cases in both these user interfaces.
+
+=== Health Assessment executive summary presentation deck
+It is available as part of the Health Assessment report and is bundled with the 'consolidated' Health Assessment Excel report. This report is available in a zip file format.
+
+=== The Health Assessment Report
+It includes a section for NetApp FabricPool reporting.
+
+=== Customer View
+You have an option to turn off the internal sales-focused Active IQ tools and selections, such as Discovery Dashboard, Asset Insights, and others when you present Active IQ Digital Advisor to a customer or other external-facing personas.
+
+To enable it, go to 'View Settings' in the user interface that displays a 'Customer View' toggle.
+
+=== End of Support (EOS) Controllers Beyond 12 Months
+The Health Check Dashboard has been enhanced with a tab displaying controllers with an EOS exceeding 12 months.
+
 == 16 September 2021
 
 === Wellness
