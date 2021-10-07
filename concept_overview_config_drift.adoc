@@ -23,3 +23,7 @@ This feature is available to systems with Advisor and Expert Support contracts o
 You can look at the following diagram to understand the workflow to identify configuration deviations and generate the report.
 
 image:config_drift.png[config drift workflow]
+
+You can view the following video to generate and run an Ansible Playbook to fix the configuration deviations:
+
+video::MbkwcZ7xk3Y[youtube, width=848, height=480]
