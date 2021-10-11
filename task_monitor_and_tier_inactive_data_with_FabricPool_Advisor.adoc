@@ -17,9 +17,11 @@ summary: Provides information on tiering inactive data with FabricPool Advisor.
 [.lead]
 You can reduce your storage footprint and associated costs by monitoring and tiering your cold or inactive data to low-cost object storage tiers.
 
-The FabricPool Advisor dashboard in Active IQ Digital Advisor displays details of your inactive local tier (aggregate) data, inactive volume data, tiered data, and unmonitored data. You can enable Inactive Data Reporting (IDR) to monitor the aggregates. This information is available at customer, site, group, watchlist, cluster, and node levels.
+The FabricPool Advisor dashboard in Active IQ Digital Advisor displays details of your inactive local tier (aggregate) data, inactive volume data, tiered data, and unmonitored data.
 
-If there is more than 60% inactive data in a volume, you can tier the data using NetApp® Cloud Manager. For more information on cloud tiering, refer to link:https://docs.netapp.com/us-en/occm/concept_cloud_tiering.html[Learn about Cloud Tiering].
+NOTE: You can enable Inactive Data Reporting (IDR) to generate a zip file with an Ansible Playbook file. This information is available at customer, site, group, watchlist, cluster, and node levels.
+
+If there is more than 50% inactive data in a volume, you can tier the data using NetApp® Cloud Manager. For more information on cloud tiering, refer to link:https://docs.netapp.com/us-en/occm/concept_cloud_tiering.html[Learn about Cloud Tiering].
 
 .Steps
 . Select *FabricPool Advisor* from the left navigation pane.
