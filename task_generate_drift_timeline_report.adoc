@@ -20,8 +20,25 @@ You can compare the AutoSupport data of the last 90 days and generate a report t
 .Steps
 . From the left pane, click *Config Drift*.
 . Select the *Drift Timeline* report type.
+. Generate a drift timeline report
++
+You can generate a report immediately or you can schedule the report to be generated on a weekly or monthly basis.
+
+[cols=2*,options="header", cols="50,50"]
+|===
+| To generate a report immediately
+| To schedule the report to be generated on a weekly or monthly basis
+a|
 . Select a category and provide the requested values for the report.
 . Select *Include only drifts* option to download only the configuration deviation changes.
 . Click *Submit*.
 . link:task_generate_reports.html[Download and view the drift timeline report].
-. Run Ansible Playbook (included as part of the drift timeline report) to mitigate the drifts.
+a|
+. Click the *Schedule Report* tab.
+. Select a category and provide the requested values for the report.
+. Select *Include only drifts* option to download only the configuration deviation changes.
+. Select the frequency of the report.
+. Select the start date and end date for the report.
+. Click *Submit*.
+. link:task_generate_reports.html[Download and view the drift timeline report].
+|===

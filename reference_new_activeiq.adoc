@@ -18,6 +18,17 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 14 October 2021
+
+=== Ansible Inventory
+You can now generate Ansible inventory files in .yml and .ini file formats at the region and site level. link:task_view_inventory_details.html[Learn how].
+
+=== Inactive Data Reporting (IDR)
+From the FabricPool Advisor screen, you can activate inactive data reporting (IDR) to monitor aggregates and generate an Ansible Playbook. link:task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html[Learn more]
+
+=== Drift Timeline Report
+You can compare the AutoSupport data of the last 90 days and generate a drift timeline report. link:task_generate_drift_timeline_report.html[Learn how].
+
 == 30 September 2021
 
 === Customer Qualified Version
