@@ -25,4 +25,6 @@ video::ttbpbT5uTBI[youtube, width=848, height=480]
 . In the *Inventory* widget, click *Systems* to view the system information of all platforms or click the platform type and then click *Systems* to view systems specific to that platform.
 . Click the node or cluster to view detailed information about the system.
 . Download the *Inventory* report to view the system details in .xls format.
-. Download the *Ansible Inventory* report to view the system details in the .yml and .ini format.
+. Download the *Ansible Inventory* report to view the system details in the .yml and .ini formats at the region or site level.
++
+The Ansible Inventory files can be used with customized Ansible Playbook files to make infrastructure configuration changes.
