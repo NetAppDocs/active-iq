@@ -30,12 +30,14 @@ You can generate a report immediately or you can schedule the report to be gener
 | To schedule the report to be generated on a weekly or monthly basis
 a|
 . Select a category and provide the requested values for the report.
+. Select *Include only drifts* option to download only the configuration deviation changes.
 . Click *Submit*.
 . link:task_generate_reports.html[Download and view the config drift report].
 . Run Ansible Playbook (included as part of the config drift report) to mitigate the drifts.
 a|
 . Click the *Schedule Report* tab.
 . Select a category and provide the requested values for the report.
+. Select *Include only drifts* option to download only the configuration deviation changes.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
 . Click *Submit*.

@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: task_generate_drift_timeline_report.html
+keywords: reports, generate reports, drift timeline, drift timeline report, AutoSupport data
+summary: Provides information to generate drift timeline reports.
+---
+
+= Generate a drift timeline report
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can compare the AutoSupport data of the last 90 days and generate a report that provides information about the events and the configuration deviations that have occured.
+
+.Steps
+. From the left pane, click *Config Drift*.
+. Select the *Drift Timeline* report type.
+. Select a category and provide the requested values for the report.
+. Select *Include only drifts* option to download only the configuration deviation changes.
+. Click *Submit*.
+. link:task_generate_reports.html[Download and view the drift timeline report].
+. Run Ansible Playbook (included as part of the drift timeline report) to mitigate the drifts.
