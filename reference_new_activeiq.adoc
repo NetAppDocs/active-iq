@@ -18,6 +18,28 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 14 October 2021
+
+=== Ansible Inventory
+You can now generate Ansible inventory files in .yml and .ini file formats at the region and site level. link:task_view_inventory_details.html[Learn how].
+
+=== Inactive Data Reporting (IDR)
+From the FabricPool Advisor screen, you can activate inactive data reporting (IDR) to monitor aggregates and generate an Ansible Playbook. link:task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html[Learn more]
+
+=== Drift Timeline Report
+You can compare the AutoSupport data of the last 90 days and generate a drift timeline report. link:task_generate_drift_timeline_report.html[Learn how].
+
+=== Compliant Systems Toggle
+The Health Check dashboard has been enhanced with a toggle for the Minimum OS and Latest OS tabs so that you can view the systems, which are compliant and not compliant with the minimum requirements of the recommended and latest version.
+
+=== Key Recommendations Summary
+On the Health Check dashboard, you can view a summary of the top 5 overall key recommendations.
+
+=== Tabs for NetApp Cloud Volumes ONTAP and E-Series Platforms
+The Health Check dashboard has been enhanced with Cloud Volumes ONTAP ** and E-Series tabs so that you can view the Health Check KPIs and details for those platforms.
+
+A tab for 'ONTAP' has also been added along with the other platforms, which are now enabled.
+
 == 30 September 2021
 
 === Customer Qualified Version
