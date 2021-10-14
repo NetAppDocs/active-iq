@@ -15,7 +15,7 @@ summary: Provides information to generate drift timeline reports.
 :imagesdir: ./media/
 
 [.lead]
-You can compare the AutoSupport data of the last 90 days and generate a report that provides information about the events and the configuration deviations that have occured.
+You can compare the AutoSupport data of the last 90 days and generate a report that provides information about the events and the configuration deviations that have occurred.
 
 .Steps
 . From the left pane, click *Config Drift*.
