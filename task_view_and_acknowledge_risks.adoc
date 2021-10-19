@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_view_and_acknowledge_risks.html
-keywords: wellness, performance, efficiency, availability, capacity, security, protection, protect, acknowledge, unacknowledge, disregard
+keywords: wellness, performance, efficiency, availability, capacity, security vulnerabilities, protection, protect, acknowledge, unacknowledge, disregard
 summary: Provides information to view and analyze the wellness of your storage system and acknowledge the risks.
 ---
 
