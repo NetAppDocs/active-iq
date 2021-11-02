@@ -88,7 +88,7 @@ sidebar:
         - title: Compare a config drift template
           url: /task_compare_config_drift_template.html
         - title: Generate drift timeline report
-          url: /task_generate_drift_timeline_report.html  
+          url: /task_generate_drift_timeline_report.html
     - title: Improve the efficiency and performance of your storage system
       entries:
         - title: Analyze capacity and efficiency savings
@@ -100,9 +100,9 @@ sidebar:
     - title: Analyze the health of your storage system
       entries:
         - title: Overview
-          url: /concept_understand_health_check_assessment_dashboard.html
-        - title: Get started with Health Check Assessment Dashboard
-          url: /concept_get_started_with_health_check_assessment_dashboard.html
+          url: /concept_understand_health_check_dashboard.html
+        - title: Get started with Health Check Dashboard
+          url: /concept_get_started_with_health_check_dashboard.html
         - title: Renew your support contracts
           url: /task_renew_support_contracts_for_your_systems.html
     - title: Upgrade to optimize your install base
