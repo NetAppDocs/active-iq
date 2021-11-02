@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept_understand_health_check_dashboard.html
 keywords: activeiq, health check, health, HCA, health check dashboard, health check score
-summary: Provides information to familiarize yourself with the Health Check  Dashboard.
+summary: Provides information to familiarize yourself with the Health Check Dashboard.
 ---
 
 = Understand Health Check Dashboard
