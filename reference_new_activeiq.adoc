@@ -28,7 +28,6 @@ The following features and enhancements have been introduced in NetApp Active IQ
 === Wellness and Upgrade Widgets
 Enhanced the dashboard with E-Series upgrade recommendations and risk triggered date added to column in the Wellness Action History.
 
-=== Ansible Inventory
 == 14 October 2021
 
 === Ansible Inventory
