@@ -18,6 +18,16 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 11 November 2021
+
+=== Health Check Dashboard
+
+* Added icons on those Health Check tiles which are only applicable for systems with the SupportEdge Advisor and SupportEdge Expert support offerings.  The enhancements have been made to Recommended Software–Software Currency and Firmware Currency sections, Recommended Configuration, and Best Practices.
+* Added a Confidential Data banner for Internal and External (Customers and Partners) users on the Active IQ Digital Advisor–Reports screen.
+
+=== Wellness and Upgrade Widgets
+Enhanced the dashboard with E-Series upgrade recommendations and risk triggered date added to column in the Wellness Action History.
+
 == 14 October 2021
 
 === Ansible Inventory
