@@ -29,6 +29,8 @@ sidebar:
           url: /concept_autosupport.html
         - title: Log in to Active IQ Digital Advisor
           url: /task_login_activeiq.html
+        - title: Manage your clusters in Cloud Manager
+          url: /concept_manage_your_cluster_in_cloud_manager.html
     - title: Provision watchlist
       entries:
         - title: Overview
