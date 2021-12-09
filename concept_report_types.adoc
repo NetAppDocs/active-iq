@@ -21,8 +21,7 @@ The following are the types of reports that are available in Active IQ:
 
 [cols=2*,options="header", cols="30,70"]
 |===
-| Report Name
-| Description
+| Report Name| Description
 | Wellness
 | Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
 | Wellness – Aggregated
@@ -35,7 +34,6 @@ The following are the types of reports that are available in Active IQ:
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels.
-+
 This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
 | End of Support Life
 | Provides information about the list the controllers, shelves, and disks, that have reached end-of-support (EOS).
@@ -52,5 +50,5 @@ This report can be generated either as a direct download from Inventory details 
 | Volume Performance Report
 | Provides information about the performance details of the volumes at the cluster level.
 | Performance Report
-| Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file.  
+| Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file.
 |===
