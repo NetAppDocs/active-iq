@@ -141,8 +141,12 @@ sidebar:
           url: /task_generate_tokens_API_services.html
         - title: Use the API Catalog to execute APIs
           url: /task_view_API_catalog.html
-    - title: Generate reports
-      url: /task_generate_reports.html
+    - title: Generate custom reports
+      entries:
+        - title: Types of reports
+          url: /concept_report_types.html
+        - title: Generate reports
+          url: /task_generate_reports.html
     - title: Frequently asked questions
       url: reference_aiq_faq.html
     - title: Get more information

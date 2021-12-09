@@ -18,6 +18,13 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 15 December 2021
+
+=== Reports
+
+* *Cluster Viewer Bulk Report*: This report provides information about a single cluster or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file.
+* *Performance Report*: This report provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file.  This zip file can be downloaded in a CSV format.
+
 == 11 November 2021
 
 === Health Check Dashboard
