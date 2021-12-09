@@ -21,7 +21,8 @@ The following are the types of reports that are available in Active IQ:
 
 [cols=2*,options="header", cols="30,70"]
 |===
-| Report Name| Description
+| Report Name
+| Description
 | Wellness
 | Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
 | Wellness – Aggregated
