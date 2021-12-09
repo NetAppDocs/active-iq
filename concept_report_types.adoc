@@ -29,4 +29,28 @@ The following are the types of reports that are available in Active IQ:
 | Provides a summary of the outstanding risks and the count of systems affected in an excel format.
 | 7-Mode Upgrade Advisor Plans
 | Provides a report about the upgrade advisor plan for 7-mode systems.  This report includes information about the HA partner in a PDF format.
+| Ansible Inventory
+| Provides an Ansible inventory file which lists all system inventory details by region or site.  This file can be used for automation.
+| FabricPool
+| Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
+| Inventory
+| Provides information about the install base for a selected watchlist, customer, site, group levels.
++
+This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
+| End of Support Life
+| Provides information about the list the controllers, shelves, and disks, that have reached end-of-support (EOS).
+| Recommended Configuration
+| Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
+| Technical Case Details
+| Provides a yearly report about all the technical cases and their status.
+| Upgrade Recommendations (SW & FW)
+| Multi-tabbed report about the software and firmware currency and recommended versions for each controller or serial in the search criteria.
+| ClusterViewer
+| Provides information about a single or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file.
+| Capacity & Efficiency
+| Provides information about the Capacity and Efficiency details at cluster, customer, site, group, watchlist and node level.
+| Volume Performance Report
+| Provides information about the performance details of the volumes at the cluster level.
+| Performance Report
+| Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file.  
 |===
