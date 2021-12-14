@@ -45,8 +45,8 @@ This report can be generated either as a direct download from Inventory details 
 | Provides a yearly report about all the technical cases and their status.
 | Upgrade Recommendations (SW & FW)
 | Multi-tabbed report about the software and firmware currency and recommended versions for each controller or serial in the search criteria.
-| ClusterViewer
-| Provides information about a single or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file.
+| ClusterViewer Report
+| Provides information about a single or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Report to download all the information in a single file.
 
 You can generate this report only for watchlist with up to 100 nodes.
 | Capacity & Efficiency

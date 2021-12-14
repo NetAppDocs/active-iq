@@ -22,15 +22,12 @@ The following features and enhancements have been introduced in NetApp Active IQ
 
 === Reports
 
-* *Cluster Viewer Bulk Report*: This report provides information about a single cluster or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file. You can generate this report only for watchlist with up to 100 nodes.
+* *Cluster Viewer Report*: This report provides information about a single cluster or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file. You can generate this report only for watchlist with up to 100 nodes.
 
 * *Performance Report*: This report provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file. Each zip file contains performance data for a single clusters, which helps the user analyze data of each cluster. You can generate this report only for watchlist with up to 100 nodes.
 
-=== Capacity
-You can view the capacity details of a selected E-series system in Active IQ.
-
-=== Performance Graphs
-You can view the performance graph of a selected E-series system in Active IQ.
+=== Integration with E-Series systems
+You can view the capacity details and performance graph of a selected E-series system in Active IQ.
 
 == 18 November 2021
 
