@@ -22,7 +22,7 @@ The following features and enhancements have been introduced in NetApp Active IQ
 
 === Reports
 
-* *Cluster Viewer Report*: This report provides information about a single cluster or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file. You can generate this report only for watchlist with up to 100 nodes.
+* *Cluster Viewer Report*: This report provides information about a single cluster or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Report to download all the information in a single file. You can generate this report only for watchlist with up to 100 nodes.
 
 * *Performance Report*: This report provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file. Each zip file contains performance data for a single clusters, which helps the user analyze data of each cluster. You can generate this report only for watchlist with up to 100 nodes.
 
