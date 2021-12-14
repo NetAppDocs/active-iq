@@ -23,7 +23,23 @@ The following features and enhancements have been introduced in NetApp Active IQ
 === Reports
 
 * *Cluster Viewer Bulk Report*: This report provides information about a single cluster or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file.
-* *Performance Report*: This report provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file.  This zip file can be downloaded in a CSV format.
+
+You can generate this report only for watchlist with up to 100 nodes.
+
+* *Performance Report*: This report provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file. Each zip file contains performance data for a single clusters, which helps the user analyze data of each cluster.
+
+You can generate this report only for watchlist with up to 100 nodes.
+
+=== Capacity
+You can view the capacity details of a selected E-series system in Active IQ.
+
+=== Performance Graphs
+You can view the performance graph of a selected E-series system in Active IQ.
+
+== 18 November 2021
+
+=== Storage Efficiency
+You can view the storage efficiency details for nodes that are maintained and monitored by NetApp Cloud Insights.
 
 == 11 November 2021
 
@@ -34,6 +50,12 @@ The following features and enhancements have been introduced in NetApp Active IQ
 
 === Wellness and Upgrade Widgets
 Enhanced the dashboard with E-Series upgrade recommendations and risk triggered date added to column in the Wellness Action History.
+
+=== ClusterViewer
+The ClusterViewer Stack Visualization module has been enhanced to include the Zoom in/Zoom out and Save Image feature.
+
+=== Storage Efficiency
+You can view the storage efficiency details for systems that are maintained and monitored by NetApp Cloud Insights.
 
 == 14 October 2021
 
@@ -57,6 +79,12 @@ The Health Check dashboard has been enhanced with Cloud Volumes ONTAP ** and E-S
 
 A tab for 'ONTAP' has also been added along with the other platforms, which are now enabled.
 
+=== Capacity
+You can view the capacity details about the NetApp Cloud Volumes ONTAP systems in Active IQ.
+
+=== Reports
+The reporting timeline has been extended to 12 months. You will also receive a notification when the schedule report is about to expire.
+
 == 30 September 2021
 
 === Customer Qualified Version
@@ -69,16 +97,8 @@ Customer Qualified Version helps a Support Account Manager (SAM) manage a portio
 In both the dashboard and drill down screen, graphical enhancements have been made to the data chart and line graph.  You have an option to view that data in a bar graph as well.
 In the line-graph window, you can view, select, and deselect graphs for Open, Closed, and Total cases in both these user interfaces.
 
-=== Health Assessment executive summary presentation deck
-It is available as part of the Health Assessment report and is bundled with the 'consolidated' Health Assessment Excel report. This report is available in a zip file format.
-
-=== The Health Assessment Report
-It includes a section for NetApp FabricPool reporting.
-
-=== Customer View
-You have an option to turn off the internal sales-focused Active IQ tools and selections, such as Discovery Dashboard, Asset Insights, and others when you present Active IQ Digital Advisor to a customer or other external-facing personas.
-
-To enable it, go to 'View Settings' in the user interface that displays a 'Customer View' toggle.
+=== Performance Graphs
+You can now download the performance graphs in PNG and JPG format, in addition to the CSV format.
 
 === End of Support (EOS) Controllers Beyond 12 Months
 The Health Check Dashboard has been enhanced with a tab displaying controllers with an EOS exceeding 12 months.
@@ -89,6 +109,12 @@ The Health Check Dashboard has been enhanced with a tab displaying controllers w
 
 * The Ransomware Defense widget is now part of Wellness workflow instead of a standalone widget.
 * In the Wellness Review email, you’ll find information about the Ransomware Defense instead of Renewals.
+
+=== Capacity
+You can view the capacity details about the NetApp ONTAP® Select systems in Active IQ.
+
+=== ClusterViewer
+You can view the cabling faults and other errors in the Visualization tab of ClusterViewer.
 
 == 06 September 2021
 

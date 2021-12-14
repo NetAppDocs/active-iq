@@ -35,6 +35,7 @@ The following are the types of reports that are available in Active IQ:
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels.
+
 This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
 | End of Support Life
 | Provides information about the list the controllers, shelves, and disks, that have reached end-of-support (EOS).
@@ -46,10 +47,14 @@ This report can be generated either as a direct download from Inventory details 
 | Multi-tabbed report about the software and firmware currency and recommended versions for each controller or serial in the search criteria.
 | ClusterViewer
 | Provides information about a single or multiple clusters at a customer and watchlist level. You can use the ClusterViewer Bulk Report to download all the information in a single file.
+
+You can generate this report only for watchlist with up to 100 nodes.
 | Capacity & Efficiency
 | Provides information about the Capacity and Efficiency details at cluster, customer, site, group, watchlist and node level.
 | Volume Performance Report
 | Provides information about the performance details of the volumes at the cluster level.
 | Performance Report
 | Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file.
+
+You can generate this report only for watchlist with up to 100 nodes.
 |===
