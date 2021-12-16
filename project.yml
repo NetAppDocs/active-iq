@@ -29,6 +29,8 @@ sidebar:
           url: /concept_autosupport.html
         - title: Log in to Active IQ Digital Advisor
           url: /task_login_activeiq.html
+        - title: Manage your clusters in Cloud Manager
+          url: /concept_manage_your_cluster_in_cloud_manager.html
     - title: Provision watchlist
       entries:
         - title: Overview
@@ -139,8 +141,12 @@ sidebar:
           url: /task_generate_tokens_API_services.html
         - title: Use the API Catalog to execute APIs
           url: /task_view_API_catalog.html
-    - title: Generate reports
-      url: /task_generate_reports.html
+    - title: Generate custom reports
+      entries:
+        - title: Types of reports
+          url: /concept_report_types.html
+        - title: Generate reports
+          url: /task_generate_reports.html
     - title: Frequently asked questions
       url: reference_aiq_faq.html
     - title: Get more information
