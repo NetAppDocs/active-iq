@@ -1,0 +1,21 @@
+---
+sidebar: sidebar
+permalink: concept_manage_your_cluster_in_cloud_manager.html
+keywords: cloud manager, integration with cloud manager, manage clusters
+summary: Provides information about the integration and how to manager clusters in Cloud Manager.
+---
+
+= Manage your clusters in Cloud Manager
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+Active IQ Digital Advisor is integrated into Cloud Manager. You can now manage your clusters and access all the features of Active IQ from the Cloud Manager user interface (UI). Using Cloud Manager, IT experts and cloud architects can centrally manage their hybrid multi-cloud infrastructure.
+
+All you need is an NSS account in Cloud Manager to integrate and access Active IQ in Cloud Manager. For information about integrating and accessing Active IQ in Cloud Manager, see link:https://docs.netapp.com/us-en/occm/concept-aiq-digital-advisor.html#how-active-iq-digital-advisor-works-with-cloud-manager[How Active IQ Digital Advisor works with Cloud Manager].
