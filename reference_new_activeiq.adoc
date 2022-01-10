@@ -18,6 +18,14 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 12 January 2021
+
+=== Config Drift
+
+* You can clone a template to make a copy of the original template.
+* You can share golden templates with other entitled users with read-only or full access to these templates.
+link:task_manage_template.html[Learn how].
+
 == 15 December 2021
 
 === Reports
