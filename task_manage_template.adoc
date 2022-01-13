@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: task_manage_template.html
+keywords: templates, share template, clone template, edit template, delete template
+summary: Provides information to manage templates.
+---
+
+= Manage a template
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can clone a template, share a template, edit the details of an existing template, and delete a template.
+
+.Steps
+. From the left pane, click *Config Drift*.
+. Click image:clone_icon.png[clone] to make a copy of the template.
+. Click image:share_icon.png[share] and enter the usernames with whom you want to share the template.
++
+NOTE: If you enter the email address of the user instead of the username, the template will not be shared.
+
+. Click image:edit_icon.png[edit] to update the details of the template.
+. Click image:delete_icon.png[delete] to delete the template.
