@@ -91,6 +91,8 @@ sidebar:
           url: /task_compare_config_drift_template.html
         - title: Generate drift timeline report
           url: /task_generate_drift_timeline_report.html
+        - title: Manage a template
+          url: /task_manage_template.html 
     - title: Improve the efficiency and performance of your storage system
       entries:
         - title: Analyze capacity and efficiency savings
