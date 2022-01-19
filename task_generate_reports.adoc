@@ -44,6 +44,6 @@ a|
 . Select the start date and end date for the report.
 . Click *Submit*.
 
-NOTE: The next scheduled report will replace the existing report.
+NOTE: The existing scheduled reports will be replaced when the new reports are generated.
 
 |===
