@@ -30,10 +30,16 @@ You can generate a report immediately or you can schedule the report to be gener
 a|
 . Select the type of report and provide the requested values for the report.
 . Click *Submit*.
+
+NOTE: The report is saved in Active IQ for 3 days.
+
 a|
 . Click the *Schedule Report* tab.
 . Select the type of report and provide the requested values for the report.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
 . Click *Submit*.
+
+NOTE: The next scheduled report will replace the existing report.
+
 |===
