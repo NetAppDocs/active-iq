@@ -21,10 +21,8 @@ Sharing a template saves the time and effort required to create and customize a 
 
 *About this task*
 
-.Steps
-. Access to shared templates can be revoked at any time.
-. Shared users can delete this template from their account at any time.
-
+* Access to shared templates can be revoked at any time.
+* Shared users can delete this template from their account at any time.
 
 .Steps
 . From the left pane, click *Config Drift*.
