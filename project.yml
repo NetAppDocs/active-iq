@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Active IQ Digital Advisor 1.0
+  name: Active IQ Digital Advisor
   internal:
     pdf_enabled: true
   prod:
