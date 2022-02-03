@@ -17,6 +17,13 @@ summary: Provides information to manage templates.
 [.lead]
 You can clone a template, share a template, edit the details of an existing template, and delete a template.
 
+Sharing a template saves the time and effort required to create and customize a template that has already been created by a user. Shared templates can be mutually changed by shared users, allowing several users to make modifications to a single golden template.
+
+*About this task*
+
+* Access to shared templates can be revoked at any time.
+* Shared users can delete this template from their account at any time.
+
 .Steps
 . From the left pane, click *Config Drift*.
 . Click image:clone_icon.png[clone] to make a copy of the template.
