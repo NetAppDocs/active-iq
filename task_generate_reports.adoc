@@ -17,6 +17,10 @@ summary: Provides information to generate reports.
 [.lead]
 You can generate reports immediately or schedule a report to be generated on a weekly or monthly basis. You can generate reports for areas like inventory, wellness, and configuration (ClusterViewer).
 
+*About this task*
+
+* You cannot edit the reports in Active IQ. You should delete the existing report and create a new report.
+
 .Steps
 . From the left pane, click *Reports*.
 . Click *Create Report* to generate a new report.
@@ -30,10 +34,16 @@ You can generate a report immediately or you can schedule the report to be gener
 a|
 . Select the type of report and provide the requested values for the report.
 . Click *Submit*.
+
+NOTE: The report is saved in Active IQ for 3 days.
+
 a|
 . Click the *Schedule Report* tab.
 . Select the type of report and provide the requested values for the report.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
 . Click *Submit*.
+
+NOTE: The existing scheduled reports will be replaced when the new reports are generated.
+
 |===
