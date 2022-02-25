@@ -5,7 +5,7 @@ keywords: faq, frequently asked questions, nontechnical, nontechnical case, non-
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
-= Frequently asked questions for Active IQ
+= Frequently asked questions about Active IQ
 :toc: macro
 :toclevels: 1
 :hardbreaks:
