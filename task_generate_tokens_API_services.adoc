@@ -27,4 +27,4 @@ Activation is automatic and should be instantaneous. Once you have been authoriz
 +
 The portal gives you multiple ways to save one or both tokens in the set. You can copy them to clipboard, download them as a text file, or view them as plain text.
 
-NOTE: You should download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens expire after seven days. The refresh token used in this API call will be invalidated after a new refresh token is generated.
+NOTE: You should download and save the access token and refresh token for later use. Access tokens expire one hour after generation and refresh tokens should be regenerated every 7 days and installed in the application. After 90 days, you will need to manually login and obtain a new access and refresh token.
