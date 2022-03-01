@@ -17,7 +17,7 @@ summary: Provides information on how to increase protection against hackers and 
 [.lead]
 The NetApp security site is the source of truth for NetApp Product Security: link:https://security.netapp.com[]
 
-Active IQ utilizes telemetry data published product security advisories to detect security issues for covered* and support-entitled products. Product telemetry data must be transmitted to NetApp via AutoSupport to allow Active IQ to detect risks.
+Active IQ utilizes telemetry data and published product security advisories to detect security issues for covered* and support-entitled products. Product telemetry data must be transmitted to NetApp via AutoSupport to allow Active IQ to detect risks.
 
 For additional NetApp product security information, including products not covered by Active IQ, visit link:https://security.netapp.com[]
 
