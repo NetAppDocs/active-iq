@@ -5,7 +5,7 @@ keywords: protection, hackers, ransomware, ransomware attacks, attack
 summary: Provides information on how to increase protection against hackers and ransomware attacks.
 ---
 
-= Increase protection against hackers and Ransomware attacks
+= Detect Security Vulnerability
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,7 +15,13 @@ summary: Provides information on how to increase protection against hackers and 
 :imagesdir: ./media/
 
 [.lead]
-When you log in to the Active IQ Digital Advisor and notice the red badge on the *Security Vulnerabilities* widget, you can take actions to fix critical risks.
+The NetApp security site is the source of truth for NetApp Product Security: link:https://security.netapp.com[]
+
+Active IQ utilizes telemetry data published product security advisories to detect security issues for covered* and support-entitled products. Product telemetry data must be transmitted to NetApp via AutoSupport to allow Active IQ to detect risks.
+
+For additional NetApp product security information, including products not covered by Active IQ, visit link:https://security.netapp.com[]
+
+*Covered products: ONTAP 9 (on-prem and cloud), SANtricity OS Controller Software, NetApp SolidFire (Element Software), StorageGRID, Active IQ Unified Manager, ONTAP Tools for VMware (OTV)
 
 .Steps
 . Log in to Active IQ Digital Advisor.
