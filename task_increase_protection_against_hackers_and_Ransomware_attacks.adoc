@@ -35,13 +35,3 @@ image:Corrective Action_Image 2 Ransomware attacks.png[Corrective Action column]
 The risk is fixed in ONTAP 9.7P8 and later.
 image:Remediations_Image 3 Ransomware attacks.png[Remediation tab]
 . The most important step is to plan OS upgrade in the *Upgrade Advisor* in Active IQ Digital Advisor.
-
-
-
-The NetApp security site is the source of truth for NetApp Product Security: link:https://security.netapp.com[]
-
-Active IQ utilizes telemetry data published product security advisories to detect security issues for covered* and support-entitled products. Product telemetry data must be transmitted to NetApp via AutoSupport to allow Active IQ to detect risks.
-
-For additional NetApp product security information, including products not covered by Active IQ, visit link:https://security.netapp.com[]
-
-*Covered products: ONTAP 9 (on-prem and cloud), SANtricity OS Controller Software, NetApp SolidFire (Element Software), StorageGRID, Active IQ Unified Manager, ONTAP Tools for VMware (OTV)
