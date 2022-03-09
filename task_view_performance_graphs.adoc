@@ -28,8 +28,8 @@ video::fWrHYX17xT8[youtube, width=848, height=480]
 .Steps
 . On the Dashboard, click *Performance*.
 +
-By default, the cluster performance is displayed. You can click the *Node* tab to view the performance of a single node of an ONTAP cluster, click the *Local Tier* tab to view the performance of the local tier, or click the *Volume* tab to view the performance of the volume.
-. Select either 1 day, 1 week, 1 month, 2 months, or 12 months, in the calendar, for viewing performance data in a graphical format. Confirm that you want to perform the operation.
+By default, the cluster performance is displayed. For ONTAP systems, you can click the *Node* tab to view the performance of a single node of an ONTAP cluster, click the *Local Tier* tab to view the performance of the local tier, or click the *Volume* tab to view the performance of the volume. For E-Series systems, you can view the graphs only at a controller level.
+. Select either 1 day, 1 week, 1 month, 2 months, or 12 months, in the calendar, for viewing performance data in a graphical format.
 +
 For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
 . The following performance graphs with required metrics are available for ONTAP clusters and nodes:
