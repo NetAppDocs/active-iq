@@ -32,6 +32,7 @@ For ONTAP systems, you can click the *Node* tab to view the performance of a sin
 +
 For E-Series systems, you can view the graphs only at a controller level.
 
+[start=2]
 . Select either 1 day, 1 week, 1 month, 2 months, or 12 months, in the calendar, for viewing performance data in a graphical format.
 +
 For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
