@@ -18,7 +18,15 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 12 January 2021
+== 23 March 2022
+
+=== Health Check Dashboard
+
+* Enhancements and bug fixes to Health Assessment Executive Summary PPT.
+* Ability to generate a minimum recommended version upgrade plan
+* Enhancements to Health Check tiles to identify the number of nodes that require attention for each KPI.
+
+== 12 January 2022
 
 === Config Drift
 
