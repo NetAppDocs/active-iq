@@ -23,7 +23,7 @@ The following features and enhancements have been introduced in NetApp Active IQ
 === Health Check Dashboard
 
 * Enhancements and bug fixes to Health Assessment Executive Summary PPT.
-* Ability to generate a minimum recommended version upgrade plan
+* Ability to generate a minimum recommended version upgrade plan.
 * Enhancements to Health Check tiles to identify the number of nodes that require attention for each KPI.
 
 == 12 January 2022
@@ -208,13 +208,13 @@ The wellness review email has been enhanced to include information about the sup
 * Config Drift now supports over 200 AutoSupport sections for creating golden templates and generating drift reports across customer, site, group, watchlist, cluster, and host.
 * Config drift allows you to mitigate deviations using Ansible playbooks which are included in the config drift report payload.
 
-=== Health Check Assessment Dashboard
+=== Health Check Dashboard
 This feature has been enhanced to compare your storage VM (SVM) against a predefined catalog of risks to assess gaps and recommend the associated corrective actions.
 
 == 09 June 2021
 
-=== Health Check Assessment Dashboard
-You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Assessment Dashboard.
+=== Health Check Dashboard
+You can now view the number of systems based on which the health score is calculated. This enhancement is applicable for all the attributes in the Health Check Dashboard.
 
 == 20 May 2021
 
@@ -274,7 +274,7 @@ You can view the different types of workloads that are available within your sto
 
 == 21 December 2020
 
-=== Health Check Assessment Dashboard
+=== Health Check Dashboard
 The following widgets have been added to the dashboard:
 
 * Recommended Software:  This widget provides a consolidated list of all the software and firmware upgrades and currency recommendations.
@@ -288,7 +288,7 @@ You can use Active IQ APIs to pull data of interest and integrate it directly in
 === Wellness - Upgrades widget
 The enhanced Risk Advisor and Upgrade Advisor tabs enable you to view all the system risks and help you plan for an upgrade for mitigating all the risks.
 
-=== Health Check Assessment Dashboard
+=== Health Check Dashboard
 The Recommended Configuration widget has been added to the dashboard, and it provides a summary on the number of systems that are monitored for remote management risks, spares and failed drives risks, and HA pair risks.
 
 === FabricPool Advisor
@@ -302,8 +302,8 @@ You can generate or schedule ClusterViewer reports to view detailed information 
 
 == 15 October 2020
 
-=== Health Check Assessment Dashboard
-The Active IQ Health Check Assessment (HCA) Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
+=== Health Check Dashboard
+The Active IQ Health Check Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
 
 === Config Drift
 This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn how to add a config drift template].
