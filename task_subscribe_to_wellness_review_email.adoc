@@ -26,7 +26,7 @@ You also have the option to delete subscriptions.
 NOTE: This feature is available only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
 
 .Steps
-. On the Health Check Assessment Dashboard, click *Wellness Review Subscription*.
+. From the left pane, click *Wellness Review*.
 . Click *Add Subscription*.
 . Provide the required information in the *Name the Subscription*, *Choose Category*, *Search Customer*, and *Email* fields in the *Add New Subscription* dialog box.
 . Click *Subscribe*.
