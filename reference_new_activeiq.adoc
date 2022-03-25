@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 23 March 2022
+== 24 March 2022
 
 === Health Check Dashboard
 
