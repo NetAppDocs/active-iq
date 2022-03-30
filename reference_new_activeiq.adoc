@@ -35,7 +35,7 @@ You can view information about Tenants and Buckets in the GRID Viewer.
 You can view grid configuration details in the GRID Viewer.
 
 === Cloud Manager
-Cloud Manager users can now open links in new tabs, wherever applicable, similar to the existing functionality in Active IQ.
+Cloud Manager users can now open Active IQ links in new tabs, wherever applicable, similar to the existing functionality in Active IQ.
 
 == 12 January 2022
 
