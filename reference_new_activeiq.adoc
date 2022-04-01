@@ -18,6 +18,11 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 31 March 2022
+
+=== StorageGRID
+You can view information about Tenants and Buckets in the GRID Viewer.
+
 == 24 March 2022
 
 === Health Check Dashboard
@@ -25,6 +30,12 @@ The following features and enhancements have been introduced in NetApp Active IQ
 * Enhancements and bug fixes to Health Assessment Executive Summary PPT.
 * Ability to generate a minimum recommended version upgrade plan.
 * Enhancements to Health Check tiles to identify the number of nodes that require attention for each KPI.
+
+=== StorageGRID
+You can view grid configuration details in the GRID Viewer.
+
+=== Cloud Manager
+Cloud Manager users can now open Active IQ links in new tabs, wherever applicable, similar to the existing functionality in Active IQ.
 
 == 12 January 2022
 
