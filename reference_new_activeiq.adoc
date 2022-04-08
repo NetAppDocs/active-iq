@@ -18,6 +18,13 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 07 April 2022
+
+=== Wellness
+
+* The scoring of key recommendations for the latest Operating System Version and the '6-month' KPIs for Support Contracts and End of Support has been lowered to align with their reduced urgency to resolve.
+* The key recommendations for Remote Management and HA Pair (Recommended Configuration) have been updated to include URLs to the NetApp Support Site for customer self-service.
+
 == 31 March 2022
 
 === StorageGRID
