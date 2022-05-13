@@ -18,6 +18,21 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 12 May 2022
+
+=== StorageGRID
+Additional capacity metrics are included in StorageGRID Capacity and Capacity Reports.
+
+=== ClusterViewer
+SnapMirror (Data Protection) summary for clusters is now included in ClusterViewer.
+
+=== Upgrade workflow
+You can now use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target E-Series release.
+
+=== Wellness
+* The Ansible Playbooks have been enhanced to mitigate software configuration risks.
+* The filters have been consolidated in the wellness actions and risks.
+
 == 07 April 2022
 
 === Wellness
