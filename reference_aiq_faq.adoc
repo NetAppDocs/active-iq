@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: reference_aiq_faq.html
-keywords: faq, frequently asked questions, nontechnical, nontechnical case, non-technical, non-technical case
+keywords: faq, frequently asked questions, non-technical, non-technical case, inventory, storage efficiency, capacity, performance
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
@@ -18,13 +18,15 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 
 The following questions give answers to your frequent queries about Active IQ.
 
-*What is a nontechnical case?*
+== Non-technical case
 
-Issues such as unable to view systems in the inventory, incorrect contract term dates, and so on, which are not technical in nature are classified as nontechnical cases.
+*What is a non-technical case?*
 
-*When do I need to create a nontechnical case?*
+Issues such as unable to view systems in the inventory, incorrect contract term dates, and so on, which are not technical in nature are classified as non-technical cases.
 
-A nontechnical case should be created for the following cases:
+*When do I need to create a non-technical case?*
+
+A non-technical case should be created for the following cases:
 
 * Unable to access certain features
 * Missing systems in inventory
@@ -32,9 +34,9 @@ A nontechnical case should be created for the following cases:
 * Incorrect or missing contract term dates
 * Incorrect support offering
 
-*How do I create a nontechnical case?*
+*How do I create a non-technical case?*
 
-. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non Technical Feedback Tool" on the NetApp Support site.
+. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
 . Select the appropriate category from the *Feedback Category* drop-down list.
 . Enter the required details and provide additional information in the “Comments” box”.
 . Click *Submit*.
@@ -223,3 +225,15 @@ Used Capacity at the node level includes space reserved by volumes, metadata, an
 All capacities displayed in Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. ONTAP storage and other NetApp products also display capacity usage in Base 2.
 
 For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.
+
+== Inventory
+
+*Why cannot I find certain systems in the inventory page?*
+You may not be able to view certain systems in the inventory page due to one of the following reasons:
+
+* New systems take over a day to reflect in Active IQ once they are added or updated in SAP.
+* The systems are secure and you are not authorized to view the secure systems.
+* You are not entitled to view the systems.
+* Systems are inactive
+
+If you are unable to view systems for any other reasons, link:https://mysupport.netapp.com/site/help[create a non-technical case]. To learn more about non-technical case, click <<Non-technical case,here.>>
