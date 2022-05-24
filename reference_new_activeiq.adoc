@@ -21,7 +21,9 @@ The following features and enhancements have been introduced in NetApp Active IQ
 == 25 May 2022
 
 === Inventory
-You can now view the sales representative information for all the systems in Inventory.
+
+* You can now view the sales representative information for systems in Inventory.
+* Astra Control Centre systems are now available in Inventory.
 
 == 12 May 2022
 
