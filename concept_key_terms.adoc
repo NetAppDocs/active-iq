@@ -60,7 +60,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 // It also displays current interoperability details.
 // ** * Current Interoperability:* Shows the host compatibility information based on the Active IQ OneCollect AutoSupport.
 
-* *Storage Efficiency:* Identifies the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both.
+* *Storage Efficiency:* Identifies the storage efficiency ratio and savings of your storage system with and without Snapshot copies for AFF systems, non-AFF systems, or both.
 
 * *Performance graph:* Enables you to analyze the performance of your storage devices by viewing the graphical format of performance data. You can view detailed performance graphs of the ONTAP cluster for the selected node.
 

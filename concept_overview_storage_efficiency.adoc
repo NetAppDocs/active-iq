@@ -16,8 +16,8 @@ summary: Provides information about tracking the efficiency of your storage syst
 
 [.lead]
 
-The storage efficiency dashboard displays the storage efficiency ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later. The efficiency ratio and savings can be seen with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information either at a cluster level or a node level.
+The storage efficiency dashboard displays the storage efficiency ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later. The efficiency ratio and savings can be seen with and without Snapshot copies for AFF systems, non-AFF systems, or both. You can view the storage efficiency information either at a cluster level or a node level.
 
-The total savings across customer storage can be seen per efficiency feature such as volume deduplication, volume compression, compaction, FlexClone volumes, and Snapshot backups. You can also view the top 5 storage systems with the best efficiency ratio.
+The total savings across customer storage can be seen per efficiency feature such as volume deduplication, volume compression, compaction, FlexClone volumes, and Snapshot copies. You can also view the top 5 storage systems with the best efficiency ratio.
 
 video::8Ge3_0qlyxA[youtube, width=848, height=480]
