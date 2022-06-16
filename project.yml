@@ -74,6 +74,8 @@ sidebar:
       entries:
         - title: Overview
           url: /concept_overview_planning.html
+        - title: Take informed decisions based on cloud recommendations
+          url: /task-informed-decisions-based-on-cloud-recommendations.html  
         - title: Identify systems reaching capacity limits
           url: /task_identify_capacity_system.html
         - title: Avoid a volume filling up to prevent an outage
