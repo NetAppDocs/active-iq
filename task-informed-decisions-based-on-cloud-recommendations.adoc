@@ -15,13 +15,15 @@ summary: Provides recommendations based on which informed decisions can be taken
 :imagesdir: ./media/
 
 [.lead]
-Active IQ constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system. Active IQ navigates you to Cloud Manager to implement the recommendations.
+Active IQ constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system.
 
 Active IQ provides recommendations about the following:
 
 * Migration: Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
-* Backup & Archive: Provides information about the systems that should be backed up to the cloud.
-* Disaster Recovery: Provides information about the data that should be replicated to the cloud.
+* Backup & Archive: Provides information about the systems that should be backed up to the cloud. You can use NetApp Cloud Backup to secure your systems and restore them back when required.
+* Disaster Recovery: Provides information about the data that should be replicated to the cloud to help in case of disasters.
+
+NOTE: Active IQ navigates you to Cloud Manager to implement the recommendations.
 
 .Steps
 . From the left pane, click *Cloud Recommendations*.
