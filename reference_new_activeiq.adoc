@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 08 June 2022
+== 22 June 2022
 
 === StorageGRID
 
