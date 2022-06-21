@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 22 June 2022
+== 23 June 2022
 
 === StorageGRID
 Information Lifecycle Management (ILM) for StorageGRID has been included in the GRID Viewer.
@@ -29,8 +29,8 @@ Provides you with recommendations for workloads and their respective volumes tha
 === Reports
 
 * You can now generate reports using the criteria defined for an already generated report.
-* You can now retry generating failed reports without re-entering the report criteria.
-* The retention period of reports generated in Active IQ is now 90 days.
+* You can now retry generating failed reports.
+* The retention period of reports generated has increased from 3 days to 90 days.
 
 == 01 June 2022
 
