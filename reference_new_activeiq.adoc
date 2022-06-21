@@ -24,7 +24,7 @@ The following features and enhancements have been introduced in NetApp Active IQ
 Information Lifecycle Management (ILM) for StorageGRID has been included in the GRID Viewer.
 
 === Cloud Recommendations
-Provides you with recommendations for workloads and their respective volumes that can be moved to NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service, and NetApp Cloud Backup (formerly AltaVault) using SnapMirror Data Replication.
+Provides you with recommendations for workloads and their respective volumes that can be moved to NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service, and NetApp Cloud Backup (formerly AltaVault) using SnapMirror Data Replication. link:task-informed-decisions-based-on-cloud-recommendations.html[Learn how].
 
 == 01 June 2022
 
