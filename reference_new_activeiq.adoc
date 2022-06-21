@@ -29,7 +29,7 @@ Provides you with recommendations for workloads and their respective volumes tha
 === Reports
 
 * You can now generate reports using the criteria defined for an already generated report.
-* You can now retry generating failed reports.
+* You can now make 3 attempts to retry generating failed reports.
 * The retention period of reports generated has increased from 3 days to 90 days.
 
 == 01 June 2022
