@@ -26,6 +26,12 @@ Information Lifecycle Management (ILM) for StorageGRID has been included in the 
 === Cloud Recommendations
 Provides you with recommendations for workloads and their respective volumes that can be moved to NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service, and NetApp Cloud Backup (formerly AltaVault) using SnapMirror Data Replication. link:task-informed-decisions-based-on-cloud-recommendations.html[Learn how].
 
+=== Reports
+
+* You can now generate reports using the criteria defined for an already generated report.
+* You can now retry generating failed reports without re-entering the report criteria.
+* The retention period of reports generated in Active IQ is now 90 days.
+
 == 01 June 2022
 
 === Inventory
