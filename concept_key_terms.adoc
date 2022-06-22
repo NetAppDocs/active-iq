@@ -55,7 +55,10 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Capacity Additions:*  Identifies systems that have exceeded or are nearing 90% capacity and GRID sites that have exceeded or are nearing 70% capacity. You can raise a request to increase the capacity of your storage system.
 ** *Renewals:* Provides information about the software and hardware that has expired or are near expiration in the next 6 months.
 
-*	*Upgrades widget:* Provides the number of upgrades that are available.
+*	*Upgrades widget:* Provides the number of upgrades that are available for ONTAP and E-Series systems:
+** * For ONTAP systems, you can view information about the number of systems that require an upgrade, and then request for an upgrade plan.
+** * For E-Series systems, you can only view information about the number of systems that require an upgrade.
+
 // 2021-06-02, Jira AIQ-49239, Reenu
 // It also displays current interoperability details.
 // ** * Current Interoperability:* Shows the host compatibility information based on the Active IQ OneCollect AutoSupport.
