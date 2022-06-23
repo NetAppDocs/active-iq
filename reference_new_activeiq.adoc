@@ -18,6 +18,20 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 22 June 2022
+
+=== StorageGRID
+Information Lifecycle Management (ILM) for StorageGRID has been included in the GRID Viewer.
+
+=== Cloud Recommendations
+Provides you with recommendations for workloads and their respective volumes that can be moved to NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service, and NetApp Cloud Backup (formerly AltaVault) using SnapMirror Data Replication. link:task-informed-decisions-based-on-cloud-recommendations.html[Learn how].
+
+=== Reports
+
+* You can now generate reports using the criteria defined for an already generated report.
+* You can now make 3 attempts to retry generating failed reports.
+* The retention period of reports generated has increased from 3 days to 90 days.
+
 == 01 June 2022
 
 === Inventory
@@ -409,7 +423,7 @@ The inventory widget has been enhanced to improve the user experience, by provid
 You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
 
 === Storage efficiency
-You can view the storage efficiency ratio and savings of your storage system with and without Snapshot backups for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn how].
+You can view the storage efficiency ratio and savings of your storage system with and without Snapshot copies for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn how].
 
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
