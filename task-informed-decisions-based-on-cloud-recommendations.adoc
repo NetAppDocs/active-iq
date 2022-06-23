@@ -1,0 +1,38 @@
+---
+sidebar: sidebar
+permalink: task-informed-decisions-based-on-cloud-recommendations.html
+keywords: cloud recommendations, migration, backup and archive, disaster recovery
+summary: Provides recommendations based on which informed decisions can be taken.
+---
+
+= Take informed decisions based on cloud recommendations
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Active IQ constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system.
+
+Active IQ provides recommendations about the following:
+
+* Migration: Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
+* Backup & Archive: Provides information about the systems that should be backed up to the cloud. You can use NetApp Cloud Backup to secure your systems and restore them back when required.
+* Disaster Recovery: Provides information about the data that should be replicated to the cloud to help in case of disasters.
+
+NOTE: Active IQ navigates you to Cloud Manager to implement the recommendations.
+
+.Steps
+. From the left pane, click *Cloud Recommendations*.
+. To migrate data:
+.. Click on any one link in the *Migration* pane.
+.. Click *Migrate to Cloud* to launch *Cloud Manager*.
+. To backup and archive data:
+.. Click on any one link in the *Backup & Archive* pane.
+.. Click *Backup to Cloud* to launch *Cloud Manager*.
+. To replicate data:
+.. Click on any one link in the *Disaster Recovery* pane.
+.. Click *Replicate to Cloud* to launch *Cloud Manager*.
