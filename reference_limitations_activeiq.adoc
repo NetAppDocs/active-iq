@@ -29,3 +29,6 @@ Editing a watchlist does not update the information in Active IQ Digital Advisor
 
 == A blank report is displayed while scheduling reports
 Scheduled reports are available only with a SupportEdge Advisor or a SupportEdge Expert support contract. If your systems are not under SupportEdge Advisor or a SupportEdge Expert support contract, you may get a blank report while scheduling reports.
+
+== Acknowledged and unacknowledged risks may take 60 minutes to reflect in Active IQ Digital Advisor
+The status of the risks that are acknowledged and unacknowledged do not reflect immediately in Active IQ Digital Advisor. It may take up to 60 minutes for the changes to reflect in Active IQ Digital Advisor and in wellness reports.
