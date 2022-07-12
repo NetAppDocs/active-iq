@@ -18,6 +18,22 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
+== 13 July 2022
+
+=== Health Check Dashboard
+
+* You can now view technical case details created for Cloud Volumes ONTAP systems in Health Check Dashboard.
+* New platform tabs have been added to help you easily navigate between the KPIs of different platforms.
+
+=== E-Series systems
+You can view the version of SANtricity operating system in the recommended version and Health Check KPIs.
+
+=== Wellness
+Introduced color-coding to quickly and easily identify systems that do not require any software or firmware version upgrades.
+
+=== Upgrade Workflow
+You can now view upgrade recommendations for E-Series systems.
+
 == 22 June 2022
 
 === StorageGRID
