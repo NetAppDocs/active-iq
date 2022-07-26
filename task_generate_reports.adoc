@@ -15,7 +15,7 @@ summary: Provides information to generate reports.
 :imagesdir: ./media/
 
 [.lead]
-You can generate reports immediately or schedule a report to be generated on a weekly or monthly basis. You can generate reports for areas like inventory, wellness, and configuration (ClusterViewer).
+You can generate reports immediately or schedule a report to be generated on a weekly or monthly basis. The reports can be generated in different formats. Based on the report selected, the available formats are displayed.
 
 *About this task*
 
@@ -33,6 +33,7 @@ You can generate a report immediately or you can schedule the report to be gener
 | To schedule the report to be generated on a weekly or monthly basis
 a|
 . Select the type of report and provide the requested values for the report.
+. Select the format of the report.
 . Click *Submit*.
 
 NOTE: The report is saved in Active IQ for 3 days.
@@ -40,6 +41,7 @@ NOTE: The report is saved in Active IQ for 3 days.
 a|
 . Click the *Schedule Report* tab.
 . Select the type of report and provide the requested values for the report.
+. Select the format of the report.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
 . Click *Submit*.

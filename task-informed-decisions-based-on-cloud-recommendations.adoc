@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task-informed-decisions-based-on-cloud-recommendations.html
-keywords: cloud recommendations, migration, backup and archive, disaster recovery
+keywords: cloud recommendations, migration, backup and archive, disaster recovery, FabricPool, FabricPool Advisor, inactive data, tiered data, IDR
 summary: Provides recommendations based on which informed decisions can be taken.
 ---
 
@@ -17,22 +17,66 @@ summary: Provides recommendations based on which informed decisions can be taken
 [.lead]
 Active IQ constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system.
 
-Active IQ provides recommendations about the following:
-
-* Migration: Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
-* Backup & Archive: Provides information about the systems that should be backed up to the cloud. You can use NetApp Cloud Backup to secure your systems and restore them back when required.
-* Disaster Recovery: Provides information about the data that should be replicated to the cloud to help in case of disasters.
-
 NOTE: Active IQ navigates you to Cloud Manager to implement the recommendations.
+
+== Migration
+Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
+
+The volumes that meet the following criteria are recommended for migration to Cloud Volumes ONTAP (CVO) and Cloud Volumes Service (CVS):
+
+* Volumes should be using NFS, SMB, CIFS, FCP, or iSCSI protocol
+* Root volumes are excluded
+* Workloads in the volume are tagged as ORACLE, SAP, SAP HANA, MSSQL, MYSQL, SHAREPOINT, FILESHARE, VIRTUALIZATION and TRIDENT
+* System age is greater than 1 year
+* Support contract is ending in 6 months
 
 .Steps
 . From the left pane, click *Cloud Recommendations*.
-. To migrate data:
-.. Click on any one link in the *Migration* pane.
-.. Click *Migrate to Cloud* to launch *Cloud Manager*.
-. To backup and archive data:
-.. Click on any one link in the *Backup & Archive* pane.
-.. Click *Backup to Cloud* to launch *Cloud Manager*.
-. To replicate data:
-.. Click on any one link in the *Disaster Recovery* pane.
-.. Click *Replicate to Cloud* to launch *Cloud Manager*.
+. Click on any one link in the *Migration* pane.
+. Click *Migrate to Cloud* to launch *Cloud Manager*.
+
+== Tiering
+Provides information about inactive local tier (aggregate) data, inactive volume data, tiered data, and unmonitored data. You can reduce your storage footprint and associated costs by monitoring and tiering your cold or inactive data to low-cost object storage tiers.
+
+NOTE: You can enable Inactive Data Reporting (IDR) to generate a zip file with an Ansible Playbook file. This information is available at customer, site, group, watchlist, cluster, and node levels.
+
+The volumes that meet the following criteria are recommended for tiering:
+
+* Volumes should be using NFS, SMB, or CIFS protocol
+* Root volumes are excluded
+* Inactive Data is more than 50%
+* Aggregate Capacity is more than 50%
+
+.Steps
+. From the left pane, click *Cloud Recommendations*.
+. Click on any one link in the *Tiering* pane.
+. Click *Tier Data* to launch *Cloud Manager*.
+
+To learn more about FabricPool, refer to link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf[FabricPool Best Practices].
+
+== Backup & Archive
+Provides information about the systems that should be backed up to the cloud. You can use NetApp Cloud Backup to secure your systems and restore them back when required.
+
+The volumes that meet the following criteria are recommended for backing up to the cloud:
+
+* Root volumes are excluded
+* Source volumes and destination systems and volumes that have SnapVault backup are excluded.
+
+.Steps
+. From the left pane, click *Cloud Recommendations*.
+. Click on any one link in the *Backup & Archive* pane.
+. Click *Backup to Cloud* to launch *Cloud Manager*.
+
+== Replication
+Provides information about the data that should be replicated to the cloud to help in case of disasters.
+
+The volumes that meet the following criteria are recommended for replication to the cloud:
+
+* Root volumes are excluded
+* SnapMirror source volumes are excluded
+* SnapMirror destination volumes (volume type LS and DP) are excluded
+
+.Steps
+. From the left pane, click *Cloud Recommendations*.
+. Click on any one link in the *Disaster Recovery* pane.
+. Click *Replicate to Cloud* to launch *Cloud Manager*.
