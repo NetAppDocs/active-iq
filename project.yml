@@ -66,6 +66,8 @@ sidebar:
       entries:
         - title: View inventory details
           url: /task_view_inventory_details.html
+        - title: Integrating with Cloud Insights to view Virtual Machines details
+          url: /task-integrating-with-cloud-insights-to-view-vm-details.html  
         - title: View valuable insights
           url: /task_view_valuable_insight_widget.html
         - title: View Flex Subscription capacity utilization
