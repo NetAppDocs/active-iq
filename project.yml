@@ -70,7 +70,7 @@ sidebar:
           url: /task-integrating-with-cloud-insights-to-view-vm-details.html  
         - title: View valuable insights
           url: /task_view_valuable_insight_widget.html
-        - title: View Flex Subscription capacity utilization
+        - title: View Keystone Subscription capacity utilization
           url: /task_view_keystone_capacity_utilization.html
     - title: Identify system requirements proactively
       entries:
