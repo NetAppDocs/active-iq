@@ -18,7 +18,7 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
 
-== 24 August 2022
+== 25 August 2022
 
 === Inventory
 VMware assets information on vCenters, ESXi hosts, and Virtual Machines are now included in Inventory details, to provide full stack inventory and interoperability checks. link:task-integrating-with-cloud-insights-to-view-vm-details.html[Learn how].
