@@ -22,10 +22,13 @@ You can view the pending upgrades of your storage system and upgrade to a later 
 
 .Steps
 . On the dashboard, view pending upgrades in the *Upgrades* widget.
+image:Upgrade Advisor[upgrade_advisor_widget.png]
 . Click the number of *Actions* to view the pending upgrades.
 . Select the required upgrade option.
+image:Upgrade options[upgrade_options.png]
 . Click the number of systems displayed on the widget to view the *Upgrade Advisor* tab.
 +
 You can also check the Release Notes to view detailed information about the release.
+image:Generate upgrade plan[generate_upgrade_plan.png]
 . View the list of risks in the *Risk Advisor* tab, along with their severity level, which would be mitigated because of the upgrade.
 . Click *Generate Upgrade Plan* to navigate to *Upgrade Advisor*.
