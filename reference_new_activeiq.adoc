@@ -23,6 +23,9 @@ The following features and enhancements have been introduced in NetApp Active IQ
 === Inventory
 VMware assets information on vCenters, ESXi hosts, and Virtual Machines are now included in Inventory details, to provide full stack inventory and interoperability checks. link:task-integrating-with-cloud-insights-to-view-vm-details.html[Learn how].
 
+=== Multi-hop Upgrade 
+For some automated nondisruptive upgrades (ANDU) to non-adjacent releases, you can install the software image for an intermediate release as well the target release. The automated upgrade process uses the intermediate image in the background to complete the update to the target release. For example, if the cluster is running 9.3 and you want to upgrade to 9.7, you would load the ONTAP install packages for both 9.5 and 9.7, then initiate ANDU to 9.7. ONTAP then automatically upgrades the cluster first to 9.5 and then to 9.7. You should expect multiple takeover/giveback operations and related reboots during the process.
+
 == 14 July 2022
 
 === Health Check Dashboard
