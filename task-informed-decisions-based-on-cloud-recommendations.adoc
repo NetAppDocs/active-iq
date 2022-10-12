@@ -15,9 +15,9 @@ summary: Provides recommendations based on which informed decisions can be taken
 :imagesdir: ./media/
 
 [.lead]
-Active IQ constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system.
+Digital Advisor constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system.
 
-NOTE: Active IQ navigates you to Cloud Manager to implement the recommendations.
+NOTE: Digital Advisor navigates you to Cloud Manager to implement the recommendations.
 
 == Migration
 Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.

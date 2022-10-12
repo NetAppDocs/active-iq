@@ -19,7 +19,7 @@ You can generate reports immediately or schedule a report to be generated on a w
 
 *About this task*
 
-* You cannot edit the reports in Active IQ. You should delete the existing report and create a new report.
+* You cannot edit the reports in Digital Advisor. You should delete the existing report and create a new report.
 
 .Steps
 . From the left pane, click *Reports*.
@@ -36,7 +36,7 @@ a|
 . Select the format of the report.
 . Click *Submit*.
 
-NOTE: The report is saved in Active IQ for 3 days.
+NOTE: The report is saved in Digital Advisor for 3 days.
 
 a|
 . Click the *Schedule Report* tab.

@@ -5,7 +5,7 @@ keywords: faq, frequently asked questions, non-technical, non-technical case, in
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
-= Frequently asked questions about Active IQ
+= Frequently asked questions about Digital Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,7 +16,7 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 
 [.lead]
 
-The following questions give answers to your frequent queries about Active IQ.
+The following questions give answers to your frequent queries about Digital Advisor.
 
 == Non-technical case
 
@@ -43,27 +43,27 @@ A non-technical case should be created for the following cases:
 
 A case is created, and a case number is provided for your reference.
 
-*How do I provide feedback or ask other questions related to Active IQ?*
+*How do I provide feedback or ask other questions related to Digital Advisor?*
 
 To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#].
 
 == Storage efficiency
 
-*How do I access Storage Efficiency in Active IQ Digital Advisor?*
+*How do I access Storage Efficiency in Digital Advisor?*
 
-. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Active IQ Digital Advisor].
+. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
 
 NOTE: The dashboards created using a watchlist will not be displayed in the Storage Efficiency widget.
 
-*Does Active IQ Digital Advisor display ratios for all ONTAP systems?*
+*Does Digital Advisor display ratios for all ONTAP systems?*
 
-Active IQ displays ratios for systems running ONTAP 9.1 and later.
+Digital Advisor displays ratios for systems running ONTAP 9.1 and later.
 
 *What is the ‘Without Snapshots’ checkbox on the efficiency dashboard?*
 
-By default, Active IQ Efficiency Dashboard calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
+By default, the Digital Advisor Efficiency Dashboard calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
 
 	* Deduplication
 	* Compression
@@ -71,7 +71,7 @@ By default, Active IQ Efficiency Dashboard calculates overall ratio at customer-
 	* Clones
 	* Snapshots
 
-If you select the *Without Snapshots* checkbox, Active IQ Digital Advisor will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
+If you select the *Without Snapshots* checkbox, Digital Advisor will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
 
 *What is physical data used and logical data used?*
 
@@ -157,8 +157,8 @@ Storage efficiency is shown higher when data protection volumes are present in t
 
 == Capacity
 
-*How are capacities calculated in Active IQ Digital Advisor?*
-The capacities in Active IQ Digital Advisor are calculated for cluster and node — excluding root and including Snapshot copies
+*How are capacities calculated in Digital Advisor?*
+The capacities in Digital Advisor are calculated for cluster and node — excluding root and including Snapshot copies
 [%autowidth, indent=10]
 |===
     |*Capacity*  | *Calculated by adding each aggregate…*
@@ -221,8 +221,8 @@ The Capacity Forecast uses used capacity data over the last year to calculate th
 *Why does added Used Capacity of each volume not match the aggregated Used Capacity at the node level?*
 Used Capacity at the node level includes space reserved by volumes, metadata, and Snapshot copies. It also includes space reserved for volumes—file or volume guarantee type. Hence, both might not match.
 
-*Are Capacities shown in Active IQ Digital Advisor Base 2 or Base 10?*
-All capacities displayed in Active IQ are Base 2 (divide by 1024) and represent capacities in GiB/TiB. ONTAP storage and other NetApp products also display capacity usage in Base 2.
+*Are Capacities shown in Digital Advisor Base 2 or Base 10?*
+All capacities displayed in Digital Advisor are Base 2 (divide by 1024) and represent capacities in GiB/TiB. ONTAP storage and other NetApp products also display capacity usage in Base 2.
 
 For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.
 
@@ -231,7 +231,7 @@ For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is
 *Why cannot I find certain systems in the inventory page?*
 You may not be able to view certain systems in the inventory page due to one of the following reasons:
 
-* New systems take over a day to reflect in Active IQ once they are added or updated in SAP.
+* New systems take over a day to reflect in Digital Advisor once they are added or updated in SAP.
 * The systems are secure and you are not authorized to view the secure systems.
 * You are not entitled to view the systems.
 * Systems are inactive

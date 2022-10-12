@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: concept_understand_activeiq_features.html
-keywords: activeiq, active iq digital advisor, features, upgrade, support offering
+keywords: digital advisor, features, upgrade, support offering
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
-= Understand Active IQ features
+= Understand Digital Advisor features
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,13 +15,13 @@ summary: Provides information about the dashboard, watchlists, features, and the
 :imagesdir: ./media/
 
 [.lead]
-You can view the overall status of your storage system, high-level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level using Active IQ Digital Advisor.
+You can view the overall status of your storage system, high-level information about the wellness of the system, inventory, planning, upgrades, and valuable insights at a watchlist level using Digital Advisor.
 
-When you access Active IQ Digital Advisor for the first time, you can either create a watchlist or search for a customer name, site name, group name, StorageGRID, hostname, cluster, serial number, or system ID.
+When you access Digital Advisor for the first time, you can either create a watchlist or search for a customer name, site name, group name, StorageGRID, hostname, cluster, serial number, or system ID.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
 
-The following are some of the features of Active IQ Digital Advisor:
+The following are some of the features of Digital Advisor:
 
 * View multiple watchlists, actionable and useful at-a-glance views of information
 * Gain insights regarding all the risks to your storage system and the actions to mitigate the risks

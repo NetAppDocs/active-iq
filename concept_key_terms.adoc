@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept_key_terms.html
 keywords: overview, inventory, wellness, widgets, actions
-summary: Provides information about the key terms used in Active IQ Digital Advisor.
+summary: Provides information about the key terms used in Digital Advisor.
 ---
 
 = Key concepts
@@ -15,9 +15,9 @@ summary: Provides information about the key terms used in Active IQ Digital Advi
 :imagesdir: ./media/
 
 [.lead]
-As you start using Active IQ Digital Advisor, it is important that you understand some of the basic terms that you can expect to see throughout the Active IQ Digital Advisor.
+As you start using Digital Advisor, it is important that you understand some of the basic terms that you can expect to see throughout the Digital Advisor.
 
-* *Watchlist:* Provides you the flexibility to access systems inside Active IQ Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
+* *Watchlist:* Provides you the flexibility to access systems inside Digital Advisor that have already been selected. You can use watchlists to add systems from either one or more customers.
 ** *Wellness Dashboard:* Provides an overall status of the systems in the watchlist.
 ** *Widgets:* Displays small applications on the Dashboard that provide you a quick summary of the status of the systems.
 ** *Risks:* Displays a list of systems with their respective issues. It has different severity levels:
@@ -48,7 +48,7 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 ** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged.
 ** *Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
 
-*	*Inventory widget:* Displays a rollup of total systems you own. This includes both Active IQ enabled and non-enabled products.
+*	*Inventory widget:* Displays a rollup of total systems you own. This includes both Digital Advisor enabled and non-enabled products.
 ** *Generate a report:* Generates the report of the selected watchlist and emails the report to a maximum of 5 recipients.
 
 * *Planning widget:* Displays information about the capacity addition, software, and hardware that needs to be renewed.
@@ -71,9 +71,9 @@ As you start using Active IQ Digital Advisor, it is important that you understan
 
 * *AutoSupport:* Enables you to view AutoSupport instances at a high level or in detail. The details include system details, possible reasons for the issue, and suggested actions.
 +
-To access the AutoSupport feature, log in to Active IQ Digital Advisor and search for a cluster or hostname. The AutoSupport option is available on the left pane.
+To access the AutoSupport feature, log in to Digital Advisor and search for a cluster or hostname. The AutoSupport option is available on the left pane.
 
-* *Quick Links:* Provides the list of applications that can be launched using Active IQ Digital Advisor.
+* *Quick Links:* Provides the list of applications that can be launched using Digital Advisor.
 ** *ClusterViewer:* Enables you to see detailed physical and logical configuration information. The details are presented in several easy-to-view tables across multiple tabs that include a summary of the cluster and node configuration, the local tier and volume information, the network interface and port information, a stack diagram detailing information about the disks and shelves, and a few cable visualizations. You can also download the cable visualizations graphics in the SVG format.
 +
 The ClusterViewer feature is not supported on E-Series systems.
@@ -86,6 +86,6 @@ The ClusterViewer feature is not supported on E-Series systems.
 ** *System Firmware:* Enables you to view information about the system firmware that is shipped along with each major and patch version of ONTAP.
 
 * *Search:* Allows you to search for systems based on various categories, such as customer name, serial number, cluster, site name, group name, hostname, and others.
-** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Active IQ.
+** *Customer:* Allows you to view and manage a customer’s installed base. Customer Dashboard is the central portal in Digital Advisor.
 ** *Cluster:* Provides information about ONTAP clusters. The Dashboard also consolidates health, capacity, storage efficiency, and performance insights.
 ** *Serial Number:* Provides information about the serial number that is assigned to the customer.

@@ -16,7 +16,7 @@ summary: Provides information about the new features in the release.
 
 [.lead]
 
-The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
+The following features and enhancements have been introduced in Digital Advisor:
 
 == 25 August 2022
 

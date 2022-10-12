@@ -1,0 +1,50 @@
+---
+sidebar: sidebar
+permalink: concept-digital-advisor-integration-with-bluexp.html
+keywords: digital advisor, integration, bluexp
+summary: Provides information about Digital Advisor and the integration with BlueXP.
+---
+
+= Digital Advisor and integration with BlueXP
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+== What is happening?
+Active IQ is being renamed to Digital Advisor and is being integrated into BlueXP.
+
+== What is BlueXP?
+BlueXP is a unified platform to cater to all your needs.
+
+== Why are the benefits of integrating Digital Advisor with BlueXP?
+A single platform provides stronger capabilities and a one stop solution for all your needs. In the stand-alone Digital Advisor, you can identify cold data, workloads, risks, and systems and then send a request to the support team to complete the task. With this integration, you can perform all these tasks by yourself easily and quickly. 
+
+Integrating Digital Advisor with BlueXP provides the following benefits:
+
+* Identify and tier cold data to tier to the cloud (or on-prem StorageGRID
+* Identify and migrate required workloads that to the cloud 
+* Identify and backup systems to the cloud 
+* Identify and remediate risks 
+* Discover new assets in BlueXP
+* Power the digital wallet in BlueXP
+* System Manager, CVO management, Upgrade Advisor and CVO upgrades all in one place
+* Security risks, ransomware protection, Cloud Data Sense all in one place
+* Digital Advisor and Cloud Insights in one place for historical and near real-time monitoring
+
+== Do I have to move to BlueXP immediately?
+No. Two variations of Digital Advisor will exist for now. 
+You can continue to use the stand-alone version of Digital Advisor, or you can move to accessing Digital Advisor from BlueXP and enjoy the benefits of the integration.
+
+== What do I need to do to move to BlueXP?
+To access Digital Advisor from BlueXP, you need to first log in to the BlueXP and then look for the Digital Advisor service and log in to Digital Advisor. You will need to log in twice to access Digital Advisor.
+
+DO WE ADD STEPS HERE?
+
+== What is next?
+We will be adding new features to Digital Advisor and eventually phase out the stand-alone version of Digital Advisor.

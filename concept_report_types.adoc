@@ -15,9 +15,9 @@ summary: Provides information about the different types of reports that are avai
 :imagesdir: ./media/
 
 [.lead]
-Active IQ provides a variety of reporting options that enable you to monitor and manage your system health and operation success.
+Digital Advisor provides a variety of reporting options that enable you to monitor and manage your system health and operation success.
 
-The following are the types of reports that are available in Active IQ:
+The following are the types of reports that are available in Digital Advisor:
 
 [cols=2*,options="header", cols="30,70"]
 |===

@@ -15,7 +15,7 @@ summary: Provides information on upgrading the support offering.
 :imagesdir: ./media/
 
 [.lead]
-You can purchase an upgrade to the support offering to access more features and functionalities in Active IQ Digital Advisor.
+You can purchase an upgrade to the support offering to access more features and functionalities in Digital Advisor.
 
 You can upgrade your current support offering to optimize your install base with the help of recommended practices and fixes, upgrade automation with Ansible playbooks, actionable reports and reviews, personalized support, and so on. The upgrade can be purchased when you renew your support contracts or at any other time from the system (node) dashboard.
 
