@@ -26,11 +26,11 @@ Not all Digital Advisor users will be migrated at the same time. Users will be m
 
 From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and to control many on-prem and edge storage devices. 
 
-== What to do when you're redirected
+== Log into Digital Advisor using BlueXP
 
 <step-by-step details, which we'll get from the BlueXP/Digital Advisor teams
 
-== A quick tour of BlueXP - Do we need this here or Should this be covered in the Cloud Manager documentation?
+== A quick tour of BlueXP - Do we need this here or should this be covered in the Cloud Manager documentation?
 
 <what BlueXP offers and how to get around—Ben to provide>
 
