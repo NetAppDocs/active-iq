@@ -20,13 +20,13 @@ Digital Advisor (formerly Active IQ Digital Advisor) is now fully integrated wit
 
 == Integration overview
 
-Starting in November 2022, a select set of Digital Advisor users will be encouraged to use Digital Advisor from BlueXP. In the months that follow, Digital Advisor users will be redirected from the standalone Digital Advisor (aiq.netapp.com) to the Digital Advisor that's available from BlueXP. Groups of users will be redirected to BlueXP each month, until the standalone Digital Advisor is retired.
+Starting in November 2022, a select set of Digital Advisor users will be encouraged to use Digital Advisor from BlueXP. In the months that follow, Digital Advisor users will be redirected from the standalone Digital Advisor (activeiq.netapp.com) to the Digital Advisor that's available from BlueXP. Groups of users will be redirected to BlueXP each month, until the standalone Digital Advisor is retired.
 
 Not all Digital Advisor users will be migrated at the same time. Users will be migrated periodically over the coming months. When this happens, you'll see a notification in Digital Advisor that you're being redirected to BlueXP.
 
 From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and to control many on-prem and edge storage devices. 
 
-The guiding principle for BlueXP is to provide a unified management experience that enables you to manage your storage and data assets from a single interface
+The guiding principle for BlueXP is to provide a unified management experience that enables you to manage your storage and data assets from a single interface.
 
 == What to do when you're redirected
 
@@ -59,16 +59,13 @@ Integrating Digital Advisor with BlueXP provides the following benefits:
 * Digital Advisor and Cloud Insights in one place for historical and near real-time monitoring
 
 === Do I have to move to BlueXP immediately?
-No. Two variations of Digital Advisor will exist for now. 
-You can continue to use the stand-alone version of Digital Advisor, or you can move to accessing Digital Advisor from BlueXP and enjoy the benefits of the integration.
-
-=== What do I need to do to move to BlueXP?
-To access Digital Advisor from BlueXP, you need to first log in to the BlueXP and then look for the Digital Advisor service and log in to Digital Advisor. You will need to log in twice to access Digital Advisor.
-
-DO WE ADD STEPS HERE?
+No. Two variations of Digital Advisor will exist for now. You can continue to use the stand-alone version of Digital Advisor, or you can move to accessing Digital Advisor from BlueXP and enjoy the benefits of the integration.
 
 === Is the Digital Advisor available in BlueXP the same version that I'm used to?
 
+
 === Where can I learn more about BlueXP?
+
+
 
 === <other questions that Active IQ PMs think customers/field-facing folks might have>
