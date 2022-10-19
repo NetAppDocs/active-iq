@@ -1,0 +1,56 @@
+---
+sidebar: sidebar
+permalink: digital-advisor-integration-with-bluexp.html
+keywords: digital advisor, integration, bluexp
+summary: Digital Advisor is available in BlueXP, our unified platform for hybrid multicloud environments.
+---
+
+= Digital Advisor and integration with BlueXP
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+
+Digital Advisor (formerly Active IQ Digital Advisor) is now fully integrated with BlueXP (formerly Cloud Manager). Integrating with BlueXP provides a unified management experience that enables you to manage your storage and data assets from a single interface.
+
+== Integration overview
+
+Starting in November 2022, a select set of Digital Advisor users will be encouraged to use Digital Advisor from BlueXP. In the months that follow, Digital Advisor users will be redirected to the Digital Advisor that's available from BlueXP. Groups of users will be redirected to BlueXP each month, until the standalone Digital Advisor is retired.
+
+Not all Digital Advisor users will be migrated at the same time. Users will be migrated periodically over the coming months. When this happens, you'll see a notification in Digital Advisor that you're being redirected to BlueXP.
+
+From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and to control many on-prem and edge storage devices. 
+
+== What to do when you're redirected
+
+<step-by-step details, which we'll get from the BlueXP/Digital Advisor teams
+
+== A quick tour of BlueXP - Do we need this here or Should this be covered in the Cloud Manager documentation?
+
+<what BlueXP offers and how to get around—Ben to provide>
+
+== FAQs
+
+Here are answers to questions that you might have about Digital Advisor integration with BlueXP.
+
+=== What is happening?
+Active IQ is being renamed to Digital Advisor and is being integrated into BlueXP, our unified platform for hybrid multicloud environments. 
+
+=== Why is this happening?
+A unified platform provides stronger capabilities and a one stop solution for all your needs. In the stand-alone Digital Advisor, you can identify cold data, workloads, risks, and systems and then send a request to the support team to complete the task. With this integration, you can perform all these tasks by yourself easily and quickly. 
+
+=== Do I have to move to BlueXP immediately?
+No. Two variations of Digital Advisor will exist for now. You can continue to use the stand-alone version of Digital Advisor, or you can move to accessing Digital Advisor from BlueXP and enjoy the benefits of the integration.
+
+=== Is the Digital Advisor available in BlueXP the same version that I'm used to?
+
+
+=== Where can I learn more about BlueXP?
+
+
+=== <other questions that Active IQ PMs think customers/field-facing folks might have>

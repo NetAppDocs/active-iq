@@ -18,6 +18,11 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
+== 05 November 2022
+
+=== Digital Advisor integrating with BlueXP
+Active IQ is being renamed to Digital Advisor and is being integrated into a unified management platform, BlueXP. link:digital-advisor-integration-with-bluexp.html[Learn more].
+
 == 25 August 2022
 
 === Inventory
