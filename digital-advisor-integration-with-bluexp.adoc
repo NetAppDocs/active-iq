@@ -28,11 +28,7 @@ From BlueXP, you'll have access to the same Digital Advisor interface that you'r
 
 == What to do when you're redirected
 
-<step-by-step details, which we'll get from the BlueXP/Digital Advisor teams
-
-== A quick tour of BlueXP - Do we need this here or should this be covered in the Cloud Manager documentation?
-
-<what BlueXP offers and how to get around—Ben to provide>
+<step-by-step details about what happens when you’re redirected, which we'll get from the BlueXP/Digital Advisor teams>
 
 == FAQs
 
@@ -45,7 +41,7 @@ Active IQ is being renamed to Digital Advisor and is being integrated into BlueX
 No. You can continue to use the stand-alone version of Digital Advisor, or you can move to accessing Digital Advisor from BlueXP and enjoy the benefits of the integration. A notification will appear in Digital Advisor when your account has been migrated to BlueXP.
 
 === Is the Digital Advisor available in BlueXP the same version that I'm used to?
-Yes, the Digital Advisor available in BlueXP will be the same version.
+Yes, the Digital Advisor available in BlueXP will be of the same version.
 
 === Where can I learn more about BlueXP?
 Go to the BlueXP documentation to learn more (link will be added).
