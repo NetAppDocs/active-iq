@@ -5,7 +5,7 @@ keywords: what's new, features, new
 summary: Provides information about the new features in the release.
 ---
 
-= What's new in Active IQ Digital Advisor
+= What's new in Digital Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
