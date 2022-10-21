@@ -30,7 +30,29 @@ From BlueXP, you'll have access to the same Digital Advisor interface that you'r
 
 <step-by-step details about what happens when you’re redirected, which we'll get from the BlueXP/Digital Advisor teams>
 
-== FAQs
+== Access Digital Advisor in BlueXP
+
+You don’t have to wait until you’re automatically redirected to Digital Advisor in BlueXP. You can start accessing it now.
+
+.Steps
+. Open a web browser and go to link:https://cloudmanager.netapp.com[BlueXP].
+. Select *Log in with your NetApp account* and enter your NetApp Support Site credentials.
++
+If you previously created a BlueXP login using an email and password, then you’ll need to continue using that login option instead.
+From the left navigation menu, select *Health > Digital Advisor*.
+When prompted, log in with your NetApp Support Site credentials.
++
+This login is different from the login completed in step 2. In step 2, you logged in to the BlueXP platform. Now you’re logging in to Digital Advisor. 
+
+*Result*
+
+You can now use Digital Advisor like you typically do.
+
+== Learn more about BlueXP
+
+Go to the BlueXP documentation to learn more (link will be added soon).
+
+== FAQ
 
 Here are answers to questions that you might have about Digital Advisor integration with BlueXP.
 
@@ -38,11 +60,8 @@ Here are answers to questions that you might have about Digital Advisor integrat
 Active IQ is being renamed to Digital Advisor and is being integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. 
 
 === Do I have to move to BlueXP immediately?
-No. You can continue to use the stand-alone version of Digital Advisor, or you can move to accessing Digital Advisor from BlueXP and enjoy the benefits of the integration. A notification will appear in Digital Advisor when your account has been migrated to BlueXP.
+No. You can continue to use the standalone version of Digital Advisor for now. A notification will appear in Digital Advisor when your account has been migrated to BlueXP.
 
 === Is the Digital Advisor available in BlueXP the same version that I'm used to?
-Yes, the Digital Advisor available in BlueXP will be of the same version.
-
-=== Where can I learn more about BlueXP?
-Go to the BlueXP documentation to learn more (link will be added).
+Yes, the Digital Advisor available in BlueXPis the same as the standalone version.
 

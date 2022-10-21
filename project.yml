@@ -11,14 +11,14 @@ sidebar:
   entries:
     - title: Digital Advisor docs
       url: /index.html
+    - title: Digital Advisor and integration with BlueXP
+      url: /digital-advisor-integration-with-bluexp.html  
     - title: Release notes
       entries:
         - title: What's new
           url: /reference_new_activeiq.html
         - title: Known limitations
           url: /reference_limitations_activeiq.html
-    - title: Digital Advisor and integration with BlueXP
-      url: /digital-advisor-integration-with-bluexp.html
     - title: Get started
       entries:
         - title: Quick start
