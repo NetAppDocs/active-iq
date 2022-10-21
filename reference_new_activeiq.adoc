@@ -106,8 +106,8 @@ You can view information about Tenants and Buckets in the GRID Viewer.
 === StorageGRID
 You can view grid configuration details in the GRID Viewer.
 
-=== Cloud Manager
-Cloud Manager users can now open Active IQ links in new tabs, wherever applicable, similar to the existing functionality in Active IQ.
+=== BlueXP
+BlueXP users can now open Active IQ links in new tabs, wherever applicable, similar to the existing functionality in Active IQ.
 
 == 12 January 2022
 
@@ -350,7 +350,7 @@ This release provides the following functionality:
 * *Capacity Details tab:* Provides the Grid Level and Site capacity details configured for the GRID. The Capacity details, such as Installed Storage Capacity, Available Storage Capacity, Total Used Storage Capacity, and Capacity used for Data and Metadata. These details are available at both the Grid and Site levels.
 
 === FabricPool Advisor
-The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp Cloud Manager.
+The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp BlueXP.
 
 === Cloud ready workloads
 You can view the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
