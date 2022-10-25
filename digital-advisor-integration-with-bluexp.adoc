@@ -30,6 +30,7 @@ From BlueXP, you'll have access to the same Digital Advisor interface that you'r
 
 <step-by-step details about what happens when you’re redirected, which we'll get from the BlueXP/Digital Advisor teams>
 
+
 == Access Digital Advisor in BlueXP
 
 You don’t have to wait until you’re automatically redirected to Digital Advisor in BlueXP. You can start accessing it now.
@@ -46,7 +47,7 @@ This login is different from the login completed in step 2. In step 2, you logge
 
 *Result*
 
-You can now use Digital Advisor like you typically do.
+All your existing watchlists and configurations will show up and can now use Digital Advisor like you typically do.
 
 == Learn more about BlueXP
 
