@@ -11,7 +11,7 @@ sidebar:
   entries:
     - title: Digital Advisor docs
       url: /index.html
-    - title: Digital Advisor and integration with BlueXP
+    - title: Digital Advisor integration with BlueXP
       url: /digital-advisor-integration-with-bluexp.html  
     - title: Release notes
       entries:
