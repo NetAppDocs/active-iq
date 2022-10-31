@@ -44,7 +44,7 @@ All your existing watchlists and configurations will show up and you can now use
 
 == Learn more about BlueXP
 
-Go to the BlueXP documentation to learn more (link will be added soon).
+link:https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Go to the BlueXP documentation to learn more]
 
 == FAQ
 
@@ -54,7 +54,7 @@ Here are answers to questions that you might have about Digital Advisor integrat
 Active IQ is being renamed to Digital Advisor and is being integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. 
 
 === Do I have to move to BlueXP immediately?
-No. You can continue to use the standalone version of Digital Advisor for now. A notification will appear in Digital Advisor when your account has been migrated to BlueXP.
+No. You can continue to use the standalone version of Digital Advisor for now. 
 
 === Is the Digital Advisor available in BlueXP the same version that I'm used to?
 Yes, the Digital Advisor available in BlueXP is the same as the standalone version.
