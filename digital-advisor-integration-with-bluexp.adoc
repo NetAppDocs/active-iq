@@ -30,7 +30,7 @@ You don’t have to wait until you’re automatically redirected to Digital Advi
 
 .Steps
 . Open a web browser and go to link:https://cloudmanager.netapp.com.[BlueXP].
-. Select *Log in with your NetApp account* and enter your NetApp Support Site credentials.
+. Select *Log in with your NetApp Support Site Credentials* and enter your NetApp Support Site credentials.
 +
 If you previously created a BlueXP login using an email and password, then you’ll need to continue using that login option instead.
 . From the left navigation menu, select *Health > Digital Advisor*.
@@ -49,9 +49,6 @@ link:https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Go
 == FAQ
 
 Here are answers to questions that you might have about Digital Advisor integration with BlueXP.
-
-=== What is happening?
-Active IQ is being renamed to Digital Advisor and is being integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. 
 
 === Do I have to move to BlueXP immediately?
 No. You can continue to use the standalone version of Digital Advisor for now. 
