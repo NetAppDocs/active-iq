@@ -26,7 +26,7 @@ Starting in November 2022, as a private preview, Digital Advisor users will be e
 
 == Access Digital Advisor in BlueXP
 
-You don’t have to wait until you’re automatically redirected to Digital Advisor in BlueXP. You can start accessing it now.
+You can access Digital Advisor from BlueXP to manage your cluster.
 
 .Steps
 . Open a web browser and go to link:https://cloudmanager.netapp.com.[BlueXP].
@@ -46,13 +46,4 @@ All your existing watchlists and configurations will show up and you can now use
 
 link:https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Go to the BlueXP documentation to learn more]
 
-== FAQ
-
-Here are answers to questions that you might have about Digital Advisor integration with BlueXP.
-
-=== Do I have to move to BlueXP immediately?
-No. You can continue to use the standalone version of Digital Advisor for now. 
-
-=== Is the Digital Advisor available in BlueXP the same version that I'm used to?
-Yes, the Digital Advisor available in BlueXP is the same as the standalone version.
 
