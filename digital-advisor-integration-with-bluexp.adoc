@@ -5,7 +5,7 @@ keywords: digital advisor, integration, bluexp
 summary: Digital Advisor is available in BlueXP, our unified platform for hybrid multicloud environments.
 ---
 
-= Digital Advisor integration with BlueXP
+= Digital Advisor integration with BlueXP (Private Preview)
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,25 +16,20 @@ summary: Digital Advisor is available in BlueXP, our unified platform for hybrid
 
 [.lead]
 
-Digital Advisor (formerly Active IQ Digital Advisor) is now fully integrated with BlueXP (formerly Cloud Manager). You can now manage your clusters and access all the features of Digital Advisor from the BlueXP user interface (UI). 
+Digital Advisor (formerly Active IQ Digital Advisor) is now fully integrated with BlueXP (formerly Cloud Manager). As a private preview, you can now manage your clusters and access all the features of Digital Advisor from the BlueXP user interface (UI). 
 
 Using BlueXP, IT experts and cloud architects can centrally manage their hybrid multi-cloud infrastructure. All you need is a NetApp Support Site (NSS) account to access Digital Advisor in BlueXP.
 
 == Integration overview
 
-Starting in November 2022, Digital Advisor users will be encouraged to use Digital Advisor in BlueXP. When you log in to Digital Advisor, you'll see a notification recommending you to access Digital Advisor in BlueXP.
-
-From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and control many on-prem and edge storage devices. 
+Starting in November 2022, as a private preview, Digital Advisor users will be encouraged to use Digital Advisor in BlueXP. From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and control many on-prem and edge storage devices. 
 
 == Access Digital Advisor in BlueXP
 
 You don’t have to wait until you’re automatically redirected to Digital Advisor in BlueXP. You can start accessing it now.
 
 .Steps
-. Open a web browser and go to link:https://activeiq.netapp.com[Digital Advisor].
-+
-An announcement banner requesting users to access Digital Advisor in BlueXP is displayed.
-. Click *Digital Advisor in BlueXP* in the announcement banner to log in to BlueXP.
+. Open a web browser and go to link:https://cloudmanager.netapp.com.[BlueXP].
 . Select *Log in with your NetApp account* and enter your NetApp Support Site credentials.
 +
 If you previously created a BlueXP login using an email and password, then you’ll need to continue using that login option instead.
