@@ -22,9 +22,7 @@ Using BlueXP, IT experts and cloud architects can centrally manage their hybrid 
 
 == Integration overview
 
-Starting in November 2022, a select set of Digital Advisor users will be encouraged to use Digital Advisor from BlueXP. In the months that follow, Digital Advisor users will be redirected to the Digital Advisor that's available from BlueXP. Groups of users will be redirected to BlueXP each month, until the standalone Digital Advisor is retired.
-
-Not all Digital Advisor users will be migrated at the same time. Users will be migrated periodically over the coming months. When this happens, you'll see a notification in Digital Advisor that you're being redirected to BlueXP.
+Starting in November 2022, Digital Advisor users will be encouraged to use Digital Advisor in BlueXP. When you log in to Digital Advisor, you'll see a notification recommending you to access Digital Advisor in BlueXP.
 
 From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and control many on-prem and edge storage devices. 
 
