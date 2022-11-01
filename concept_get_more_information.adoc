@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept_get_more_information.html
 keywords: overview, information, more details
-summary: Provides more information about Active IQ.
+summary: Provides more information about Digital Advisor.
 ---
 
 = Get more information

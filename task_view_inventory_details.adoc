@@ -15,7 +15,7 @@ summary: Provides information about the overall inventory that you own.
 :imagesdir: ./media/
 
 [.lead]
-The *Inventory* widget provides you with a rollup of the total systems that you own. This includes both Active IQ enabled and non-enabled products.
+The *Inventory* widget provides you with a rollup of the total systems that you own. This includes both Digital Advisor enabled and non-enabled products.
 
 You can also generate the report of the selected watchlist and email the report to a maximum of 5 recipients.
 

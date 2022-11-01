@@ -1,6 +1,7 @@
 ---
 settings:
-  name: Active IQ Digital Advisor
+  name: Digital Advisor
+  platform: cloud
   internal:
     pdf_enabled: true
   prod:
@@ -8,8 +9,10 @@ settings:
     harmony_enabled: true
 sidebar:
   entries:
-    - title: Active IQ Digital Advisor docs
+    - title: Digital Advisor docs
       url: /index.html
+    - title: Digital Advisor integration with BlueXP
+      url: /digital-advisor-integration-with-bluexp.html  
     - title: Release notes
       entries:
         - title: What's new
@@ -20,15 +23,15 @@ sidebar:
       entries:
         - title: Quick start
           url: /concept_getting_started_2.html
-        - title: Understand Active IQ features
+        - title: Understand Digital Advisor features
           url: /concept_understand_activeiq_features.html
-        - title: Key Active IQ concepts
+        - title: Key concepts
           url: /concept_key_terms.html
         - title: Understand AutoSupport
           url: /concept_autosupport.html
-        - title: Log in to Active IQ Digital Advisor
+        - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
-        - title: Manage your clusters in Cloud Manager
+        - title: Manage your clusters in BlueXP
           url: /concept_manage_your_cluster_in_cloud_manager.html
     - title: Provision watchlist
       entries:
@@ -157,19 +160,23 @@ sidebar:
     - title: Legal notices
       url: /legal-notices.html
 
-homepage:
+product-family:
+  name: BlueXP
+  repo: cloud-manager-family
+  sidebar_label: All BlueXP documentation
+  homepage:
   tiles:
     - title: Get started
       links:
-        - title: Learn about Active IQ
+        - title: Learn about Digital Advisor
           url: https://tv.netapp.com/detail/video/6254074753001/what-can-you-do-with-active-iq
-        - title: Quick start for Active IQ
+        - title: Quick start for Digital Advisor
           url: concept_getting_started_2.html
         - title: Key concepts
           url: concept_key_terms.html
         - title: Create a watchlist
           url: task_add_watchlist.html
-    - title: Use Active IQ
+    - title: Use Digital Advisor
       links:
         - title: View risks and take corrective actions
           url: task_view_risk_and_take_action.html
@@ -181,7 +188,7 @@ homepage:
           url: task_view_performance_graphs.html
         - title: Generate reports
           url: task_generate_reports.html
-    - title: Analyze using Active IQ
+    - title: Analyze using Digital Advisor
       links:
         - title: View ONTAP upgrade recommendations
           url: task_view_upgrade.html
@@ -191,14 +198,14 @@ homepage:
           url: task_view_keystone_capacity_utilization.html
     - title: More resources
       links:
-        - title: Active IQ Web Portal
+        - title: Digital Advisor Web Portal
           url: https://mysupport.netapp.com/myautosupport/home.html
-        - title: Active IQ Videos
+        - title: Digital Advisor Videos
           url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7kWBxqwLYBchpMW4k9Z6Vum
-        - title: NetApp Community – Active IQ
+        - title: NetApp Community – Digital Advisor
           url: https://community.netapp.com/t5/Active-IQ-and-AutoSupport/ct-p/autosupport-and-my-autosupport
-        - title: Active IQ Mobile Application (Android)
+        - title: Digital Advisor Mobile Application (Android)
           url: https://play.google.com/store/apps/details?id=com.netapp.myautosupport
-        - title: Active IQ Mobile Application (iOS)
+        - title: Digital Advisor Mobile Application (iOS)
           url: https://apps.apple.com/us/app/active-iq/id1230542480
 

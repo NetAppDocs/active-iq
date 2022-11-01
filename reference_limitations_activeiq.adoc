@@ -24,11 +24,11 @@ The following limitations exist:
 ** Storage efficiency
 * Upgrade Advisor will not support upgrade plans for clustered ONTAP earlier than 9.0.
 
-== Editing a watchlist may take 60 minutes to reflect in Active IQ Digital Advisor
-Editing a watchlist does not update the information in Active IQ Digital Advisor immediately. It may take up to 60 minutes for the changes to reflect in Active IQ Digital Advisor.
+== Editing a watchlist may take 60 minutes to reflect in Digital Advisor
+Editing a watchlist does not update the information in Digital Advisor immediately. It may take up to 60 minutes for the changes to reflect in Digital Advisor.
 
 == A blank report is displayed while scheduling reports
 Scheduled reports are available only with a SupportEdge Advisor or a SupportEdge Expert support contract. If your systems are not under SupportEdge Advisor or a SupportEdge Expert support contract, you may get a blank report while scheduling reports.
 
-== Acknowledged and unacknowledged risks may take 60 minutes to reflect in Active IQ Digital Advisor
-The status of the risks that are acknowledged and unacknowledged do not reflect immediately in Active IQ Digital Advisor. It may take up to 60 minutes for the changes to reflect in Active IQ Digital Advisor and in wellness report.
+== Acknowledged and unacknowledged risks may take 60 minutes to reflect in Digital Advisor
+The status of the risks that are acknowledged and unacknowledged do not reflect immediately in Digital Advisor. It may take up to 60 minutes for the changes to reflect in Digital Advisor and in wellness report.

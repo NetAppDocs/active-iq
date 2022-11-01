@@ -18,9 +18,9 @@ summary: Provides an overview of AutoSupport.
 
 AutoSupport is a telemetry mechanism that proactively monitors the health of your system and automatically sends configuration, status, performance, and system events data to NetApp.
 
-This data is used by NetApp Technical Support to speed the diagnosis and resolution of issues, and by Active IQ to proactively detect and avoid potential issues. It can also be sent to your internal support organization and a support partner.
+This data is used by NetApp Technical Support to speed the diagnosis and resolution of issues, and by Digital Advisor to proactively detect and avoid potential issues. It can also be sent to your internal support organization and a support partner.
 
-NOTE: Active IQ displays AutoSupport related data only for systems whose AutoSupport data is the less than 60 days old.
+NOTE: Digital Advisor displays AutoSupport related data only for systems whose AutoSupport data is the less than 60 days old.
 
 For ONTAP systems, AutoSupport is enabled by default when you configure your storage system for the first time. You should link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-91C43742-E563-442E-8161-17D5C5DA8C19.html[set up AutoSupport] on ONTAP systems to control how the AutoSupport information is sent to technical support and your internal support organization.
 

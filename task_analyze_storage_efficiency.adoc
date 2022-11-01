@@ -39,4 +39,4 @@ For ONTAP systems, information about RAW capacity is available in ClusterViewer.
 .. If the storage efficiency ratio of your storage system is higher than the average storage efficiency ratio, click *Share Your Success Story* to let us know the best practices followed.
 .. If the storage efficiency ratio of your storage system is less than the average storage efficiency ratio, click *Contact Us* to let us know the configurations of your storage system.
 
-For more information about capacity and storage efficiency, see link:reference_aiq_faq.html[Frequently asked questions about Active IQ].
+For more information about capacity and storage efficiency, see link:reference_aiq_faq.html[Frequently asked questions about Digital Advisor].

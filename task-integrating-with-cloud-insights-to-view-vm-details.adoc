@@ -15,7 +15,7 @@ summary: Provides information about the virtual machines in Cloud Insights
 :imagesdir: ./media/
 
 [.lead]
-Active IQ is now integrated with Cloud Insights Basic version to provide a full stack inventory and interoperability checks to customers.
+Digital Advisor is now integrated with Cloud Insights Basic version to provide a full stack inventory and interoperability checks to customers.
 
 The benefits of this integration are:
 
@@ -23,7 +23,7 @@ The benefits of this integration are:
 * Visibility into VMware full-stack monitoring
 * Productivity savings for customers through automated interoperability checks to help with ONTAP upgrade planning. This results in smoother ONTAP upgrades and reduces risks of incompatibility with hosts.
 
-NOTE: This feature is available only for SupportEdge Advisor, SupportEdge Expert, and Active IQ Upgrade contracts.
+NOTE: This feature is available only for SupportEdge Advisor, SupportEdge Expert, and Digital Advisor Upgrade contracts.
 
 .Steps
 . In the *Inventory* widget, click *Virtual Machines* to view the data available in Cloud Insights.

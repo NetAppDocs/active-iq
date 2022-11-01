@@ -5,7 +5,7 @@ keywords: what's new, features, new
 summary: Provides information about the new features in the release.
 ---
 
-= What's new in Active IQ Digital Advisor
+= What's new in Digital Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,7 +16,12 @@ summary: Provides information about the new features in the release.
 
 [.lead]
 
-The following features and enhancements have been introduced in NetApp Active IQ Digital Advisor:
+The following features and enhancements have been introduced in Digital Advisor:
+
+== 01 November 2022
+
+=== Digital Advisor integrating with BlueXP
+Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:digital-advisor-integration-with-bluexp.html[Learn more].
 
 == 25 August 2022
 
@@ -101,8 +106,8 @@ You can view information about Tenants and Buckets in the GRID Viewer.
 === StorageGRID
 You can view grid configuration details in the GRID Viewer.
 
-=== Cloud Manager
-Cloud Manager users can now open Active IQ links in new tabs, wherever applicable, similar to the existing functionality in Active IQ.
+=== BlueXP
+BlueXP users can now open Digital Advisor links in new tabs, wherever applicable, similar to the existing functionality in Digital Advisor.
 
 == 12 January 2022
 
@@ -121,7 +126,7 @@ link:task_manage_template.html[Learn how].
 * *Performance Report*: This report provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume in a single zip file. Each zip file contains performance data for a single clusters, which helps the user analyze data of each cluster. You can generate this report only for watchlist with up to 100 nodes.
 
 === Integration with E-Series systems
-You can view the capacity details and performance graph of a selected E-series system in Active IQ.
+You can view the capacity details and performance graph of a selected E-series system in Digital Advisor.
 
 == 18 November 2021
 
@@ -133,7 +138,7 @@ You can view the storage efficiency details for nodes that are maintained and mo
 === Health Check Dashboard
 
 * Added icons on those Health Check tiles which are only applicable for systems with the SupportEdge Advisor and SupportEdge Expert support offerings.  The enhancements have been made to Recommended Software–Software Currency and Firmware Currency sections, Recommended Configuration, and Best Practices.
-* Added a Confidential Data banner for Internal and External (Customers and Partners) users on the Active IQ Digital Advisor–Reports screen.
+* Added a Confidential Data banner for Internal and External (Customers and Partners) users on the Digital Advisor–Reports screen.
 
 === Wellness and Upgrade Widgets
 Enhanced the dashboard with E-Series upgrade recommendations and risk triggered date added to column in the Wellness Action History.
@@ -167,7 +172,7 @@ The Health Check dashboard has been enhanced with Cloud Volumes ONTAP ** and E-S
 A tab for 'ONTAP' has also been added along with the other platforms, which are now enabled.
 
 === Capacity
-You can view the capacity details about the NetApp Cloud Volumes ONTAP systems in Active IQ.
+You can view the capacity details about the NetApp Cloud Volumes ONTAP systems in Digital Advisor.
 
 === Reports
 The reporting timeline has been extended to 12 months. You will also receive a notification when the schedule report is about to expire.
@@ -198,7 +203,7 @@ The Health Check Dashboard has been enhanced with a tab displaying controllers w
 * In the Wellness Review email, you’ll find information about the Ransomware Defense instead of Renewals.
 
 === Capacity
-You can view the capacity details about the NetApp ONTAP® Select systems in Active IQ.
+You can view the capacity details about the NetApp ONTAP® Select systems in Digital Advisor.
 
 === ClusterViewer
 You can view the cabling faults and other errors in the Visualization tab of ClusterViewer.
@@ -217,12 +222,12 @@ The Capacity Forecast widget has been updated with an improved algorithm that be
 
 == 26 August 2021
 
-=== Active IQ Digital Advisor Mobile Application
-You can now enable biometric authentication on the Active IQ Digital Advisor mobile application. The options available for authentication vary, depending on the features supported by your mobile phone.
+=== Digital Advisor Mobile Application
+You can now enable biometric authentication on the Digital Advisor mobile application. The options available for authentication vary, depending on the features supported by your mobile phone.
 
 Download the application to learn more:
-link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US[Active IQ Digital Advisor Mobile Application (Android)]
-link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322[Active IQ Digital Advisor Mobile Application (iOS)]
+link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US[Digital Advisor Mobile Application (Android)]
+link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322[Digital Advisor Mobile Application (iOS)]
 
 === Wellness
 Wellness widget has been enhanced with Ransomware Defense attribute. You can now view risks and corrective actions associated with ransomware detection, prevention, and recovery.
@@ -258,7 +263,7 @@ You can view the end dates of the support contracts for your hardware, software,
 
 === Support Offering Upgrade
 
-* The user interface has been enhanced to display the specific support offering that you are subscribed to in Active IQ.
+* The user interface has been enhanced to display the specific support offering that you are subscribed to in Digital Advisor.
 * You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features. link:task_upgrade_support_offering.html[Learn how].
 
 == 25 June 2021
@@ -308,7 +313,7 @@ For real-time assistance on your capacity addition requests, chat with a salespe
 == 07 April 2021
 
 === Watchlist
-When you access Active IQ Digital Advisor for the first time, you should now create a watchlist instead of a dashboard. You can also view the dashboard for different watchlists, edit the details of an existing watchlist, and delete a watchlist.
+When you access Digital Advisor for the first time, you should now create a watchlist instead of a dashboard. You can also view the dashboard for different watchlists, edit the details of an existing watchlist, and delete a watchlist.
 
 == 24 February 2021
 
@@ -345,7 +350,7 @@ This release provides the following functionality:
 * *Capacity Details tab:* Provides the Grid Level and Site capacity details configured for the GRID. The Capacity details, such as Installed Storage Capacity, Available Storage Capacity, Total Used Storage Capacity, and Capacity used for Data and Metadata. These details are available at both the Grid and Site levels.
 
 === FabricPool Advisor
-The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp Cloud Manager.
+The Tier Data button has been added to the FabricPool dashboard, and it lets you tier data to low-cost object storage tiers using NetApp BlueXP.
 
 === Cloud ready workloads
 You can view the different types of workloads that are available within your storage system and identify the workloads that are cloud-ready.
@@ -361,7 +366,7 @@ The following widgets have been added to the dashboard:
 == 12 November 2020
 
 === Integrating data using APIs
-You can use Active IQ APIs to pull data of interest and integrate it directly into your company’s workflow. link:concept_overview_API_service.html[Learn more].
+You can use Digital Advisor APIs to pull data of interest and integrate it directly into your company’s workflow. link:concept_overview_API_service.html[Learn more].
 
 === Wellness - Upgrades widget
 The enhanced Risk Advisor and Upgrade Advisor tabs enable you to view all the system risks and help you plan for an upgrade for mitigating all the risks.
@@ -373,7 +378,7 @@ The Recommended Configuration widget has been added to the dashboard, and it pro
 You can reduce your storage footprint and associated costs by monitoring your clusters, which have been classified into four categories: inactive local tier (aggregate) data, inactive volume data, tiered data, and those that are not IDR enabled.
 
 === Localization in Simplified Chinese and Japanese
-Active IQ Digital Advisor is now available in three languages – Chinese, English, and Japanese.
+Digital Advisor is now available in three languages – Chinese, English, and Japanese.
 
 === Reports
 You can generate or schedule ClusterViewer reports to view detailed information on the physical and logical configuration of your systems. link:task_generate_reports.html[Learn how].
@@ -381,7 +386,7 @@ You can generate or schedule ClusterViewer reports to view detailed information 
 == 15 October 2020
 
 === Health Check Dashboard
-The Active IQ Health Check Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
+The Digital Advisor Health Check Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
 
 === Config Drift
 This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn how to add a config drift template].
@@ -436,7 +441,7 @@ Performance graphs have been enhanced to enable you to assess the cluster perfor
 The storage efficiency widget has been enhanced to enable you to view the storage efficiency ratio and savings at a cluster level. You can navigate and toggle between the node tab and the cluster tab on the same screen.
 
 === Update the default home page
-You can now provide your feedback and let us know the reason you are updating the default home page screen for Active IQ.
+You can now provide your feedback and let us know the reason you are updating the default home page screen for Digital Advisor.
 
 === Update to the inventory widget
 The inventory widget has been enhanced to improve the user experience, by providing user-friendly date formats, additional columns for end of platform support and end of version support.
@@ -444,7 +449,7 @@ The inventory widget has been enhanced to improve the user experience, by provid
 == 19 May 2020
 
 === Set the default home page
-You can now set the default home page screen for Active IQ. You can either set it to Active IQ Digital Advisor or Active IQ Classic.
+You can now set the default home page screen for Digital Advisor. You can either set it to Digital Advisor or Classic.
 
 === Storage efficiency
 You can view the storage efficiency ratio and savings of your storage system with and without Snapshot copies for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn how].
@@ -461,7 +466,7 @@ The wellness score feature is being temporarily disabled to improve the scoring 
 == 02 April 2020
 
 === Onboarding overview video
-The onboarding video helps users to quickly get familiar with the options and features of Active IQ Digital Advisor.
+The onboarding video helps users to quickly get familiar with the options and features of Digital Advisor.
 
 === Wellness score
 Wellness score provides customers with a consolidated score of their installed base based on the number of high risks and the expired contracts. Score can be good, average, or poor.
@@ -478,7 +483,7 @@ Provides the option to acknowledge a risk if you do want to mitigate or are unab
 You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release. link:task_view_upgrade.html[Learn how].
 
 === Valuable insights
-You can view the summary of the benefits that you received through Active IQ and your support contract. For selected systems, the value report consolidates the benefits from last one year. link:task_view_valuable_insight_widget.html[View now].
+You can view the summary of the benefits that you received through Digital Advisor and your support contract. For selected systems, the value report consolidates the benefits from last one year. link:task_view_valuable_insight_widget.html[View now].
 
 === Drill into details
 Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required.
@@ -489,7 +494,7 @@ You can proactively identify systems that have exceeded capacity or are nearing 
 == 29 February 2020
 
 === Enhanced user interfaces
-The latest Active IQ Digital Advisor Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
+The latest Digital Advisor Dashboards offer a personalized experience. It allows smooth and seamless navigation, with its intuitiveness, throughout different dashboards, widgets, and screens. It provides an	all-in-one experience. It communicates comparisons, relationships, and trends. It provides insights that help you detect and validate important relationships and meaningful differences based on the data that is presented by different dashboards.
 
 === Customizable dashboards
 Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 10 dashboards and make effective business decisions.
