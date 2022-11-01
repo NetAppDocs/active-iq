@@ -16,11 +16,11 @@ summary: Provides an overview of the API services feature.
 
 [.lead]
 
-Active IQ API Services uses automation to add efficiency to your workflows. Inside API Services resides the *API Catalog*, which describes over 100 different API endpoints that are grouped into 20+ different service areas. These APIs are available to you as a NetApp customer and they span different areas of interest, such as system information, storage efficiency, performance, health, and upgrades.
+Digital Advisor API Services uses automation to add efficiency to your workflows. Inside API Services resides the *API Catalog*, which describes over 100 different API endpoints that are grouped into 20+ different service areas. These APIs are available to you as a NetApp customer and they span different areas of interest, such as system information, storage efficiency, performance, health, and upgrades.
 
-APIs are interfaces that enable you to write simple code that can contact Active IQ Digital Advisor programmatically and bring back data into your compute environment. You can write code in such a way that it contacts Active IQ Digital Advisor every day and brings back the latest data in the areas that are of interest to you. You can then use this data to populate your ticketing system or to create your own dashboards, webpages, or reports. The Active IQ API Catalog has both code samples and a facility for you to try out the APIs in the browser.
+APIs are interfaces that enable you to write simple code that can contact Digital Advisor programmatically and bring back data into your compute environment. You can write code in such a way that it contacts Digital Advisor every day and brings back the latest data in the areas that are of interest to you. You can then use this data to populate your ticketing system or to create your own dashboards, webpages, or reports. The Digital Advisor API Catalog has both code samples and a facility for you to try out the APIs in the browser.
 
-Automation with APIs is a great way to add efficiency and accuracy to daily or weekly tasks. It frees up your resources to perform more complex activities or to automate new workflows. For example, if you have system health risks that need to be fixed, you can automate at least the pullout of those items from Active IQ Digital Advisor and the push into your ticketing system.
+Automation with APIs is a great way to add efficiency and accuracy to daily or weekly tasks. It frees up your resources to perform more complex activities or to automate new workflows. For example, if you have system health risks that need to be fixed, you can automate at least the pullout of those items from Digital Advisor and the push into your ticketing system.
 
 
 == API Catalog

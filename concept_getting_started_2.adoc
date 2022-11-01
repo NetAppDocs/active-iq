@@ -2,10 +2,10 @@
 sidebar: sidebar
 permalink: concept_getting_started_2.html
 keywords: overview, get started, wellness, performance, configuration, renewal, risk, remediation, planning, inventory
-summary: Helps you understand the workflows and get started on Active IQ Digital Advisor.
+summary: Helps you understand the workflows and get started on Digital Advisor.
 ---
 
-= Quick start for Active IQ Digital Advisor
+= Quick start for Digital Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,17 +16,17 @@ summary: Helps you understand the workflows and get started on Active IQ Digital
 
 [.lead]
 
-Active IQ Digital Advisor has been enhanced and redesigned to help you perform tasks more effectively. The user interface has been developed to guide you to perform your desired goals.
+Digital Advisor has been enhanced and redesigned to help you perform tasks more effectively. The user interface has been developed to guide you to perform your desired goals.
 
-You can look at the following diagram to understand the workflows of Active IQ Digital Advisor.
+You can look at the following diagram to understand the workflows of Digital Advisor.
 
-image:activeiq2_workflow.png[Active IQ Digital Advisor workflow]
+image:activeiq2_workflow.png[Digital Advisor workflow]
 
-You can view the following video to get started with Active IQ Digital Advisor:
+You can view the following video to get started with Digital Advisor:
 
 video::rEPtldosjWM[youtube, width=848, height=480]
 
-All Active IQ Digital Advisor widgets are not supported on all platforms. Active IQ Digital Advisor identifies the platform of your storage system and displays only the set of tasks that can be performed on your storage system.
+All Digital Advisor widgets are not supported on all platforms. Digital Advisor identifies the platform of your storage system and displays only the set of tasks that can be performed on your storage system.
 
 Read the following information to be aware of the widgets that are supported on your storage system.
 

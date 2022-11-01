@@ -22,7 +22,7 @@ It is easy to register for API Services and generate tokens.
 . Click *Register*.
 . Complete the request for authorization form and click *Submit*.
 +
-Activation is automatic and should be instantaneous. Once you have been authorized to use the Active IQ APIs, you can generate tokens to use when making programmatic API calls. You can also use these tokens to execute “try it out” from within the API Catalog. When obtained programmatically, tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
+Activation is automatic and should be instantaneous. Once you have been authorized to use the Digital Advisor APIs, you can generate tokens to use when making programmatic API calls. You can also use these tokens to execute “try it out” from within the API Catalog. When obtained programmatically, tokens always come in sets of two: An Access Token and a Refresh Token. The Access Token must be passed to successfully use all APIs (except for one - the Refresh Token is used to programmatically obtain a new set of tokens).
 . On the Main API Services page, click *Generate Token* to view and download the access token and refresh token to invoke APIs.
 +
 The portal gives you multiple ways to save one or both tokens in the set. You can copy them to clipboard, download them as a text file, or view them as plain text.
