@@ -85,7 +85,7 @@ sidebar:
           url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html
         - title: Renew the software and hardware
           url: /task_renew_software_and_hardware.html
-    - title: Take informed decisions based on cloud recommendations
+    - title: Make informed decisions based on cloud recommendations
       url: /task-informed-decisions-based-on-cloud-recommendations.html
     - title: Identify configuration deviations
       entries:
