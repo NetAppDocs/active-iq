@@ -31,8 +31,6 @@ sidebar:
           url: /concept_autosupport.html
         - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
-        - title: Manage your clusters in BlueXP
-          url: /concept_manage_your_cluster_in_cloud_manager.html
     - title: Provision watchlist
       entries:
         - title: Overview
@@ -85,7 +83,7 @@ sidebar:
           url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html
         - title: Renew the software and hardware
           url: /task_renew_software_and_hardware.html
-    - title: Take informed decisions based on cloud recommendations
+    - title: Make informed decisions based on cloud recommendations
       url: /task-informed-decisions-based-on-cloud-recommendations.html
     - title: Identify configuration deviations
       entries:
