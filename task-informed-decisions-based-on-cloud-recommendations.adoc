@@ -5,7 +5,7 @@ keywords: cloud recommendations, migration, backup and archive, disaster recover
 summary: Provides recommendations based on which informed decisions can be taken.
 ---
 
-= Take informed decisions based on cloud recommendations
+= Make informed decisions based on cloud recommendations
 :toc: macro
 :toclevels: 1
 :hardbreaks:
