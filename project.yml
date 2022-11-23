@@ -31,8 +31,6 @@ sidebar:
           url: /concept_autosupport.html
         - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
-        - title: Manage your clusters in BlueXP
-          url: /concept_manage_your_cluster_in_cloud_manager.html
     - title: Provision watchlist
       entries:
         - title: Overview
