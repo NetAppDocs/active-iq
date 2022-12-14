@@ -17,9 +17,44 @@ summary: Provides information to add a configuration drift template.
 [.lead]
 You should add a template to compare the system and cluster configurations and detect the configuration deviations in near real time. The config drift templates are added using systems running AutoSupport data.
 
+*About this task*
+
+The attributes in a config drift template are editable, and the following groups of the template support regular expressions for some sections:
+
+[cols=3*,options="header"]
+|===
+| Group
+| Section
+| Attribute
+| *AGGREGATE*
+| AGGR-INFO.XML
+| Name
+| *CLUSTER*
+| CLUSTER-INFO.XML
+| cluster-name
+| *LUN*
+| LUN.XML
+| Name
+| *VSERVER*
+| VSERVER-INFO.XML
+| Vserver
+| *NETWORK*
+| NETWORK-INTERFACE.XML
+| vif
+| *DNS*
+| DNS.XML
+| domains
+| *VOLUME*
+| VOLUME.XML
+| vol
+|===
+
+Using a regular expression, a user can create a config drift report that includes drifts arising from naming inconsistencies of volumes, aggregates, clusters, and so on. For instance, if a regular expression *aggr-name** is mentioned for the attribute *Name* for the section *AGGR-INFO.XML* in the group *AGGREGATE*, then the values of the attribute without the prefix *aggr-name* are marked as a drift when the config drift report is generated.
+
+
 .Steps
 . From the left pane, click *Config Drift*.
 . Click *Add Template*.
 . Provide the requested values.
-. Optional: Click *Edit* to edit the template.
+. Optional: You can customize the template by editing the groups or deleting the non-required groups for a template.
 . Click *Add Template*.
