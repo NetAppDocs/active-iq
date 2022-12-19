@@ -21,7 +21,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 01 November 2022
 
 === Digital Advisor integrating with BlueXP
-Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:digital-advisor-integration-with-bluexp.html[Learn more].
+Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:digital-advisor-integration-with-bluexp.html[Learn more]. 
 
 == 25 August 2022
 
