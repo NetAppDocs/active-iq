@@ -18,6 +18,11 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
+== 05 January 2023
+
+=== Reports
+You can now include average read, write, and other operations on performance charts and reports at a volume level.
+
 == 01 November 2022
 
 === Digital Advisor integrating with BlueXP
