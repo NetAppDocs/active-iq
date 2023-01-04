@@ -20,7 +20,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 == 05 January 2023
 
-=== Reports
+=== Performance graphs and Reports
 You can now include average read, write, and other operations on performance charts and reports at a volume level.
 
 == 01 November 2022
