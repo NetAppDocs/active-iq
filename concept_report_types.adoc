@@ -35,7 +35,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels. This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
-| End of Support Life
+| Support Contracts / Hardware EOS
 | Provides information about the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
 | Recommended Configuration
 | Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
@@ -51,4 +51,6 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides information about the performance details of the volumes at the cluster level.
 | Performance Report
 | Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume. You can generate this report only for watchlist with up to 100 nodes.
+| IO Density 
+| IO Density Report provides insights into peak input-output operations for customers in terms of data and meta-data consumption and density.  
 |===
