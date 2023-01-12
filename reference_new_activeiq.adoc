@@ -21,7 +21,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 12 January 2023
 
 === Performance reports
-You can view average, read, write, and other operations in performance reports at a volume level.
+You can view average read, write, and other operations in performance reports at a volume level.
 
 == 01 November 2022
 
