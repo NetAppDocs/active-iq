@@ -25,11 +25,4 @@ You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_se
 
 NOTE: As an Digital Advisor user, you can choose between ONTAP Collector and AutoSupport to obtain data on your capacity usage.
 
-.Steps
-. Click *View Details* to view the utilization trend in the detailed *Keystone - Capacity Utilization* dashboard.
-. Select either Current Billing Period, 30 days, 7 days, or 1 day to view the recent average usage trend.
-+
-For the Current Billing Period, you can download a report which provides information about the burst details.
-
-. Optionally, if you have opted for ONTAP Collector to obtain data on your capacity usage, you can click through the tabs on the dashboard to view more details about your file shares and disks.
-. Click *Shares* or *Disks* to identify the file shares or disks nearing the committed capacity and make informed decisions to save storage capacity.
+For information about the Keystone Subscription, see link:https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.html[Keystone Subscription dashboard and reporting].
