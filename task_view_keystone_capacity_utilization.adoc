@@ -25,4 +25,5 @@ You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_se
 
 NOTE: As an Digital Advisor user, you can choose between ONTAP Collector and AutoSupport to obtain data on your capacity usage.
 
-For information about the Keystone Subscription, see link:https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.html[Keystone Subscription dashboard and reporting].
+For information about the Keystone Subscription, see link:https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.html[Keystone Subscription dashboard and reporting^].
+    
