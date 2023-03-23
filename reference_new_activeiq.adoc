@@ -281,7 +281,7 @@ You can view the end dates of the support contracts for your hardware, software,
 
 == 25 June 2021
 
-=== Flex Subscription widget
+=== Keystone Subscription widget
 
 * If you have opted for ONTAP Collector to obtain data on your capacity usage, you can view the details of your file shares and disks in the Shares and Disks tabs. You can save storage space by identifying those nearing committed capacity.
 * The capacity usage, shown on the Keystone - Capacity Utilization dashboard and used for billing, is now based on the logical capacity.
@@ -416,8 +416,8 @@ You can use the reports feature to generate reports immediately or schedule a re
 === Manual AutoSupport Upload
 Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
 
-=== Flex Subscription widget
-You can monitor the committed, consumed, and burst storage capacity for your NetApp Keystone Flex Subscription Service.
+=== Keystone Subscription widget
+You can monitor the committed, consumed, and burst storage capacity for your NetApp Keystone Subscription Service.
 
 == 30 September 2020
 
