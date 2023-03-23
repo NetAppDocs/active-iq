@@ -15,11 +15,11 @@ summary: Provides information on how to increase protection against hackers and 
 :imagesdir: ./media/
 
 [.lead]
-The NetApp security site is the source of truth for NetApp Product Security: link:https://security.netapp.com[]
+The NetApp security site is the source of truth for NetApp Product Security: link:https://security.netapp.com[NetApp Product Security^]
 
 Digital Advisor utilizes telemetry data and published product security advisories to detect security issues for covered* and support-entitled products. Product telemetry data must be transmitted to NetApp via AutoSupport to allow Digital Advisor to detect risks.
 
-For additional NetApp product security information, including products not covered by Digital Advisor, visit link:https://security.netapp.com[]
+For additional NetApp product security information, including products not covered by Digital Advisor, visit link:https://security.netapp.com[NetApp Product Security^]
 
 *Covered products: ONTAP 9 (on-prem and cloud), SANtricity OS Controller Software, NetApp SolidFire (Element Software), StorageGRID, Active IQ Unified Manager, ONTAP Tools for VMware (OTV)
 

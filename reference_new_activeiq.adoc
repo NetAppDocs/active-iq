@@ -168,7 +168,7 @@ You can view the storage efficiency details for systems that are maintained and 
 You can now generate Ansible inventory files in .yml and .ini file formats at the region and site level. link:task_view_inventory_details.html[Learn how].
 
 === Inactive Data Reporting (IDR)
-From the FabricPool Advisor screen, you can activate inactive data reporting (IDR) to monitor aggregates and generate an Ansible Playbook. link:task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html[Learn more]
+From the FabricPool Advisor screen, you can activate inactive data reporting (IDR) to monitor aggregates and generate an Ansible Playbook. 
 
 === Drift Timeline Report
 You can compare the AutoSupport data of the last 90 days and generate a drift timeline report. link:task_generate_drift_timeline_report.html[Learn how].
@@ -239,8 +239,8 @@ The Capacity Forecast widget has been updated with an improved algorithm that be
 You can now enable biometric authentication on the Digital Advisor mobile application. The options available for authentication vary, depending on the features supported by your mobile phone.
 
 Download the application to learn more:
-link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US[Digital Advisor Mobile Application (Android)]
-link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322[Digital Advisor Mobile Application (iOS)]
+link:https://play.google.com/store/apps/details?id=com.netapp.myautosupport[Digital Advisor Mobile Application (Android)^]
+link:https://apps.apple.com/us/app/active-iq/id1230542480[Digital Advisor Mobile Application (iOS)^]
 
 === Wellness
 Wellness widget has been enhanced with Ransomware Defense attribute. You can now view risks and corrective actions associated with ransomware detection, prevention, and recovery.
@@ -399,7 +399,7 @@ You can generate or schedule ClusterViewer reports to view detailed information 
 == 15 October 2020
 
 === Health Check Dashboard
-The Digital Advisor Health Check Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base. link:concept_understand_health_check_assessment_dashboard.html[Learn more].
+The Digital Advisor Health Check Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base.
 
 === Config Drift
 This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn how to add a config drift template].
