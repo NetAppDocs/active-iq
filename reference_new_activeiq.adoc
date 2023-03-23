@@ -18,6 +18,11 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
+== 22 March 2023
+
+=== Wellness Risks
+You can now view controllers that have "Critical Risks" impact related to security vulnerabilities that are flagged based on Common Vulnerability Scoring system (CVSS) score.
+
 == 22 February 2023
 
 === Performance charts
