@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: view_keystone_capacity_utilization.html
 keywords: keystone, capacity utilization, service tiers, Keystone subscription, keystone subscription, shares, disks
-summary: Provides information on your capacity utilization with NetApp Keystone Flex Subscription.
+summary: Provides information on your capacity utilization with NetApp Keystone Subscription.
 ---
 
 = View capacity utilization with NetApp Keystone Subscription
@@ -19,9 +19,9 @@ If you are subscribed to Keystone Subscription Service, you can view the Keyston
 
 The Keystone Subscription widget provides you a summary of the capacity usage for your account. It consists of capacity utilization charts with respect to the physical capacity, the snapshot being rounded up to the last five minutes. The utilization over and above the committed capacity (the burst capacity) is marked in red.
 
-You can view the *Keystone - Capacity Utilization* dashboard, which analyzes the data in the widget and graphically represents the utilization trend of the capacity and usage for all the subscribed storage link:https://docs.netapp.com/us-en/keystone/nkfsosm_performance.html[services tiers], such as premium, extreme, and standard, associated with your NetApp Keystone Subscription account.
+You can view the *Keystone - Capacity Utilization* dashboard, which analyzes the data in the widget and graphically represents the utilization trend of the capacity and usage for all the subscribed storage link:https://docs.netapp.com/us-en/keystone/nkfsosm_performance.html[services tiers^], such as premium, extreme, and standard, associated with your NetApp Keystone Subscription account.
 
-You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html[Keystone Subscription service capacity] and usage of each subscribed service for your block, file services, or object storage on the dashboard.
+You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html[Keystone Subscription service capacity^] and usage of each subscribed service for your block, file services, or object storage on the dashboard.
 
 NOTE: As an Digital Advisor user, you can choose between ONTAP Collector and AutoSupport to obtain data on your capacity usage.
 

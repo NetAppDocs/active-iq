@@ -190,9 +190,9 @@ homepage:
         - title: View ONTAP upgrade recommendations
           url: task_view_upgrade.html
         - title: Take informed decisions based on cloud recommendations
-          url: /task-informed-decisions-based-on-cloud-recommendations.html
-        - title: View capacity utilization with NetApp Keystone Flex Subscription
-          url: task_view_keystone_capacity_utilization.html
+          url: task-informed-decisions-based-on-cloud-recommendations.html
+        - title: View capacity utilization with NetApp Keystone Subscription
+          url: view_keystone_capacity_utilization.html
     - title: More resources
       links:
         - title: Digital Advisor Web Portal
