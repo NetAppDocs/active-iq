@@ -23,34 +23,34 @@ The following are the types of reports that are available in Digital Advisor:
 |===
 | Report Name
 | Description
-| Wellness
-| Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
-| Wellness – Aggregated
-| Provides a summary of the outstanding risks and the count of systems affected.
 | 7-Mode Upgrade Advisor Plans
 | Provides a report about the upgrade advisor plan for 7-mode systems.  This report includes information about the HA partner.
 | Ansible Inventory
 | Provides an Ansible inventory file which lists all system inventory details by region or site. This file can be used for automation.
+| Capacity & Efficiency
+| Provides information about the Capacity and Efficiency details at cluster, customer, site, group, watchlist and node level.
+| ClusterViewer Report
+| Provides information about a single or multiple clusters at a customer and watchlist level. You can generate this report only for watchlist with up to 100 nodes.
 | FabricPool
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels. This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
-| Support Contracts / Hardware EOS
-| Provides information about the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
+| IO Density 
+| IO Density Report provides insights into peak input-output operations for customers in terms of data and meta-data consumption and density. 
+| Performance Report
+| Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume. You can generate this report only for watchlist with up to 100 nodes.
 | Recommended Configuration
 | Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
+| Support Contracts / Hardware EOS
+| Provides information about the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
 | Technical Case Details
 | Provides a yearly report about all the technical cases and their status.
 | Upgrade Recommendations (SW & FW)
 | Multi-tabbed report about the software and firmware currency and recommended versions for each controller or serial in the search criteria.
-| ClusterViewer Report
-| Provides information about a single or multiple clusters at a customer and watchlist level. You can generate this report only for watchlist with up to 100 nodes.
-| Capacity & Efficiency
-| Provides information about the Capacity and Efficiency details at cluster, customer, site, group, watchlist and node level.
 | Volume Performance Report
 | Provides information about the performance details of the volumes at the cluster level.
-| Performance Report
-| Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume. You can generate this report only for watchlist with up to 100 nodes.
-| IO Density 
-| IO Density Report provides insights into peak input-output operations for customers in terms of data and meta-data consumption and density.  
+| Wellness
+| Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
+| Wellness – Aggregated
+| Provides a summary of the outstanding risks and the count of systems affected.
 |===
