@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: concept_understand_sustainability_dashboard.html
+keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp
+summary: Provides information to familiarize yourself with the Sustainability Dashboard.
+---
+
+= Understand Sustainability Dashboard
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The Digital Advisor Sustainability Dashboard provides insights into the environmental sustainability of your storage system. You can access the Sustainability dashboard either from the Digital Advisor dashboard or from the *Governance* category in BlueXP.
+
+You can view the sustainability score, and projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. Based on the sustainability score, you can assess the overall efficiency of your storage system and align with the NetApp recommended best practices to improve the score. 
+
+You can also view the sustainability score at the cluster level. The data provided at the cluster level can also help to identify workloads that can be moved to more efficient storage, achieving the right balance between performance and power efficiency.
