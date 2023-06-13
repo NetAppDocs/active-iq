@@ -21,7 +21,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 21 June 2023
 
 === Sustainability Dashboard
-The Digital Advisor Sustainability Dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power usage, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. By evaluating the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended best practices to enhance sustainability. 
+The Digital Advisor Sustainability Dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power usage, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. By evaluating the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended best practices to enhance sustainability. link:concept_understand_sustainability_dashboard.adoc[Learn more].
 
 == 22 February 2023
 

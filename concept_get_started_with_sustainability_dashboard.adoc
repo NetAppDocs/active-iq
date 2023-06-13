@@ -36,7 +36,7 @@ image:sustainability_score.png[A screenshot that shows the sustainability score 
 
 image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
 
-If you plan to address these actions later, you can move them to the *ACTIONS FOR LATER* tab by selecting *Later*, where these actions can be postponed for 30 days. After 30 days, these actions will automatically move back to the *RECOMMENDED ACTIONS* tab. You can review the postponed actions anytime and can move them back to the *RECOMMENDED ACTIONS* tab by clicking *Consider*.
+If you plan to address these actions later, you can move them to the *Actions for later* tab by selecting *Later*, where these actions can be postponed for 30 days. After 30 days, these actions will automatically move back to the *Recommended actions* tab. You can review the postponed actions anytime and can move them back to the *Recommended actions* tab by clicking *Consider*.
 
 image:recommended_actions_for_later.png[A screenshot that shows the list of actions that are postponed.]
 
