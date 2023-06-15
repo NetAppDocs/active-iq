@@ -15,7 +15,7 @@ summary: Provides information about the dashboard, sustainability score, working
 :imagesdir: ./media/
 
 [.lead]
-The dashboard provides an environmental status overview of your storage system and actionable insights for improvement based on NetApp's recommended actions.
+The dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
 
 *Sustainability score*: Displays the total score indicating the environmental sustainability of your storage systems. You can assess the sustainability level of your storage systems based on the following range:
 
@@ -28,20 +28,18 @@ You can see the graphical representation of the score for up to 5 weeks, which i
 
 image:sustainability_score.png[A screenshot that shows the sustainability score along with the graph.]
 
-*Environmental indicators*: Displays projections for your power, direct carbon, and heat usage to evaluate the environmental health of your storage system. You can view these projections weekly, monthly, or yearly by selecting the desired timeframe from the drop-down in the top right corner of this section.
+*Environmental indicators*: Displays projections for your power, direct carbon usage, and heat emission to evaluate the environmental health of your storage system. You can view these projections monthly, quarterly, or yearly by selecting the desired timeframe from the drop-down in the top right corner of this section.
 
-*Carbon mitigation percentages*: Displays the percentage of carbon mitigation at each site/city. You can adjust the carbon mitigation percentage for specific sites by clicking the image:edit_icon_1.png[A screenshot that shows an editable icon.] icon located next to the percentage values, and the carbon numbers will automatically adjust accordingly.
+*Carbon mitigation percentages*: Displays the percentage of carbon mitigation at each site/city, and the presented baseline values are based on your location. You can adjust the carbon mitigation percentage for specific sites by clicking the image:edit_icon_1.png[A screenshot that shows an editable icon.] icon located next to the percentage values, and the carbon numbers will automatically adjust accordingly.
 
-*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately by selecting the *Fix*. Note that you can expand the recommended actions by clicking the *Fix* or the down arrow. In the expanded view, you can see the cluster name, the sustainability score, and subsequent action if you proceed with the *Fix* option.
+*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately by selecting the *Fix*. You can expand the view by clicking the *Fix* or the down arrow, and you can see the cluster name, the sustainability score, and subsequent increase if you proceed with the *Fix* option. In the expanded view, you can also see an informative message of proceeding with the *Fix* option.
 
 image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
 
-If you plan to address these actions later, you can move them to the *Actions for later* tab by selecting *Later*, where these actions can be postponed for 30 days. After 30 days, these actions will automatically move back to the *Recommended actions* tab. You can review the postponed actions anytime and can move them back to the *Recommended actions* tab by clicking *Consider*.
+If you plan to address these actions later, you can move them to the *Actions for later* tab by selecting *Later*. These actions will be postponed for 30 days. After 30 days, these actions will automatically move back to the *Recommended actions* tab. You can also review the postponed actions anytime and can move them back to the *Recommended actions* tab by clicking *Consider*.
 
-image:recommended_actions_for_later.png[A screenshot that shows the list of actions that are postponed.]
-
-*Working environments*: Displays various parameters at the cluster level of your installed base.  You can view the sustainability score, cluster summary in *ClusterViewer* by selecting the cluster name, and recommended actions at the cluster level, and taking the recommended actions will increase the sustainability score. 
+*Working environments*: Displays various environmental parameters at the cluster level of your installed base. You can view the sustainability score at cluster level, access *ClusterViewer* by selecting the cluster name, take specific recommended actions from here to improve the sustainability.
  
-NOTE: For now, ONTAP, E-Series, and Storage Grid systems are supported.
+NOTE: For now, ONTAP systems with AFF, FAS, and CVO are supported.
 
 
