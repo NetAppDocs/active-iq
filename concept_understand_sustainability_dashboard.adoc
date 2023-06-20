@@ -15,7 +15,7 @@ summary: Provides information to familiarize yourself with the Sustainability Da
 :imagesdir: ./media/
 
 [.lead]
-Sustainability, as a service, allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability goals. 
+Sustainability, as a service, allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability targets. 
 
 == What can you do with the sustainability service
 
@@ -51,10 +51,10 @@ The sustainability service offers the following benefits:
 * AI/ML driven actionable recommendations
 
 == Cost
-NetApp doesn’t charge you for using the BlueXP sustainability service. You can utilize it with your active service contract.
+NetApp does not charge you for using the BlueXP sustainability service. You can utilize it with your active support contract.
 
 == Licensing
-No special license is required to access this service. You can utilize it with your active service contract if you have enabled AutoSupport for your systems.
+No special license is required to access this service. You can utilize it with your active support contract if you have enabled AutoSupport for your systems.
 
 
 
