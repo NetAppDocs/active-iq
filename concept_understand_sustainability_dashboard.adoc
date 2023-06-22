@@ -1,0 +1,61 @@
+---
+sidebar: sidebar
+permalink: concept_understand_sustainability_dashboard.html
+keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp
+summary: Provides information to familiarize yourself with the Sustainability Dashboard.
+---
+
+= Learn about BlueXP sustainability service
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Sustainability, as a service, allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability targets. 
+
+== What can you do with the sustainability service
+
+You can view the sustainability score, and projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. Based on the sustainability score, you can assess your overall sustainability posture and implement NetApp's recommended actions to improve the score. 
+
+You can also view the sustainability score at the cluster level. The data provided at the cluster level can also help to identify clusters that can be moved to more efficient storage, achieving the right balance between performance and power efficiency.
+
+== Access the sustainability service
+You can access this service from two ways:
+
+* *Access the sustainability service in Digital Advisor*
+You can log in to Digital Advisor and access the sustainability service from the Digital Advisor dashboard.
++
+image:sustainability_dashboard.png[A UI screenshot that gives the overview of the Sustainability dashboard.]
++
+For more information about log in to Digital Advisor, see link:task_login_activeiq.adoc[Log in to Digital Advisor].
+
+* *Access the sustainability service in BlueXP*
+You can log in to BlueXP and access the sustainability service from the *Governance* category available in the BlueXP left navigation.
++
+image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the Sustainability dashboard in BlueXP.]
++
+To log in to BlueXP, you can use your NetApp Support Site credentials or you can sign up for a NetApp cloud login using your email and a password. link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html[Learn more about logging in^].
+
+== Benefits of using the sustainability service
+The sustainability service offers the following benefits:
+
+* Accelerate performance
+* Lower storage costs
+* Reduce carbon footprint
+* Improve energy efficiency 
+* Clear insights into your sustainability posture
+* AI/ML driven actionable recommendations
+
+== Cost
+NetApp does not charge you for using the BlueXP sustainability service. You can utilize it with your active support contract.
+
+== Licensing
+No special license is required to access this service. You can utilize it with your active support contract if you have enabled AutoSupport for your systems.
+
+
+
+
