@@ -15,7 +15,6 @@ summary: Helps you understand the workflows and get started on Digital Advisor.
 :imagesdir: ./media/
 
 [.lead]
-
 Digital Advisor has been enhanced and redesigned to help you perform tasks more effectively. The user interface has been developed to guide you to perform your desired goals.
 
 You can look at the following diagram to understand the workflows of Digital Advisor.
