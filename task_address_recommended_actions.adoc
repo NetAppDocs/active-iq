@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: concept_get_started_with_sustainability_dashboard.html
+permalink: task_address_recommended_actions.html
 keywords: activeiq, sustainability dashboard, recommended actions, digital advisor, bluexp
 summary: Provides steps to address the recommended actions immediately or later.
 ---
