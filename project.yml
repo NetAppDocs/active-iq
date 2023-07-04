@@ -63,6 +63,16 @@ sidebar:
           url: /task_renew_software_and_hardware.html
         - title: Analyze the wellness of clusters and nodes
           url: /task_analyze_wellness_clusters_and_nodes.html
+    - title: Analyze the sustainability of your storage system
+      entries:
+        - title: Learn about BlueXP sustainability sustainability dashboard
+          url: /concept_understand_sustainability_dashboard.html
+        - title: Access BlueXP sustainability dashboard
+          url: /task_access_sustainability_dashboard.html
+        - title: Get started with BlueXP sustainability dashboard
+          url: /concept_get_started_with_sustainability_dashboard.html
+        - title: Address recommended actions
+          url: /task_address_recommended_actions.html
     - title: View system details
       entries:
         - title: View inventory details
@@ -111,12 +121,6 @@ sidebar:
           url: /concept_get_started_with_health_check_dashboard.html
         - title: Renew your support contracts
           url: /task_renew_support_contracts_for_your_systems.html
-    - title: Analyze the sustainability of your storage system
-      entries:
-        - title: Learn about BlueXP sustainability service
-          url: /concept_understand_sustainability_dashboard.html
-        - title: Get started with Sustainability Dashboard
-          url: /concept_get_started_with_sustainability_dashboard.html
     - title: Upgrade to optimize your install base
       entries:
         - title: Upgrade the ONTAP version of your storage system

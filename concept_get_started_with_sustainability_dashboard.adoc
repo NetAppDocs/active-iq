@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, sustainability score, sustainabili
 summary: Provides information about the dashboard, sustainability score, working environments, and the recommended actions.
 ---
 
-= Get started with the Sustainability Dashboard
+= Get started with BlueXP sustainability dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,6 +16,10 @@ summary: Provides information about the dashboard, sustainability score, working
 
 [.lead]
 The dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
+
+image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
+
+See the following sections for more information:
 
 *Sustainability score*: Displays the total score indicating the environmental sustainability of your storage systems. You can assess the sustainability level of your storage systems based on the following range:
 
@@ -32,14 +36,20 @@ image:sustainability_score.png[A screenshot that shows the sustainability score 
 
 *Carbon mitigation percentages*: Displays the percentage of carbon mitigation at each site/city, and the presented baseline values are based on your location. You can adjust the carbon mitigation percentage for specific sites by clicking the image:edit_icon_1.png[A screenshot that shows an editable icon.] icon located next to the percentage values, and the carbon numbers will automatically adjust accordingly.
 
-*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately by selecting the *Fix*. You can expand the view by clicking the *Fix* or the down arrow, and you can see the cluster name, the sustainability score, and subsequent increase if you proceed with the *Fix* option. In the expanded view, you can also see an informative message of proceeding with the *Fix* option.
+image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation percentage of sites and how to edit this percentage.]
 
-image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
-
-If you plan to address these actions later, you can move them to the *Actions for later* tab by selecting *Later*. These actions will be postponed for 30 days. After 30 days, these actions will automatically move back to the *Recommended actions* tab. You can also review the postponed actions anytime and can move them back to the *Recommended actions* tab by clicking *Consider*.
+*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately or later. 
+For more information on how to address recommended actions, see link:task_address_recommended_actions.html[Address recommended actions].
 
 *Working environments*: Displays various environmental parameters at the cluster level of your installed base. You can view the sustainability score at cluster level, access *ClusterViewer* by selecting the cluster name, take specific recommended actions from here to improve the sustainability.
+
+image:working_environments.png[A UI screenshot that shows various environmental parameters]
+
+You can add or remove environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon. You can also export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon.
+
+
+
  
-NOTE: For now, ONTAP systems with AFF, FAS, and CVO are supported.
+
 
 
