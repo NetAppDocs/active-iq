@@ -29,7 +29,7 @@ To get the best results from the dashboard, you must enable AutoSupport. If Auto
 NetApp ONTAP systems including AFF, both A-series and C-series, FAS, and Cloud Volumes ONTAP (CVO) are supported.
 
 == Benefits of using BlueXP sustainability dashboard
-The sustainability dashboard provides AI-driven actionable recommendations and guided solutions to improve your sustainability posture, including:
+The sustainability dashboard provides AI-driven actionable recommendations and guided solutions to improve your sustainability posture, enabling you to:
 
 * Lower storage costs
 * Reduce carbon footprint
