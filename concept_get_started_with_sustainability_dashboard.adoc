@@ -38,7 +38,7 @@ image:sustainability_score.png[A screenshot that shows the sustainability score 
 
 image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation percentage of sites and how to edit this percentage.]
 
-*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately or later. 
+*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately, or later. 
 For more information on how to address recommended actions, see link:task_address_recommended_actions.html[Address recommended actions].
 
 *Working environments*: Displays various environmental parameters at the cluster level of your installed base. You can view the sustainability score at cluster level, access *ClusterViewer* by selecting the cluster name, take specific recommended actions from here to improve the sustainability.
