@@ -36,7 +36,7 @@ A non-technical case should be created for the following cases:
 
 *How do I create a non-technical case?*
 
-. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
+. Click link:https://mysupport.netapp.com/site/help[here^] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
 . Select the appropriate category from the *Feedback Category* drop-down list.
 . Enter the required details and provide additional information in the “Comments” box”.
 . Click *Submit*.
@@ -51,7 +51,7 @@ To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedba
 
 *How do I access Storage Efficiency in Digital Advisor?*
 
-. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor].
+. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor^].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
 
@@ -236,4 +236,4 @@ You may not be able to view certain systems in the inventory page due to one of 
 * You are not entitled to view the systems.
 * Systems are inactive or decommissioned in SAP.
 
-If you are unable to view systems for any other reasons, link:https://mysupport.netapp.com/site/help[create a non-technical case]. To learn more about non-technical case, click <<Non-technical case,here.>>
+If you are unable to view systems for any other reasons, link:https://mysupport.netapp.com/site/help[create a non-technical case^]. To learn more about non-technical case, click <<Non-technical case,here.>>

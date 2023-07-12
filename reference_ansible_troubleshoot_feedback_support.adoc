@@ -19,7 +19,7 @@ summary: Provides more information about Ansible.
 You can get help and find more information through various resources.
 
 
-* link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[Troubleshooting information]
-* link:https://netapp.io/[Slack workspace]
+* link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/[Troubleshooting information^]
+* link:https://netapp.io/[Slack workspace^]
 * mailto:ng-active-iq-feedback@netapp.com[Email]
 * Support button in Digital Advisor for support and feedback.
