@@ -165,7 +165,7 @@ You may not be able to search for certain systems or view them in inventory page
 * You are not entitled to view the systems.
 * Systems are inactive, archived, or decommissioned in SAP.
 
-If you are unable to view systems for any other reasons, link:https://mysupport.netapp.com/site/help[create a non-technical case]. To learn more about non-technical case, click <<Non-technical case,here.>>
+If you are unable to view systems for any other reasons, have queries, or wish to request for access, link:https://mysupport.netapp.com/site/help[create a non-technical case]. To learn more about non-technical case, click <<Non-technical case,here.>>
 
 == Capacity
 
