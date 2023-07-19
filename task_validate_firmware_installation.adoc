@@ -33,7 +33,7 @@ disk     firmware-revision model
 1.11.4   NA01              X423_HCOBE900A10
 ----
 :link-with-underscores: https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-910%2Fstorage__disk__show.html
-For more information about the command, refer to {link-with-underscores}[storage disk show].
+For more information about the command, refer to {link-with-underscores}[storage disk show^].
 
 . Verify that the new NVMe Flash Cache firmware is installed:
 +
@@ -41,7 +41,7 @@ For more information about the command, refer to {link-with-underscores}[storage
 ::*> system controller flash-cache show
 ----
 :link-with-underscores: https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.dot-cm-cmpr-960%2Fsystem__controller__flash-cache__show.html
-For more information about the command, refer to {link-with-underscores}[system controller flash-cache show].
+For more information about the command, refer to {link-with-underscores}[system controller flash-cache show^].
 
 == Validate shelf firmware installation
 
@@ -57,7 +57,7 @@ In the output, verify that each shelf's firmware is updated to the desired level
 Shelf 1: IOM6 Firmware rev. IOM6 A: 0191 IOM3 B: 0191
 ----
 :link-with-underscores: https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/system__node__run.html
-For more information about the command, refer to {link-with-underscores}[system node run].
+For more information about the command, refer to {link-with-underscores}[system node run^].
 
 . Verify that the new ACP firmware is updated:
 +
@@ -65,7 +65,7 @@ For more information about the command, refer to {link-with-underscores}[system 
 ::*> storage shelf acp module show -instance
 ----
 :link-with-underscores: http://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/storage__shelf__acp__module__show.html
-For more information about the command, refer to {link-with-underscores}[storage shelf acp module show].
+For more information about the command, refer to {link-with-underscores}[storage shelf acp module show^].
 
 . Verify that the desired ACP mode is configured:
 +
@@ -73,7 +73,7 @@ For more information about the command, refer to {link-with-underscores}[storage
 ::*> storage shelf acp show
 ----
 :link-with-underscores: https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-910/storage__shelf__acp__show.html
-For more information about the command, refer to {link-with-underscores}[storage shelf acp show].
+For more information about the command, refer to {link-with-underscores}[storage shelf acp show^].
 
 . Change the ACP mode (channel):
 +
@@ -81,7 +81,7 @@ For more information about the command, refer to {link-with-underscores}[storage
 ::*> storage shelf acp configure -channel [in-band | out-of-band]
 ----
 :link-with-underscores: http://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-cmpr-970/storage__shelf__acp__configure.html
-For more information about the command, refer to {link-with-underscores}[storage shelf acp configure].
+For more information about the command, refer to {link-with-underscores}[storage shelf acp configure^].
 
 == Validating SP/BMC Firmware installation
 
