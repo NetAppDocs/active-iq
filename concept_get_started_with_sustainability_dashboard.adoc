@@ -41,7 +41,7 @@ image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation
 *Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately, or later. 
 For more information on how to improve the sustainability score, see link:task_improve_sustainability_score.html[Improve sustainability score].
 
-*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage, achieving the right balance between performance and power efficiency. To know more about the working environments, see Manage working environments.
+*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage, achieving the right balance between performance and power efficiency. To know more about the working environments, see link:task_manage_working_environments.html[Manage working environments].
 
 image:get_started_working_environments.png[A screenshot that displays working environments table.]
 
