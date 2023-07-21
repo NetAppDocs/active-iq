@@ -19,7 +19,7 @@ The dashboard provides an environmental assessment of your storage system and ac
 
 image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
 
-See the following sections for more information:
+NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Cloud Insights. Learn more about link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[enabling Cloud Insights^].
 
 *Sustainability score*: Displays the total score indicating the environmental sustainability of your storage systems. You can assess the sustainability level of your storage systems based on the following range:
 
@@ -39,13 +39,19 @@ image:sustainability_score.png[A screenshot that shows the sustainability score 
 image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation percentage of sites and how to edit this percentage.]
 
 *Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately, or later. 
-For more information on how to address recommended actions, see link:task_address_recommended_actions.html[Address recommended actions].
+For more information on how to improve the sustainability score, see link:task_improve_sustainability_score.html[Improve sustainability score].
 
-*Working environments*: Displays various environmental parameters at the cluster level of your installed base. You can view the sustainability score at cluster level, access *ClusterViewer* by selecting the cluster name, take specific recommended actions from here to improve the sustainability.
+*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage, achieving the right balance between performance and power efficiency. To know more about the working environments, see Manage working environments.
 
-image:working_environments.png[A UI screenshot that shows various environmental parameters]
+image:get_started_working_environments.png[A screenshot that displays working environments table.]
 
-You can add or remove environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon. You can also export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon.
+
+
+
+
+
+
+
 
 
 
