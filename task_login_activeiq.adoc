@@ -15,10 +15,13 @@ summary: Provides information to log in to Digital Advisor.
 :imagesdir: ./media/
 
 [.lead]
-You must have a valid NetApp Support site credential to log in to Digital Advisor. If you do not have an account and are getting started, click link:https://mysupport.netapp.com/info/web/ECMLP2458178.html[here^].
+You can log in to Digital Advisor from a web-based console to create a watchlist for viewing the overall status of your storage system.
+
+.Before you begin
+You must have a valid NetApp Support site credential to log in to Digital Advisor. If you do not have an account and are getting started, proceed to create an account link:https://mysupport.netapp.com/info/web/ECMLP2458178.html[here^].
 
 .Steps
-. Click link:https://activeiq.netapp.com/?source=onlinedocs[here^] to access Digital Advisor.
+. Go to the Digital Advisor link:https://activeiq.netapp.com/?source=onlinedocs[here^] login page.
 +
 Digital Advisor shows systems with a valid support contract. If contracts expire, a grace period of 90 days is given in which systems continue to be visible. Thereafter, systems are not searchable or visible within Digital Advisor.
 . Provide your username and password and click *Sign In*.
