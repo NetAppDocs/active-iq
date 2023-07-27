@@ -155,6 +155,18 @@ Efficiency savings are shown in the Storage Efficiency Dashboard for volumes and
 
 Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Storage Efficiency reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
 
+== Inventory
+
+*Why cannot I find certain systems in Digital Advisor?*
+You may not be able to search for certain systems or view them in inventory page due to one of the following reasons:
+
+* New systems take over a day to reflect in Digital Advisor once they are added or updated in SAP.
+* The systems are secure and you are not authorized to view the secure systems.
+* You are not entitled to view the systems.
+* Systems are inactive, archived, or decommissioned in SAP.
+
+If you are unable to view systems for any other reasons, have queries, or wish to request for access, link:https://mysupport.netapp.com/site/help[create a non-technical case^]. To learn more about non-technical case, click <<Non-technical case,here.>>
+
 == Capacity
 
 *How are capacities calculated in Digital Advisor?*
@@ -226,14 +238,3 @@ All capacities displayed in Digital Advisor are Base 2 (divide by 1024) and repr
 
 For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.
 
-== Inventory
-
-*Why cannot I find certain systems in the inventory page?*
-You may not be able to view certain systems in the inventory page due to one of the following reasons:
-
-* New systems take over a day to reflect in Digital Advisor once they are added or updated in SAP.
-* The systems are secure and you are not authorized to view the secure systems.
-* You are not entitled to view the systems.
-* Systems are inactive or decommissioned in SAP.
-
-If you are unable to view systems for any other reasons, link:https://mysupport.netapp.com/site/help[create a non-technical case^]. To learn more about non-technical case, click <<Non-technical case,here.>>
