@@ -52,7 +52,7 @@ The volumes that meet the following criteria are recommended for tiering:
 . Click on any one link in the *Tiering* pane.
 . Click *Tier Data* to launch *BlueXP*.
 
-To learn more about FabricPool, refer to link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf[FabricPool Best Practices].
+To learn more about FabricPool, refer to link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf[FabricPool Best Practices^].
 
 == Backup & Archive
 Provides information about the systems that should be backed up to the cloud. You can use NetApp Cloud Backup to secure your systems and restore them back when required.

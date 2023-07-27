@@ -36,7 +36,7 @@ A non-technical case should be created for the following cases:
 
 *How do I create a non-technical case?*
 
-. Click link:https://mysupport.netapp.com/site/help[here] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
+. Click link:https://mysupport.netapp.com/site/help[here^] to open the “Non-Technical Feedback Tool" on the NetApp Support site.
 . Select the appropriate category from the *Feedback Category* drop-down list.
 . Enter the required details and provide additional information in the “Comments” box”.
 . Click *Submit*.
@@ -51,7 +51,7 @@ To provide feedback or ask questions, send an email to mailto:ng-activeiq-feedba
 
 *How do I access Storage Efficiency in Digital Advisor?*
 
-. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor].
+. Open the home page of link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor^].
 . Search for a customer, site, group, cluster, or node from the top right search box to reach the respective dashboard.
 . Click *Storage Efficiency* from the left navigation.
 
@@ -165,7 +165,7 @@ You may not be able to search for certain systems or view them in inventory page
 * You are not entitled to view the systems.
 * Systems are inactive, archived, or decommissioned in SAP.
 
-If you are unable to view systems for any other reasons, have queries, or wish to request for access, link:https://mysupport.netapp.com/site/help[create a non-technical case]. To learn more about non-technical case, click <<Non-technical case,here.>>
+If you are unable to view systems for any other reasons, have queries, or wish to request for access, link:https://mysupport.netapp.com/site/help[create a non-technical case^]. To learn more about non-technical case, click <<Non-technical case,here.>>
 
 == Capacity
 
@@ -237,3 +237,4 @@ Used Capacity at the node level includes space reserved by volumes, metadata, an
 All capacities displayed in Digital Advisor are Base 2 (divide by 1024) and represent capacities in GiB/TiB. ONTAP storage and other NetApp products also display capacity usage in Base 2.
 
 For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.
+
