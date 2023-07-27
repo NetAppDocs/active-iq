@@ -29,4 +29,4 @@ To view detailed information about support contracts, click the *Support & Entit
 +
 * *Best Practices*: Displays the health check score by assessing the best practices attributes of your storage system — performance & efficiency, availability & protection, capacity, configuration, and security vulnerabilities. NetApp best practices help sustain system health, which optimizes the performance of your installed base.
 +
-* *Technical Cases*: Provides you with a detailed view of your technical case history, by case type and open or closed status, over selectable time ranges.  You can drill into case groups as well as view case details through link:https://mysupport.netapp.com//[NetApp Support Site] or other case portals.
+* *Technical Cases*: Provides you with a detailed view of your technical case history, by case type and open or closed status, over selectable time ranges.  You can drill into case groups as well as view case details through link:https://mysupport.netapp.com//[NetApp Support Site^] or other case portals.

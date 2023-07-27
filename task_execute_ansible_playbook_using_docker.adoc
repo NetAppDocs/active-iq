@@ -27,7 +27,7 @@ Before executing Ansible Playbook using NetApp docker, you should:
 * Ensure that NetApp Docker is installed.
 
 .Steps
-. link:https://docs.docker.com/get-started/[Set up Docker].
+. link:https://docs.docker.com/get-started/[Set up Docker^].
 . Pull the NetApp Docker image from DockerHub by executing the following command:
 +
 ----
@@ -37,7 +37,7 @@ Using default tag: latest
 latest: Pulling from schmots1/netapp-ansible
 docker.io/schmots1/netapp-ansible:lates
 ----
-For more information about the docker pull command, refer to the link:https://docs.docker.com/engine/reference/commandline/pull/[Docker Pull Documentation].
+For more information about the docker pull command, refer to the link:https://docs.docker.com/engine/reference/commandline/pull/[Docker Pull Documentation^].
 
 . Run the Docker image as a container and log in to the container to execute the Ansible Playbook.
 . Copy the path of the folder which contains the extracted Ansible Playbook and inventory files, for example, *downloaded_playbook_path*. The Ansible Playbook and inventory files should be in the same folder for successful execution.
@@ -46,7 +46,7 @@ For more information about the docker pull command, refer to the link:https://do
 ----
 $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
 ----
-The container starts and the console is now at bash shell of the container. For more information about the Docker Run command, refer to the link:https://docs.docker.com/engine/reference/run/[Docker Run Documentation].
+The container starts and the console is now at bash shell of the container. For more information about the Docker Run command, refer to the link:https://docs.docker.com/engine/reference/run/[Docker Run Documentation^].
 
 . Execute the Ansible Playbook inside the container using the *ansible-playbook* command:
 +
@@ -61,6 +61,6 @@ PLAY [ONTAP Firmware Upgrade] **************************************************
 ----
 NOTE: If there are a set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
 
-For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
+For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation^] and to execute the Ansible playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode^].
 
 After executing the Ansible Playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post-execution instructions.

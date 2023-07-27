@@ -79,7 +79,7 @@ To access the AutoSupport feature, log in to Digital Advisor and search for a cl
 The ClusterViewer feature is not supported on E-Series systems.
 
 // 2021-06-02, Jira AIQ-49239, Reenu
-// ** * Datacenter View:* Provides cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration. The view is enabled by collecting and uploading data from the customer environment using link:https://mysupport.netapp.com/site/tools/tool-eula/activeiq-onecollect[NetApp Active IQ OneCollect].
+// ** * Datacenter View:* Provides cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration. The view is enabled by collecting and uploading data from the customer environment using link:https://mysupport.netapp.com/site/tools/tool-eula/activeiq-onecollect[NetApp Active IQ OneCollect^].
 // ** * Interop Advisor:* Enables you to check the compatibility of hosts by using data collected by NetApp Active IQ OneCollect tool. It provides support information by automatically checking with Interoperability Matrix Tool (IMT) and giving upgrade recommendations for host operating systems, drivers, and firmware.
 ** *API Services:* Allows you to pull data of interest and integrate it directly into your company’s workflow.
 ** *AutoSupport Upload:* Enables you to analyze the defects or issues in ONTAP and E-Series systems. The defects or issues are reviewed and fixed manually by Support Site personnel.

@@ -18,7 +18,7 @@ summary: Provides information about hosting the firmware files using a web serve
 
 After you download the automation package, the firmware files should be hosted on a web server.
 
-The web server can be set up in multiple ways. For instructions to set up a simple web server using Python, refer to link:https://docs.python.org/3/library/http.server.html[Webserver using Python].
+The web server can be set up in multiple ways. For instructions to set up a simple web server using Python, refer to link:https://docs.python.org/3/library/http.server.html[Webserver using Python^].
 
 .Step
 . Save the base URL of the web server. If the URLs for disk firmware, shelf firmware, and service processor firmware are *\http://<web-server>/path/all_shelf_fw.zip*, *\http://<web-server>/path/all.zip*, and *\http://<web-server>/path/<SP/BMC>_<version_number>_fw.zip*, save *\http://<web-server>/path/* as the base URL.
