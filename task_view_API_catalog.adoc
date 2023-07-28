@@ -21,7 +21,7 @@ Using a valid Access Token and correct inputs for the required fields, you can m
 
 .Steps
 . From the *Quick Links* menu, click *API Services*.
-. Click link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction[*Browse*] under the *API Catalog* icon.
+. Click link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction[*Browse*^] under the *API Catalog* icon.
 +
 The API Catalog is displayed.
 . Select any API

@@ -17,7 +17,7 @@ summary: Provides information on how to execute Ansible Playbook using the docke
 [.lead]
 
 .Steps
-. Install link:https://docs.python.org/3/using/windows.html[Python] and link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html[Ansible].
+. Install link:https://docs.python.org/3/using/windows.html[Python^] and link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html[Ansible^].
 . Install the required Python packages using *pip*:
 +
 ----
@@ -37,7 +37,7 @@ $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collectio
 
 $ chmod -R +rw /usr/share/ansible/collections
 ----
-For more information about the ansible-galaxy command, refer to link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html[Ansible Galaxy Documentation] and for more information about the NetApp Ansible Collection, refer to the link:https://galaxy.ansible.com/netapp/ontap[NetApp Ansible Collection page].
+For more information about the ansible-galaxy command, refer to link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html[Ansible Galaxy Documentation^] and for more information about the NetApp Ansible Collection, refer to the link:https://galaxy.ansible.com/netapp/ontap[NetApp Ansible Collection page^].
 
 . Execute the Ansible Playbook using *ansible-playbook* command:
 +
@@ -52,6 +52,6 @@ PLAY [ONTAP Firmware Upgrade] **************************************************
 ----
 NOTE: If there are a set of clusters with different login credentials, the Ansible Playbook must be run on each cluster. There are no changes required to the inventory file as the Ansible Playbook skips the clusters for which the login has failed.
 
-For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation] and to execute the Ansible Playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode].
+For more information about the *ansible-playbook* command, refer to the link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html[Ansible Playbook Documentation^] and to execute the Ansible Playbook in check mode (dry run), refer to link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html[Ansible: Check mode^].
 
 After executing the playbook, refer to the link:task_validate_firmware_installation.html[Firmware Installation Validations] for post-execution instructions.

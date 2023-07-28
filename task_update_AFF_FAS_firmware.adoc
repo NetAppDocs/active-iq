@@ -21,8 +21,8 @@ You should update the AFF and FAS firmware using Ansible to mitigate the identif
 
 Before updating AFF and FAS firmware using Ansible, you should:
 
-* link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/[Install and set up Ansible on your storage system]
-* link:https://netapp.io/2019/09/17/coming-together-nicely/[Install Ansible 2.9 with collections on your storage system]
+* link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/[Install and set up Ansible on your storage system^]
+* link:https://netapp.io/2019/09/17/coming-together-nicely/[Install Ansible 2.9 with collections on your storage system^]
 * Upgrade your storage system to ONTAP 9.1 or later
 * Configure your account with an administrator role
 

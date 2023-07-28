@@ -21,7 +21,7 @@ This data is used by NetApp Technical Support to speed the diagnosis and resolut
 
 NOTE: Digital Advisor displays AutoSupport related data only for systems whose AutoSupport data is the less than 60 days old.
 
-For ONTAP systems, AutoSupport is enabled by default when you configure your storage system for the first time. You should link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-91C43742-E563-442E-8161-17D5C5DA8C19.html[set up AutoSupport] on ONTAP systems to control how the AutoSupport information is sent to technical support and your internal support organization.
+For ONTAP systems, AutoSupport is enabled by default when you configure your storage system for the first time. You should link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-91C43742-E563-442E-8161-17D5C5DA8C19.html[set up AutoSupport^] on ONTAP systems to control how the AutoSupport information is sent to technical support and your internal support organization.
 
 If you do not want to enable AutoSupport, you can use the AutoSupport Upload feature to manually upload AutoSupport data to receive recommendations and insights into your storage ecosystem.
 
@@ -29,9 +29,9 @@ NOTE: AutoSupport data does not contain any user data.
 
 For more information about AutoSupport, refer to the appropriate documentation:
 
-* link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-DF931E89-B833-4DED-83B5-A97F7EC97425.html[ONTAP (FAS and AFF)]
-* link:https://docs.netapp.com/sgws-114/topic/com.netapp.doc.sg-primer/GUID-7D38684D-1CA1-41E7-BE68-A5F671F9C33F.html[StorageGRID]
-* link:https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/E-Series_SANtricity_Software_Suite/How_to_enable_AutoSupport_on_E-Series_System_Manager[SANtricity (E-Series and EF-Series)]
-* link:https://help.monitoring.solidfire.com/#01_User%20Guide/ActiveIQ/Getting%20Started/enable_active_iq_reporting.htm[Element (NetApp HCI and SolidFire)]
-* link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444pdf.pdf[Technical Report - ONTAP AutoSupport and AutoSupport On Demand]
-* link:https://www.netapp.com/pdf.html?item=/media/10439-tr4688pdf.pdf[Technical Report - Security and Privacy of NetApp Telemetry Data]
+* link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-DF931E89-B833-4DED-83B5-A97F7EC97425.html[ONTAP (FAS and AFF)^]
+* link:https://docs.netapp.com/sgws-114/topic/com.netapp.doc.sg-primer/GUID-7D38684D-1CA1-41E7-BE68-A5F671F9C33F.html[StorageGRID^]
+* link:https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/E-Series_SANtricity_Software_Suite/How_to_enable_AutoSupport_on_E-Series_System_Manager[SANtricity (E-Series and EF-Series)^]
+* link:https://help.monitoring.solidfire.com/#01_User%20Guide/ActiveIQ/Getting%20Started/enable_active_iq_reporting.htm[Element (NetApp HCI and SolidFire)^]
+* link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444pdf.pdf[Technical Report - ONTAP AutoSupport and AutoSupport On Demand^]
+* link:https://www.netapp.com/pdf.html?item=/media/10439-tr4688pdf.pdf[Technical Report - Security and Privacy of NetApp Telemetry Data^]
