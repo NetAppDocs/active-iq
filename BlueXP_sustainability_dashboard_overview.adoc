@@ -1,0 +1,61 @@
+---
+sidebar: sidebar
+permalink: BlueXP_sustainability_dashboard_overview.html
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, working environments, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives
+summary: Provides information about the dashboard, sustainability score, working environments, and the recommended actions.
+---
+
+= BlueXP sustainability dashboard overview
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The sustainability dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
+
+image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
+
+NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Cloud Insights. For more information on how to enable Cloud Insights, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
+
+*Sustainability score*: Displays the total score indicating the environmental sustainability of your storage systems. You can assess the sustainability level of your storage systems based on the following range:
+
+ *  76 - 100: Indicates that sustainability is a top priority.
+ *	51 - 75: Indicates a high level of investment in sustainability initiatives.
+ *	26 - 50: Indicates good progress towards sustainability initiatives.
+ *	Less than 25: Indicates the need for improvement in sustainability practices.
+
+You can see the graphical representation of the score for up to 5 weeks, which is updated on a weekly basis. You can also see the reason for the increase or decrease in the sustainability score by hovering over the graph. 
+
+image:sustainability_score.png[A screenshot that shows the sustainability score along with the graph.]
+
+*Environmental indicators*: Displays projections for your power, direct carbon usage, and heat emission to evaluate the environmental health of your storage system. You can view these projections monthly, quarterly, or yearly by selecting the desired timeframe from the drop-down in the top right corner of this section.
+
+*Carbon mitigation percentages*: Displays the percentage of carbon mitigation at each site/city, and the presented baseline values are based on your location. You can adjust the carbon mitigation percentage for specific sites by clicking the image:edit_icon_1.png[A screenshot that shows an editable icon.] icon located next to the percentage values, and the carbon numbers will automatically adjust accordingly.
+
+image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation percentage of sites and how to edit this percentage.]
+
+*Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately, or later. 
+For more information on how to improve the sustainability score, see link:improve_sustainability_score.html[Improve sustainability score].
+
+*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage, achieving the right balance between performance and power efficiency. To know more about the working environments, see link:manage_working_environments.html[Manage working environments].
+
+image:get_started_working_environments.png[A screenshot that displays working environments table.]
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

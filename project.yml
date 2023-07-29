@@ -66,15 +66,15 @@ sidebar:
     - title: Analyze the sustainability of your storage system
       entries:
         - title: Learn about BlueXP sustainability
-          url: /concept_learn_sustainability.html
-        - title: Access BlueXP sustainability dashboard
-          url: /task_access_sustainability_dashboard.html
+          url: /learn_BlueXP_sustainability.html
         - title: Get started with BlueXP sustainability dashboard
-          url: /concept_get_started_with_sustainability_dashboard.html
+          url: /get_started_sustainability_dashboard.html
+        - title: BlueXP_sustainability_dashboard_overview
+          url: /BlueXP_sustainability_dashboard_overview.html
         - title: Improve sustainability score
-          url: /task_improve_sustainability_score.html
+          url: /improve_sustainability_score.html
         - title: Manage working environments
-          url: /task_manage_working_environments.html
+          url: /manage_working_environments.html
     - title: View system details
       entries:
         - title: View inventory details
