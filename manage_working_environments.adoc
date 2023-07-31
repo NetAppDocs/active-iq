@@ -20,7 +20,7 @@ The *Working environments* table include various environmental parameters that h
 
 You can analyze the sustainability score at cluster level. You can also implement the recommended actions at cluster level of your installed base to improve the cluster-level sustainability score. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
 
-To customize the *Working environments* table and implement the recommended actions, follow these steps:
+To customize and gain a better understanding of the *Working environments* table, follow these steps:
 
 [role="tabbed-block"]
 ====

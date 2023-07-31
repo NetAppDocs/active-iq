@@ -29,11 +29,11 @@ To log in to BlueXP, you can use your NetApp Support Site credentials or you can
   The NetApp BlueXP login page appears.
 . Log in to BlueXP.
 . From the BlueXP left navigation, select *Governance* > *Sustainability*.
-  The BlueXP sustainability dashboard appears.
+  The sustainability dashboard appears.
   +
-image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the Sustainability dashboard in BlueXP.]
+image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the sustainability dashboard in BlueXP.]
 
-NOTE: If BlueXP sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your sustainability dashboard and the systems associated with your account.
+NOTE: If the sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your sustainability dashboard and the systems associated with your account.
 
 --
 
@@ -46,7 +46,7 @@ To log in to Digital Advisor, you can use your NetApp Support Site credentials.
 . Provide your username and password and click *Sign In*.
 . From the left navigation, select *STORAGE HEALTH* > *Sustainability*.
 +
-image:sustainability_dashboard.png[A UI screenshot that gives the overview of the Sustainability dashboard.]
+image:sustainability_dashboard.png[A UI screenshot that gives the overview of the sustainability dashboard.]
 
 NOTE: The *Sustainability* option is disabled if the watchlist is not configured. To enable it, you can either create a watchlist or perform a search using customer name, site name, group name, StorageGRID, hostname, cluster, serial number, or system ID. link:concept_overview_dashboard.html[Learn more about watchlist].
 
