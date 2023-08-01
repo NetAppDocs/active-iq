@@ -31,11 +31,11 @@ To customize and gain a better understanding of the *Working environments* table
 . Go to *Sustainability* from the *Governance* category available in the BlueXP left navigation.
 . Go to the *Working environments* table.
  * You can add or remove the environmental parameters to customize the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon. 
-  * You can view the sustainability score at cluster level, access *ClusterViewer* by selecting the cluster name, take specific recommended actions from here to improve the sustainability score at cluster level. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level]. 
-  * You can also view the real-time power details at the cluster level by enabling Cloud Insights. link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Learn more^].
+  * You can view the sustainability score at cluster level, select the cluster name to access *ClusterViewer*, take specific recommended actions from here to improve the sustainability score at cluster level. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level]. 
+  * You can select *Enable Monitoring* from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
   +
 image:working_environments.png[A UI screenshot that shows various environmental parameters]
-  * You can also export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon.
+  * You can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon.
 
 --
 
@@ -45,11 +45,11 @@ image:working_environments.png[A UI screenshot that shows various environmental 
 . Go to *Sustainability* from the *STORAGE HEALTH* category available in the left navigation of Digital Advisor dashboard.
 . Go to the *Working environments* table.
  * You can add or remove the environmental parameters to customize the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon. 
-  * You can view the sustainability score at cluster level, access *ClusterViewer* by selecting the cluster name, take specific recommended actions from here to improve the sustainability score at cluster level. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
-  * You can also view the real-time power details at the cluster level by enabling Cloud Insights. link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Learn more^].
+  * You can view the sustainability score at cluster level, select the cluster name to access *ClusterViewer*, take specific recommended actions from here to improve the sustainability score at cluster level. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
+  * You can select *Enable Monitoring* from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
   +
 image:working_environments.png[A UI screenshot that shows various environmental parameters]
-  * You can also export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon.
+  * You can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon.
 
 --
 

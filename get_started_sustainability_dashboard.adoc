@@ -15,7 +15,7 @@ summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP
 :imagesdir: ./media/
 
 [.lead]
-BlueXP sustainability dashboard provides AIOps-enabled reporting and scoring with actionable insights to improve your sustainability posture. You can use NetApp BlueXP or Digital Advisor to log in to the sustainability dashboard.
+BlueXP sustainability dashboard provides AIOps-enabled reporting and scoring with actionable insights to improve your sustainability posture. You can use NetApp BlueXP or Digital Advisor to view the sustainability dashboard.
 
 [role="tabbed-block"]
 ====

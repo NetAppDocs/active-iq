@@ -17,13 +17,13 @@ summary: Provides steps to improve the sustainability score through the recommen
 [.lead]
 BlueXP sustainability dashboard generates recommended actions that you can use to improve the sustainability score. You can view and implement these recommended actions from NetApp BlueXP or Digital Advisor.
 
-You can improve the overall sustainability score that focuses on sustainability efforts at company level. You can also improve the cluster-level sustainability score that focuses on improving sustainability for a specific cluster.
+You can improve the overall sustainability score and the cluster-level sustainability score. 
 
 NOTE: AutoSupport must be enabled to calculate the cluster-level sustainability score.
 
 == Improve overall sustainability score 
 
-Follow these steps:
+You can follow these steps to improve the overall sustainability score and that focuses on sustainability efforts at company level:
 
 [role="tabbed-block"]
 ====
@@ -68,7 +68,7 @@ image:recommended_actions.png[A screenshot that shows the list of actions in the
 
 == Improve sustainability score at cluster level
 
-Follow these steps:
+You can follow these steps to improve the cluster-level sustainability score that focuses on improving sustainability for a specific cluster:
 
 [role="tabbed-block"]
 ====
