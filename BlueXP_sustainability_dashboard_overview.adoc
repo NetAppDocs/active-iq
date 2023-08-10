@@ -41,7 +41,7 @@ image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation
 *Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately, or later. 
 For more information on how to improve the sustainability score, see link:improve_sustainability_score.html[Improve sustainability score].
 
-*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage. From this table, you can:
+*Working environments*: Displays environmental parameters in the table that can help in identifying clusters for moving to more efficient storage. From this table, you can:
 
 * View the sustainability score at cluster level, select the cluster name to access *ClusterViewer*, take specific recommended actions to improve the sustainability. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
 +
