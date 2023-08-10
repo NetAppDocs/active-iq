@@ -73,8 +73,6 @@ sidebar:
           url: /BlueXP_sustainability_dashboard_overview.html
         - title: Improve sustainability score
           url: /improve_sustainability_score.html
-        - title: Manage working environments
-          url: /manage_working_environments.html
     - title: View system details
       entries:
         - title: View inventory details

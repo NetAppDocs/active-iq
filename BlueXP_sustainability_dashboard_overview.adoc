@@ -32,7 +32,7 @@ You can see the graphical representation of the score for up to 5 weeks, which i
 
 image:sustainability_score.png[A screenshot that shows the sustainability score along with the graph.]
 
-*Environmental indicators*: Displays projections for your power, direct carbon usage, and heat emission to evaluate the environmental health of your storage system. You can view these projections monthly, quarterly, or yearly by selecting the desired timeframe from the drop-down in the top right corner of this section.
+*Environmental indicators*: Displays projections for your power, direct carbon usage, and heat emission to evaluate the environmental health of your storage system. These projections are based on actual power, if unavailable, typical power values. You can view these projections monthly, quarterly, or yearly by selecting the desired option from the drop-down in the top right corner of this section.
 
 *Carbon mitigation percentages*: Displays the percentage of carbon mitigation at each site/city, and the presented baseline values are based on your location. You can adjust the carbon mitigation percentage for specific sites by clicking the image:edit_icon_1.png[A screenshot that shows an editable icon.] icon located next to the percentage values, and the carbon numbers will automatically adjust accordingly.
 
@@ -41,9 +41,13 @@ image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation
 *Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage system. These actions can be taken immediately, or later. 
 For more information on how to improve the sustainability score, see link:improve_sustainability_score.html[Improve sustainability score].
 
-*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage, achieving the right balance between performance and power efficiency. To know more about the working environments, see link:manage_working_environments.html[Manage working environments].
+*Working environments*: Displays various environmental parameters at the cluster level of your installed base. These environmental parameters can help to identify clusters that can be moved to more efficient storage. From this table, you can:
 
-image:get_started_working_environments.png[A screenshot that displays working environments table.]
+* View the sustainability score at cluster level, select the cluster name to access *ClusterViewer*, take specific recommended actions to improve the sustainability. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
++
+image:working_environments.png[A UI screenshot that shows various environmental parameters]
+
+* Enable monitoring from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
 
 
 

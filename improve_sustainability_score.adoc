@@ -19,7 +19,7 @@ BlueXP sustainability dashboard generates recommended actions that you can use t
 
 You can improve the overall sustainability score and the cluster-level sustainability score. 
 
-NOTE: AutoSupport must be enabled to calculate the cluster-level sustainability score.
+NOTE: AutoSupport must be enabled to calculate the overall sustainability score and the cluster-level sustainability score.
 
 == Improve overall sustainability score 
 
@@ -87,6 +87,8 @@ image:recommended_actions_cluster.png[A screenshot that shows number of actions.
 image:recommended_actions_list.png[A screenshot that provides the details of recommended actions with the option of fix and later.]
   * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
   * You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
+
+TIP: You can add or remove the environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
  
 --
 
@@ -105,6 +107,8 @@ image:recommended_actions_cluster.png[A screenshot that shows number of actions.
 image:recommended_actions_list.png[A screenshot that provides the details of recommended actions with the option of fix and later.]
   * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
   *  You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
+
+TIP: You can add or remove the environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
 
 --
 
