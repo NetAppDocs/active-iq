@@ -19,7 +19,6 @@ summary: Provides information about the new features in the release.
 The following features and enhancements have been introduced in Digital Advisor:
 
 tag::whats-new[]
-
 == 16 July 2023
 
 === Storage Efficiency
