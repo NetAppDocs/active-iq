@@ -63,15 +63,14 @@ Digital Advisor displays ratios for systems running ONTAP 9.1 and later.
 
 *What is the ‘With Snapshots copies’ toggle on the efficiency dashboard?*
 
-By default, the Digital Advisor Efficiency Dashboard calculates overall ratio at customer-level, site-level, group-level, cluster-level, and node-level. Overall ratio includes the ratio from the following storage efficiency technologies:
+By default, the Digital Advisor Efficiency Dashboard calculates the efficiency ratio at multiple levels, including customer, site, group, cluster, and node. This ratio includes the following storage efficiency technologies:
 
-	* Deduplication
+  * Deduplication
 	* Compression
 	* Data compaction
 	* Clones
-	* Snapshots
-
-If you turn on the *With Snapshots copies* toggle, Digital Advisor will calculate efficiency ratio (ratio from deduplication, compression, data compaction and clones storage efficiency technologies) at customer-level, site-level, group-level, cluster-level and node-level.
+	
+If you turn on the *With Snapshots copies* toggle, the efficiency ratio calculation also includes the Snapshots storage efficiency technology, and the ratio is calculated at the same levels,customer, site, group, cluster, and node.
 
 *What is physical data used and logical data used?*
 
@@ -153,7 +152,7 @@ Efficiency savings are shown in the Storage Efficiency dashboard for volumes and
 
 *Why were storage efficiencies reported as higher or incorrectly before upgrading to ONTAP?*
 
-Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Data Reduction reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
+Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Storage Efficiency reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
 
 == Inventory
 

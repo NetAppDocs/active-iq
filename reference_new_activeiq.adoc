@@ -19,6 +19,15 @@ summary: Provides information about the new features in the release.
 The following features and enhancements have been introduced in Digital Advisor:
 
 tag::whats-new[]
+
+== 16 July 2023
+
+=== Storage Efficiency
+
+* The label *Storage Efficiency*, which displays the efficiency ratio, is renamed to *Data Reduction*.
+* The label *Data saved by Storage Efficiency* is renamed to *Data Reduction Savings*.
+* The toggle *Savings without Snapshot Backups* is renamed to *With Snapshot copies* along with a change to its functionality. Earlier, the data reduction ratio and savings can be seen by default with Snapshot copies. Now, this ratio and savings can be seen by default without Snapshot copies.
+
 == 21 June 2023
 
 === BlueXP sustainability dashboard
@@ -31,12 +40,13 @@ You can view average read, write, and other operations in the volume IOPS chart.
 
 === Storage Efficiency
 SAN and NAS storage efficiency is available, at a node level, for ONTAP systems including AFF A-Series, AFF C190, All SAN Array, and FAS500 running ONTAP 9.10 and later.
+end::whats-new[]
 
 == 12 January 2023
 
 === Performance reports
 You can view average read, write, and other operations in performance reports at a volume level.
-end::whats-new[]
+
 
 == 01 November 2022
 
