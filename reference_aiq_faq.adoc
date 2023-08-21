@@ -70,7 +70,7 @@ By default, the Digital Advisor Efficiency Dashboard calculates the efficiency r
 	* Data compaction
 	* Clones
 	
-If you turn on the *With Snapshots copies* toggle, the efficiency ratio calculation also includes the Snapshots storage efficiency technology, and the ratio is calculated at the same levels,customer, site, group, cluster, and node.
+If you turn on the *With Snapshots copies* toggle, the efficiency ratio calculation also includes the Snapshots storage efficiency technology, and the ratio is calculated at the same levels, customer, site, group, cluster, and node.
 
 *What is physical data used and logical data used?*
 
