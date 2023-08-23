@@ -65,11 +65,11 @@ sidebar:
           url: /task_analyze_wellness_clusters_and_nodes.html
     - title: Analyze the sustainability of your storage system
       entries:
-        - title: Learn about BlueXP sustainability
+        - title: Learn about sustainability
           url: /learn_BlueXP_sustainability.html
-        - title: Get started with BlueXP sustainability dashboard
+        - title: Get started with Sustainability dashboard
           url: /get_started_sustainability_dashboard.html
-        - title: BlueXP sustainability dashboard overview
+        - title: Sustainability dashboard overview
           url: /BlueXP_sustainability_dashboard_overview.html
         - title: Improve sustainability score
           url: /improve_sustainability_score.html

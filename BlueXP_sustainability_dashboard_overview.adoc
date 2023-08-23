@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, sustainability score, sustainabili
 summary: Provides information about the dashboard, sustainability score, working environments, and the recommended actions.
 ---
 
-= BlueXP sustainability dashboard overview
+= Sustainability dashboard overview
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,7 +15,7 @@ summary: Provides information about the dashboard, sustainability score, working
 :imagesdir: ./media/
 
 [.lead]
-The Sustainability dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
+Sustainability dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
 
 image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
 

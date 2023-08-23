@@ -33,7 +33,7 @@ To log in to BlueXP, you can use your NetApp Support Site credentials or you can
   +
 image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the sustainability dashboard in BlueXP.]
 
-NOTE: If the Sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your sustainability dashboard and the systems associated with your account.
+NOTE: If the Sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your Sustainability dashboard and the systems associated with your account.
 
 --
 
