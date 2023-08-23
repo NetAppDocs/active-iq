@@ -2,10 +2,10 @@
 sidebar: sidebar
 permalink: learn_BlueXP_sustainability.html
 keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp, benefits, ONTAP
-summary: Provides information about BlueXP sustainability that allows you to reduce the energy consumption and enables you to work towards your environmental goals.
+summary: Provides information about sustainability that allows you to reduce the energy consumption and enables you to work towards your environmental goals.
 ---
 
-= Learn about BlueXP sustainability
+= Learn about sustainability
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,15 +15,15 @@ summary: Provides information about BlueXP sustainability that allows you to red
 :imagesdir: ./media/
 
 [.lead]
-BlueXP sustainability, as a service, allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability targets.
+Sustainability, as a service, allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability targets.
 
-You can use the BlueXP sustainability dashboard to achieve your environmental goals. You can view the sustainability score, and projected usage of power, direct carbon, and heat from the sustainability dashboard. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the sustainability posture and implement NetApp’s recommended actions to improve the score. To learn more about the sustainability dashboard, go to link:get_started_sustainability_dashboard.html[Get started with BlueXP sustainability dashboard].
+You can use the Sustainability dashboard to achieve your environmental goals. You can view the sustainability score, and projected usage of power, direct carbon, and heat from the sustainability dashboard. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the sustainability posture and implement NetApp’s recommended actions to improve the score. To learn more about the Sustainability dashboard, go to link:get_started_sustainability_dashboard.html[Get started with Sustainability dashboard].
 
-NOTE: BlueXP sustainability is supported on AFF systems, both A-series and C-series, FAS systems, and Cloud Volumes ONTAP (CVO).
+NOTE: Sustainability is supported on AFF systems, both A-series and C-series, FAS systems, and Cloud Volumes ONTAP (CVO).
 
-== Benefits of BlueXP sustainability 
+== Benefits of sustainability 
 
-BlueXP sustainability offers the following benefits:
+Sustainability offers the following benefits:
 
 * Accelerate performance by reducing the number of storage devices to store the same amount of data.
 * Lower storage costs by optimizing storage systems utilization. 
@@ -31,7 +31,7 @@ BlueXP sustainability offers the following benefits:
 * Improve energy efficiency by implementing energy-efficient policies.
 
 == Cost and License
-You can access the BlueXP sustainability service with your active support contract if you have enabled AutoSupport for your systems.
+You can access the sustainability service with your active support contract if you have enabled AutoSupport for your systems.
 
 
 

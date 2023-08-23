@@ -15,7 +15,7 @@ summary: Provides information about the dashboard, sustainability score, working
 :imagesdir: ./media/
 
 [.lead]
-The sustainability dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
+The Sustainability dashboard provides an environmental assessment of your storage system and actionable insights for improvement in the form of NetApp's recommended actions.
 
 image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
 
@@ -47,7 +47,7 @@ For more information on how to improve the sustainability score, see link:improv
 +
 image:working_environments.png[A UI screenshot that shows various environmental parameters]
 
-* Enable monitoring from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
+* Enable monitoring from the *Real-time power* coslumn to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
 
 
 

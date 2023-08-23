@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, bluexp login, sustainability dashb
 summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP or Digital Advisor.
 ---
 
-= Get started with BlueXP sustainability dashboard
+= Get started with Sustainability dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,7 +15,7 @@ summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP
 :imagesdir: ./media/
 
 [.lead]
-BlueXP sustainability dashboard provides AIOps-enabled reporting and scoring with actionable insights to improve your sustainability posture. You can use NetApp BlueXP or Digital Advisor to view the sustainability dashboard.
+Sustainability dashboard provides AIOps-enabled reporting and scoring with actionable insights to improve your sustainability posture. You can use NetApp BlueXP or Digital Advisor to view the Sustainability dashboard.
 
 [role="tabbed-block"]
 ====
@@ -29,11 +29,11 @@ To log in to BlueXP, you can use your NetApp Support Site credentials or you can
   The NetApp BlueXP login page appears.
 . Log in to BlueXP.
 . From the BlueXP left navigation, select *Governance* > *Sustainability*.
-  The sustainability dashboard appears.
+  The Sustainability dashboard appears.
   +
 image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the sustainability dashboard in BlueXP.]
 
-NOTE: If the sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your sustainability dashboard and the systems associated with your account.
+NOTE: If the Sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your sustainability dashboard and the systems associated with your account.
 
 --
 
