@@ -25,7 +25,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 * The label *Storage Efficiency*, which displays the efficiency ratio, is renamed to *Data Reduction*.
 * The label *Data saved by Storage Efficiency* is renamed to *Data Reduction Savings*.
-* The toggle *Savings without Snapshot Backups* is renamed to *With Snapshot copies* along with a change to its functionality. link:reference_aiq_faq.html#storage-efficiency.html[Learn more].
+* The toggle *Savings without Snapshot Backups* is renamed to *With Snapshot copies* along with a change to its functionality. link:reference_aiq_faq.html#storage-efficiency[Learn more].
 
 == 21 June 2023
 

@@ -63,7 +63,7 @@ Digital Advisor displays ratios for systems running ONTAP 9.1 and later.
 
 *What is the ‘With Snapshots copies’ toggle on the efficiency dashboard?*
 
-The Digital Advisor Efficiency Dashboard calculates the efficiency ratio at multiple levels, including customer, site, group, cluster, and node. If you turn on the *With Snapshots copies* toggle, the efficiency ratio calculation includes the following storage efficiency technologies:
+The Digital Advisor Efficiency Dashboard calculates the data reduction ratio at multiple levels, including customer, site, group, cluster, and node. If you turn on the *With Snapshots copies* toggle, the data reduction ratio calculation includes the following storage efficiency technologies:
 
   * Deduplication
 	* Compression
@@ -71,7 +71,7 @@ The Digital Advisor Efficiency Dashboard calculates the efficiency ratio at mult
 	* Clones
   * Snapshots 
 
-By default, the efficiency ratio calculation does not include Snapshots storage efficiency technology.
+By default, the data reduction ratio calculation does not include Snapshots storage efficiency technology.
 
 *What is physical data used and logical data used?*
 
@@ -86,22 +86,22 @@ By default, the efficiency ratio calculation does not include Snapshots storage 
 ** The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
 ** Does not include space reserved for future use
 
-*Which AutoSupport instances are used for calculating data reduction ratios?*
+*Which AutoSupport instances are used for calculating data reduction ratio?*
 
-Calculations are performed using either the latest weekly or user-triggered AutoSupport instances which tend to contain most of the sections required for calculating the ratios.
+Calculations are performed using either the latest weekly or user-triggered AutoSupport instances which tend to contain most of the sections required for calculating the ratio.
 
-*Which volumes or aggregates are excluded from efficiency calculations?*
+*Which volumes or aggregates are excluded from data reduction calculation?*
 
-The following objects are not considered while calculating data reduction ratios:
+The following objects are not considered while calculating data reduction ratio:
 
 * Root aggregates
 * Offline volumes
 * Vserver root/admin root volumes
 * MCC configuration volumes
 
-*How can I see the trend in data reduction ratios?*
+*How can I see the trend in data reduction ratio?*
 
-Currently, data reduction ratios are calculated based on the latest weekly or user-triggered AutoSupport instance. Efficiency trending may be considered for a future release.
+Currently, data reduction ratio is calculated based on the latest weekly or user-triggered AutoSupport instance. The trending may be considered for a future release.
 
 *How are customer-level ratios and data reduction savings calculated?*
 
@@ -147,13 +147,13 @@ Efficiency feature table calculations:
     |Snapshot copies Backup Savings | Sum of (Logical Size Used by Snapshot copies - Physical Size Used by Snapshot copies) of all aggregates of all nodes of a customer
 |===
 
-*Why does adding all individual efficiency savings not add up to data reduction savings?*
+*Why does adding all individual data reduction savings not add up to data reduction savings?*
 
 Data reduction savings are shown in the Storage Efficiency dashboard for volumes and local tiers (aggregates).  You cannot add volume savings and aggregate savings as they both happen at different storage objects.
 
-*Why were storage efficiencies reported as higher or incorrectly before upgrading to ONTAP?*
+*Why was data reduction reported as higher or incorrectly before upgrading to ONTAP?*
 
-Storage efficiency is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Storage Efficiency reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
+Data reduction is shown higher when data protection volumes are present in the node due to a bug in ONTAP. The issue was fixed in ONTAP 9.3P11. Storage Efficiency reports correct or lower values when upgraded from ONTAP versions earlier than 9.3P11 and when data protection volumes are present in the node.
 
 == Inventory
 
