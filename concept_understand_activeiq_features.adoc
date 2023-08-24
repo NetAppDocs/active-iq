@@ -28,7 +28,7 @@ The following are some of the features of Digital Advisor:
 * Mitigate risks using Active IQ Unified Manager.
 * Upgrade your storage system.
 * View the sustainability score, and projected usage of power, direct carbon, and heat. Based on the sustainability score, assess the overall efficiency of your storage systems and align with the NetApp's recommended actions to improve the score. link:concept_understand_sustainability_dashboard.html[Learn more].
-* View storage efficiency ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later.
+* View data reduction ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later.
 * Analyze the performance of your storage devices by viewing the graphical format of performance data.
 * Get information about the hardware and software that have expired or are near-expiration within the next 6 months.
 * Update your ONTAP firmware using Ansible.

@@ -1,0 +1,117 @@
+---
+sidebar: sidebar
+permalink: improve_sustainability_score.html
+keywords: activeiq, sustainability dashboard, recommended actions, digital advisor, bluexp, sustainability core, cluster level
+summary: Provides steps to improve the sustainability score through the recommended actions.
+---
+
+= Improve sustainability score
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Sustainability dashboard generates recommended actions that you can use to improve the sustainability score. You can view and implement these recommended actions from NetApp BlueXP or Digital Advisor.
+
+You can improve the overall sustainability score and the cluster-level sustainability score. 
+
+NOTE: AutoSupport must be enabled to calculate the overall sustainability score and the cluster-level sustainability score.
+
+== Improve overall sustainability score 
+
+You can follow these steps to improve the overall sustainability score and that focuses on sustainability efforts at company level:
+
+[role="tabbed-block"]
+====
+
+.BlueXP
+--
+
+. Go to *Sustainability* from the *Governance* category available in the BlueXP left navigation.
+. Go to the *Recommended actions* tab. 
+  * You can select *Fix* to take these actions immediately, or select *Later* to address these actions later.
+  * If you plan to address the actions immediately, select *Fix*.
+  ** It expands the view of the selected recommended action. You can also expand the recommended action view using the down arrow. In the expanded view, you can see the cluster name, the sustainability score, and subsequent increase if you proceed with the *Fix* option. 
+  +  
+image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
+  * If you plan to address the actions later, select *Later*.
+  ** If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
+   ** You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
+  +
+ image:actions_for_later.png[A screenshot that shows recommended actions with the consider option.]
+
+--
+
+.Digital Advisor
+--
+
+ . Go to *Sustainability* from the *STORAGE HEALTH* category available in the left navigation of Digital Advisor dashboard.
+. Go to the *Recommended actions* tab. 
+  * You can select *Fix* to take these actions immediately, or select *Later* to address these actions later.
+  * If you plan to address the actions immediately, select *Fix*.
+  ** The view of the selected recommended action expands. You can also expand the recommended action view using the down arrow. In the expanded view, you can see the cluster name, the sustainability score, and subsequent increase if you proceed with the *Fix* option.
+  +  
+image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
+  * If you plan to address the actions later, select *Later*.
+  ** If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
+  ** You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
+  +
+ image:actions_for_later.png[A screenshot that shows recommended actions with the consider option.]
+
+--
+
+====
+
+== Improve sustainability score at cluster level
+
+You can follow these steps to improve the cluster-level sustainability score that focuses on improving sustainability for a specific cluster:
+
+[role="tabbed-block"]
+====
+
+.BlueXP
+--
+
+. Go to *Sustainability* from the *Governance* category available in the BlueXP left navigation.
+. Go to the *Working environments* table. 
+. Click the number of actions from the *Recommended actions* column for the target cluster.
++
+image:recommended_actions_cluster.png[A screenshot that shows number of actions.]
+
+  * You can select *Fix* to take these actions immediately, or select *Later* to address these actions later.
++  
+image:recommended_actions_list.png[A screenshot that provides the details of recommended actions with the option of fix and later.]
+  * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
+  * You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
+
+TIP: You can add or remove the environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
+ 
+--
+
+.Digital Advisor
+--
+
+ . Go to *Sustainability* from the *STORAGE HEALTH* category available in the left navigation of Digital Advisor dashboard.
+. Go to the *Recommended actions* tab. 
+. Go to the *Working environments* table. 
+. Click the number of actions from the *Recommended actions* column for the target cluster.
++
+image:recommended_actions_cluster.png[A screenshot that shows number of actions.]
+
+  * You can select *Fix* to take these actions immediately, or select *Later* to address these actions later.
++  
+image:recommended_actions_list.png[A screenshot that provides the details of recommended actions with the option of fix and later.]
+  * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
+  *  You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
+
+TIP: You can add or remove the environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
+
+--
+
+====
+
+
