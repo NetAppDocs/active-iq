@@ -30,7 +30,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 21 June 2023
 
 === Sustainability dashboard
-Sustainability Dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. By evaluating the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:concept_understand_sustainability_dashboard.html[Learn more].
+Sustainability Dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. By evaluating the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Learn more].
 
 == 22 February 2023
 
@@ -50,12 +50,12 @@ You can view average read, write, and other operations in performance reports at
 == 01 November 2022
 
 === Digital Advisor integrating with BlueXP
-Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:digital-advisor-integration-with-bluexp.html[Learn more]. 
+Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html[Learn more]. 
 
 == 25 August 2022
 
 === Inventory
-VMware assets information on vCenters, ESXi hosts, and Virtual Machines are now included in Inventory details, to provide full stack inventory and interoperability checks. link:task-integrating-with-cloud-insights-to-view-vm-details.html[Learn how].
+VMware assets information on vCenters, ESXi hosts, and Virtual Machines are now included in Inventory details, to provide full stack inventory and interoperability checks. link:https://docs.netapp.com/us-en/active-iq/task-integrating-with-cloud-insights-to-view-vm-details.html[Learn how].
 
 === Multi-hop Upgrade 
 For some automated nondisruptive upgrades (ANDU) to non-adjacent releases, you can install the software image for an intermediate release as well the target release. The automated upgrade process uses the intermediate image in the background to complete the update to the target release. For example, if the cluster is running 9.3 and you want to upgrade to 9.7, you would load the ONTAP install packages for both 9.5 and 9.7, then initiate ANDU to 9.7. ONTAP then automatically upgrades the cluster first to 9.5 and then to 9.7. You should expect multiple takeover/giveback operations and related reboots during the process.
@@ -82,7 +82,7 @@ You can now view upgrade recommendations for E-Series systems.
 Information Lifecycle Management (ILM) for StorageGRID has been included in the GRID Viewer.
 
 === Cloud Recommendations
-Provides you with recommendations for workloads and their respective volumes that can be moved to NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service, and NetApp Cloud Backup (formerly AltaVault) using SnapMirror Data Replication. link:task-informed-decisions-based-on-cloud-recommendations.html[Learn how].
+Provides you with recommendations for workloads and their respective volumes that can be moved to NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service, and NetApp Cloud Backup (formerly AltaVault) using SnapMirror Data Replication. link:https://docs.netapp.com/us-en/active-iq/task-informed-decisions-based-on-cloud-recommendations.html[Learn how].
 
 === Reports
 
@@ -144,7 +144,7 @@ BlueXP users can now open Digital Advisor links in new tabs, wherever applicable
 
 * You can clone a template to make a copy of the original template.
 * You can share golden templates with other entitled users with read-only or full access to these templates.
-link:task_manage_template.html[Learn how].
+link:https://docs.netapp.com/us-en/active-iq/task_manage_template.html[Learn how].
 
 == 15 December 2021
 
@@ -181,13 +181,13 @@ You can view the storage efficiency details for systems that are maintained and 
 == 14 October 2021
 
 === Ansible Inventory
-You can now generate Ansible inventory files in .yml and .ini file formats at the region and site level. link:task_view_inventory_details.html[Learn how].
+You can now generate Ansible inventory files in .yml and .ini file formats at the region and site level. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html[Learn how].
 
 === Inactive Data Reporting (IDR)
 From the FabricPool Advisor screen, you can activate inactive data reporting (IDR) to monitor aggregates and generate an Ansible Playbook. 
 
 === Drift Timeline Report
-You can compare the AutoSupport data of the last 90 days and generate a drift timeline report. link:task_generate_drift_timeline_report.html[Learn how].
+You can compare the AutoSupport data of the last 90 days and generate a drift timeline report. link:https://docs.netapp.com/us-en/active-iq/task_generate_drift_timeline_report.html[Learn how].
 
 === Compliant Systems Toggle
 The Health Check dashboard has been enhanced with a toggle for the Minimum OS and Latest OS tabs so that you can view the systems, which are compliant and not compliant with the minimum requirements of the recommended and latest version.
@@ -247,7 +247,7 @@ You can view the cabling faults and other errors in the Visualization tab of Clu
 * E-series SANtricity risks: View E-series SANtricity risks for the underlying nodes in the GRID Dashboard - Wellness section.
 
 === Capacity Forecast
-The Capacity Forecast widget has been updated with an improved algorithm that better accounts for system reconfigurations. link:reference_aiq_faq.html#capacity[Learn more].
+The Capacity Forecast widget has been updated with an improved algorithm that better accounts for system reconfigurations. link:https://docs.netapp.com/us-en/active-iq/reference_aiq_faq.html#capacity[Learn more].
 
 == 26 August 2021
 
@@ -293,7 +293,7 @@ You can view the end dates of the support contracts for your hardware, software,
 === Support Offering Upgrade
 
 * The user interface has been enhanced to display the specific support offering that you are subscribed to in Digital Advisor.
-* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features. link:task_upgrade_support_offering.html[Learn how].
+* You can now raise a request to upgrade your support offering subscription from the system dashboard to access more features. link:https://docs.netapp.com/us-en/active-iq/task_upgrade_support_offering.html[Learn how].
 
 == 25 June 2021
 
@@ -331,13 +331,13 @@ You can now view the number of systems based on which the health score is calcul
 == 20 May 2021
 
 === Drift Chat for capacity addition requests
-For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard. link:task_identify_capacity_system.html[Learn how].
+For real-time assistance on your capacity addition requests, chat with a salesperson directly from your dashboard. link:https://docs.netapp.com/us-en/active-iq/task_identify_capacity_system.html[Learn how].
 
 == 29 April 2021
 
-* Here's how to protect your systems against hackers and Ransomware attacks. link:task_increase_protection_against_hackers_and_Ransomware_attacks.html[Learn how].
-* You can avoid the downtime and possible data loss. link:task_avoid_the_downtime_and_possible_data_loss.html[Learn how].
-* Learn how to avoid a volume filling up to prevent an outage. link:task_avoid_a_volume_filling_up_to_prevent_an_outage.html[Learn how].
+* Here's how to protect your systems against hackers and Ransomware attacks. link:https://docs.netapp.com/us-en/active-iq/task_increase_protection_against_hackers_and_Ransomware_attacks.html[Learn how].
+* You can avoid the downtime and possible data loss. link:https://docs.netapp.com/us-en/active-iq/task_avoid_the_downtime_and_possible_data_loss.html[Learn how].
+* Learn how to avoid a volume filling up to prevent an outage. link:https://docs.netapp.com/us-en/active-iq/task_avoid_a_volume_filling_up_to_prevent_an_outage.html[Learn how].
 
 == 07 April 2021
 
@@ -352,7 +352,7 @@ This release provides the following functionality:
 
 * Ability to edit attributes during template creation.
 * Grouping of AutoSupport sections.
-* Generate or schedule a config drift report across customer, site, group, watchlist, cluster, and hostname. link:task_compare_config_drift_template.html[Learn how].
+* Generate or schedule a config drift report across customer, site, group, watchlist, cluster, and hostname. link:https://docs.netapp.com/us-en/active-iq/task_compare_config_drift_template.html[Learn how].
 
 === Reports
 You can generate or schedule Capacity and Efficiency reports to view detailed information on the capacity and storage efficiency savings of your system.
@@ -395,7 +395,7 @@ The following widgets have been added to the dashboard:
 == 12 November 2020
 
 === Integrating data using APIs
-You can use Digital Advisor APIs to pull data of interest and integrate it directly into your company’s workflow. link:concept_overview_API_service.html[Learn more].
+You can use Digital Advisor APIs to pull data of interest and integrate it directly into your company’s workflow. link:https://docs.netapp.com/us-en/active-iq/concept_overview_API_service.html[Learn more].
 
 === Wellness - Upgrades widget
 The enhanced Risk Advisor and Upgrade Advisor tabs enable you to view all the system risks and help you plan for an upgrade for mitigating all the risks.
@@ -410,7 +410,7 @@ You can reduce your storage footprint and associated costs by monitoring your cl
 Digital Advisor is now available in three languages – Chinese, English, and Japanese.
 
 === Reports
-You can generate or schedule ClusterViewer reports to view detailed information on the physical and logical configuration of your systems. link:task_generate_reports.html[Learn how].
+You can generate or schedule ClusterViewer reports to view detailed information on the physical and logical configuration of your systems. link:https://docs.netapp.com/us-en/active-iq/task_generate_reports.html[Learn how].
 
 == 15 October 2020
 
@@ -418,16 +418,16 @@ You can generate or schedule ClusterViewer reports to view detailed information 
 The Digital Advisor Health Check Dashboard provides a point-in-time review of your overall environment. Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate longer-term planning and improve the health of your installed base.
 
 === Config Drift
-This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:task_add_config_drift_template.html[Learn how to add a config drift template].
+This feature enables you compare the system and cluster configurations and the detect configuration deviations in near real time. link:https://docs.netapp.com/us-en/active-iq/task_add_config_drift_template.html[Learn how to add a config drift template].
 
 === AutoSupport
 You can view your AutoSupport data and review the details.
 
 === Wellness Review Subscription
-You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base. link:task_subscribe_to_wellness_review_email.html[Subscribe now].
+You can subscribe to receiving monthly email notifications that summarize wellness status of systems—that are nearing their renewal dates and require an upgrade for the NetApp products in your installed base. link:https://docs.netapp.com/us-en/active-iq/task_subscribe_to_wellness_review_email.html[Subscribe now].
 
 === Reports
-You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis. link:task_generate_reports.html[Learn how].
+You can use the reports feature to generate reports immediately or schedule a report to be generated on a weekly or monthly basis. link:https://docs.netapp.com/us-en/active-iq/task_generate_reports.html[Learn how].
 
 === Manual AutoSupport Upload
 Manual AutoSupport Upload has been enhanced to improve the user experience. An additional column has been provided for remarks on the upload status.
@@ -440,12 +440,12 @@ You can monitor the committed, consumed, and burst storage capacity for your Net
 === AFF and FAS firmware using Ansible Playbook
 The documentation has been enhanced to include information about downloading, installing, and executing the AFF and FAS firmware ansible automation package.
 
-link:task_update_AFF_FAS_firmware.html[Learn how to update AFF and FAS firmware using Ansible Playbook].
+link:https://docs.netapp.com/us-en/active-iq/task_update_AFF_FAS_firmware.html[Learn how to update AFF and FAS firmware using Ansible Playbook].
 
 == 18 August 2020
 
 === Performance
-Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen. link:task_view_performance_graphs.html[Learn how].
+Performance graphs have been enhanced to enable you to assess the performance of the volume. You can navigate and toggle between the node tab, cluster tab, the local tier tab, and the volume tab on the same screen. link:https://docs.netapp.com/us-en/active-iq/task_view_performance_graphs.html[Learn how].
 
 === AFF and FAS firmware using Ansible Playbook
 The AFF and FAS firmware screen has been enhanced to provide a better user experience.
@@ -461,7 +461,7 @@ The wellness attributes have been enhanced to view all the affected systems with
 == 19 June 2020
 
 === Generate report for inventory
-You can now generate report of the selected watchlist and emails the report to a maximum of 5 recipients. link:task_view_inventory_details.html[Learn how].
+You can now generate report of the selected watchlist and emails the report to a maximum of 5 recipients. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html[Learn how].
 
 === Performance
 Performance graphs have been enhanced to enable you to assess the cluster performance of your storage system. You can navigate and toggle between the node tab and the cluster tab on the same screen.
@@ -481,7 +481,7 @@ The inventory widget has been enhanced to improve the user experience, by provid
 You can now set the default home page screen for Digital Advisor. You can either set it to Digital Advisor or Classic.
 
 === Storage efficiency
-You can view the storage efficiency ratio and savings of your storage system with and without Snapshot copies for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:task_analyze_storage_efficiency.html[Learn how].
+You can view the storage efficiency ratio and savings of your storage system with and without Snapshot copies for AFF systems, non-AFF systems, or both. You can view the storage efficiency information at a node level. link:https://docs.netapp.com/us-en/active-iq/task_analyze_storage_efficiency.html[Learn how].
 
 === Performance
 Performance graphs enable you to assess the performance of your storage devices in different significant areas.
@@ -509,10 +509,10 @@ Provides the option to acknowledge a risk if you do want to mitigate or are unab
 == 19 March 2020
 
 === Upgrade workflow
-You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release. link:task_view_upgrade.html[Learn how].
+You can use the upgrade workflow to view upgrade recommendations and a summary of new features available in your target ONTAP release. link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Learn how].
 
 === Valuable insights
-You can view the summary of the benefits that you received through Digital Advisor and your support contract. For selected systems, the value report consolidates the benefits from last one year. link:task_view_valuable_insight_widget.html[View now].
+You can view the summary of the benefits that you received through Digital Advisor and your support contract. For selected systems, the value report consolidates the benefits from last one year. link:https://docs.netapp.com/us-en/active-iq/task_view_valuable_insight_widget.html[View now].
 
 === Drill into details
 Provides deeper information, which is a powerful way to dig deeper into the data and gain immediate insights into the make-up of aggregated information as required.
@@ -528,10 +528,10 @@ The latest Digital Advisor Dashboards offer a personalized experience. It allows
 === Customizable dashboards
 Helps you monitor your systems at a glance by providing key insights and analysis about your data on one or more pages or screens. You can also create up to 10 dashboards and make effective business decisions.
 
-link:concept_overview_dashboard.html[Learn more].
+link:https://docs.netapp.com/us-en/active-iq/concept_overview_dashboard.html[Learn more].
 
 === Mitigate risks using Active IQ Unified Manager
-You can view the risks and rectify them by using Active IQ Unified Manager. link:task_view_risks_remediated_unified_manager.html[Learn how].
+You can view the risks and rectify them by using Active IQ Unified Manager. link:https://docs.netapp.com/us-en/active-iq/task_view_risks_remediated_unified_manager.html[Learn how].
 
 === Wellness
 Provides detailed information about the status of your storage system that is classified into the following 6 widgets:
@@ -543,7 +543,7 @@ Provides detailed information about the status of your storage system that is cl
 * Security
 * Renewals
 
-See link:concept_overview_wellness.html[Analyze wellness attributes] for more details.
+See link:https://docs.netapp.com/us-en/active-iq/concept_overview_wellness.html[Analyze wellness attributes] for more details.
 
 === Smarter and faster search
 Allows you to search parameters, such as serial number, system ID, host name, site name, group name, and cluster name using the single-system view. You can also search for group of systems, in addition, you can search by a customer name, site name, or group name by group of systems.
