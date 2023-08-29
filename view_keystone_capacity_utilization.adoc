@@ -15,15 +15,11 @@ summary: Provides information on your capacity utilization with NetApp Keystone 
 :imagesdir: ./media/
 
 [.lead]
-If you are subscribed to Keystone Subscription Service, you can view the Keystone Subscription widget on the Digital Advisor Dashboard.
+If you are subscribed to NetApp Keystone STaaS services, you can view the Keystone Subscription widget on the Digital Advisor Dashboard.
 
 The Keystone Subscription widget provides you a summary of the capacity usage for your account. It consists of capacity utilization charts with respect to the physical capacity, the snapshot being rounded up to the last five minutes. The utilization over and above the committed capacity (the burst capacity) is marked in red.
 
-You can view the *Keystone - Capacity Utilization* dashboard, which analyzes the data in the widget and graphically represents the utilization trend of the capacity and usage for all the subscribed storage link:https://docs.netapp.com/us-en/keystone/nkfsosm_performance.html[services tiers^], such as premium, extreme, and standard, associated with your NetApp Keystone Subscription account.
-
-You can view the link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html[Keystone Subscription service capacity^] and usage of each subscribed service for your block, file services, or object storage on the dashboard.
-
 NOTE: As an Digital Advisor user, you can choose between ONTAP Collector and AutoSupport to obtain data on your capacity usage.
 
-For information about the Keystone Subscription, see link:https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.html[Keystone Subscription dashboard and reporting^].
+For more information about the various levels of subscription data and usage information, see link:https://docs.netapp.com/us-en/keystone-staas/integrations/keystone-aiq.htmll[Keystone and Digital Advisor^].
     
