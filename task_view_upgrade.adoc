@@ -40,9 +40,9 @@ image:total_risks.png[Total risks]
 +
 image:details_upgrade_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan]
 . Click *Submit*.
-. Go to *Reports*. You can monitor the status of the upgrade plan report and download it once it is available.
+. Go to *Reports*. You can monitor the status of the upgrade plan and download it once it is available.
 +
-You will also receive an email containing the upgrade plan report once it is generated.
+You will also receive an email containing the upgrade plan once it is generated.
 +
 image:download_upgrade_plan.png[A screenshot that shows status of the upgrade plan report]
 
