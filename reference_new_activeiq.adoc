@@ -19,6 +19,11 @@ summary: Provides information about the new features in the release.
 The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
+== 27 September 2023
+
+=== Upgrade Plan
+A plan that is used to upgrade to a newer version of ONTAP has been improved. Redundant and common steps across all cluster nodes are optimized, and outdated rules are removed from the rule inventory.To view the improved plan, generate the upgrade plan using the steps mentioned in link: https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Upgrade the ONTAP version using upgrade plan].
+
 == 16 July 2023
 
 === Storage Efficiency
