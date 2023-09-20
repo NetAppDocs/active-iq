@@ -27,15 +27,18 @@ image:upgrade_advisor_widget.png[Upgrade Advisor]
 . Select the required upgrade option.
 +
 image:upgrade_options.png[Upgrade options]
-. Click the number of compliant systems from the selected upgrade option to go to the *Upgrade Advisor* tab to generate an upgrade plan.
+. Click the number of compliant systems from the selected upgrade option to go to the *Upgrade Details* page to generate an upgrade plan.
 +
 image:generate_upgrade_plan.png[Generate upgrade plan]
-. View the list of risks in the *Risk Advisor* tab, along with their severity level, which will be mitigated because of the upgrade.
-+
-You can click the number of total risks to view the list of risks in the *Risk Advisor* tab if the selected upgrade option includes *Total Risks*.
+
+  * You can go to the *Risk Advisor* tab to view the list of risks along with their severity level, which will be mitigated because of the upgrade.
+  +
+image:view_risks.png[Risk Advisor tab]
+
+  * You can click the number of total risks to view the list of risks in the *Risk Advisor* tab if the selected upgrade option includes *Total Risks*.
 +
 image:total_risks.png[Total risks]
-. Click *Generate Upgrade Plan*.
+. In the *Upgrade Advisor* tab, click *Generate Upgrade Plan*.
 . Provide the details in the displayed pop-up. You can also select the *Revert Plan* checkbox to include the backout plan in the upgrade plan report.
 +
 image:details_upgrade_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan]
