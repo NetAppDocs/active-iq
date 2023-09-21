@@ -31,11 +31,11 @@ image:upgrade_options.png[Upgrade options]
 +
 image:generate_upgrade_plan.png[Generate upgrade plan]
 
-  * You can go to the *Risk Advisor* tab to view the list of risks along with their severity level, which will be mitigated because of the upgrade.
+   ** You can go to the *Risk Advisor* tab to view the list of risks along with their severity level, which will be mitigated because of the upgrade.
   +
 image:view_risks.png[Risk Advisor tab]
 
-  * You can click the number of total risks to view the list of risks in the *Risk Advisor* tab if the selected upgrade option includes *Total Risks*.
+  ** You can click the number of total risks to view the list of risks in the *Risk Advisor* tab if the selected upgrade option includes *Total Risks*.
 +
 image:total_risks.png[Total risks]
 . In the *Upgrade Advisor* tab, click *Generate Upgrade Plan*.
