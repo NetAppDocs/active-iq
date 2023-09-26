@@ -22,7 +22,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 27 September 2023
 
 === Upgrade Plan
-The upgrade plan has been optimized to remove redundant and common steps across all nodes in a cluster, remove outdated upgrade rules from the rule inventory, and simplify the backout plan. To view the improved plan, generate the upgrade plan using the steps mentioned in link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Upgrade the ONTAP version using upgrade plan].
+The upgrade plan has been optimized to remove redundant upgrade steps, modify information and warnings, and simplify the backout plan. The common steps across all nodes in a cluster are consolidated and available under the General Information section. To view the improved plan, generate the upgrade plan using the steps mentioned in link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Upgrade the ONTAP version using upgrade plan].
 
 == 16 July 2023
 
