@@ -20,7 +20,8 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 == 27 September 2023
-== Upgrade Advisor
+
+=== Upgrade Advisor
 You can access the Upgrade Advisor page for your default Watchlist or Dashboard using the link:https://activeiq.netapp.com/redirect/upgrade-advisor[Upgrade Advisor^]. If you do not have a default Watchlist or Dashboard, clicking the link will redirect you to the Search page.
 
 
