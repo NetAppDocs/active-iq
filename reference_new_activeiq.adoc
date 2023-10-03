@@ -19,6 +19,15 @@ summary: Provides information about the new features in the release.
 The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
+== 27 September 2023
+
+=== Upgrade Advisor
+You can access the Upgrade Advisor page for your default Watchlist or Dashboard using the link:https://activeiq.netapp.com/redirect/upgrade-advisor[Upgrade Advisor^] link. If you do not have a default Watchlist or Dashboard, clicking the link will redirect you to the Search page.
+
+
+=== Upgrade Plan
+The upgrade plan has been optimized to remove redundant upgrade steps, modify information and warnings, and simplify the backout plan. The common steps across all nodes in a cluster are consolidated and available under the General Information section. To view the improved plan, generate the upgrade plan using the steps mentioned in link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Upgrade the ONTAP version using upgrade plan].
+
 == 16 July 2023
 
 === Storage Efficiency
@@ -31,6 +40,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 === Sustainability dashboard
 Sustainability Dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. By evaluating the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Learn more].
+//end::whats-new[]
 
 == 22 February 2023
 
@@ -39,7 +49,7 @@ You can view average read, write, and other operations in the volume IOPS chart.
 
 === Storage Efficiency
 SAN and NAS storage efficiency is available, at a node level, for ONTAP systems including AFF A-Series, AFF C190, All SAN Array, and FAS500 running ONTAP 9.10 and later.
-//end::whats-new[]
+
 
 == 12 January 2023
 
