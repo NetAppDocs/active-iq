@@ -22,11 +22,9 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 27 September 2023
 
 === Upgrade Advisor
-You can access the Upgrade Advisor page for your default Watchlist or Dashboard using the link:https://activeiq.netapp.com/redirect/upgrade-advisor[Upgrade Advisor^] link. If you do not have a default Watchlist or Dashboard, clicking the link will redirect you to the Search page.
 
-
-=== Upgrade Plan
-The upgrade plan has been optimized to remove redundant upgrade steps, modify information and warnings, and simplify the backout plan. The common steps across all nodes in a cluster are consolidated and available under the General Information section. To view the improved plan, generate the upgrade plan using the steps mentioned in link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Upgrade the ONTAP version using upgrade plan].
+* You can access the Upgrade Advisor page for your default watchlist using the link:https://activeiq.netapp.com/redirect/upgrade-advisor[Upgrade Advisor^] link. 
+* The upgrade plan is optimized to remove redundant upgrade steps and simplify the backout plan. The common steps across all nodes in a cluster are consolidated and available under the general information section within the upgrade plan. link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Learn how to generate and view the upgrade plan].
 
 == 16 July 2023
 
@@ -39,7 +37,7 @@ The upgrade plan has been optimized to remove redundant upgrade steps, modify in
 == 21 June 2023
 
 === Sustainability dashboard
-Sustainability Dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. By evaluating the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Learn more].
+Sustainability dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Learn more].
 //end::whats-new[]
 
 == 22 February 2023
