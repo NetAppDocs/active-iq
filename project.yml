@@ -1,6 +1,7 @@
 ---
 settings:
   name: Digital Advisor
+  harmony_integration: maestro
   platform: cloud
   internal:
     pdf_enabled: true
@@ -215,3 +216,4 @@ homepage:
           url: https://play.google.com/store/apps/details?id=com.netapp.myautosupport
         - title: Digital Advisor Mobile Application (iOS)
           url: https://apps.apple.com/us/app/active-iq/id1230542480
+
