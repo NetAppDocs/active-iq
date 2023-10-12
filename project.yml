@@ -171,7 +171,6 @@ sidebar:
 product-family:
   name: BlueXP
   repo: cloud-manager-family
-  sidebar_label: All BlueXP documentation
 homepage:
   tiles:
     - title: Get started
