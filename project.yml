@@ -63,7 +63,7 @@ sidebar:
           url: /task_renew_software_and_hardware.html
         - title: Analyze the wellness of clusters and nodes
           url: /task_analyze_wellness_clusters_and_nodes.html
-    - title: Analyze the sustainability of your storage system
+    - title: Analyze the sustainability of your storage systems
       entries:
         - title: Learn about sustainability
           url: /learn_BlueXP_sustainability.html
@@ -123,7 +123,7 @@ sidebar:
           url: /task_renew_support_contracts_for_your_systems.html
     - title: Upgrade to optimize your install base
       entries:
-        - title: Upgrade the ONTAP version of your storage system
+        - title: Upgrade the ONTAP version of your storage systems
           url: /task_view_upgrade.html
         - title: Upgrade the support offering
           url: /task_upgrade_support_offering.html
