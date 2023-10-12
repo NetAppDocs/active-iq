@@ -19,6 +19,13 @@ summary: Provides information about the new features in the release.
 The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
+
+== 04 October 2023
+
+=== Planning widget
+
+Tech Refresh recommendation counts are included in the planning widget of the customer level dashboard. These recommendations help plan hardware tech-refresh activities when the hardware runs out of support or is nearing end-of-support. 
+
 == 27 September 2023
 
 === Upgrade Advisor
@@ -33,12 +40,13 @@ The following features and enhancements have been introduced in Digital Advisor:
 * The label *Storage Efficiency*, which displays the efficiency ratio, is renamed to *Data Reduction*.
 * The label *Data saved by Storage Efficiency* is renamed to *Data Reduction Savings*.
 * The toggle *Savings without Snapshot Backups* is renamed to *With Snapshot copies* along with a change to its functionality. link:https://docs.netapp.com/us-en/active-iq/reference_aiq_faq.html#storage-efficiency[Learn more].
+//end::whats-new[]
 
 == 21 June 2023
 
 === Sustainability dashboard
 Sustainability dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Learn more].
-//end::whats-new[]
+
 
 == 22 February 2023
 
