@@ -5,7 +5,7 @@ keywords: AutoSupport
 summary: Provides an overview of AutoSupport.
 ---
 
-= What is AutoSupport?
+= What is AutoSupport
 :toc: macro
 :toclevels: 1
 :hardbreaks:
