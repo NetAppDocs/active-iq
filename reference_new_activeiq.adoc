@@ -29,7 +29,7 @@ You can now create a maximum of 100 watchlists.
 === Planning widget
 
 * Tech Refresh recommendations are now available in watchlist, site, group, cluster, and node dashboards. 
-* You can now view potential tech refresh candidates when tech refresh recommendations count is zero on DA Dashboards. 	
+* You can now view potential tech refresh candidates when tech refresh recommendations count is zero. 	
 
 == 04 October 2023
 
