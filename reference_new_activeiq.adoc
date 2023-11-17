@@ -28,14 +28,14 @@ You can now create a maximum of 100 watchlists.
 
 === Planning widget
 
-* Tech Refresh recommendations are now available in watchlist, site, and group dashboards. 
+* Tech refresh recommendations are now available in watchlist, site, and group dashboards. 
 * You can now view potential tech refresh candidates when tech refresh recommendations count is zero. 	
 
 == 04 October 2023
 
 === Planning widget
 
-Tech Refresh recommendation counts are included in the planning widget of the customer level dashboard. These recommendations help plan hardware tech-refresh activities when the hardware runs out of support or is nearing end-of-support. 
+Tech refresh recommendation counts are included in the planning widget of the customer level dashboard. These recommendations help plan hardware tech refresh activities when the hardware runs out of support or is nearing end-of-support. 
 
 == 27 September 2023
 
