@@ -1,0 +1,116 @@
+---
+sidebar: sidebar
+permalink: generate_upgrade_plan_single_multiple_clusters.html
+keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters
+summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrade or revert for a single cluster and multiple clusters.
+---
+
+= Generate an upgrade plan for single cluster and multiple clusters
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can use Upgrade Advisor to view the list of clusters that are eligible or ineligible for an upgrade. You can view the upgrade recommendation for an eligible cluster and generate an upgrade plan. You can fix the issues with an ineligible cluster to make it eligible for an upgrade. 
+
+NOTE: You cannot view the upgrade recommendation for multiple clusters.
+
+You can follow these steps to view the upgrade recommendation and generate an upgrade plan for a single cluster and multiple clusters:
+
+[role="tabbed-block"]
+====
+
+.Single cluster
+--
+. On the dashboard, click number of clusters in the *Upgrade Advisor* widget.
++
+image:ua_widget.png[A screenshot that shows number of clusters.]
++
+The *Upgrade Advisor-ONTAP* page appears with a list of eligible and ineligible clusters for an upgrade.
+. Verify that the *Enhanced Upgrade Advisor* toggle is enabled.
++
+image:enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
+. Select a cluster for the upgrade.
++
+image:ua_single_cluster_selection.png[A screenshot that shows a single cluster selected for the upgrade.]
++
+ * You can click the number of nodes in the *Nodes* column to see the node summary of a cluster.
+ * You can click the image:edit_icon.png[Image of the edit button] icon next to the target OS version to select another target OS version of a cluster. The image:edit_icon.png[Image of the edit button] icon does not appear if the current OS version is close to the target OS version.
+ +
+image:ua_select_target_OS_version.png[An image that shows how to select target version.]
+ * You can click *Resolve Issues* from the *Recommended Action* column to fix the issues with an ineligible cluster to make it eligible for an upgrade.
+ +
+image:ua_resolve_issue.png[An image that shows the type of issue and required resolution to fix it.]
+
+. Click *Generate Upgrade Plan*.
+  You will be redirected to the *Upgrade recommendation* page.
++
+NOTE: You can go to the *Upgrade recommendation* page through two more methods. You can click *View Upgrade Recommendation* from the *Recommended Action* column, or click *View Upgrade Recommendation* when you select another target OS version using the image:edit_icon.png[Image of the edit button] icon.
+ +
+image:ua_select_OS_view_recommendation.png[A screenshot that show how to view upgrade recommendation when selecting another target OS version.]
+
+. On the *Upgrade recommendation* page, you can view the risk summary, pre-upgrade check report, and information on new features and enhancements relevant to the selected target OS version.
++
+image:ua_upgrade_recommendation_page.png[A screenshot that shows the overall view of the upgrade recommendation page.]
++
+ * You can select another target OS version and view the risk summary, pre-upgrade check report, and information on new features and enhancements related to that target OS version. 
+ * You can click the image:ua_export_icon.png[export button] icon to export the risk summary to an Excel sheet.
+ 
+. Click *Generate Upgrade Plan* from the *Upgrade recommendation* page.
+. Provide the details in the displayed pop-up.
+  +
+image:ua_generate_single_clusters_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan.]
+. Click *Generate*.
+  You will be redirected to the *Reports* page.
+. You can download the upgrade plan from the *Reports* page once it is available.
++
+TIP: You can click *View Upgrade Advisor Reports* to go to the *Reports* page.
+ +
+image:ua_view_reports.png[A screenshot that shows the position where View Upgrade Advisor is located for clicking. ]
+
+
+--
+
+.Mulitple clusters
+--
+
+. On the dashboard, click number of clusters in the *Upgrade Advisor* widget.
++
+image:ua_widget.png[A screenshot that shows number of clusters.]
++
+The *Upgrade Advisor-ONTAP* page appears with a list of eligible and ineligible clusters for an upgrade.
+. Verify that the *Enhanced Upgrade Advisor* toggle is enabled.
++
+image:enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
+. Select clusters for the upgrade.
++
+image:ua_multiple_cluster_selection.png[A screenshot that shows multiple clusters selected for an upgrade.]
++
+ * You can click the number of nodes in the *Nodes* column to see the node summary of a cluster.
+ * You can click the image:edit_icon.png[Image of the edit button] icon next to the target OS version to select another target OS version of a cluster. The image:edit_icon.png[Image of the edit button] icon does not appear if the current OS version is close to the target OS version.
+ +
+image:ua_select_target_OS_version.png[An image that shows how to select target version.]
+ * You can click *Resolve Issues* from the *Recommended Action* column to fix the issues with ineligible clusters to make them eligible for an upgrade.
+ +
+image:ua_resolve_issue.png[An image that shows the type of issue and required resolution to fix it.]
+
+. Click *Generate Upgrade Plan*.
+. Provide the details in the displayed pop-up.
+  +
+image:ua_generate_multiple_clusters_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan.]
+. Click *Generate*.
+  You will be redirected to the *Reports* page.
+. You can download the upgrade plan from the *Reports* page once it is available.
++
+TIP: You can click *View Upgrade Advisor Reports* to go to the *Reports* page.
+ +
+image:ua_view_reports.png[A screenshot that shows the position where View Upgrade Advisor is located for clicking. ]
+
+
+--
+
+====

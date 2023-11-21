@@ -5,7 +5,7 @@ keywords: upgrade, ONTAP version, upgrade advisor, upgrade plan, risk advisor, p
 summary: Provides information to view and upgrade the ONTAP version of your storage system.
 ---
 
-= Upgrade the ONTAP version of your storage systems
+= Generate an upgrade plan for your storage systems
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -15,15 +15,20 @@ summary: Provides information to view and upgrade the ONTAP version of your stor
 :imagesdir: ./media/
 
 [.lead]
-You can use Upgrade Advisor to view recommended upgrades and create an upgrade plan for your storage systems. You can view the list of risks in the Risk Advisor tab associated with your storage systems and mitigate these risks if you upgrade your storage systems to a newer version of ONTAP.
+You can use Upgrade Advisor to view recommended upgrades and generate an upgrade plan for your storage systems. You can view the list of risks in the Risk Advisor tab associated with your storage systems and mitigate these risks if you upgrade your storage systems to a newer version of ONTAP.
 
 // 2021-06-02, Jira AIQ-49239, Reenu
 // You can also view the current interoperability data. It is populated based on Active IQ OneCollect AutoSupport data.
 
 .Steps
-. On the dashboard, in the *Upgrade Advisor* widget, click the number of actions to view the pending upgrades.
+. On the dashboard, click number of clusters in the *Upgrade Advisor* widget.
 +
-image:upgrade_advisor_widget.png[Upgrade Advisor]
+image:ua_widget.png[A screenshot that shows number of clusters.]
++
+The *Upgrade Advisor-ONTAP* page appears.
+. Disable the *Enhanced Upgrade Advisor* toggle.
++
+image:ua_disable_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is disabled.]
 . Select the upgrade option.
 +
 image:upgrade_options.png[Upgrade options]
@@ -45,9 +50,7 @@ image:total_risks.png[Total risks]
 +
 image:details_upgrade_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan]
 . Click *Submit*.
-. Go to *Reports*. You can monitor the status of the upgrade plan and download it once it is available.
-+
-You will also receive an email containing the upgrade plan once it is generated.
-+
-image:download_upgrade_plan.png[A screenshot that shows status of the upgrade plan report]
+  You will be redirected to the *Reports* page.
+. You can download the upgrade plan from the *Reports* page once it is available.
+
 
