@@ -24,7 +24,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 == Upgrade Advisor
 
-Upgrade Advisor is improved to generate an upgrade plan for a single cluster and multiple clusters. You can view the upgrade recommendation for a single cluster, which includes a risk summary, a pre-upgrade check report, and information about new features and enhancements. link:https://docs.netapp.com/us-en/active-iq_dec-upgrade-advisor/upgrade_advisor_overview.html[Learn how to generate an upgrade plan.]
+Upgrade Advisor is improved and can provide an upgrade plan for a single cluster and multiple clusters. You can view the upgrade recommendation for a single cluster, which includes a risk summary, a pre-upgrade check report, and information about new features and enhancements. link:https://docs.netapp.com/us-en/active-iq_dec-upgrade-advisor/upgrade_advisor_overview.html[Learn how to view the upgrade recommendation and generate an upgrade plan.]
 
 == 16 November 2023
 
