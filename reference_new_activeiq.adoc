@@ -20,6 +20,12 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 14 December 2023
+
+== Upgrade Advisor
+
+Upgrade Advisor is improved to generate an upgrade plan for a single cluster and multiple clusters. You can view the upgrade recommendation for a single cluster, which includes a risk summary, a pre-upgrade check report, and information about new features and enhancements. link:https://docs.netapp.com/us-en/active-iq_dec-upgrade-advisor/upgrade_advisor_overview.html[Learn how to generate an upgrade plan.]
+
 == 16 November 2023
 
 == Watchlist
@@ -36,6 +42,7 @@ You can now create a maximum of 100 watchlists.
 === Planning widget
 
 Tech refresh recommendation counts are included in the planning widget of the customer level dashboard. These recommendations help plan hardware tech refresh activities when the hardware runs out of support or is nearing end-of-support. 
+//end::whats-new[]
 
 == 27 September 2023
 
@@ -43,7 +50,7 @@ Tech refresh recommendation counts are included in the planning widget of the cu
 
 * You can access the Upgrade Advisor page for your default watchlist using the link:https://activeiq.netapp.com/redirect/upgrade-advisor[Upgrade Advisor^] link. 
 * The upgrade plan is optimized to remove redundant upgrade steps and simplify the backout plan. The common steps across all nodes in a cluster are consolidated and available under the general information section within the upgrade plan. link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Learn how to generate and view the upgrade plan].
-//end::whats-new[]
+
 
 == 16 July 2023
 
