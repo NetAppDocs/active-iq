@@ -53,7 +53,7 @@ NOTE: You can go to the *Upgrade recommendation* page through two more methods. 
  +
 image:ua_select_OS_view_recommendation.png[A screenshot that show how to view upgrade recommendation when selecting another target OS version.]
 
-. On the *Upgrade recommendation* page, you can view the risk summary, pre-upgrade check report, and information on new features and enhancements relevant to the selected target OS version.
+. On the recommendation page, you can view the details of the risks through the *Risk Advisor* tab. You can view the upgrade blockers, upgrade warnings, and required actions through the *Pre-upgrade Check* tab, and information about the new features and enhancements that are relevant to the selected target OS version through the *Enhanced and Updated ONTAP Features* tab.
 +
 image:ua_upgrade_recommendation_page.png[A screenshot that shows the overall view of the upgrade recommendation page.]
 +

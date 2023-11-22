@@ -75,11 +75,11 @@ sidebar:
           url: /improve_sustainability_score.html
     - title: Generate an upgrade plan for ONTAP upgrade
       entries:
-        - title: Overview
+        - title: Simplify ONTAP upgrade planning with Upgrade Advisor
           url: /upgrade_advisor_overview.html
         - title: Generate an upgrade plan for single cluster and multiple clusters
           url: /generate_upgrade_plan_single_multiple_clusters.html
-        - title: Generate an upgrade plan for your storage systems
+        - title: Generate an upgrade plan for your nodes
           url: /task_view_upgrade.html
     - title: View system details
       entries:

@@ -5,7 +5,7 @@ keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters
 summary: Provide an overview of Upgrade Advisor that simplifies the planning for an ONTAP upgrade.
 ---
 
-= Overview
+= Simplify ONTAP upgrade planning with Upgrade Advisor
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -19,8 +19,8 @@ Upgrade Advisor enables you to simplify the planning for an ONTAP upgrade. You c
 
 NOTE: You can access Upgrade Advisor through an active SupportEdge contract.
 
-You can generate an upgrade plan for a single cluster and multiple clusters. You can view the upgrade recommendation for a single cluster, which includes a list of risks, a pre-upgrade check report containing a list of upgrade blockers and warnings, and information about new features and enhancements. To learn more, see link:generate_upgrade_plan_single_multiple_clusters.html[Generate an upgrade plan for single cluster and multiple clusters].
+You can generate an upgrade plan for a single cluster and multiple clusters. You can view the upgrade recommendation for a single cluster, which includes a list of risks associated with a cluster, a pre-upgrade check report containing a list of upgrade blockers and warnings, and information about new features and enhancements. To learn more, see link:generate_upgrade_plan_single_multiple_clusters.html[Generate an upgrade plan for single cluster and multiple clusters].
 
-You can generate an upgrade plan for your storage systems. You can review the recommended upgrade paths and generate an upgrade plan. To learn more, see link:task_view_upgrade.html[Generate an upgrade plan for your storage systems].
+You can generate an upgrade plan for your nodes (storage systems). You can review the recommended upgrade paths and generate an upgrade plan. To learn more, see link:task_view_upgrade.html[Generate an upgrade plan for your nodes].
 
 Before generating an upgrade plan, you should prepare for an ONTAP upgrade. Proper preparation helps in identifying and mitigating potential upgrade risks or blockers before you begin the upgrade process. To learn more, see link:https://docs.netapp.com/us-en/ontap/upgrade/prepare.html[Prepare for an ONTAP upgrade^].
