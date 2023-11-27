@@ -53,6 +53,6 @@ image:details_upgrade_plan.png[A pop-up to fill the details to submit the reques
   You will be redirected to the *Reports* page.
 . You can download the upgrade plan from the *Reports* page once it is available.
 
-  There are some tasks you should perform to confirm the readiness of the cluster after you upgrade ONTAP. To learn more, see link:https://docs.netapp.com/us-en/ontap/upgrade/task_what_to_do_after_upgrade.html[What to do after an ONTAP upgrade].
+There are some tasks you should perform to confirm the readiness of the cluster after you upgrade ONTAP. To learn more, see link:https://docs.netapp.com/us-en/ontap/upgrade/task_what_to_do_after_upgrade.html[What to do after an ONTAP upgrade].
 
 
