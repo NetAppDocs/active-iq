@@ -31,24 +31,26 @@ The *Upgrade Advisor-ONTAP* page appears.
 image:ua_disable_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is disabled.]
 . Select the upgrade option.
 +
-image:upgrade_options.png[Upgrade options]
+image:ua_upgrade_options.png[Upgrade options]
 . Click the number of compliant systems to generate an upgrade plan.
-  The *Upgrade Details* page is displayed.
+  The *Upgrade Details* page is displayed. 
 +
-image:generate_upgrade_plan.png[Generate upgrade plan]
+image:ua_generate_upgrade_plan.png[Generate upgrade plan]
+
+  ** You can click the image:edit_icon.png[Image of the edit button] icon from the *Target OS Version* to select another target OS version of a cluster.
 
    ** You can go to the *Risk Advisor* tab to view the list of risks along with their severity level. 
   +
-image:view_risks.png[Risk Advisor tab]
+image:ua_view_risks.png[Risk Advisor tab]
 
   ** You can click the number of total risks to view the list of risks in the *Risk Advisor* tab if the upgrade option includes *Total Risks*.
 +
-image:total_risks.png[Total risks]
+image:ua_total_risks.png[Total risks]
 . In the *Upgrade Advisor* tab, select systems for an upgrade.
 . Click *Generate Upgrade Plan*.
 . Provide the details in the displayed pop-up. You can also select the *Revert Plan* checkbox to include the backout plan in the upgrade plan.
 +
-image:details_upgrade_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan]
+image:ua_details_upgrade_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan]
 . Click *Submit*.
   You will be redirected to the *Reports* page.
 . You can download the upgrade plan from the *Reports* page once it is available.
