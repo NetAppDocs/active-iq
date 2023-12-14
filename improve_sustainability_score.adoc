@@ -15,11 +15,11 @@ summary: Provides steps to improve the sustainability score through the recommen
 :imagesdir: ./media/
 
 [.lead]
-Sustainability dashboard generates recommended actions that you can use to improve the sustainability score. You can view and implement these recommended actions from NetApp BlueXP or Digital Advisor.
+Sustainability dashboard provides recommended actions that you can use to improve the sustainability score. You can access the Sustainability dashboard through NetApp BlueXP or Digital Advisor.
 
-You can improve the overall sustainability score and the cluster-level sustainability score. 
+You can implement the recommended actions to improve the overall sustainability score and the cluster-level sustainability score. 
 
-NOTE: AutoSupport must be enabled to calculate the overall sustainability score and the cluster-level sustainability score.
+NOTE: AutoSupport should be enabled for accurate calculation of the overall sustainability score and the cluster-level sustainability score. 
 
 == Improve overall sustainability score 
 

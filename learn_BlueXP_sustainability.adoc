@@ -21,6 +21,10 @@ You can use the Sustainability dashboard to achieve your environmental goals. Yo
 
 NOTE: Sustainability is supported on AFF systems, both A-Series and C-Series, FAS systems, and Cloud Volumes ONTAP (CVO).
 
+You can view the following video to understand the Sustainability dashboard:
+
+video::yNRHeOvbGX8[youtube, width=848, height=480]
+
 == Benefits of sustainability 
 
 Sustainability offers the following benefits:
@@ -30,8 +34,7 @@ Sustainability offers the following benefits:
 * Reduce carbon footprints by using renewable energy at data centers.
 * Improve energy efficiency by implementing energy-efficient policies.
 
-== Cost and License
-You can access the sustainability service with your active support contract if you have enabled AutoSupport for your systems.
+
 
 
 
