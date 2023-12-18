@@ -15,11 +15,9 @@ summary: Provides steps to improve the sustainability score through the recommen
 :imagesdir: ./media/
 
 [.lead]
-Sustainability dashboard generates recommended actions that you can use to improve the sustainability score. You can view and implement these recommended actions from NetApp BlueXP or Digital Advisor.
+Sustainability dashboard provides recommended actions that you can implement to improve the overall sustainability score and the cluster-level sustainability score. 
 
-You can improve the overall sustainability score and the cluster-level sustainability score. 
-
-NOTE: AutoSupport must be enabled to calculate the overall sustainability score and the cluster-level sustainability score.
+NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Cloud Insights. For more information on how to enable Cloud Insights, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
 
 == Improve overall sustainability score 
 
