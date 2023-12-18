@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, bluexp login, sustainability dashb
 summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP or Digital Advisor.
 ---
 
-= Get started with Sustainability dashboard
+= Access Sustainability dashboard
 :toc: macro
 :toclevels: 1
 :hardbreaks:
