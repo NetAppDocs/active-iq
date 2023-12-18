@@ -17,9 +17,13 @@ summary: Provides information about sustainability that allows you to reduce the
 [.lead]
 Sustainability, as a service, allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability targets.
 
-You can use the Sustainability dashboard to achieve your environmental goals. You can view the sustainability score, and projected usage of power, direct carbon, and heat from the sustainability dashboard. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the sustainability posture and implement NetApp’s recommended actions to improve the score. To learn more about the Sustainability dashboard, go to link:get_started_sustainability_dashboard.html[Get started with Sustainability dashboard].
+You can use the Sustainability dashboard to view the sustainability score, and projected usage of power, direct carbon, and heat from the sustainability dashboard. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the sustainability posture and implement NetApp’s recommended actions to improve the score. To learn more about the Sustainability dashboard, go to link:BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview].
 
 NOTE: Sustainability is supported on AFF systems, both A-Series and C-Series, FAS systems, and Cloud Volumes ONTAP (CVO).
+
+You can view the following video to understand the Sustainability dashboard:
+
+video::yNRHeOvbGX8[youtube, width=848, height=480]
 
 == Benefits of sustainability 
 
@@ -30,8 +34,7 @@ Sustainability offers the following benefits:
 * Reduce carbon footprints by using renewable energy at data centers.
 * Improve energy efficiency by implementing energy-efficient policies.
 
-== Cost and License
-You can access the sustainability service with your active support contract if you have enabled AutoSupport for your systems.
+
 
 
 
