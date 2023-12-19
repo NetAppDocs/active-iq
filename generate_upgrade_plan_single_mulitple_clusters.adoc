@@ -48,7 +48,7 @@ image:r_ua_resolve_issue.png[An image that shows the type of issue and required 
   You will be redirected to the *Upgrade Recommendation* page.
 . On the *Upgrade Recommendation* page, you can view the details of the risks associated with a cluster through the *Risk Advisor* tab. You can view the upgrade blockers, upgrade warnings, and required actions through the *Pre-upgrade Check* tab, and information about the new features and enhancements that are relevant to the selected target OS version through the *Enhanced and Updated ONTAP Features* tab.
 +
-image:ua_upgrade_recommendation_page.png[A screenshot that shows the overall view of the upgrade recommendation page.]
+image:r_ua_upgrade_recommendation_page.png[A screenshot that shows the overall view of the upgrade recommendation page.]
 +
  * You can select another target OS version and view the risk summary, pre-upgrade check report, and information on new features and enhancements related to that target OS version. 
  * You can click the image:ua_export_icon.png[export button] icon to export the risk summary to an Excel sheet.
@@ -80,7 +80,7 @@ image:ua_widget.png[A screenshot that shows number of clusters.]
 The *Upgrade Advisor-ONTAP* page appears. 
 . Verify that the *Enhanced Upgrade Advisor* toggle is enabled.
 +
-image:enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
+image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
 +
 You can view a list of eligible and ineligible clusters for an upgrade.
 . Select clusters for an upgrade.
