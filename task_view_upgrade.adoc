@@ -35,7 +35,7 @@ image:ua_upgrade_options.png[Upgrade options]
 . Click the number of compliant systems to generate an upgrade plan.
   The *Upgrade Details* page is displayed. 
 +
-image:ua_generate_upgrade_plan.png[Generate upgrade plan]
+image:r_ua_generate_upgrade_plan.png[Generate upgrade plan]
 
   ** You can click the image:edit_icon.png[Image of the edit button] icon from the *Target OS Version* to select another target OS version of a cluster.
 
