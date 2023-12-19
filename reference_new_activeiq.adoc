@@ -20,7 +20,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
-== 03 January 2023
+== 03 January 2024
 
 == Upgrade Advisor
 
