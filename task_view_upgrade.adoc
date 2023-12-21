@@ -6,7 +6,6 @@ summary: Provides information to view and upgrade the ONTAP version of your stor
 ---
 
 = Upgrade the ONTAP version of your storage systems
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

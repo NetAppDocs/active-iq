@@ -6,7 +6,6 @@ summary: Provides information to manage templates.
 ---
 
 = Manage a template
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

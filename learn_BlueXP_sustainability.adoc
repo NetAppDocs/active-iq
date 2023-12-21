@@ -6,7 +6,6 @@ summary: Provides information about sustainability that allows you to reduce the
 ---
 
 = Learn about sustainability
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

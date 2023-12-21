@@ -6,7 +6,6 @@ summary: Provides information to log in to Digital Advisor.
 ---
 
 = Log in to Digital Advisor
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

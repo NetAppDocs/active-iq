@@ -6,7 +6,6 @@ summary: Helps you understand the workflows and get started on Digital Advisor.
 ---
 
 = Quick start for Digital Advisor
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provides steps to address the recommended actions immediately or later.
 ---
 
 = Improve sustainability score
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

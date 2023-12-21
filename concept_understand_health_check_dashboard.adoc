@@ -6,7 +6,6 @@ summary: Provides information to familiarize yourself with the Health Check Dash
 ---
 
 = Understand Health Check Dashboard
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

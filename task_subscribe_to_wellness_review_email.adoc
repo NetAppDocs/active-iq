@@ -6,7 +6,6 @@ summary:
 ---
 
 = Subscribe to wellness review email
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

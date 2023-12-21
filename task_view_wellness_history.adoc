@@ -6,7 +6,6 @@ summary: Provides information about system risks and how to view wellness histor
 ---
 
 = View wellness history
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provides information to renew the software and hardware of your storage
 ---
 
 = Analyze capacity and storage efficiency savings
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

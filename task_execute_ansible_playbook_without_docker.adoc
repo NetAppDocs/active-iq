@@ -6,7 +6,6 @@ summary: Provides information on how to execute Ansible Playbook using the docke
 ---
 
 = Execute Ansible Playbook without NetApp Docker image
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

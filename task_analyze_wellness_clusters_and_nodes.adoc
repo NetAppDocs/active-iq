@@ -6,7 +6,6 @@ summary: Provides information on ClusterViewer.
 ---
 
 = Analyze the wellness of clusters and nodes
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provides an overview of the API services feature.
 ---
 
 = Understand API Services
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
