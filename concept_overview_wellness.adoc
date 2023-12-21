@@ -6,7 +6,6 @@ summary: Provides information about the wellness and the risk types, which helps
 ---
 
 = Understand wellness
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

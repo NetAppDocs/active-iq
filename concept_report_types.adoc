@@ -6,7 +6,6 @@ summary: Provides information about the different types of reports that are avai
 ---
 
 = Types of reports
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

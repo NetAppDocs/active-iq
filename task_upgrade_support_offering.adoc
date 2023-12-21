@@ -6,7 +6,6 @@ summary: Provides information on upgrading the support offering.
 ---
 
 = Upgrade the support offering
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

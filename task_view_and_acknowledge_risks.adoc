@@ -6,7 +6,6 @@ summary: Provides information to view and analyze the wellness of your storage s
 ---
 
 = View and acknowledge the risk
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

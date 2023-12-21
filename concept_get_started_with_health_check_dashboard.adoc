@@ -6,7 +6,6 @@ summary: Provides information about the dashboard, health scores, features, and 
 ---
 
 = Get started with Health Check Dashboard
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

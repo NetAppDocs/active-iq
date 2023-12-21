@@ -6,7 +6,6 @@ summary: Provides information about hosting the firmware files using a web serve
 ---
 
 = Host firmware files using web server
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

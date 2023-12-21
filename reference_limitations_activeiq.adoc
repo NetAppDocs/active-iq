@@ -6,7 +6,6 @@ summary: Provides information about the limitations in the release.
 ---
 
 = Known limitations
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

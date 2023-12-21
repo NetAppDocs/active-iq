@@ -6,7 +6,6 @@ summary: "Digital Advisor (formerly Active IQ Digital Advisor) is now fully inte
 ---
 
 = Digital Advisor integration with BlueXP
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

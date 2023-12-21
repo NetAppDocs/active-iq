@@ -6,7 +6,6 @@ summary: Provides more information about Ansible.
 ---
 
 = Get more information
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

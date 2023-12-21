@@ -6,7 +6,6 @@ summary: Provides information to increase the capacity of the system.
 ---
 
 = Identify systems reaching capacity limits
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

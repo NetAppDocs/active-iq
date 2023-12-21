@@ -6,7 +6,6 @@ summary: Provides information on how to install and execute firmware update usin
 ---
 
 = Install and execute AFF and FAS firmware Ansible automation package (Experienced Users)
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

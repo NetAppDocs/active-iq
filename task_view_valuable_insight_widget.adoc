@@ -6,7 +6,6 @@ summary: Provides information about the valuable insight widget.
 ---
 
 = View valuable insights
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provides information to manage watchlists.
 ---
 
 = Manage a watchlist
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

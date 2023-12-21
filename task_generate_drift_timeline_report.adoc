@@ -6,7 +6,6 @@ summary: Provides information to generate drift timeline reports.
 ---
 
 = Generate a drift timeline report
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP
 ---
 
 = Access Sustainability dashboard
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

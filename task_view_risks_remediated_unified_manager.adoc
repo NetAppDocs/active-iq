@@ -6,7 +6,6 @@ summary: Provides information to view the risks that can be automatically remedi
 ---
 
 = View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
