@@ -6,7 +6,6 @@ summary: Provides steps to improve the sustainability score through the recommen
 ---
 
 = Improve sustainability score
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

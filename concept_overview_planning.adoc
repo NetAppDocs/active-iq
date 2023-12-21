@@ -6,7 +6,6 @@ summary: Provides information to identify system capacity and software and hardw
 ---
 
 = Understand planning
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

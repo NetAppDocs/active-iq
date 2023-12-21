@@ -6,7 +6,6 @@ summary: Provides information on how to generate token to access APIs.
 ---
 
 = Generate tokens to use APIs
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provides information about working with the inventory file.
 ---
 
 = Work with inventory file
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

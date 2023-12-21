@@ -6,7 +6,6 @@ summary: Provides recommendations based on which informed decisions can be taken
 ---
 
 = Make informed decisions based on cloud recommendations
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provides information about the dashboard, sustainability score, working
 ---
 
 = Sustainability dashboard overview
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

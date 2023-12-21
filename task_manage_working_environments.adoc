@@ -6,7 +6,6 @@ summary: Provides information about working environments.
 ---
 
 = Manage working environments 
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

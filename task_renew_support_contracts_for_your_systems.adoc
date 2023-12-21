@@ -6,7 +6,6 @@ summary: Provides information on how to renew support contracts for your systems
 ---
 
 = Renew your support contracts
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

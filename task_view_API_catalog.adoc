@@ -6,7 +6,6 @@ summary: Provides information about the APIs available in the API Catalog.
 ---
 
 = Use the API Catalog to execute APIs
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

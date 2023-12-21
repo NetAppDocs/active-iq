@@ -6,7 +6,6 @@ summary: Provides information on your capacity utilization with NetApp Keystone 
 ---
 
 = View capacity utilization with NetApp Keystone Subscription
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

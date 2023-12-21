@@ -6,7 +6,6 @@ summary: Provides information to add a configuration drift template.
 ---
 
 = Add a config drift template
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
