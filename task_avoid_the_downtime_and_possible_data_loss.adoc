@@ -6,7 +6,6 @@ summary: Provides information on how to avoid the downtime and possible data los
 ---
 
 = Avoid the downtime and possible data loss
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

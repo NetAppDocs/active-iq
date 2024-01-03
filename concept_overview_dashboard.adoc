@@ -6,7 +6,6 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 ---
 
 = Understand watchlist
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

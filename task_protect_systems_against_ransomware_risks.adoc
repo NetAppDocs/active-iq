@@ -6,7 +6,6 @@ summary:
 ---
 
 = Protect systems against ransomware risks
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

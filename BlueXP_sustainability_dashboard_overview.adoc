@@ -6,7 +6,6 @@ summary: Provides information about the dashboard, sustainability score, working
 ---
 
 = Sustainability dashboard overview
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
@@ -19,7 +18,7 @@ Sustainability dashboard provides an environmental assessment of your storage sy
 
 image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
 
-NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Cloud Insights. For more information on how to enable Cloud Insights, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
+NOTE: AutoSupport should be enabled for accurate calculation of the sustainability score. 
 
 *Sustainability score*: Displays the total score indicating the environmental sustainability of your storage systems. You can assess the sustainability level of your storage systems based on the following range:
 

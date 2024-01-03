@@ -6,7 +6,6 @@ summary: Provides information on how to increase protection against hackers and 
 ---
 
 = Detect Security Vulnerability
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

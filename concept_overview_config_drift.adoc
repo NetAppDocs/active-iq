@@ -6,7 +6,6 @@ summary: Provides an overview of the config drift feature
 ---
 
 = Understand configuration deviation
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provide an overview of Upgrade Advisor that simplifies the planning for
 ---
 
 = Overview
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

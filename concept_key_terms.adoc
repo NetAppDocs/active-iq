@@ -6,7 +6,6 @@ summary: Provides information about the key terms used in Digital Advisor.
 ---
 
 = Key concepts
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

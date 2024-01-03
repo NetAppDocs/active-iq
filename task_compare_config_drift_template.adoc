@@ -6,7 +6,6 @@ summary: Provides information to compare a configuration drift template.
 ---
 
 = Compare a config drift template
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

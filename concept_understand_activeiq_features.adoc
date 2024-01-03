@@ -6,7 +6,6 @@ summary: Provides information about the dashboard, watchlists, features, and the
 ---
 
 = Understand Digital Advisor features
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

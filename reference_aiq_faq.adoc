@@ -6,7 +6,6 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 ---
 
 = Frequently asked questions about Digital Advisor
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

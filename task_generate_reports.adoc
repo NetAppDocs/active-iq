@@ -6,7 +6,6 @@ summary: Provides information to generate reports.
 ---
 
 = Generate reports
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

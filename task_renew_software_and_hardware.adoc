@@ -6,7 +6,6 @@ summary: Provides information to renew the software and hardware of your storage
 ---
 
 = Renew the software and hardware of your storage system
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

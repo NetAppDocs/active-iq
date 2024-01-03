@@ -6,7 +6,6 @@ summary: Provides information about the overall inventory that you own.
 ---
 
 = View inventory details
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

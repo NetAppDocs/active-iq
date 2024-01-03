@@ -6,7 +6,6 @@ summary: Provides information to log in to Digital Advisor.
 ---
 
 = Log in to Digital Advisor
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
@@ -15,10 +14,10 @@ summary: Provides information to log in to Digital Advisor.
 :imagesdir: ./media/
 
 [.lead]
-You can log in to Digital Advisor from a web-based console to create a watchlist for viewing the overall status of your storage system.
+You can log in to Digital Advisor from a web-based console for viewing the overall status of your storage system.
 
 .Before you begin
-You must have a valid NetApp Support site credential to log in to Digital Advisor. If you do not have an account and are getting started, proceed to link:https://mysupport.netapp.com/info/web/ECMLP2458178.html[create an account^].
+You must have a valid NetApp Support site credential to log in to Digital Advisor. If you do not have an account and are getting started, see the following KB article to create an account: link:https://kb.netapp.com/Support/General_Support/How_to_register_for_a_NetApp_Support_Site_account_as_a_Customer_or_a_Guest_user[How to register for NetApp Support Site account as a Customer or a Guest user^].
 
 .Steps
 . Go to the link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor^] login page.

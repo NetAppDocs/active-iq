@@ -6,7 +6,6 @@ summary: Provides information to add a watchlist to the dashboard.
 ---
 
 = Create a watchlist
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrad
 ---
 
 = Generate an upgrade plan for single cluster and multiple clusters
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

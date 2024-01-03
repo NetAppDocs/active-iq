@@ -6,7 +6,6 @@ summary: Provides information about the performance.
 ---
 
 = Analyze performance graphs
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

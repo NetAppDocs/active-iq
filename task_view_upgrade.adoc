@@ -6,7 +6,6 @@ summary: Provides information to view and upgrade the ONTAP version of your node
 ---
 
 = Generate an upgrade plan for nodes
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
