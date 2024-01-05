@@ -69,7 +69,7 @@ There are some tasks you should perform to confirm the readiness of the cluster 
 
 --
 
-.Mulitple clusters
+.Multiple clusters
 --
 
 . On the dashboard, click number of clusters in the *Upgrade Advisor* widget.
