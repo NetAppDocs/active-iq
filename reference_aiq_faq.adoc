@@ -237,3 +237,7 @@ All capacities displayed in Digital Advisor are Base 2 (divide by 1024) and repr
 
 For StorageGRID, capacities are displayed in Base 10 and the unit of capacity is expressed in TB.
 
+== Miscellaneous
+
+*Why are the features under STORAGE HEALTH in the left navigation pane disabled?*
+The availability of the features under *STORAGE HEALTH* depends on the system type and level. For example, ClusterViewer is available for ONTAP and Cloud Volumes ONTAP (CVO) systems at cluster and node levels. You can hover over the *i* icon next to each feature to learn about applicable system types and levels.
