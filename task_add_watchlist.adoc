@@ -14,7 +14,7 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-You can create a watchlist to access a set of systems  quickly and easily. You can combine the set of systems based on the category or location.
+You can create a watchlist to access a set of systems quickly and easily. You can add the systems based on category or serial number.
 
 .Steps
 . From the left pane, click *Watchlists*
@@ -22,9 +22,18 @@ You can create a watchlist to access a set of systems  quickly and easily. You c
 The *Manage Watchlist* screen is displayed.
 . Click *Create Watchlist*.
 . Provide a name for the watchlist.
-. Provide the details of the systems that you want to add to the watchlist.
+. Select one of the following options to add systems to the watchlist:
+
+  * *Category*: This option allows you to include systems based on customer, site, or group category. Select the category from the drop-down list and provide the details to perform a search based on your selection.
+  +
+image:Watchlist_category.png[A screenshot that displays how to perform a search based on the category selection]
+
+  * *Serial Number*: This option allows you to include specific systems based on customer, site, or group category. Select the category from the drop-down list. If you have a serial number, select *Serial Number* from the category, and provide the number. For other categories, provide the details to perform a search. This directs you to a list of individual systems, from which you can select the systems you want to include to the watchlist.
+  +
+image:watchlist_individual_category.png[A screenshot that shows how to select individual systems from that list to add to the watchlist.]
 +
-You can add a maximum of 15,000 systems under a category and 500 systems under a serial number.
+NOTE: You can add a maximum of 15,000 systems under a category and 500 systems under a serial number.
+
 . Click *Create Watchlist*.
 +
 The watchlist dashboard is displayed.
