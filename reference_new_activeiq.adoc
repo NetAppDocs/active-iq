@@ -19,7 +19,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
-== 07 February 2024
+== 08 February 2024
 
 === Sustainability dashboard
 You can now access the Sustainability metrics for your default dashboard or watchlist directly by using the link:https://activeiq.netapp.com/redirect/sustainability[Sustainability Dashboard^] link.
