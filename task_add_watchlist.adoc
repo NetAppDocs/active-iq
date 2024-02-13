@@ -24,14 +24,9 @@ The *Manage Watchlist* screen is displayed.
 . Provide a name for the watchlist.
 . Select one of the following options to add systems to the watchlist:
 
-  * *Category*: This option allows you to include systems based on customer, site, or group category. Select the category from the drop-down list and provide the details to perform a search based on your selection.
-  +
-image:Watchlist_category.png[A screenshot that displays how to perform a search based on the category selection]
-
-  * *Serial Number*: This option allows you to include specific systems based on customer, site, or group category. Select the category from the drop-down list. If you have a serial number, select *Serial Number* from the category, and provide the number. For other categories, provide the details to perform a search. This directs you to a list of individual systems, from which you can select the systems you want to include to the watchlist.
-  +
-image:watchlist_individual_category.png[A screenshot that shows how to select individual systems from that list to add to the watchlist.]
-+
+  * *Category*: This option allows you to include systems based on customer, site, or group category. For example, you can select different sites with the Site category, and this will include all the systems associated with these sites in a single watchlist.
+  * *Serial Number*: This option allows you to include specific systems based on customer, site, or group category. For example, you can select specific systems from different groups with the Group category to create a single watchlist.
+ 
 NOTE: You can add a maximum of 15,000 systems under a category and 500 systems under a serial number.
 
 . Click *Create Watchlist*.
