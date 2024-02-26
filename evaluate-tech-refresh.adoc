@@ -16,7 +16,7 @@ summary: Provides information to evaluate tech refresh of your Tech Support cont
 [.lead]
 If you want to identify whether a technology refresh is recommended for your Tech Support contract or hardware, you can use the tech refresh option.
 
-NOTE: You can access this feature either through BlueXP economic efficiency (Governance > Economic efficiency > Tech refresh) or through NetApp Digital Advisor (Dashboard > Planning widget > Tech Refresh).
+NOTE: You can access this feature either through BlueXP economic efficiency (*Governance > Economic efficiency > Tech refresh*) or through NetApp Digital Advisor (*Dashboard > Planning widget > Tech Refresh*).
 
 For more information about this feature, see link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html[Evaluate a technology refresh] in the BlueXP documentation.
 
