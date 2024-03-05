@@ -15,8 +15,8 @@ summary: Provides information about the dashboard, watchlists, and the widgets.
 
 [.lead]
 
-Watchlists are used to access preselected systems inside Digital Advisor quickly and easily. If you view a certain customer or a set of systems frequently, we recommend you create watchlists. You can create up to 100 watchlists and each watchlist can contain up to 15,000 systems by category or 500 systems by serial numbers.
+Watchlists are used to access preselected systems inside Digital Advisor quickly and easily. If you view a certain customer or a set of systems frequently, we recommend you create watchlists. You can create up to ##100## watchlists and each watchlist can contain up to 15,000 systems by category or 500 systems by serial numbers.
 
-When you access Digital Advisor for the first time, you can either create a watchlist or search for a customer name, site name, group name, StorageGRID, hostname, cluster, serial number, system ID, or Keystone subscription.
+When you access Digital Advisor for the first time, you can either create a watchlist or search for a customer name, site name, group name, StorageGRID, hostname, cluster, serial number, system ID, or ##Keystone subscription##.
 
 You should also be aware of the colors applied to the cards, which indicate the severity and type of risks.
