@@ -19,6 +19,12 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 29 February 2024
+
+=== Watchlist
+
+##You can now create watchlist based on Keystone subscription numbers and search for a Keystone subscription using the first three characters of a subscription number or watchlist name.##
+
 == 08 February 2024
 
 === Sustainability dashboard
@@ -33,6 +39,8 @@ You can now view Disk RPM information in the Disk Summary section, which is avai
 === Upgrade Advisor
 
 Upgrade Advisor is enhanced to provide automated nondisruptive upgrade plans for a single cluster and multiple clusters. You can view the upgrade recommendation only for a single cluster, which includes a risk summary, a pre-upgrade check report, and information about new features and enhancements. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view the upgrade recommendation and generate an upgrade plan.]
+
+//end::whats-new[]
 
 == 16 November 2023
 
@@ -50,7 +58,7 @@ You can now create a maximum of 100 watchlists.
 === Planning widget
 
 Tech refresh recommendation counts are included in the planning widget of the customer level dashboard. These recommendations help plan hardware tech refresh activities when the hardware runs out of support or is nearing end-of-support. 
-//end::whats-new[]
+
 
 == 27 September 2023
 

@@ -1,0 +1,49 @@
+# Start snippet: landing page
+indexpage:
+  title: Digital Advisor documentation
+  lead: Active IQ Digital Advisor (also known as Digital Advisor) enables you to optimize your data infrastructure across your global hybrid cloud by delivering actionable predictive analytics and proactive support through a cloud-based portal and mobile app. Digital Advisor's cloud-based services leverage community wisdom and peer comparisons that are drawn from NetApp's massive installed base, combining these insights with AutoSupport telemetry and My AutoSupport features to deliver an advanced set of unparalleled analytics services.
+  summary: Active IQ Digital Advisor (also known as Digital Advisor) enables you to optimize your data infrastructure across your global hybrid cloud by delivering actionable predictive analytics and proactive support through a cloud-based portal and mobile app. Digital Advisor's cloud-based services leverage community wisdom and peer comparisons that are drawn from NetApp's massive installed base, combining these insights with AutoSupport telemetry and My AutoSupport features to deliver an advanced set of unparalleled analytics services.
+  keywords: Digital Advisor, Watchlist, Sustainability, Upgrade Advisor, ONTAP
+  tiles:
+    - title: Get started
+      links:
+        - title: Learn about Digital Advisor
+          url: https://tv.netapp.com/detail/video/6254074753001/what-can-you-do-with-active-iq
+        - title: Quick start for Digital Advisor
+          url: concept_getting_started_2.html
+        - title: Key concepts
+          url: concept_key_terms.html
+        - title: Create a watchlist
+          url: task_add_watchlist.html
+    - title: Use Digital Advisor
+      links:
+        - title: View risks and take corrective actions
+          url: task_view_risk_and_take_action.html
+        - title: Detect configuration deviations
+          url: task_compare_config_drift_template.html
+        - title: Fix critical security risks
+          url: task_increase_protection_against_hackers_and_Ransomware_attacks.html
+        - title: Analyze storage performance
+          url: task_view_performance_graphs.html
+        - title: Generate reports
+          url: task_generate_reports.html
+    - title: Analyze using Digital Advisor
+      links:
+        - title: View ONTAP upgrade recommendations
+          url: task_view_upgrade.html
+        - title: Take informed decisions based on cloud recommendations
+          url: task-informed-decisions-based-on-cloud-recommendations.html
+        - title: View capacity utilization with NetApp Keystone Subscription
+          url: view_keystone_capacity_utilization.html
+    - title: More resources
+      links:
+        - title: Digital Advisor Web Portal
+          url: https://mysupport.netapp.com/myautosupport/home.html
+        - title: Digital Advisor Videos
+          url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7kWBxqwLYBchpMW4k9Z6Vum
+        - title: NetApp Community – Digital Advisor
+          url: https://community.netapp.com/t5/Active-IQ-and-AutoSupport/ct-p/autosupport-and-my-autosupport
+        - title: Digital Advisor Mobile Application (Android)
+          url: https://play.google.com/store/apps/details?id=com.netapp.myautosupport
+        - title: Digital Advisor Mobile Application (iOS)
+          url: https://apps.apple.com/us/app/active-iq/id1230542480
