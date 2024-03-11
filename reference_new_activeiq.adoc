@@ -23,7 +23,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 === Watchlist
 
-##You can now create watchlist based on Keystone subscription numbers and search for a Keystone subscription using the first three characters of a subscription number or watchlist name.##
+You can now create watchlist based on Keystone subscription numbers and search for a Keystone subscription using the first three characters of a subscription number or watchlist name.
 
 == 08 February 2024
 
