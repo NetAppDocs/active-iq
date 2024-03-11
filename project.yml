@@ -1,6 +1,7 @@
 ---
 settings:
   name: Digital Advisor
+  harmony_integration: maestro
   platform: cloud
   internal:
     pdf_enabled: true
@@ -176,4 +177,5 @@ sidebar:
 product-family:
   name: BlueXP
   repo: cloud-manager-family
+
 
