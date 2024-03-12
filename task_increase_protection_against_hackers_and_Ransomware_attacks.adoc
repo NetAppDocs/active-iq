@@ -24,8 +24,8 @@ For additional NetApp product security information, including products not cover
 
 .Steps
 . Log in to Digital Advisor.
-. Click *Actions* in the *Security Vulnerabilities* widget.
-image:Security_Image 1 Ransomware attacks.png[Security Vulnerabilities widget]
+. ##Click *Actions* in the *Security & Ransomware Defense* widget.##
+image:Security_Image 2 Ransomware attacks.png[Security Vulnerabilities widget]
 +
 For the high-impact security risks, follow the recommended action that is to upgrade the operating system.
 .	Click the *Unique Risks* tab, and then click the link in the *Corrective Action* column.

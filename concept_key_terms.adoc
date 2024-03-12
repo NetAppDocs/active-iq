@@ -40,9 +40,8 @@ As you start using Digital Advisor, it is important that you understand some of 
 ** *Availability & Protection:* Displays information about the availability and protection of the storage system.
 ** *Capacity:* Consists of risks with a capacity attribute for impact area values.
 ** *Configuration:* Consists of risks with a configuration attribute for impact area values sorted with the highest impact on the top.
-** *Security vulnerabilities:* Consists of risks with a security attribute for impact area values.
+** ##*Security & Ransomware Defense:* Provides information about risks and corrective actions associated with security vulnerabilities, ransomware detection, prevention, and recovery.##
 ** *Wellness History:* Displays information about system risks occurring in the past three months, so that you can learn how they are faring overtime.
-** *Ransomware Defense:* Provides information about risks and corrective actions associated with ransomware detection, prevention, and recovery.
 ** *Acknowledge Risks (Ack):* Allows you to acknowledge the risks and systems that have been impacted. You can acknowledge these risks and familiarize yourself with the actions that you can perform to mitigate these risks.
 ** *Unacknowledge Risks (un-ack):* Allows you to unacknowledge the risks and systems that have been acknowledged.
 ** *Fix It:* Fixes the risks to the system using Active IQ United Manager (UM) 9.7 or higher. Click this button to launch UM and perform the steps to mitigate the risks.
