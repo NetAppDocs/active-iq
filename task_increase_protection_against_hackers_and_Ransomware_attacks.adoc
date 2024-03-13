@@ -24,7 +24,7 @@ For additional NetApp product security information, including products not cover
 
 .Steps
 . Log in to Digital Advisor.
-. ##Click *Actions* in the *Security & Ransomware Defense* widget.##
+. Click *Actions* in the *Security & Ransomware Defense* widget.
 image:Security_Image 2 Ransomware attacks.png[Security Vulnerabilities widget]
 +
 For the high-impact security risks, follow the recommended action that is to upgrade the operating system.

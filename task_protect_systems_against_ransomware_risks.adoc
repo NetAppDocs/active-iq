@@ -15,13 +15,13 @@ summary:
 
 [.lead]
 
-##When you log in to the Digital Advisor, you can view the *Actions* highlighted on the *Security & Ransomware Defense* widget, which shows the risk counts.##
+When you log in to the Digital Advisor, you can view the *Actions* highlighted on the *Security & Ransomware Defense* widget, which shows the risk counts.
 
 You can view the Snapshot creation, retention, and ONTAP FPolicy risks, and then take actions to fix them.
 
 .Steps
 . Log in to Digital Advisor.
-. ##Click *Actions* on the *Security & Ransomware Defense* widget.##
+. Click *Actions* on the *Security & Ransomware Defense* widget.
 . For the risks that are displayed, check the impact level and follow the recommended actions.
 . Click the Unique Risks tab and link in the *Corrective Action* column.
 . Click the *Affected Systems* tab to view systems with risks.
