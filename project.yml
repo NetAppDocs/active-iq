@@ -99,7 +99,9 @@ sidebar:
         - title: Identify systems reaching capacity limits
           url: /task_identify_capacity_system.html
         - title: Avoid a volume filling up to prevent an outage
-          url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html
+          url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
+        - title: Evaluate a technology refresh
+          url: /evaluate-tech-refresh.html
         - title: Renew the software and hardware
           url: /task_renew_software_and_hardware.html
     - title: Make informed decisions based on cloud recommendations
