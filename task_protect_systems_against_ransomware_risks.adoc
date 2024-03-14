@@ -22,6 +22,7 @@ You can view the Snapshot creation, retention, and ONTAP FPolicy risks, and then
 .Steps
 . Log in to Digital Advisor.
 . Click *Actions* on the *Security & Ransomware Defense* widget.
+. Clear the *Security Vulnerabilities* checkbox.
 . For the risks that are displayed, check the impact level and follow the recommended actions.
 . Click the Unique Risks tab and link in the *Corrective Action* column.
 . Click the *Affected Systems* tab to view systems with risks.
