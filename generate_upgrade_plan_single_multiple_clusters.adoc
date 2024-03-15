@@ -28,7 +28,7 @@ You can follow these steps to generate an upgrade plan for a single cluster and 
 image:ua_widget.png[A screenshot that shows number of clusters.]
 +
 The *Upgrade Advisor-ONTAP* page appears. 
-. You can view a list of eligible and ineligible clusters for an upgrade.
+. ##You can view a list of eligible and ineligible clusters for an upgrade.##
 +
 image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
 . Select a cluster for an upgrade. 
@@ -75,7 +75,7 @@ There are some tasks you should perform to confirm the readiness of the cluster 
 image:ua_widget.png[A screenshot that shows number of clusters.]
 +
 The *Upgrade Advisor-ONTAP* page appears. 
-. You can view a list of eligible and ineligible clusters for an upgrade.
+. ##You can view a list of eligible and ineligible clusters for an upgrade.##
 +
 image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
 . Select clusters for an upgrade.
