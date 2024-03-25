@@ -21,7 +21,9 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 == 28 March 2024
 
-##The older version of Upgrade Advisor is now deprecated.##
+=== Upgrade Advisor
+
+The older version of Upgrade Advisor is now deprecated. You can use the enhanced version of Upgrade Advisor to generate upgrade plans for a single cluster and multiple clusters. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view upgrade recommendations and generate an upgrade plan.]
 
 == 15 March 2024
 
