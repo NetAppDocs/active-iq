@@ -14,7 +14,7 @@ summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrad
 :imagesdir: ./media/
 
 [.lead]
-You can use Upgrade Advisor to view the list of clusters that are eligible or ineligible for an upgrade. You can view the upgrade recommendation for an eligible cluster and generate an upgrade plan. You can fix the issues with an ineligible cluster to make it eligible for an upgrade. 
+You can use Upgrade Advisor to view the list of clusters that are eligible or ineligible for an upgrade. You can view upgrade recommendations for an eligible cluster and generate an upgrade plan. You can fix the issues with an ineligible cluster to make it eligible for an upgrade. 
 
 You can follow these steps to generate an upgrade plan for a single cluster and multiple clusters:
 
@@ -28,11 +28,9 @@ You can follow these steps to generate an upgrade plan for a single cluster and 
 image:ua_widget.png[A screenshot that shows number of clusters.]
 +
 The *Upgrade Advisor-ONTAP* page appears. 
-. Verify that the *Enhanced Upgrade Advisor* toggle is enabled.
+. You can view a list of eligible and ineligible clusters for an upgrade.
 +
 image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
-+
-You can view a list of eligible and ineligible clusters for an upgrade.
 . Select a cluster for an upgrade. 
   The *Target OS Version* column displays the recommended target OS version. You can click the image:edit_icon.png[Image of the edit button] icon to select another target OS version of a cluster.
 + 
@@ -77,11 +75,9 @@ There are some tasks you should perform to confirm the readiness of the cluster 
 image:ua_widget.png[A screenshot that shows number of clusters.]
 +
 The *Upgrade Advisor-ONTAP* page appears. 
-. Verify that the *Enhanced Upgrade Advisor* toggle is enabled.
+. You can view a list of eligible and ineligible clusters for an upgrade.
 +
 image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
-+
-You can view a list of eligible and ineligible clusters for an upgrade.
 . Select clusters for an upgrade.
   The *Target OS Version* column displays the recommended target OS version.You can click the image:edit_icon.png[Image of the edit button] icon to select another target OS version of a cluster.
 +
