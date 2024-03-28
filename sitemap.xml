@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_autosupport.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_get_more_information.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_get_started_with_health_check_dashboard.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_getting_started_2.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_key_terms.html</loc>
+        
+      
+      <lastmod>2024-03-14T11:25:03+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_overview_API_service.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_overview_config_drift.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_overview_dashboard.html</loc>
+        
+      
+      <lastmod>2024-03-11T08:49:45+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_overview_planning.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_overview_wellness.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_report_types.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_understand_activeiq_features.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_understand_health_check_dashboard.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/concept_working_with_inventory_file.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/evaluate-tech-refresh.html</loc>
+        
+      
+      <lastmod>2024-02-26T07:07:44+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/generate_upgrade_plan_single_multiple_clusters.html</loc>
+        
+      
+      <lastmod>2024-03-25T09:20:06+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/get_started_sustainability_dashboard.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/improve_sustainability_score.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/</loc>
+        
+      
+      <lastmod>2024-01-29T08:51:04+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html</loc>
+        
+      
+      <lastmod>2024-02-05T08:36:15+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/legal-notices.html</loc>
+        
+      
+      <lastmod>2021-09-15T05:34:18+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/manage_working_environments.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/reference_aiq_faq.html</loc>
+        
+      
+      <lastmod>2024-01-05T09:21:27+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/reference_ansible_troubleshoot_feedback_support.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/reference_limitations_activeiq.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/reference_new_activeiq.html</loc>
+        
+      
+      <lastmod>2024-03-25T09:20:06+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq//search.html</loc>
+        
+      
+      <lastmod>2024-03-28T10:55:10+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task-informed-decisions-based-on-cloud-recommendations.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task-integrating-with-cloud-insights-to-view-vm-details.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_add_config_drift_template.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_add_watchlist.html</loc>
+        
+      
+      <lastmod>2024-03-11T08:49:45+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_analyze_storage_efficiency.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_analyze_wellness_clusters_and_nodes.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_avoid_a_volume_filling_up_to_prevent_an_outage.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_avoid_the_downtime_and_possible_data_loss.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_compare_config_drift_template.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_execute_ansible_playbook_using_docker.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_execute_ansible_playbook_without_docker.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_generate_drift_timeline_report.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_generate_reports.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_generate_tokens_API_services.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_hosting_firmware_files_using_web_server.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_identify_capacity_system.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_improve_sustainability_score.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_increase_protection_against_hackers_and_Ransomware_attacks.html</loc>
+        
+      
+      <lastmod>2024-03-14T11:25:03+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_install_execute_firmware_update_exp_user.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_login_activeiq.html</loc>
+        
+      
+      <lastmod>2024-01-03T09:10:56+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_manage_template.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_manage_watchlists.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_manage_working_environments.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_protect_systems_against_ransomware_risks.html</loc>
+        
+      
+      <lastmod>2024-03-14T11:25:03+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_renew_software_and_hardware.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_renew_support_contracts_for_your_systems.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_subscribe_to_wellness_review_email.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_update_AFF_FAS_firmware.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_upgrade_support_offering.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_validate_firmware_installation.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_API_catalog.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_and_acknowledge_risks.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_performance_graphs.html</loc>
+        
+      
+      <lastmod>2024-03-28T10:31:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_risk_and_take_action.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_risks_remediated_unified_manager.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html</loc>
+        
+      
+      <lastmod>2024-03-13T10:14:19+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_valuable_insight_widget.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/task_view_wellness_history.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html</loc>
+        
+      
+      <lastmod>2024-03-25T09:20:06+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/active-iq/view_keystone_capacity_utilization.html</loc>
+        
+      
+      <lastmod>2023-12-21T08:27:38+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
