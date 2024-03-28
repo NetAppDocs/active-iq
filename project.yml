@@ -80,8 +80,6 @@ sidebar:
           url: /upgrade_advisor_overview.html
         - title: Generate an upgrade plan for single cluster and multiple clusters
           url: /generate_upgrade_plan_single_multiple_clusters.html
-        - title: Generate an upgrade plan for nodes
-          url: /task_view_upgrade.html
     - title: View system details
       entries:
         - title: View inventory details

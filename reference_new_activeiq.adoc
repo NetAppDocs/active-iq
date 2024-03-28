@@ -19,6 +19,12 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 28 March 2024
+
+=== Upgrade Advisor
+
+The older version of Upgrade Advisor is now deprecated. You can use the enhanced version of Upgrade Advisor to generate upgrade plans for a single cluster and multiple clusters. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view upgrade recommendations and generate an upgrade plan.]
+
 == 15 March 2024
 
 === Wellness
@@ -30,12 +36,13 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 The timeline for technical cases is enhanced to view the complete case history for 6 or 12 months.
 
-
 == 29 February 2024
 
 === Watchlist
 
 You can now create a watchlist based on Keystone subscription numbers and search for a Keystone subscription using the first three characters of a subscription number or watchlist name.
+
+//end::whats-new[]
 
 == 08 February 2024
 
@@ -45,13 +52,11 @@ You can now access the Sustainability metrics for your default dashboard or watc
 === ClusterViewer 
 You can now view Disk RPM information in the Disk Summary section, which is available in the Storage tab and in ClusterViewer reports.
 
-//end::whats-new[]
-
 == 03 January 2024
 
 === Upgrade Advisor
 
-Upgrade Advisor is enhanced to provide automated nondisruptive upgrade plans for a single cluster and multiple clusters. You can view the upgrade recommendation only for a single cluster, which includes a risk summary, a pre-upgrade check report, and information about new features and enhancements. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view the upgrade recommendation and generate an upgrade plan.]
+Upgrade Advisor is enhanced to provide automated nondisruptive upgrade plans for a single cluster and multiple clusters. You can view the upgrade recommendation only for a single cluster, which includes a risk summary, a pre-upgrade check report, and information about new features and enhancements. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view upgrade recommendations and generate an upgrade plan.]
 
 
 == 16 November 2023

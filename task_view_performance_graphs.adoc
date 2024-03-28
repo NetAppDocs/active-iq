@@ -50,7 +50,7 @@ For example, select 2-months tab to view data for 2 months. This enables you to 
 |   | Network Throughput |  |
 |===
 
-NOTE: Node latency performance graphs and volume performance graphs are supported only on systems that are running ONTAP 9.2 and later.
+NOTE: Node latency, local tier (aggregate), and volume performance graphs are supported only on systems that are running ONTAP 9.2 and later.
 
 [start=4]
 . The following performance graphs with required metrics are available for E-Series controllers:
