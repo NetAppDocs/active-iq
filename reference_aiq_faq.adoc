@@ -17,17 +17,39 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 
 The following questions give answers to your frequent queries about Digital Advisor.
 
+== Technical case
+
+*When do I create a technical case?*
+
+Technical cases are created to seek assistance with any of the NetApp products on technical issues related to hardware disruptions, poor performance, data issues, or requests for technical information.
+
+*How do I create a technical case?*
+
+. Click link:https://mysupport.netapp.com/site/global/dashboard[here^] to open the NetApp Support site.
+. From the top menu, click *My Cases*.
+. Click *Create a Case*.
+. Select a category, provide the required details, and click *New Search* to search for a system from your inventory. 
+. From the list of systems displayed, select the system to create the case.
+. Select the priority for the new case.
+. Select the appropriate category from the *Problem Category* drop-down list.
+. Enter the problem description in the Problem Description field and click *Proceed*.
+. Provide additional details about the problem.
+. Click *Select Files* to upload files or images that may help diagnose the problem.
+. Click *Proceed*.
+. Provide your contact details.
+. Click *Create Case*. 
+
 == Non-technical case
 
 *What is a non-technical case?*
 
 Issues such as unable to view systems in the inventory, incorrect contract term dates, and so on, which are not technical in nature are classified as non-technical cases.
 
-*When do I need to create a non-technical case?*
+*When do I create a non-technical case?*
 
 A non-technical case should be created for the following cases:
 
-* Unable to access certain features
+* Unable to access certain features or require assistance with any Digital Advisor features
 * Missing systems in inventory
 * Decommissioning a system from the install base
 * Incorrect or missing contract term dates
