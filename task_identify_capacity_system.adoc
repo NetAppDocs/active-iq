@@ -27,4 +27,4 @@ By default, the ONTAP systems that have exceeded 90% capacity or are nearing 90%
 . Click *View Capacity Forecast* to view the capacity forecast for the next 6 months.
 . Click *Request to Add Capacity*.
 . Optionally, provide any comments.
-. Click *Send* to send the request to the NetApp storage team to assist with the capacity addition.
+. Click *Send* to send the request to the NetApp storage team to assist with the capacity addition for the selected systems.
