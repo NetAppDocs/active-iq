@@ -24,7 +24,7 @@ For ONTAP, you can view systems that have exceeded 90% capacity or are to exceed
 By default, the ONTAP systems that have exceeded 90% capacity or are nearing 90% capacity are displayed.
 . Click *StorageGRID* tab to view the StorageGRID systems that have exceeded 70% capacity or are nearing 70% capacity.
 . Select the systems for which you want to increase capacity.
-. Click *View Capacity Forecast* to view the capacity details.
+. Click *View Capacity Forecast* to view the capacity forecast for the next 6 months.
 . Click *Request to Add Capacity*.
 . Optionally, provide any comments.
 . Click *Send* to send the request to the NetApp storage team to assist with the capacity addition.
