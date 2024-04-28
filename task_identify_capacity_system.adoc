@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_identify_capacity_system.html
-keywords: capacity, space, increase,
+keywords: capacity, space, increase, ONTAP systems, StorageGRID
 summary: Provides information to increase the capacity of the system.
 ---
 
@@ -14,15 +14,17 @@ summary: Provides information to increase the capacity of the system.
 :imagesdir: ./media/
 
 [.lead]
-Proactively identify systems reaching capacity limits and send a request through live chat to increase the capacity of your storage system.
+Proactively identify systems reaching capacity limits and send a request to increase the capacity of your storage system.
 
-You can view systems that have exceeded 90% capacity or are to exceed 90% capacity in 1, 3, and 6 months. Chat with a salesperson to raise capacity addition requests easily and get real-time assistance.
+For ONTAP, you can view systems that have exceeded 90% capacity or are to exceed 90% capacity in 1, 3, and 6 months. For StorageGRID, you can view systems that have exceeded 70% capacity or are to exceed 70% capacity in 1, 3, and 6 months. 
 
 .Steps
-. In the *Planning* widget, click *Capacity Additions* to view the systems that have exceeded 90% capacity or are nearing 90% capacity.
+. In the *Planning* widget, click *Capacity Additions*.
 +
-You can view the number of systems that have exceeded 90% capacity or are to exceed 90% capacity in the next 1, 3, and 6 months.
-. Select a card to view the systems.
-. Select the systems for which you want to increase capacity  and click *Contact Sales*.
-. Verify your contact details.
-. Copy and paste up to five hostnames into the chat to raise capacity addition requests.
+By default, the ONTAP systems that have exceeded 90% capacity or are nearing 90% capacity are displayed.
+. Click *StorageGRID* tab to view the StorageGRID systems that have exceeded 70% capacity or are nearing 70% capacity.
+. Select the systems for which you want to increase capacity.
+. Click *View Capacity Forecast* to view the capacity forecast for the next 6 months.
+. Click *Request to Add Capacity*.
+. Optionally, provide any comments.
+. Click *Send* to send the request to the NetApp storage team to assist with the capacity addition for the selected systems.
