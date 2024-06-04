@@ -19,6 +19,11 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 15 May 2024
+
+=== Sustainability 
+##Sustainability is now supported on E-Series and StorageGRID systems.##
+
 == 28 March 2024
 
 === Upgrade Advisor
