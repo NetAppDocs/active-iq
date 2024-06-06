@@ -27,7 +27,7 @@ Starting in November 2022, Digital Advisor users will be encouraged to use Digit
 You can access Digital Advisor from BlueXP to manage your cluster.
 
 .Steps
-. Open a web browser and go to https://cloudmanager.netapp.com/app-redirect/active-iq[BlueXP^]
+. Open a web browser and go to https://cloudmanager.netapp.com/app-redirect/active-iq[BlueXP^].
 
 . Select *Log in with your NetApp Support Site Credentials* and enter your credentials.
 +
@@ -43,4 +43,4 @@ All your existing watchlists and configurations show up and you can now use Digi
 
 == Learn more about BlueXP
 
-https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Go to the BlueXP documentation to learn more^]
+https://docs.netapp.com/us-en/bluexp-family/index.html[Go to the BlueXP documentation to learn more^]
