@@ -18,6 +18,12 @@ Sustainability dashboard provides recommended actions that you can implement to 
 
 NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Cloud Insights. For more information on how to enable Cloud Insights, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
 
+== ##Sustainability score computation##
+
+##The sustainability score is calculated from a set of rules related to storage systems, with each rule contributing a certain number of points based on its importance. For example, there are three rules associated with the storage systems that might be scored as follows: rule 1 at 30 points, rule 2 at 40 points, and rule 3 at 30 points. Adding these scores gives a total of 100 points, which acts as the denominator.
+If storage systems meet all criteria perfectly would achieve a sustainability score of 100%. If systems perform at half the optimal level might achieve a score of 50%. The total points serve as a standard, and it is used to compare the actual performance against the ideal performance. You can implement the recommended actions to enhance compliance with these rules, which will improve the sustainability score.## 
+
+
 == Improve overall sustainability score 
 
 You can follow these steps to improve the overall sustainability score and that focuses on sustainability efforts at company level:
