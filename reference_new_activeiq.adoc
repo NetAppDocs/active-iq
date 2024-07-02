@@ -19,10 +19,15 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 04 July 2024
+
+=== Sustainability dashboard
+##Environmental indicators, including power usage, direct carbon usage, and heat emission that evaluate the environmental health of your storage systems, now provide more precise values based on an advanced predictive model. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].##
+
 == 15 May 2024
 
 === Sustainability dashboard
-Sustainability is now supported on E-Series and StorageGRID systems. You can view a list of recommended actions and environmental indicators that display projections for power, direct carbon usage, and heat from the Sustainability dashboard for these systems. To learn more, see link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
+Sustainability is now supported on E-Series and StorageGRID systems. You can view a list of recommended actions and environmental indicators that display projections for power, direct carbon usage, and heat from the Sustainability dashboard for these systems. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
 
 == 28 March 2024
 
