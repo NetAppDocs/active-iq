@@ -35,6 +35,8 @@ Sustainability is now supported on E-Series and StorageGRID systems. You can vie
 
 The older version of Upgrade Advisor is now deprecated. You can use the enhanced version of Upgrade Advisor to generate upgrade plans for a single cluster and multiple clusters. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view upgrade recommendations and generate an upgrade plan.]
 
+//end::whats-new[]
+
 == 15 March 2024
 
 === Wellness
@@ -51,8 +53,6 @@ The timeline for technical cases is enhanced to view the complete case history f
 === Watchlist
 
 You can now create a watchlist based on Keystone subscription numbers and search for a Keystone subscription using the first three characters of a subscription number or watchlist name.
-
-//end::whats-new[]
 
 == 08 February 2024
 
