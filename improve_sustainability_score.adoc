@@ -20,8 +20,10 @@ NOTE: To get the best results from the dashboard, you must enable AutoSupport. I
 
 == ##Sustainability score computation##
 
-##The sustainability score is calculated from a set of rules related to storage systems, with each rule contributing a certain number of points based on its importance. For example, there are three rules associated with the storage systems that might be scored as follows: rule 1 at 30 points, rule 2 at 40 points, and rule 3 at 30 points. Adding these scores gives a total of 100 points, which acts as the denominator.
+##The sustainability score is calculated based on a set of rules related to storage systems, with each rule addressing specific risks and providing recommended actions for mitigation. Every rule is given a score to reflect its importance. For example, consider three rules for storage systems: maintaining ambient temperature, ensuring ideal capacity utilization, and using a titanium power supply, with scores of 30, 40, and 30 points, respectively. Adding these scores gives a total of 100 points, which acts as the denominator.
 If storage systems meet all criteria perfectly would achieve a sustainability score of 100%. If systems perform at half the optimal level might achieve a score of 50%. The total points serve as a standard, and it is used to compare the actual performance against the ideal performance. You can implement the recommended actions to enhance compliance with these rules, which will improve the sustainability score.## 
+
+NOTE: ##The sustainability score is initially calculated at the cluster level, and then it is aggregated at other levels, such as customer or watchlist level.##
 
 
 == Improve overall sustainability score 
