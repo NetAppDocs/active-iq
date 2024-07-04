@@ -22,7 +22,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 == 04 July 2024
 
 === Sustainability dashboard
-##Environmental indicators that provide insights into the environmental health of your storage systems now provide more precise values for projected power usage, direct carbon usage, and heat emission based on an advanced predictive model. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].##
+Environmental indicators that provide insights into the environmental health of your storage systems now provide more precise values for projected power usage, direct carbon usage, and heat emission based on an advanced predictive model. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
 
 == 15 May 2024
 
