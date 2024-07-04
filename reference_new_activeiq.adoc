@@ -19,16 +19,23 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 04 July 2024
+
+=== Sustainability dashboard
+Environmental indicators that provide insights into the environmental health of your storage systems now provide more precise values for projected power usage, direct carbon usage, and heat emission based on an advanced predictive model. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
+
 == 15 May 2024
 
 === Sustainability dashboard
-Sustainability is now supported on E-Series and StorageGRID systems. You can view a list of recommended actions and environmental indicators that display projections for power, direct carbon usage, and heat from the Sustainability dashboard for these systems. To learn more, see link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
+Sustainability is now supported on E-Series and StorageGRID systems. You can view a list of recommended actions and environmental indicators that display projections for power, direct carbon usage, and heat from the Sustainability dashboard for these systems. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
 
 == 28 March 2024
 
 === Upgrade Advisor
 
 The older version of Upgrade Advisor is now deprecated. You can use the enhanced version of Upgrade Advisor to generate upgrade plans for a single cluster and multiple clusters. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html[Learn how to view upgrade recommendations and generate an upgrade plan.]
+
+//end::whats-new[]
 
 == 15 March 2024
 
@@ -46,8 +53,6 @@ The timeline for technical cases is enhanced to view the complete case history f
 === Watchlist
 
 You can now create a watchlist based on Keystone subscription numbers and search for a Keystone subscription using the first three characters of a subscription number or watchlist name.
-
-//end::whats-new[]
 
 == 08 February 2024
 
