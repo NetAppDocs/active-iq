@@ -20,5 +20,5 @@ You can get help and find more information through various resources.
 
 * link:https://community.netapp.com/t5/Active-IQ-Digital-Advisor-and-AutoSupport/ct-p/autosupport-and-my-autosupport[NetApp Community^]
 * link:https://www.netapp.com/us/documentation/active-iq.aspx[Documentation resources^]
-* link:https://www.netapp.com/pdf.html?item=/media/10439-tr4688pdf.pdf[Security and Privacy of NetApp Telemetry Data^]
+* link:https://www.netapp.com/pdf.html?item=/media/10439-tr-4688pdf.pdf[Security and Privacy of NetApp Telemetry Data^]
 * link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444pdf.pdf[ONTAP AutoSupport and AutoSupport On Demand^]

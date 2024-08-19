@@ -36,7 +36,7 @@ Read the following information to be aware of the widgets that are supported on 
 
 | Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Capacity Additions | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
+| Capacity Additions | S̶u̶p̶p̶o̶r̶t̶e̶d̶ o̶n̶l̶y̶ o̶n̶ O̶N̶T̶A̶P̶ p̶l̶a̶t̶f̶o̶r̶m̶s̶ (̶D̶a̶t̶a̶ O̶N̶T̶A̶P̶ o̶p̶e̶r̶a̶t̶i̶n̶g̶ i̶n̶ 7̶-̶M̶o̶d̶e̶ a̶n̶d̶ c̶l̶u̶s̶t̶e̶r̶e̶d̶ D̶a̶t̶a̶ O̶N̶T̶A̶P̶)̶  ##Supported on clustered Data ONTAP platforms##| S̶u̶p̶p̶o̶r̶t̶e̶d̶ o̶n̶l̶y̶ o̶n̶ O̶N̶T̶A̶P̶ p̶l̶a̶t̶f̶o̶r̶m̶s̶ (̶D̶a̶t̶a̶ O̶N̶T̶A̶P̶ o̶p̶e̶r̶a̶t̶i̶n̶g̶ i̶n̶ 7̶-̶M̶o̶d̶e̶ a̶n̶d̶ c̶l̶u̶s̶t̶e̶r̶e̶d̶ D̶a̶t̶a̶ O̶N̶T̶A̶P̶)̶ ##Supported on clustered Data ONTAP platforms## | S̶u̶p̶p̶o̶r̶t̶e̶d̶ o̶n̶l̶y̶ o̶n̶ O̶N̶T̶A̶P̶ p̶l̶a̶t̶f̶o̶r̶m̶s̶ (̶D̶a̶t̶a̶ O̶N̶T̶A̶P̶ o̶p̶e̶r̶a̶t̶i̶n̶g̶ i̶n̶ 7̶-̶M̶o̶d̶e̶ a̶n̶d̶ c̶l̶u̶s̶t̶e̶r̶e̶d̶ D̶a̶t̶a̶ O̶N̶T̶A̶P̶)̶ ##Supported on clustered Data ONTAP platforms##
 
 | Inventory  | Supported on all platforms | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
 
