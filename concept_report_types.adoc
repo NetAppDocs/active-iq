@@ -22,8 +22,6 @@ The following are the types of reports that are available in Digital Advisor:
 |===
 | Report Name
 | Description
-| ##7̶-̶M̶o̶d̶e̶ U̶p̶g̶r̶a̶d̶e̶ A̶d̶v̶i̶s̶o̶r̶ P̶l̶a̶n̶s̶##
-| P̶r̶o̶v̶i̶d̶e̶s̶ a̶ r̶e̶p̶o̶r̶t̶ a̶b̶o̶u̶t̶ t̶h̶e̶ u̶p̶g̶r̶a̶d̶e̶ a̶d̶v̶i̶s̶o̶r̶ p̶l̶a̶n̶ f̶o̶r̶ 7̶-̶m̶o̶d̶e̶ s̶y̶s̶t̶e̶m̶s̶.̶  T̶h̶i̶s̶ r̶e̶p̶o̶r̶t̶ i̶n̶c̶l̶u̶d̶e̶s̶ i̶n̶f̶o̶r̶m̶a̶t̶i̶o̶n̶ a̶b̶o̶u̶t̶ t̶h̶e̶ H̶A̶ p̶a̶r̶t̶n̶e̶r̶.
 | Ansible Inventory
 | Provides an Ansible inventory file which lists all system inventory details by region or site. This file can be used for automation.
 | Capacity & Efficiency
