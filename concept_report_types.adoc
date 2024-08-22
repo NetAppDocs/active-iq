@@ -22,8 +22,6 @@ The following are the types of reports that are available in Digital Advisor:
 |===
 | Report Name
 | Description
-| 7-Mode Upgrade Advisor Plans
-| Provides a report about the upgrade advisor plan for 7-mode systems.  This report includes information about the HA partner.
 | Ansible Inventory
 | Provides an Ansible inventory file which lists all system inventory details by region or site. This file can be used for automation.
 | Capacity & Efficiency
