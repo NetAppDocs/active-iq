@@ -19,6 +19,11 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 //tag::whats-new[]
 
+== 21 August 2024
+
+=== Reports
+The *7-Mode Upgrade Advisor Plans* report is no longer available as 7-Mode systems have reached the end of limited support. For more information, see link:https://mysupport.netapp.com/site/info/version-support[Software Version Support^]. Learn more about link:https://docs.netapp.com/a/ontap/7-mode/8.2.1/Upgrade-And-Revert-Or-Downgrade-Guide-For-7-Mode.pdf[upgrading the Data ONTAP storage systems operating in 7-Mode^].
+
 == 04 July 2024
 
 === Sustainability dashboard
