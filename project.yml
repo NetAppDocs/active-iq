@@ -11,8 +11,6 @@ sidebar:
   entries:
     - title: Digital Advisor docs
       url: /index.html
-    - title: Digital Advisor integration with BlueXP
-      url: /digital-advisor-integration-with-bluexp.html
     - title: Release notes
       entries:
         - title: What's new
@@ -25,6 +23,8 @@ sidebar:
           url: /concept_getting_started_2.html
         - title: Understand Digital Advisor features
           url: /concept_understand_activeiq_features.html
+        - title: Digital Advisor integration with BlueXP
+          url: /digital-advisor-integration-with-bluexp.html
         - title: Key concepts
           url: /concept_key_terms.html
         - title: What is AutoSupport
@@ -39,6 +39,8 @@ sidebar:
           url: /task_add_watchlist.html
         - title: Manage a watchlist
           url: /task_manage_watchlists.html
+    - title: Frequently asked questions
+      url: reference_aiq_faq.html
     - title: Analyze wellness attributes
       entries:
         - title: Overview
@@ -59,7 +61,7 @@ sidebar:
           url: /task_avoid_the_downtime_and_possible_data_loss.html
         - title: Subscribe to wellness review email
           url: /task_subscribe_to_wellness_review_email.html
-        - title: Renew the software and hardware
+        - title: Renew the software and hardware of your storage system
           url: /task_renew_software_and_hardware.html
         - title: Analyze the wellness of clusters and nodes
           url: /task_analyze_wellness_clusters_and_nodes.html
@@ -73,12 +75,6 @@ sidebar:
           url: /BlueXP_sustainability_dashboard_overview.html
         - title: Improve sustainability score
           url: /improve_sustainability_score.html
-    - title: Generate an upgrade plan
-      entries:
-        - title: Overview
-          url: /upgrade_advisor_overview.html
-        - title: Generate an upgrade plan for single cluster and multiple clusters
-          url: /generate_upgrade_plan_single_multiple_clusters.html
     - title: View system details
       entries:
         - title: View inventory details
@@ -115,6 +111,12 @@ sidebar:
           url: /task_generate_drift_timeline_report.html
         - title: Manage a template
           url: /task_manage_template.html
+    - title: Generate an upgrade plan
+      entries:
+        - title: Overview
+          url: /upgrade_advisor_overview.html
+        - title: Generate an upgrade plan for single cluster and multiple clusters
+          url: /generate_upgrade_plan_single_multiple_clusters.html
     - title: Improve the efficiency and performance of your storage system
       entries:
         - title: Analyze capacity and efficiency savings
@@ -151,8 +153,6 @@ sidebar:
                   url: /task_execute_ansible_playbook_without_docker.html
                 - title: Validate firmware installation
                   url: /task_validate_firmware_installation.html
-                - title: Troubleshooting, Feedback and Support
-                  url: /reference_ansible_troubleshoot_feedback_support.html
     - title: Integrate data using APIs
       entries:
         - title: Overview
@@ -167,13 +167,14 @@ sidebar:
           url: /concept_report_types.html
         - title: Generate reports
           url: /task_generate_reports.html
-    - title: Frequently asked questions
-      url: reference_aiq_faq.html
-    - title: Get more information
-      url: /concept_get_more_information.html
+    - title: Knowledge and Support
+      entries:
+        - title: Register for support
+          url: /reference_ansible_troubleshoot_feedback_support.html
+        - title: Get help
+          url: /concept_get_more_information.html
     - title: Legal notices
       url: /legal-notices.html
 product-family:
   name: BlueXP
   repo: cloud-manager-family
-
