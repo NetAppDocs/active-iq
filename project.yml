@@ -49,7 +49,7 @@ sidebar:
               url: /concept_overview_wellness.html
             - title: View the risk and manually take corrective actions
               url: /task_view_risk_and_take_action.html
-            - title: Detect Security Vulnerability
+            - title: Detect security vulnerability
               url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
             - title: Protect systems against ransomware risks
               url: /task_protect_systems_against_ransomware_risks.html
@@ -57,9 +57,9 @@ sidebar:
               url: /task_view_and_acknowledge_risks.html
             - title: View wellness history
               url: /task_view_wellness_history.html
-            - title: View risks that can be automatically mitigated using Active IQ Unified Manager or Ansible Playbook
+            - title: View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
               url: /task_view_risks_remediated_unified_manager.html
-            - title: Avoid the downtime and possible data loss
+            - title: Avoid downtime and possible data loss
               url: /task_avoid_the_downtime_and_possible_data_loss.html
             - title: Subscribe to wellness review email
               url: /task_subscribe_to_wellness_review_email.html
@@ -77,15 +77,21 @@ sidebar:
               url: /BlueXP_sustainability_dashboard_overview.html
             - title: Improve sustainability score
               url: /improve_sustainability_score.html
+        - title: Generate an upgrade plan
+          entries:
+            - title: Overview
+              url: /upgrade_advisor_overview.html
+            - title: Generate an upgrade plan for single cluster and multiple clusters
+              url: /generate_upgrade_plan_single_multiple_clusters.html              
         - title: View system details
           entries:
             - title: View inventory details
               url: /task_view_inventory_details.html
-            - title: Integrating with Cloud Insights to view Virtual Machines details
+            - title: Integrating with Cloud Insights to view virtual machines details
               url: /task-integrating-with-cloud-insights-to-view-vm-details.html
             - title: View valuable insights
               url: /task_view_valuable_insight_widget.html
-            - title: View capacity utilization with NetApp Keystone Subscription
+            - title: View capacity utilization with NetApp Keystone subscription
               url: /view_keystone_capacity_utilization.html
         - title: Identify system requirements proactively
           entries:
@@ -113,12 +119,6 @@ sidebar:
               url: /task_generate_drift_timeline_report.html
             - title: Manage a template
               url: /task_manage_template.html
-        - title: Generate an upgrade plan
-          entries:
-            - title: Overview
-              url: /upgrade_advisor_overview.html
-            - title: Generate an upgrade plan for single cluster and multiple clusters
-              url: /generate_upgrade_plan_single_multiple_clusters.html
         - title: Improve the efficiency and performance of your storage system
           entries:
             - title: Analyze capacity and efficiency savings
@@ -129,7 +129,7 @@ sidebar:
           entries:
             - title: Overview
               url: /concept_understand_health_check_dashboard.html
-            - title: Get started with Health Check Dashboard
+            - title: Get started with Health Check dashboard
               url: /concept_get_started_with_health_check_dashboard.html
             - title: Renew your support contracts
               url: /task_renew_support_contracts_for_your_systems.html
@@ -141,13 +141,13 @@ sidebar:
               entries:
                 - title: Download the AFF and FAS firmware Ansible Automation package
                   url: /task_update_AFF_FAS_firmware.html
-                - title: Install and execute the AFF and FAS firmware Ansible Automation package (Experienced Users)
+                - title: Install and execute the AFF and FAS firmware Ansible Automation package (experienced users)
                   url: /task_install_execute_firmware_update_exp_user.html
-                - title: Install and execute the AFF and FAS firmware Ansible Automation package (Beginners)
+                - title: Install and execute the AFF and FAS firmware Ansible Automation package (beginners)
                   entries:
                     - title: Host Firmware files using web server
                       url: /task_hosting_firmware_files_using_web_server.html
-                    - title: Work with Inventory file
+                    - title: Work with inventory file
                       url: /concept_working_with_inventory_file.html
                     - title: Execute Ansible playbook using NetApp Docker image
                       url: /task_execute_ansible_playbook_using_docker.html
