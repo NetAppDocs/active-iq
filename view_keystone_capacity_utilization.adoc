@@ -5,7 +5,7 @@ keywords: keystone, capacity utilization, service tiers, Keystone subscription, 
 summary: Provides information on your capacity utilization with NetApp Keystone Subscription.
 ---
 
-= View capacity utilization with NetApp Keystone Subscription
+= View capacity utilization with NetApp Keystone subscription
 :toclevels: 1
 :hardbreaks:
 :nofooter:

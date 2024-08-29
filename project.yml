@@ -47,7 +47,7 @@ sidebar:
           entries:
             - title: Overview
               url: /concept_overview_wellness.html
-            - title: View the risk and manually take corrective actions
+            - title: View risk and manually take corrective actions
               url: /task_view_risk_and_take_action.html
             - title: Detect security vulnerability
               url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
@@ -60,12 +60,12 @@ sidebar:
             - title: View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
               url: /task_view_risks_remediated_unified_manager.html
             - title: Avoid downtime and possible data loss
-              url: /task_avoid_the_downtime_and_possible_data_loss.html
+              url: /task_avoid_downtime_and_possible_data_loss.html
             - title: Subscribe to wellness review email
               url: /task_subscribe_to_wellness_review_email.html
-            - title: Renew the software and hardware of your storage system
+            - title: Renew software and hardware of your storage system
               url: /task_renew_software_and_hardware.html
-            - title: Analyze the wellness of clusters and nodes
+            - title: Analyze wellness of clusters and nodes
               url: /task_analyze_wellness_clusters_and_nodes.html
         - title: Analyze the sustainability of your storage system
           entries:
@@ -103,7 +103,7 @@ sidebar:
               url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
             - title: Evaluate a technology refresh
               url: /evaluate-tech-refresh.html
-            - title: Renew the software and hardware of your storage system
+            - title: Renew software and hardware of your storage system
               url: /task_renew_software_and_hardware.html
         - title: Make informed decisions based on cloud recommendations
           url: /task-informed-decisions-based-on-cloud-recommendations.html
@@ -121,7 +121,7 @@ sidebar:
               url: /task_manage_template.html
         - title: Improve the efficiency and performance of your storage system
           entries:
-            - title: Analyze capacity and efficiency savings
+            - title: Analyze capacity and storage efficiency savings
               url: /task_analyze_storage_efficiency.html
             - title: Analyze performance graphs
               url: /task_view_performance_graphs.html
@@ -139,13 +139,13 @@ sidebar:
               url: /task_upgrade_support_offering.html
             - title: Update your AFF and FAS firmware using Ansible Playbook
               entries:
-                - title: Download the AFF and FAS firmware Ansible Automation package
+                - title: Download AFF and FAS firmware Ansible Automation package
                   url: /task_update_AFF_FAS_firmware.html
-                - title: Install and execute the AFF and FAS firmware Ansible Automation package (experienced users)
+                - title: Install and execute AFF and FAS firmware Ansible automation package (experienced users)
                   url: /task_install_execute_firmware_update_exp_user.html
-                - title: Install and execute the AFF and FAS firmware Ansible Automation package (beginners)
+                - title: Install and execute AFF and FAS firmware Ansible automation package (beginners)
                   entries:
-                    - title: Host Firmware files using web server
+                    - title: Host firmware files using web server
                       url: /task_hosting_firmware_files_using_web_server.html
                     - title: Work with inventory file
                       url: /concept_working_with_inventory_file.html
@@ -161,7 +161,7 @@ sidebar:
               url: /concept_overview_API_service.html
             - title: Generate tokens to access APIs
               url: /task_generate_tokens_API_services.html
-            - title: Use the API Catalog to execute APIs
+            - title: Use API Catalog to execute APIs
               url: /task_view_API_catalog.html
         - title: Generate custom reports
           entries:
