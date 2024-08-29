@@ -414,7 +414,7 @@ For real-time assistance on your capacity addition requests, chat with a salespe
 == 29 April 2021
 
 * Here's how to protect your systems against hackers and Ransomware attacks. link:https://docs.netapp.com/us-en/active-iq/task_increase_protection_against_hackers_and_Ransomware_attacks.html[Learn how].
-* You can avoid downtime and possible data loss. link:https://docs.netapp.com/us-en/active-iq/task_avoid_downtime_and_possible_data_loss.html[Learn how].
+* You can avoid the downtime and possible data loss. link:https://docs.netapp.com/us-en/active-iq/task_avoid_the_downtime_and_possible_data_loss.html[Learn how].
 * Learn how to avoid a volume filling up to prevent an outage. link:https://docs.netapp.com/us-en/active-iq/task_avoid_a_volume_filling_up_to_prevent_an_outage.html[Learn how].
 
 == 07 April 2021
