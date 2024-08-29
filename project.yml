@@ -60,7 +60,7 @@ sidebar:
             - title: View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
               url: /task_view_risks_remediated_unified_manager.html
             - title: Avoid downtime and possible data loss
-              url: /task_avoid_downtime_and_possible_data_loss.html
+              url: /task_avoid_the_downtime_and_possible_data_loss.html
             - title: Subscribe to wellness review email
               url: /task_subscribe_to_wellness_review_email.html
             - title: Renew software and hardware of your storage system
