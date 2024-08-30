@@ -159,7 +159,7 @@ sidebar:
           entries:
             - title: Overview
               url: /concept_overview_API_service.html
-            - title: Generate tokens to access APIs
+            - title: Generate tokens to use APIs
               url: /task_generate_tokens_API_services.html
             - title: Use API Catalog to execute APIs
               url: /task_view_API_catalog.html
