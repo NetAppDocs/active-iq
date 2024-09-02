@@ -5,7 +5,7 @@ keywords: activeiq, health check, health, HCA, health check dashboard, health ch
 summary: Provides information to familiarize yourself with the Health Check Dashboard.
 ---
 
-= Understand Health Check Dashboard
+= Understand Health Check dashboard
 :toclevels: 1
 :hardbreaks:
 :nofooter:
@@ -14,8 +14,8 @@ summary: Provides information to familiarize yourself with the Health Check Dash
 :imagesdir: ./media/
 
 [.lead]
-The Digital Advisor Health Check Dashboard provides a point-in-time review of your overall environment.
+The Digital Advisor Health Check dashboard provides a point-in-time review of your overall environment.
 
 Based on the health check score, you can align your storage systems to the recommended NetApp best practices to facilitate long-term planning. It helps you monitor all the systems running on software and hardware through a centralized user interface. Health Check scores enable you to quickly gain insights about system risks. The key recommendations and best practices help you take actions to improve the health of your installed base.
 
-NOTE: You can access the Health Check Dashboard only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
+NOTE: You can access the Health Check dashboard only through NetApp SupportEdge Advisor and SupportEdge Expert service offerings.
