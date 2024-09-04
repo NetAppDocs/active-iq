@@ -5,7 +5,7 @@ keywords: downtime, data loss, avoid downtime, avoid data loss
 summary: Provides information on how to avoid the downtime and possible data loss.
 ---
 
-= Avoid the downtime and possible data loss
+= Avoid downtime and possible data loss
 :toclevels: 1
 :hardbreaks:
 :nofooter:

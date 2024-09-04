@@ -12,8 +12,6 @@ sidebar:
   entries:
     - title: Digital Advisor docs
       url: /index.html
-    - title: Digital Advisor integration with BlueXP
-      url: /digital-advisor-integration-with-bluexp.html
     - title: Release notes
       entries:
         - title: What's new
@@ -26,156 +24,163 @@ sidebar:
           url: /concept_getting_started_2.html
         - title: Understand Digital Advisor features
           url: /concept_understand_activeiq_features.html
+        - title: Digital Advisor integration with BlueXP
+          url: /digital-advisor-integration-with-bluexp.html
         - title: Key concepts
           url: /concept_key_terms.html
         - title: What is AutoSupport
           url: /concept_autosupport.html
         - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
-    - title: Provision watchlist
-      entries:
-        - title: Overview
-          url: /concept_overview_dashboard.html
-        - title: Create a watchlist
-          url: /task_add_watchlist.html
-        - title: Manage a watchlist
-          url: /task_manage_watchlists.html
-    - title: Analyze wellness attributes
-      entries:
-        - title: Overview
-          url: /concept_overview_wellness.html
-        - title: View the risk and manually take corrective actions
-          url: /task_view_risk_and_take_action.html
-        - title: Detect Security Vulnerability
-          url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
-        - title: Protect systems against ransomware risks
-          url: /task_protect_systems_against_ransomware_risks.html
-        - title: View and acknowledge the risk
-          url: /task_view_and_acknowledge_risks.html
-        - title: View wellness history
-          url: /task_view_wellness_history.html
-        - title: View the risks that can be automatically mitigated using Active IQ Unified Manager or Ansible Playbook
-          url: /task_view_risks_remediated_unified_manager.html
-        - title: Avoid the downtime and possible data loss
-          url: /task_avoid_the_downtime_and_possible_data_loss.html
-        - title: Subscribe to wellness review email
-          url: /task_subscribe_to_wellness_review_email.html
-        - title: Renew the software and hardware
-          url: /task_renew_software_and_hardware.html
-        - title: Analyze the wellness of clusters and nodes
-          url: /task_analyze_wellness_clusters_and_nodes.html
-    - title: Analyze the sustainability of your storage systems
-      entries:
-        - title: Learn about sustainability
-          url: /learn_BlueXP_sustainability.html
-        - title: Access Sustainability dashboard
-          url: /get_started_sustainability_dashboard.html
-        - title: Sustainability dashboard overview
-          url: /BlueXP_sustainability_dashboard_overview.html
-        - title: Improve sustainability score
-          url: /improve_sustainability_score.html
-    - title: Generate an upgrade plan
-      entries:
-        - title: Overview
-          url: /upgrade_advisor_overview.html
-        - title: Generate an upgrade plan for single cluster and multiple clusters
-          url: /generate_upgrade_plan_single_multiple_clusters.html
-    - title: View system details
-      entries:
-        - title: View inventory details
-          url: /task_view_inventory_details.html
-        - title: Integrating with Cloud Insights to view Virtual Machines details
-          url: /task-integrating-with-cloud-insights-to-view-vm-details.html
-        - title: View valuable insights
-          url: /task_view_valuable_insight_widget.html
-        - title: View Keystone Subscription capacity utilization
-          url: /view_keystone_capacity_utilization.html
-    - title: Identify system requirements proactively
-      entries:
-        - title: Overview
-          url: /concept_overview_planning.html
-        - title: Identify systems reaching capacity limits
-          url: /task_identify_capacity_system.html
-        - title: Avoid a volume filling up to prevent an outage
-          url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
-        - title: Evaluate a technology refresh
-          url: /evaluate-tech-refresh.html
-        - title: Renew the software and hardware
-          url: /task_renew_software_and_hardware.html
-    - title: Make informed decisions based on cloud recommendations
-      url: /task-informed-decisions-based-on-cloud-recommendations.html
-    - title: Identify configuration deviations
-      entries:
-        - title: Overview
-          url: /concept_overview_config_drift.html
-        - title: Add a config drift template
-          url: /task_add_config_drift_template.html
-        - title: Compare a config drift template
-          url: /task_compare_config_drift_template.html
-        - title: Generate drift timeline report
-          url: /task_generate_drift_timeline_report.html
-        - title: Manage a template
-          url: /task_manage_template.html
-    - title: Improve the efficiency and performance of your storage system
-      entries:
-        - title: Analyze capacity and efficiency savings
-          url: /task_analyze_storage_efficiency.html
-        - title: Analyze storage performance
-          url: /task_view_performance_graphs.html
-    - title: Analyze the health of your storage system
-      entries:
-        - title: Overview
-          url: /concept_understand_health_check_dashboard.html
-        - title: Get started with Health Check Dashboard
-          url: /concept_get_started_with_health_check_dashboard.html
-        - title: Renew your support contracts
-          url: /task_renew_support_contracts_for_your_systems.html
-    - title: Upgrade to optimize your install base
-      entries:
-        - title: Upgrade the support offering
-          url: /task_upgrade_support_offering.html
-        - title: Update your AFF and FAS firmware using Ansible Playbook
+        - title: Provision watchlist
           entries:
-            - title: Download the AFF and FAS firmware Ansible Automation package
-              url: /task_update_AFF_FAS_firmware.html
-            - title: Install and execute the AFF and FAS firmware Ansible Automation package (Experienced Users)
-              url: /task_install_execute_firmware_update_exp_user.html
-            - title: Install and execute the AFF and FAS firmware Ansible Automation package (Beginners)
+            - title: Overview
+              url: /concept_overview_dashboard.html
+            - title: Create a watchlist
+              url: /task_add_watchlist.html
+            - title: Manage a watchlist
+              url: /task_manage_watchlists.html
+        - title: FAQs
+          url: reference_aiq_faq.html
+    - title: Use Digital Advisor
+      entries:
+        - title: Analyze wellness attributes
+          entries:
+            - title: Overview
+              url: /concept_overview_wellness.html
+            - title: View risk and manually take corrective actions
+              url: /task_view_risk_and_take_action.html
+            - title: Detect security vulnerability
+              url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
+            - title: Protect systems against ransomware risks
+              url: /task_protect_systems_against_ransomware_risks.html
+            - title: View and acknowledge the risk
+              url: /task_view_and_acknowledge_risks.html
+            - title: View wellness history
+              url: /task_view_wellness_history.html
+            - title: View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
+              url: /task_view_risks_remediated_unified_manager.html
+            - title: Avoid downtime and possible data loss
+              url: /task_avoid_the_downtime_and_possible_data_loss.html
+            - title: Subscribe to wellness review email
+              url: /task_subscribe_to_wellness_review_email.html
+            - title: Renew software and hardware of your storage system
+              url: /task_renew_software_and_hardware.html
+            - title: Analyze wellness of clusters and nodes
+              url: /task_analyze_wellness_clusters_and_nodes.html
+        - title: Analyze the sustainability of your storage system
+          entries:
+            - title: Learn about sustainability
+              url: /learn_BlueXP_sustainability.html
+            - title: Get started with Sustainability dashboard
+              url: /get_started_sustainability_dashboard.html
+            - title: Sustainability dashboard overview
+              url: /BlueXP_sustainability_dashboard_overview.html
+            - title: Improve sustainability score
+              url: /improve_sustainability_score.html
+        - title: Generate an upgrade plan
+          entries:
+            - title: Overview
+              url: /upgrade_advisor_overview.html
+            - title: Generate an upgrade plan for single cluster and multiple clusters
+              url: /generate_upgrade_plan_single_multiple_clusters.html              
+        - title: View system details
+          entries:
+            - title: View inventory details
+              url: /task_view_inventory_details.html
+            - title: Integrating with Cloud Insights to view virtual machines details
+              url: /task-integrating-with-cloud-insights-to-view-vm-details.html
+            - title: View valuable insights
+              url: /task_view_valuable_insight_widget.html
+            - title: View capacity utilization with NetApp Keystone subscription
+              url: /view_keystone_capacity_utilization.html
+        - title: Identify system requirements proactively
+          entries:
+            - title: Overview
+              url: /concept_overview_planning.html
+            - title: Identify systems reaching capacity limits
+              url: /task_identify_capacity_system.html
+            - title: Avoid a volume filling up to prevent an outage
+              url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
+            - title: Evaluate a technology refresh
+              url: /evaluate-tech-refresh.html
+            - title: Renew software and hardware of your storage system
+              url: /task_renew_software_and_hardware.html
+        - title: Make informed decisions based on cloud recommendations
+          url: /task-informed-decisions-based-on-cloud-recommendations.html
+        - title: Identify configuration deviation
+          entries:
+            - title: Overview
+              url: /concept_overview_config_drift.html
+            - title: Add a config drift template
+              url: /task_add_config_drift_template.html
+            - title: Compare a config drift template
+              url: /task_compare_config_drift_template.html
+            - title: Generate a drift timeline report
+              url: /task_generate_drift_timeline_report.html
+            - title: Manage a template
+              url: /task_manage_template.html
+        - title: Improve the efficiency and performance of your storage system
+          entries:
+            - title: Analyze capacity and storage efficiency savings
+              url: /task_analyze_storage_efficiency.html
+            - title: Analyze performance graphs
+              url: /task_view_performance_graphs.html
+        - title: Analyze the health of your storage system
+          entries:
+            - title: Overview
+              url: /concept_understand_health_check_dashboard.html
+            - title: Get started with Health Check dashboard
+              url: /concept_get_started_with_health_check_dashboard.html
+            - title: Renew your support contracts
+              url: /task_renew_support_contracts_for_your_systems.html
+        - title: Upgrade to optimize your install base
+          entries:
+            - title: Upgrade the support offering
+              url: /task_upgrade_support_offering.html
+            - title: Update your AFF and FAS firmware using Ansible Playbook
               entries:
-                - title: Host Firmware files using web server
-                  url: /task_hosting_firmware_files_using_web_server.html
-                - title: Work with Inventory file
-                  url: /concept_working_with_inventory_file.html
-                - title: Execute Ansible playbook using NetApp Docker image
-                  url: /task_execute_ansible_playbook_using_docker.html
-                - title: Execute Ansible playbook without Docker
-                  url: /task_execute_ansible_playbook_without_docker.html
-                - title: Validate firmware installation
-                  url: /task_validate_firmware_installation.html
-                - title: Troubleshooting, Feedback and Support
-                  url: /reference_ansible_troubleshoot_feedback_support.html
-    - title: Integrate data using APIs
+                - title: Download AFF and FAS firmware Ansible Automation package
+                  url: /task_update_AFF_FAS_firmware.html
+                - title: Install and execute AFF and FAS firmware Ansible automation package (experienced users)
+                  url: /task_install_execute_firmware_update_exp_user.html
+                - title: Install and execute AFF and FAS firmware Ansible automation package (beginners)
+                  entries:
+                    - title: Host firmware files using web server
+                      url: /task_hosting_firmware_files_using_web_server.html
+                    - title: Work with inventory file
+                      url: /concept_working_with_inventory_file.html
+                    - title: Execute Ansible playbook using NetApp Docker image
+                      url: /task_execute_ansible_playbook_using_docker.html
+                    - title: Execute Ansible playbook without NetApp Docker image
+                      url: /task_execute_ansible_playbook_without_docker.html
+                    - title: Validate firmware installation
+                      url: /task_validate_firmware_installation.html
+        - title: Integrate data using APIs
+          entries:
+            - title: Overview
+              url: /concept_overview_API_service.html
+            - title: Generate tokens to use APIs
+              url: /task_generate_tokens_API_services.html
+            - title: Use API Catalog to execute APIs
+              url: /task_view_API_catalog.html
+        - title: Generate custom reports
+          entries:
+            - title: Types of reports
+              url: /concept_report_types.html
+            - title: Generate reports
+              url: /task_generate_reports.html
+    - title: Knowledge and support
       entries:
-        - title: Overview
-          url: /concept_overview_API_service.html
-        - title: Generate tokens to access APIs
-          url: /task_generate_tokens_API_services.html
-        - title: Use the API Catalog to execute APIs
-          url: /task_view_API_catalog.html
-    - title: Generate custom reports
-      entries:
-        - title: Types of reports
-          url: /concept_report_types.html
-        - title: Generate reports
-          url: /task_generate_reports.html
-    - title: Frequently asked questions
-      url: reference_aiq_faq.html
-    - title: Get more information
-      url: /concept_get_more_information.html
+        - title: Register for support
+          url: /reference_ansible_troubleshoot_feedback_support.html
+        - title: Get help
+          url: /concept_get_more_information.html
     - title: Legal notices
       url: /legal-notices.html
 product-family:
   name: BlueXP
   repo: cloud-manager-family
+
 
 
