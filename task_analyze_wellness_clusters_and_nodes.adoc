@@ -5,7 +5,7 @@ keywords: cluster, node, clusterviewer, configuration
 summary: Provides information on ClusterViewer.
 ---
 
-= Analyze the wellness of clusters and nodes
+= Analyze wellness of clusters and nodes
 :toclevels: 1
 :hardbreaks:
 :nofooter:

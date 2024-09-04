@@ -5,7 +5,7 @@ keywords: wellness, performance, efficiency, availability, capacity, security vu
 summary: Provides information to view and analyze the wellness of your storage system and mitigate the risks.
 ---
 
-= View the risk and manually take corrective actions
+= View risk and manually take corrective actions
 :toclevels: 1
 :hardbreaks:
 :nofooter:
