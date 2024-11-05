@@ -7,8 +7,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
-  release_notes_autogen:
-    release_notes_repo: bluexp-relnotes    
+   
 sidebar:
   entries:
     - title: Digital Advisor docs
