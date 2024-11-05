@@ -1,0 +1,2 @@
+=== Sustainability dashboard
+Environmental indicators that provide insights into the environmental health of your storage systems now provide more precise values for projected power usage, direct carbon usage, and heat emission based on an advanced predictive model. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview].

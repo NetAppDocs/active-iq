@@ -7,6 +7,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
+   
 sidebar:
   entries:
     - title: Digital Advisor docs
