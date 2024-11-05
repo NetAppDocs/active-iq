@@ -1,0 +1,2 @@
+=== Support offerings
+NetApp SupportEdge Basic service offering now includes all Digital Advisor features available in SupportEdge Advisor and SupportEdge Expert, except for Full-Stack Topology (VMware), which does not provide visibility into VMware full-stack monitoring, even if enabled.
