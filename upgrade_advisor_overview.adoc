@@ -21,7 +21,6 @@ You can generate automated nondisruptive upgrade plans for a single cluster and 
 [NOTE]
 ====
 * For each cluster in a MetroCluster configuration, generate an individual upgrade plan for complete upgrade instructions.
-* For clusters running ONTAP 9.6 or older versions, you can view the information about new features and enhancements in upgrade recommendations. The pre-upgrade check report and risk summary are unavailable, and you can generate an upgrade plan in the older format.
 ====
 
 Before generating an upgrade plan, you should prepare for an ONTAP upgrade. Proper preparation helps in identifying and mitigating potential upgrade risks or blockers before you begin the upgrade process. To learn more, see link:https://docs.netapp.com/us-en/ontap/upgrade/prepare.html[Prepare for an ONTAP upgrade^].

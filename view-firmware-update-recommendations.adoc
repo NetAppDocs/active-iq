@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: view-firmware-update-recommendations.html
+keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP/BMC firmware, system files, security files
+summary: View update recommendations of storage firmware, SP/BMC firmware, system files, and security files.
+---
+
+= View update recommendations
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can use upgrade advisor to view the storage firmware, SP/BMC firmware, system files, and security files that are eligible for an update. 
+
+.Steps
+. On the dashboard page, click *Other recommendations* in the *Upgrade Advisor* widget.
+. Click *View recommendations* to view the list of recommendations.
+
+You can view the available storage firmware, SP/BMC firmware, system files, and security files.
+[start=3]
+. In the *Update Status* column, click *See progress* to view the clusters that are eligible for an update.
+

@@ -1,0 +1,2 @@
+=== Upgrade Advisor
+You can now view the storage firmware, SP/BMC firmware, system files, and security files that are recommended for an update. 
