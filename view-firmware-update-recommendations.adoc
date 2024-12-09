@@ -16,7 +16,7 @@ summary: View update recommendations of storage firmware, SP/BMC firmware, syste
 [.lead]
 Customers can now save time and effort by allowing Control Tower to automatically update their systems with the latest firmware versions, eliminating the need for manual intervention or scheduling. This update reduces the risk of encountering issues due to outdated or incompatible firmware versions, ensuring optimal system performance, stability, and security. 
 
-Customers will receive timely notifications and alerts about the status of the firmware updates, with options to retry failed updates or enable auto-update settings.
+Customers will receive timely notifications and alerts about the status of the firmware updates, with options to enable AutoSupport and auto-update settings.
 
 .Steps
 . On the dashboard page, click *Other recommendations* in the *Upgrade Advisor* widget.
