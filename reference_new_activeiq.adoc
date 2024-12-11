@@ -19,9 +19,9 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 // tag::whats-new[]
 
-== 11 December 2024
+== 12 December 2024
 
-include::_whatsnew/2024-12-11.adoc[]
+include::_whatsnew/2024-12-12.adoc[]
 
 == 23 September 2024
 
