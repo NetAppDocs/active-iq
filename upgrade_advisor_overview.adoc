@@ -20,7 +20,7 @@ You can generate automated nondisruptive upgrade plans for a single cluster and 
 
 [NOTE]
 ====
-* For each cluster in a MetroCluster configuration, generate an individual upgrade plan for complete upgrade instructions.
+For each cluster in a MetroCluster configuration, generate an individual upgrade plan for complete upgrade instructions.
 ====
 
 Before generating an upgrade plan, you should prepare for an ONTAP upgrade. Proper preparation helps in identifying and mitigating potential upgrade risks or blockers before you begin the upgrade process. To learn more, see link:https://docs.netapp.com/us-en/ontap/upgrade/prepare.html[Prepare for an ONTAP upgrade^].
