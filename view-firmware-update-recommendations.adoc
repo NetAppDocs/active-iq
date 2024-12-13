@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: view-firmware-update-recommendations.html
+keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP/BMC firmware, system files, security files
+summary: View update recommendations of storage firmware, SP/BMC firmware, system files, and security files.
+---
+
+= View firmware update recommendations
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Customers can now save time and effort by allowing Control Tower to automatically update their systems with the latest firmware versions, eliminating the need for manual intervention or scheduling. This update reduces the risk of encountering issues due to outdated or incompatible firmware versions, ensuring optimal system performance, stability, and security. 
+
+Customers will receive timely notifications and alerts about the status of the firmware updates, with options to enable AutoSupport and auto-update settings.
+
+.Steps
+. On the dashboard page, click *Other recommendations* in the *Upgrade Advisor* widget.
+. Click *View recommendations* to view the list of recommendations.
+. In the *Update Status* column, click *See progress* to view the clusters that are eligible for an update.
+. In case of any issues, click on the respective links to view the steps to mitigate the issues.
+

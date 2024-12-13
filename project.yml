@@ -84,7 +84,9 @@ sidebar:
             - title: Overview
               url: /upgrade_advisor_overview.html
             - title: Generate an upgrade plan for single cluster and multiple clusters
-              url: /generate_upgrade_plan_single_multiple_clusters.html              
+              url: /generate_upgrade_plan_single_multiple_clusters.html      
+            - title: View firmware update recommendations
+              url: /view-firmware-update-recommendations.html            
         - title: View system details
           entries:
             - title: View inventory details

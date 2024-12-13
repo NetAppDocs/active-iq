@@ -1,0 +1,2 @@
+=== Upgrade Advisor
+You can now view the storage firmware, SP/BMC firmware, and Autonomous Ransomware Package (ARP) that are recommended for an update. link:https://docs.netapp.com/us-en/active-iq/view-firmware-update-recommendations.html[Learn how to view firmware update recommendations].
