@@ -31,3 +31,12 @@ Scheduled reports are available only with a SupportEdge Advisor or a SupportEdge
 
 == Acknowledged and unacknowledged risks may take 60 minutes to reflect in Digital Advisor
 The status of the risks that are acknowledged and unacknowledged do not reflect immediately in Digital Advisor. It may take up to 60 minutes for the changes to reflect in Digital Advisor and in wellness report.
+
+== AutoSupport Widget not available for cluster and serial numbers
+The AutoSupport widget will not provide alerts for cluster and serial number searches.
+
+== AutoSupport Widget not able to drill down to serial level AutoSupport details
+On the AutoSupport Reporting page, clicking on any of the statuses, systems that recently stopped sending, or systems that have AutoSupport turned off does not navigate to the Health Check screen. 
+
+== Filtering and sorting are not available in the Inventory widget
+You cannot filter and sort data in the inventory widget. No data is displayed if you select ONTAP AFF, ONTAP ASA, ONTAP Edge, or ONTAP Select in the "Filter by" drop-down.

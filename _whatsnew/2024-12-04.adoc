@@ -1,0 +1,2 @@
+=== AutoSupport Widget
+The AutoSupport widget has been added to the main dashboard screen to alert customers about the AutoSupport status-related issues.
