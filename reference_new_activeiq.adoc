@@ -23,16 +23,19 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 include::_whatsnew/2024-12-12.adoc[]
 
+== 04 December 2024
+
+include::_whatsnew/2024-12-04.adoc[]
+
 == 23 September 2024
 
 include::_whatsnew/2024-09-23.adoc[]
 
+// end::whats-new[]
+
 == 21 August 2024
 
 include::_whatsnew/2024-08-21.adoc[]
-
-
-// end::whats-new[]
 
 == 04 July 2024
 
