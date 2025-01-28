@@ -18,36 +18,66 @@ Digital Advisor provides a variety of reporting options that enable you to monit
 
 The following are the types of reports that are available in Digital Advisor:
 
-[cols=2*,options="header", cols="30,70"]
+[cols=24*,options="header", cols="20,54,13,13"]
 |===
 | Report Name
 | Description
+| Available in ONTAP
+| Available in E-Series
 | Ansible Inventory
 | Provides an Ansible inventory file which lists all system inventory details by region or site. This file can be used for automation.
+| Yes
+| No
 | Capacity & Efficiency
 | Provides information about the Capacity and Efficiency details at cluster, customer, site, group, watchlist and node level.
+| Yes
+| Yes
 | ClusterViewer Report
 | Provides information about a single or multiple clusters at a customer and watchlist level. You can generate this report only for watchlist with up to 100 nodes.
+| Yes
+| No
 | FabricPool
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
+| Yes
+| No
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels. This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
+| Yes
+| Yes
 | IO Density 
 | IO Density Report provides insights into peak input-output operations for customers in terms of data and meta-data consumption and density. 
+| Yes
+| No
 | Performance Report
 | Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume. You can generate this report only for watchlist with up to 100 nodes.
+| Yes
+| Yes
 | Recommended Configuration
 | Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
+| Yes
+| No
 | Support Contracts / Hardware EOS
 | Provides information about the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
+| Yes
+| Yes
 | Technical Case Details
 | Provides a yearly report about all the technical cases and their status.
+| Yes
+| Yes
 | Upgrade Recommendations (SW & FW)
 | Multi-tabbed report about the software and firmware currency and recommended versions for each controller or serial in the search criteria.
+| Yes
+| Yes
 | Volume Performance Report
 | Provides information about the performance details of the volumes at the cluster level.
+| Yes
+| No
 | Wellness
 | Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
+| Yes
+| No
 | Wellness – Aggregated
 | Provides a summary of the outstanding risks and the count of systems affected.
+| Yes
+| No
 |===
