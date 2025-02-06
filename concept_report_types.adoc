@@ -18,7 +18,7 @@ Digital Advisor provides a variety of reporting options that enable you to monit
 
 The following are the types of reports that are available in Digital Advisor:
 
-[cols=24*,options="header", cols="20,54,13,13"]
+[cols=4*,options="header", cols="20,54,13,13"]
 |===
 | Report Name
 | Description
@@ -32,10 +32,22 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides information about the Capacity and Efficiency details at cluster, customer, site, group, watchlist and node level.
 | Yes
 | Yes
-| ClusterViewer Report
+| Cloud Recommendations
+| Provides insights and recommendations for optimizing cloud resources. It includes details on disaster recovery, backup, tiering, and migration.
+| Yes
+| Yes
+| ClusterViewer 
 | Provides information about a single or multiple clusters at a customer and watchlist level. You can generate this report only for watchlist with up to 100 nodes.
 | Yes
 | No
+| Config Drift
+| Allows users to establish a "golden baseline" for system configurations and alerts them when deviations from this baseline occur. It helps identify and address configuration changes that may impact system performance or security.
+| Yes
+| No
+| Delivery Logistics
+| Focuses on the logistics of delivering products and services.
+| Yes
+| Yes
 | FabricPool
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
 | Yes
@@ -48,12 +60,12 @@ The following are the types of reports that are available in Digital Advisor:
 | IO Density Report provides insights into peak input-output operations for customers in terms of data and meta-data consumption and density. 
 | Yes
 | No
-| Performance Report
+| Performance 
 | Provides information, at a watchlist level, about the performance of a cluster, node, local tier (aggregate), and volume. You can generate this report only for watchlist with up to 100 nodes.
 | Yes
 | Yes
-| Recommended Configuration
-| Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
+| Periodic Digest
+| Summarizes key metrics and insights periodically. It includes data on system performance, capacity, and efficiency.
 | Yes
 | No
 | Support Contracts / Hardware EOS
@@ -64,20 +76,20 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides a yearly report about all the technical cases and their status.
 | Yes
 | Yes
+| Upgrade 
+| Offers recommendations for software and firmware upgrades. It includes details on the latest recommended versions, potential issues, and steps for performing upgrades.
+| Yes
+| No
 | Upgrade Recommendations (SW & FW)
 | Multi-tabbed report about the software and firmware currency and recommended versions for each controller or serial in the search criteria.
 | Yes
 | Yes
-| Volume Performance Report
+| Volume Performance 
 | Provides information about the performance details of the volumes at the cluster level.
 | Yes
 | No
 | Wellness
 | Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
-| Yes
-| No
-| Wellness – Aggregated
-| Provides a summary of the outstanding risks and the count of systems affected.
 | Yes
 | No
 |===
