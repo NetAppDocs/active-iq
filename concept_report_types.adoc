@@ -35,7 +35,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Cloud Recommendations
 | Provides insights and recommendations for optimizing cloud resources. It includes details on disaster recovery, backup, tiering, and migration.
 | Yes
-| Yes
+| No
 | ClusterViewer 
 | Provides information about a single or multiple clusters at a customer and watchlist level. You can generate this report only for watchlist with up to 100 nodes.
 | Yes
@@ -48,10 +48,6 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides information about the logistics of delivering products and services.
 | Yes
 | Yes
-| FabricPool
-| Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
-| Yes
-| No
 | Health Assessment Executive Summary
 | Provides information about various Active IQ KPIs in a PowerPoint (PPT) format, with different KPI being described on different slides.
 | Yes
@@ -84,7 +80,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides a yearly report about all the technical cases and their status.
 | Yes
 | Yes
-| Upgrade 
+| Upgrade Plan
 | Offers recommendations for software and firmware upgrades. It includes details on the latest recommended versions, potential issues, and steps for performing upgrades.
 | Yes
 | No
@@ -99,5 +95,5 @@ The following are the types of reports that are available in Digital Advisor:
 | Wellness
 | Provides information about the outstanding and acknowledged risks, risk details, corrective actions, and affected systems.
 | Yes
-| No
+| Yes
 |===
