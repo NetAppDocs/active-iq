@@ -45,13 +45,17 @@ The following are the types of reports that are available in Digital Advisor:
 | Yes
 | No
 | Delivery Logistics
-| Focuses on the logistics of delivering products and services.
+| Provides information about the logistics of delivering products and services.
 | Yes
 | Yes
 | FabricPool
 | Provides information about inactive, cold, active, hot, tiered, and unmonitored data.  This report also includes Ansible playbook for enabling Inactive Data Reporting on disabled aggregates.
 | Yes
 | No
+| Health Assessment Executive Summary
+| Provides information about the snapshot of majority of Active IQ KPI's.
+| Yes
+| Yes
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels. This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
 | Yes
@@ -68,8 +72,12 @@ The following are the types of reports that are available in Digital Advisor:
 | Summarizes key metrics and insights periodically. It includes data on system performance, capacity, and efficiency.
 | Yes
 | No
+| Recommended Configuration
+| Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
+| Yes
+| Yes
 | Support Contracts / Hardware EOS
-| Provides information about the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
+| Provides information about the contract details and the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
 | Yes
 | Yes
 | Technical Case Details
