@@ -53,7 +53,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Yes
 | No
 | Health Assessment Executive Summary
-| Provides information about the snapshot of majority of Active IQ KPI's.
+| Provides information about various Active IQ KPIs in a PowerPoint (PPT) format, with different KPI being described on different slides.
 | Yes
 | Yes
 | Inventory
@@ -73,7 +73,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Yes
 | No
 | Recommended Configuration
-| Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, and SVM Health.
+| Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, SVM Health, battery status, and recovery guru advisories.
 | Yes
 | Yes
 | Support Contracts / Hardware EOS
