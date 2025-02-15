@@ -59,7 +59,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides information about various Active IQ KPIs in a PowerPoint (PPT) format, with different KPI being described on different slides.
 | Yes
 | Yes
-| 
+| No
 | Inventory
 | Provides information about the install base for a selected watchlist, customer, site, group levels. This report can be generated either as a direct download from Inventory details page or can be generated from Reports page.
 | Yes
@@ -84,7 +84,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Provides information about the various recommended configuration gaps for Remote Management Configuration, spares and drives, HA Pair, SVM Health, battery status, and recovery guru advisories.
 | Yes
 | Yes
-| 
+| No
 | Support Contracts / Hardware EOS
 | Provides information about the contract details and the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
 | Yes
