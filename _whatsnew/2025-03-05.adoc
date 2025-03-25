@@ -1,3 +1,3 @@
 === Upgrade Advisor
-* The Disk Qualification Package (DQP) automatically updates disk controllers and storage device firmware according to predefined health and performance criteria. This reduces potential failures and enhances overall system reliability.
+* The Disk Qualification Package (DQP) automatically updates disk controllers and storage device firmware according to predefined health and performance criteria. This reduces potential failures and enhances overall system reliability. 
 * The Timezone Database (DB) automatically maintains system alignment with the latest time zone definitions and ensures that time-dependent operations continue smoothly even when time zone rules change.
