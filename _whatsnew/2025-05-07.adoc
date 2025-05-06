@@ -1,0 +1,2 @@
+=== AutoSupport Widget
+The AutoSupport widget has been enhanced to include a pop-up to provide details about systems that have stopped sending AutoSupport data. Enabling AutoSupport reduces downtime risk and supports proactive system health management.
