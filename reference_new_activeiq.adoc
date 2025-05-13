@@ -19,7 +19,7 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 // tag::whats-new[]
 
-== 07 May 2025
+== 08 May 2025
 
 include::_whatsnew/2025-05-07.adoc[]
 
