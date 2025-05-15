@@ -1,0 +1,8 @@
+=== AutoSupport widget
+The AutoSupport widget has been enhanced to include a pop-up to provide details about systems that have stopped sending AutoSupport data. Enabling AutoSupport reduces downtime risk and supports proactive system health management.
+
+=== Support contracts report
+The support contracts report has been enhanced to include the new ASP/LSG flag field. This field allows you to filter and identify systems covered by an Authorized Support Partner, also known as Lifecycle Services Certified.
+
+=== Sustainability dashboard
+You can now launch the Sustainability dashboard using the link included in the sustainability presentation.
