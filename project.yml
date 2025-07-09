@@ -2,7 +2,6 @@
 settings:
   name: Digital Advisor
   harmony_integration: maestro
-  platform: cloud
   internal:
     pdf_enabled: true
   prod:
