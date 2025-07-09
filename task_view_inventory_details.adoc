@@ -14,12 +14,13 @@ summary: Provides information about the overall inventory that you own.
 :imagesdir: ./media/
 
 [.lead]
-The *Inventory* widget provides you with a rollup of the total systems that you own. This includes both Digital Advisor enabled and non-enabled products.
+The *Inventory* widget provides you with a rollup of the total systems and the support entitled switches that you own. This includes both Digital Advisor enabled and non-enabled products.
 
 You can also generate the report of the selected watchlist and email the report to a maximum of 5 recipients.
 
 video::ttbpbT5uTBI[youtube, width=848, height=480]
 
+== View system details
 .Steps
 . In the *Inventory* widget, click *Systems* to view the system information of all platforms or click the platform type and then click *Systems* to view systems specific to that platform.
 . Click the node or cluster to view detailed information about the system.
@@ -27,3 +28,7 @@ video::ttbpbT5uTBI[youtube, width=848, height=480]
 . Download the *Ansible Inventory* report to view the system details in the .yml and .ini formats at the region or site level.
 +
 The Ansible Inventory files can be used with customized Ansible Playbook files to make infrastructure configuration changes.
+
+== View support entitled switch details
+.Steps
+. In the *Inventory* widget, click *Support Entitles Switches* to view information about all the support entitled switches.

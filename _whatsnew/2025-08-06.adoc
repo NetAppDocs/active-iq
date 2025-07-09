@@ -1,0 +1,5 @@
+=== Support entitled switches
+You can now view information about Brocade Fibre Channel SAN switches that are entitled for support. This includes details about the switch model, serial number, and support status. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html[Learn how to view Support entitled switches].
+
+=== Threshold for RSS AutoSupport data 
+The Recently Stopped Sending (RSS) limit, in the AutoSupport widget, has been extended from 48 hours (2 days) to 216 hours (9 days) before a system is flagged as RSS. This is done to accommodate platforms like StorageGRID that only send weekly AutoSupport data, which can result in processing issues.
