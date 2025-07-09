@@ -1,7 +1,6 @@
 ---
 settings:
   name: Digital Advisor
-  platform: cloud
   internal:
     pdf_enabled: true
   prod:
