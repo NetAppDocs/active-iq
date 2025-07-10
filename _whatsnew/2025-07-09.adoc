@@ -1,0 +1,10 @@
+== Upgrade Advisor
+You can now download upgrade advisor plans in Excel, PDF, and JSON formats. 
+
+=== Enhancements in Excel format
+* You can view the pre-checks performed on the cluster, flagging the results with indicators such as “Passed,” “Failed,” or “Skipped.” This ensures that the cluster is in optimal condition for completing the ONTAP upgrade.
+* You can view the recommended firmware updates applicable to the cluster, along with the version shipped with the ONTAP target version. 
+* You can view the supported Host OS versions for the selected target ONTAP version. 
+
+=== Enhancement in JSON format
+You can view the pre-checks performed on the cluster, offering warnings and blockers to review before initiating seamless upgrades. This helps to identify issues requiring attention before upgrading multiple systems and enables direct integration of the JSON output into the automation processes.
