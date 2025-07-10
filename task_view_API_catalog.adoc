@@ -23,7 +23,7 @@ Using a valid Access Token and correct inputs for the required fields, you can m
 . Click link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction[*Browse*^] under the *API Catalog* icon.
 +
 The API Catalog is displayed.
-. Select any API
+. Click *Graphql* and select any API
 . At the top of the page, slide the toggle to “Experiment”.
 . From the left navigation, expand the categories and select any API to view detailed information.
 . Expand the API.
