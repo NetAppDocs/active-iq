@@ -18,12 +18,28 @@ The API Catalog allows you to browse through categories and the available APIs w
 
 Using a valid Access Token and correct inputs for the required fields, you can make a test call for an API.
 
+== Access GraphQL APIs
 .Steps
 . From the *Quick Links* menu, click *API Services*.
 . Click link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction[*Browse*^] under the *API Catalog* icon.
 +
 The API Catalog is displayed.
-. Click *Graphql* and select any API
+. Click *GraphQL* and review the documentation. 
+. Access link:https://gql.aiq.netapp.com/[GraphQL API Endpoint and review schema^]
+. Try out the GraphQL APIs by using the ready-to-run sample queries at link:https://studio.apollographql.com/public/ActiveIQ-Graph-Prd-API/variant/current/explorer?collectionId=251c50ce-797e-4549-bb9c-f6557ef5a176OPERATION_COLLECTIONfocusCollectionId=251c50ce-797e-4549-bb9c-f6557ef5a176[Digital Advisor GraphQL Studio^]. 
+. Supply a user token by selecting the authorization field in the Header of the API request 
+. Provide the required variables
+. Run the query and review the output
+
+
+
+== Access REST APIs
+.Steps
+. From the *Quick Links* menu, click *API Services*.
+. Click link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction[*Browse*^] under the *API Catalog* icon.
++
+The API Catalog is displayed.
+. Click *ActiveIQ-Public* and select any API
 . At the top of the page, slide the toggle to “Experiment”.
 . From the left navigation, expand the categories and select any API to view detailed information.
 . Expand the API.
