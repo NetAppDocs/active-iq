@@ -4,9 +4,6 @@ You can now view information about Brocade Fibre Channel SAN switches that are e
 === Threshold for RSS AutoSupport data 
 The Recently Stopped Sending (RSS) limit, in the AutoSupport widget, has been extended from 48 hours (2 days) to 216 hours (9 days) before a system is flagged as RSS. This is done to accommodate platforms like StorageGRID that only send weekly AutoSupport data, which can result in processing issues.
 
-=== NetApp Digital Advisor REST API migration to GraphQL
-Starting in July 2025, NetApp Digital Advisor will begin migrating its REST APIs to GraphQL. This migration is part of a broader initiative to enhance the API platform's performance and capabilities. The transition will be phased, with each deprecated REST API receiving a deprecation notice in the Active IQ API catalog. Users will have 6 months to migrate to the corresponding GraphQL endpoint after the deprecation notice is published.
-
 === Deprecated API section in Digital Advisor API catalog 
 A new deprecated API section is available in the Digital Advisor API catalog. It lists the APIs that are scheduled for deprecation, along with deprecation timelines and alternative APIs. 
 
