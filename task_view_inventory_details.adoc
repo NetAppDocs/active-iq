@@ -31,4 +31,4 @@ The Ansible Inventory files can be used with customized Ansible Playbook files t
 
 == View support entitled switch details
 .Steps
-. In the *Inventory* widget, click *Support Entitles Switches* to view information about all the support entitled switches.
+. In the *Inventory* widget, click *Support Entitled Switches* to view information about all the support entitled switches.
