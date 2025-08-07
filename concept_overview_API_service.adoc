@@ -17,6 +17,8 @@ summary: Provides an overview of the API services feature.
 
 Digital Advisor API Services uses automation to add efficiency to your workflows. Inside API Services resides the *API Catalog*, which describes over 100 different API endpoints that are grouped into 20+ different service areas. These APIs are available to you as a NetApp customer and they span different areas of interest, such as system information, storage efficiency, performance, health, and upgrades.
 
+NOTE: NetApp Digital Advisor is transitioning from REST APIs to GraphQL as its primary API platform to improve performance, flexibility, and scalability. The transition will be phased, with a period of overlap between REST APIs and GraphQL APIs. For each deprecated REST API, a deprecation notice will be published in the Digital Advisor API catalog, and you will have 6 months to migrate that specific endpoint to GraphQL. To review the list of APIs scheduled for deprecation, navigate to *API services -> Browse -> Deprecated APIs*
+
 APIs are interfaces that enable you to write simple code that can contact Digital Advisor programmatically and bring back data into your compute environment. You can write code in such a way that it contacts Digital Advisor every day and brings back the latest data in the areas that are of interest to you. You can then use this data to populate your ticketing system or to create your own dashboards, webpages, or reports. The Digital Advisor API Catalog has both code samples and a facility for you to try out the APIs in the browser.
 
 Automation with APIs is a great way to add efficiency and accuracy to daily or weekly tasks. It frees up your resources to perform more complex activities or to automate new workflows. For example, if you have system health risks that need to be fixed, you can automate at least the pullout of those items from Digital Advisor and the push into your ticketing system.
@@ -33,4 +35,4 @@ Either view allows the user to browse through available items using the navigati
 
 Once you are authorized and can generate tokens, you can leverage the tokens to make programmatic queries and retrieve data. You can also test out an API from within the API Catalog to see first-hand how the query works and the type of data that is returned. This is a great way to make sure you understand how an API will work prior to building out the code framework in your system.
 
-video::GQskCeCrtQA[youtube, width=848, height=480]
+
