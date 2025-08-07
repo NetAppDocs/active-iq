@@ -1,0 +1,13 @@
+=== Support entitled switches
+You can now view information about Brocade Fibre Channel SAN switches that are entitled for support. This includes details about the switch model, serial number, and support status. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html[Learn how to view Support entitled switches].
+
+=== Threshold for RSS AutoSupport data 
+The Recently Stopped Sending (RSS) limit, in the AutoSupport widget, has been extended from 48 hours (2 days) to 216 hours (9 days) before a system is flagged as RSS. This is done to accommodate platforms like StorageGRID that only send weekly AutoSupport data.
+
+=== Deprecated API section in Digital Advisor API catalog 
+A new deprecated API section is available in the Digital Advisor API catalog. It lists the APIs that are scheduled for deprecation, along with deprecation timelines and alternative APIs. 
+
+=== Capacity forecast V2 and End of Support API modules deprecation
+The capacity forecast V2 and end of support API modules are scheduled for deprecation. To access the deprecated APIs or to know about the deprecation timelines and alternative APIs, navigate to *API services -> Browse -> Deprecated APIs*.
+
+
