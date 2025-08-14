@@ -32,7 +32,7 @@ include::_whatsnew/2025-07-09.adoc[]
 include::_whatsnew/2025-05-07.adoc[]
 
 // end::whats-new[]
-
+ 
 == 05 March 2025
 
 include::_whatsnew/2025-03-05.adoc[]
