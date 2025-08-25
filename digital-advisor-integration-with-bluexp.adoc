@@ -18,9 +18,15 @@ Digital Advisor is now fully integrated with NetApp Console. You can now manage 
 
 Using the Console, IT experts and cloud architects can centrally manage their hybrid multi-cloud infrastructure. All you need is a NetApp Support Site (NSS) account to access Digital Advisor in the Console.
 
-== Integration overview
+== NetApp Console
 
-Digital Advisor users are  encouraged to use Digital Advisor in the Console. From the Console, you'll have access to the same Digital Advisor interface that you're used to, plus more. The Console enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and control many on-prem and edge storage devices.
+Digital Advisor is accessible through the NetApp Console.
+
+The NetApp Console provides centralized management of NetApp storage and data services across on-premises and cloud environments at enterprise scale. The Console is required to access and use NetApp data services. As a management interface, it enables you to manage many storage resources from one interface. Console administrators can control access to storage and services for all systems within the enterprise.
+
+You don’t need a license or subscription to start using NetApp Console and you only incur charges when you need to deploy Console agents in your cloud to ensure connectivity to your storage systems or NetApp data services. However, some NetApp data services accessible from the Console are licensed or subscription-based.
+
+Learn more about the https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html[NetApp Console].
 
 == Access Digital Advisor in NetApp Console
 
@@ -41,6 +47,4 @@ This login is different from the login completed in step 2. In step 2, you logge
 
 All your existing watchlists and configurations show up and you can now use Digital Advisor like you typically do.
 
-== Learn more about NetApp Console
 
-https://docs.netapp.com/us-en/bluexp-family/index.html[Go to the Console documentation to learn more^]
