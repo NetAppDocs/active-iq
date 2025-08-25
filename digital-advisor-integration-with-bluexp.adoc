@@ -2,10 +2,10 @@
 sidebar: sidebar
 permalink: digital-advisor-integration-with-bluexp.html
 keywords: digital advisor, integration, bluexp
-summary: "Digital Advisor is now fully integrated with BlueXP. You can now manage your clusters and access all the features of Digital Advisor from the BlueXP user interface (UI)."
+summary: "Digital Advisor is now fully integrated with NetApp Console. You can now manage your clusters and access all the features of Digital Advisor from the NetApp Console user interface (UI)."
 ---
 
-= Digital Advisor integration with BlueXP
+= Digital Advisor integration with NetApp Console
 :toclevels: 1
 :hardbreaks:
 :nofooter:
@@ -14,33 +14,33 @@ summary: "Digital Advisor is now fully integrated with BlueXP. You can now manag
 :imagesdir: ./media/
 
 [.lead]
-Digital Advisor is now fully integrated with BlueXP. You can now manage your clusters and access all the features of Digital Advisor from the BlueXP user interface (UI).
+Digital Advisor is now fully integrated with NetApp Console. You can now manage your clusters and access all the features of Digital Advisor from the Console user interface (UI).
 
-Using BlueXP, IT experts and cloud architects can centrally manage their hybrid multi-cloud infrastructure. All you need is a NetApp Support Site (NSS) account to access Digital Advisor in BlueXP.
+Using the Console, IT experts and cloud architects can centrally manage their hybrid multi-cloud infrastructure. All you need is a NetApp Support Site (NSS) account to access Digital Advisor in the Console.
 
 == Integration overview
 
-Starting in November 2022, Digital Advisor users will be encouraged to use Digital Advisor in BlueXP. From BlueXP, you'll have access to the same Digital Advisor interface that you're used to, plus more. BlueXP enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and control many on-prem and edge storage devices.
+Digital Advisor users are  encouraged to use Digital Advisor in the Console. From the Console, you'll have access to the same Digital Advisor interface that you're used to, plus more. The Console enables you to create and administer cloud storage (for example, Cloud Volumes ONTAP), use NetApp's data services (for example, Cloud Backup), and control many on-prem and edge storage devices.
 
-== Access Digital Advisor in BlueXP
+== Access Digital Advisor in NetApp Console
 
-You can access Digital Advisor from BlueXP to manage your cluster.
+You can access Digital Advisor from the Console to manage your cluster.
 
 .Steps
-. Open a web browser and go to https://cloudmanager.netapp.com/app-redirect/active-iq[BlueXP^].
+. Open a web browser and go to https://cloudmanager.netapp.com/app-redirect/active-iq[Console^].
 
 . Select *Log in with your NetApp Support Site Credentials* and enter your credentials.
 +
-If you previously created a BlueXP login using an email and password, then you’ll need to continue using that login option instead.
+If you have previously created a Console login using an email and password, then you’ll need to continue using that login option instead.
 
 . When prompted, log in with your NetApp Support Site credentials.
 +
-This login is different from the login completed in step 2. In step 2, you logged in to the BlueXP platform. Now you’re logging in to Digital Advisor.
+This login is different from the login completed in step 2. In step 2, you logged in to the Console. Now you’re logging in to Digital Advisor.
 
 *Result*
 
 All your existing watchlists and configurations show up and you can now use Digital Advisor like you typically do.
 
-== Learn more about BlueXP
+== Learn more about NetApp Console
 
-https://docs.netapp.com/us-en/bluexp-family/index.html[Go to the BlueXP documentation to learn more^]
+https://docs.netapp.com/us-en/bluexp-family/index.html[Go to the Console documentation to learn more^]

@@ -33,10 +33,10 @@ You can follow these steps to improve the overall sustainability score and that 
 [role="tabbed-block"]
 ====
 
-.BlueXP
+.NetApp Console
 --
 
-. Go to *Sustainability* from the *Governance* category available in the BlueXP left navigation.
+. Go to *Sustainability* from the *Health* category available in the Console left navigation.
 . Go to the *Recommended actions* tab. 
   * You can select *Fix* to take these actions immediately, or select *Later* to address these actions later.
   * If you plan to address the actions immediately, select *Fix*.
@@ -78,11 +78,11 @@ You can follow these steps to improve the cluster-level sustainability score tha
 [role="tabbed-block"]
 ====
 
-.BlueXP
+.NetApp Console
 --
 
-. Go to *Sustainability* from the *Governance* category available in the BlueXP left navigation.
-. Go to the *Working environments* table. 
+. Go to *Sustainability* from the *Health* category available in the Console left navigation.
+. Go to the *Systems* table. 
 . Click the number of actions from the *Recommended actions* column for the target cluster.
 +
 image:recommended_actions_cluster.png[A screenshot that shows number of actions.]
@@ -93,16 +93,16 @@ image:recommended_actions_list.png[A screenshot that provides the details of rec
   * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
   * You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
 
-TIP: You can add or remove the environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
+TIP: You can add or remove the environmental parameters in the *Systems* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
  
 --
 
 .Digital Advisor
 --
 
- . Go to *Sustainability* from the *STORAGE HEALTH* category available in the left navigation of Digital Advisor dashboard.
+. Go to *Sustainability* available in the left navigation of Digital Advisor dashboard.
 . Go to the *Recommended actions* tab. 
-. Go to the *Working environments* table. 
+. Go to the *Systems* table. 
 . Click the number of actions from the *Recommended actions* column for the target cluster.
 +
 image:recommended_actions_cluster.png[A screenshot that shows number of actions.]
@@ -113,7 +113,7 @@ image:recommended_actions_list.png[A screenshot that provides the details of rec
   * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
   *  You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
 
-TIP: You can add or remove the environmental parameters in the *Working environments* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
+TIP: You can add or remove the environmental parameters in the *Systems* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
 
 --
 

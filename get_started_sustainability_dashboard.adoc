@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: get_started_sustainability_dashboard.html
 keywords: activeiq, sustainability dashboard, bluexp login, sustainability dashboard login, bluexp
-summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP or Digital Advisor.
+summary: Get started with the sustainability dashboard by accessing in NetApp Console or Digital Advisor.
 ---
 
 = Get started with Sustainability dashboard
@@ -14,23 +14,23 @@ summary: Get started with BlueXP sustainability dashboard by accessing in BlueXP
 :imagesdir: ./media/
 
 [.lead]
-Sustainability dashboard provides AIOps-enabled reporting and scoring with actionable insights to improve your sustainability posture. You can access the Sustainability dashboard through NetApp BlueXP or Digital Advisor.
+Sustainability dashboard provides AIOps-enabled reporting and scoring with actionable insights to improve your sustainability posture. You can access the sustainability dashboard through NetApp Console or Digital Advisor.
 
 [role="tabbed-block"]
 ====
 
-.BlueXP
+.NetApp Console
 --
-To log in to BlueXP, you can use your NetApp Support Site credentials or you can sign up for a NetApp cloud login using your email and a password. Learn more about link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html[logging in to BlueXP^].
+To log in to the Console, you can use your NetApp Support Site credentials or you can sign up for a NetApp Console login using your email and a password. Learn more about link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html[logging in to the Console^].
 
 .Steps
-. Open a web browser, and go to the link:https://console.bluexp.netapp.com/[BlueXP console^].
-  The NetApp BlueXP login page appears.
-. Log in to BlueXP.
-. From the BlueXP left navigation, select *Governance* > *Sustainability*.
+. Open a web browser, and go to the link:https://console.bluexp.netapp.com/[Console^].
+  The Console login page appears.
+. Log in to Console.
+. From the Console left navigation, select *Health* > *Sustainability*.
   The Sustainability dashboard appears.
   +
-image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the sustainability dashboard in BlueXP.]
+image:sustainability_dashboard_bluexp.png[A UI screenshot that gives the overview of the sustainability dashboard in the Console.]
 
 NOTE: If the Sustainability dashboard is not set up, the option *Add NSS account* appears. Provide your NetApp Support Site (NSS) credentials to view your Sustainability dashboard and the systems associated with your account.
 
@@ -43,7 +43,7 @@ To log in to Digital Advisor, you can use your NetApp Support Site credentials.
 .Steps
 . Open a web browser, and go to the link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor^] login page.
 . Provide your username and password and click *Sign In*.
-. From the left navigation, select *STORAGE HEALTH* > *Sustainability*.
+. From the left navigation, select *Sustainability*.
 +
 image:sustainability_dashboard.png[A UI screenshot that gives the overview of the sustainability dashboard.]
 

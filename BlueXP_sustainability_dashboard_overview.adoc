@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: BlueXP_sustainability_dashboard_overview.html
-keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, working environments, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives
-summary: Provides information about the dashboard, sustainability score, working environments, and the recommended actions.
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, systems, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives
+summary: Provides information about the dashboard, sustainability score, systems, and the recommended actions.
 ---
 
 = Sustainability dashboard overview
@@ -40,7 +40,7 @@ image:carbon_mitigation_percentage.png[A screenshot that shows carbon mitigation
 *Recommended actions*: Displays the list of recommended actions to improve the sustainability score of your storage systems. These actions can be taken immediately, or later. 
 For more information on how to improve the sustainability score, see link:improve_sustainability_score.html[Improve sustainability score].
 
-*Working environments*: Displays environmental parameters in the table that can help in identifying clusters for moving to more efficient storage. From this table, you can:
+*Systems*: Displays environmental parameters in the table that can help in identifying clusters for moving to more efficient storage. From this table, you can:
 
 * View the sustainability score at cluster level, select the cluster name to access *ClusterViewer*, take specific recommended actions to improve the sustainability. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
 +
