@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: learn_BlueXP_sustainability.html
+permalink: learn-about-sustainability.html
 keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp, benefits, ONTAP
 summary: Provides information about sustainability that allows you to reduce the energy consumption and enables you to work towards your environmental goals.
 ---
