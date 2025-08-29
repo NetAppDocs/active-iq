@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
-permalink: BlueXP_sustainability_dashboard_overview.html
-keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, systems, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives
+permalink: sustainability-dashboard-overview.html
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, systems, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives, NetApp Console
 summary: Provides information about the dashboard, sustainability score, systems, and the recommended actions.
 ---
 

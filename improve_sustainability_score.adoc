@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: improve_sustainability_score.html
-keywords: activeiq, sustainability dashboard, recommended actions, digital advisor, bluexp, sustainability core, cluster level
+keywords: activeiq, sustainability dashboard, recommended actions, digital advisor, bluexp, sustainability core, cluster level, NetApp Console
 summary: Provides steps to improve the sustainability score through the recommended actions.
 ---
 

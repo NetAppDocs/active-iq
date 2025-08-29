@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: learn-about-sustainability.html
-keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp, benefits, ONTAP
+keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp, benefits, ONTAP, NetApp Console
 summary: Provides information about sustainability that allows you to reduce the energy consumption and enables you to work towards your environmental goals.
 ---
 
@@ -16,7 +16,7 @@ summary: Provides information about sustainability that allows you to reduce the
 [.lead]
 Sustainability allows you to reduce the energy consumption and enables you to work towards your environmental goals. This enables you to align your storage systems with eco-friendly practices and achieve the sustainability targets.
 
-You can view the sustainability score, and projected usage of power, direct carbon, and heat from the Sustainability dashboard. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the sustainability posture and implement NetApp’s recommended actions to improve the score. To learn more about the Sustainability dashboard, go to link:BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview].
+You can view the sustainability score, and projected usage of power, direct carbon, and heat from the Sustainability dashboard. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the sustainability posture and implement NetApp’s recommended actions to improve the score. To learn more about the Sustainability dashboard, go to link:sustainability-dashboard-overview.html[Sustainability dashboard overview].
 
 NOTE: Sustainability is supported on Cloud Volumes ONTAP, AFF systems (A-Series and C-Series), E-Series, FAS, and StorageGRID systems.
 

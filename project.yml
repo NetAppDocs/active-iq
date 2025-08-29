@@ -24,7 +24,7 @@ sidebar:
         - title: Understand Digital Advisor features
           url: /concept_understand_activeiq_features.html
         - title: Digital Advisor integration with NetApp Console
-          url: /digital-advisor-integration-with-bluexp.html
+          url: /digital-advisor-integration-with-console.html
         - title: Key concepts
           url: /concept_key_terms.html
         - title: What is AutoSupport
@@ -74,7 +74,7 @@ sidebar:
             - title: Get started with Sustainability dashboard
               url: /get_started_sustainability_dashboard.html
             - title: Sustainability dashboard overview
-              url: /BlueXP_sustainability_dashboard_overview.html
+              url: /sustainability-dashboard-overview.html
             - title: Improve sustainability score
               url: /improve_sustainability_score.html
         - title: Generate an upgrade plan

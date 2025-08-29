@@ -1,0 +1,4 @@
+---
+permalink: digital-advisor-integration-with-bluexp.html
+redirect: active-iq/digital-advisor-integration-with-console.html
+---
