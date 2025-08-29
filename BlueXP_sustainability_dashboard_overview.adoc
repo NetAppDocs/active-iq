@@ -44,7 +44,7 @@ For more information on how to improve the sustainability score, see link:improv
 
 * View the sustainability score at cluster level, select the cluster name to access *ClusterViewer*, take specific recommended actions to improve the sustainability. For more information, see link:improve_sustainability_score.html[Improve sustainability score at cluster level].
 +
-image:working_environments.png[A UI screenshot that shows various environmental parameters]
+image:systems.png[A UI screenshot that shows various environmental parameters]
 
 * Enable monitoring from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
 
