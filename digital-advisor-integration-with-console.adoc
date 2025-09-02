@@ -33,7 +33,7 @@ Learn more about the https://docs.netapp.com/us-en/bluexp-setup-admin/concept-ov
 You can access Digital Advisor from the Console to manage your cluster.
 
 .Steps
-. Open a web browser and go to the https://cloudmanager.netapp.com/app-redirect/active-iq[Console^].
+. Open a web browser and go to the link:https://console.netapp.com/[Console^].
 
 . Select *Log in with your NetApp Support Site Credentials* and enter your credentials.
 +
