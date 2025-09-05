@@ -22,7 +22,7 @@ Using the Console, IT experts and cloud architects can centrally manage their hy
 
 Digital Advisor is accessible through the NetApp Console.
 
-The NetApp Console provides centralized management of NetApp storage and data services across on-premises and cloud environments at enterprise scale. The Console is required to access and use NetApp data services. As a management interface, it enables you to manage many storage resources from one interface. Console administrators can control access to storage and services for all systems within the enterprise.
+The NetApp Console provides centralized management of NetApp storage and data services across on-premises and cloud environments at enterprise grade. The Console is required to access and use NetApp data services. As a management interface, it enables you to manage many storage resources from one interface. Console administrators can control access to storage and services for all systems within the enterprise.
 
 You don’t need a license or subscription to start using NetApp Console and you only incur charges when you need to deploy Console agents in your cloud to ensure connectivity to your storage systems or NetApp data services. However, some NetApp data services accessible from the Console are licensed or subscription-based.
 
