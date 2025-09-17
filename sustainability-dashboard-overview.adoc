@@ -16,7 +16,7 @@ summary: Provides information about the dashboard, sustainability score, systems
 [.lead]
 Sustainability dashboard provides an environmental assessment of your storage systems and actionable insights for improvement in the form of NetApp's recommended actions.
 
-image:get_started_sustainability_dashboard.png[A UI screenshot that shows sustainability dashboard.]
+image:sustainability_dashboard_console.png[A UI screenshot that gives the overview of the sustainability dashboard in the Console.]
 
 NOTE: AutoSupport should be enabled for accurate calculation of the sustainability score. 
 
