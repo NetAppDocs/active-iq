@@ -16,7 +16,7 @@ summary: Provides steps to improve the sustainability score through the recommen
 [.lead]
 Sustainability dashboard provides recommended actions that you can implement to improve the overall sustainability score and the cluster-level sustainability score. 
 
-NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Cloud Insights. For more information on how to enable Cloud Insights, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
+NOTE: To get the best results from the dashboard, you must enable AutoSupport. If AutoSupport is not enabled, the data will be based on product specifications. To get real-time power details, you need to enable Data Infrastructure Insights. For more information on how to enable Data Infrastructure Insights, see link:https://docs.netapp.com/us-en/data-infrastructure-insights/task_getting_started_with_cloud_insights.html[Data Infrastructure Insights^].
 
 == Sustainability score computation
 

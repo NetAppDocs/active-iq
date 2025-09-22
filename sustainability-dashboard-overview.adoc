@@ -46,7 +46,7 @@ For more information on how to improve the sustainability score, see link:improv
 +
 image:systems.png[A UI screenshot that shows various environmental parameters]
 
-* Enable monitoring from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html[Cloud Insights^].
+* Enable monitoring from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/data-infrastructure-insights/task_getting_started_with_cloud_insights.html[Data Infrastructure Insights^].
 
 
 
