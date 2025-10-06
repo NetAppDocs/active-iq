@@ -19,6 +19,10 @@ The following features and enhancements have been introduced in Digital Advisor:
 
 // tag::whats-new[]
 
+== 06 October 2025
+
+include::_whatsnew/2025-10-06.adoc[]
+
 == 06 August 2025
 
 include::_whatsnew/2025-08-06.adoc[]
@@ -27,12 +31,12 @@ include::_whatsnew/2025-08-06.adoc[]
 
 include::_whatsnew/2025-07-09.adoc[]
 
+// end::whats-new[]
+
 == 08 May 2025
 
 include::_whatsnew/2025-05-07.adoc[]
 
-// end::whats-new[]
- 
 == 05 March 2025
 
 include::_whatsnew/2025-03-05.adoc[]
@@ -61,7 +65,7 @@ include::_whatsnew/2024-07-04.adoc[]
 == 15 May 2024
 
 === Sustainability dashboard
-Sustainability is now supported on E-Series and StorageGRID systems. You can view a list of recommended actions and environmental indicators that display projections for power, direct carbon usage, and heat from the Sustainability dashboard for these systems. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html[Sustainability dashboard overview^].
+Sustainability is now supported on E-Series and StorageGRID systems. You can view a list of recommended actions and environmental indicators that display projections for power, direct carbon usage, and heat from the Sustainability dashboard for these systems. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/sustainability-dashboard-overview.html[Sustainability dashboard overview^].
 
 == 28 March 2024
 
@@ -75,7 +79,7 @@ The older version of Upgrade Advisor is now deprecated. You can use the enhanced
 
 === Wellness
 
-* The Wellness workflow now includes the Sustainability widget, which provides the count of recommended actions at the customer, watchlist, site, and group levels. You can click the number of actions for a detailed view of these recommended actions on the Sustainability dashboard. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Analyze the sustainability of your storage systems].
+* The Wellness workflow now includes the Sustainability widget, which provides the count of recommended actions at the customer, watchlist, site, and group levels. You can click the number of actions for a detailed view of these recommended actions on the Sustainability dashboard. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html[Analyze the sustainability of your storage systems].
 * The Security Vulnerabilities and Ransomware Defense widgets in the Wellness workflow are combined into a single widget, which is now called Security & Ransomware Defense.
 
 === Health Check dashboard
@@ -141,7 +145,7 @@ Tech refresh recommendation counts are included in the planning widget of the cu
 == 21 June 2023
 
 === Sustainability dashboard
-Sustainability dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html[Learn more].
+Sustainability dashboard provides valuable insights into the environmental sustainability of your storage system. You can view the information such as sustainability score, carbon mitigation percentage, projected usage of power, direct carbon, and heat. You can adjust the carbon mitigation percentage for specific sites. You can also view the sustainability score at the cluster level. Based on the sustainability score, you can assess the overall efficiency of your storage system and align it with NetApp's recommended actions to enhance sustainability. link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html[Learn more].
 
 
 == 22 February 2023
@@ -162,7 +166,7 @@ You can view average read, write, and other operations in performance reports at
 == 01 November 2022
 
 === Digital Advisor integrating with BlueXP
-Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html[Learn more]. 
+Active IQ Digital Advisor is being changed to Digital Advisor and is now integrated into BlueXP, NetApp’s unified management console for hybrid multicloud environments. link:https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-console.html[Learn more]. 
 
 == 25 August 2022
 

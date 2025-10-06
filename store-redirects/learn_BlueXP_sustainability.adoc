@@ -1,0 +1,4 @@
+---
+permalink: learn_BlueXP_sustainability.html
+redirect: active-iq/learn-about-sustainability.html
+---

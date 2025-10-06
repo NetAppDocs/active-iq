@@ -16,7 +16,7 @@ summary: Provides recommendations based on which informed decisions can be taken
 [.lead]
 Digital Advisor constantly analyzes your system and provides recommendations to improve the performance, efficiency, and health of your system.
 
-NOTE: Digital Advisor navigates you to BlueXP to implement the recommendations.
+NOTE: Digital Advisor navigates you to NetApp Console to implement the recommendations.
 
 == Migration
 Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
@@ -32,7 +32,7 @@ The volumes that meet the following criteria are recommended for migration to Cl
 .Steps
 . From the left pane, click *Cloud Recommendations*.
 . Click on any one link in the *Migration* pane.
-. Click *Migrate to Cloud* to launch *BlueXP*.
+. Click *Migrate to Cloud* to launch the *Console*.
 
 == Tiering
 Provides information about inactive local tier (aggregate) data, inactive volume data, tiered data, and unmonitored data. You can reduce your storage footprint and associated costs by monitoring and tiering your cold or inactive data to low-cost object storage tiers.
@@ -49,7 +49,7 @@ The volumes that meet the following criteria are recommended for tiering:
 .Steps
 . From the left pane, click *Cloud Recommendations*.
 . Click on any one link in the *Tiering* pane.
-. Click *Tier Data* to launch *BlueXP*.
+. Click *Tier Data* to launch the *Console*.
 
 To learn more about FabricPool, refer to link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf[FabricPool Best Practices^].
 
@@ -64,7 +64,7 @@ The volumes that meet the following criteria are recommended for backing up to t
 .Steps
 . From the left pane, click *Cloud Recommendations*.
 . Click on any one link in the *Backup & Archive* pane.
-. Click *Backup to Cloud* to launch *BlueXP*.
+. Click *Backup to Cloud* to launch the *Console*.
 
 == Replication
 Provides information about the data that should be replicated to the cloud to help in case of disasters.
@@ -78,4 +78,4 @@ The volumes that meet the following criteria are recommended for replication to 
 .Steps
 . From the left pane, click *Cloud Recommendations*.
 . Click on any one link in the *Disaster Recovery* pane.
-. Click *Replicate to Cloud* to launch *BlueXP*.
+. Click *Replicate to Cloud* to launch the *Console*.
