@@ -30,7 +30,7 @@ indexpage:
     - title: Analyze using Digital Advisor
       links:
         - title: View ONTAP upgrade recommendations
-          url: task_view_upgrade.html
+          url: upgrade_advisor_overview.html
         - title: Take informed decisions based on cloud recommendations
           url: task-informed-decisions-based-on-cloud-recommendations.html
         - title: View capacity utilization with NetApp Keystone subscription
