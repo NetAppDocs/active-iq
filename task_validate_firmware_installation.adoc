@@ -5,7 +5,7 @@ keywords: validate, firmware, firmware installation
 summary: Provides information on how to validate the firmware installation.
 ---
 
-= Validate firmware installation
+= Validate the AFF and FAS firmware installation on your storage system
 :toclevels: 1
 :hardbreaks:
 :nofooter:

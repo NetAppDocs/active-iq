@@ -5,7 +5,7 @@ keywords: config deviation, drift, configuration, add template
 summary: Provides information to add a configuration drift template.
 ---
 
-= Add a config drift template
+= Add a config drift template for your storage system in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

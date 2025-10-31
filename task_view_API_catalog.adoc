@@ -5,7 +5,7 @@ keywords: API Catalog, APIs, integrate data, view catalog
 summary: Provides information about the APIs available in the API Catalog.
 ---
 
-= Use API Catalog to execute APIs
+= Use the Digital Advisor API catalog to execute the APIs
 :toclevels: 1
 :hardbreaks:
 :nofooter:

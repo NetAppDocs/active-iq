@@ -5,7 +5,7 @@ keywords: reports, generate reports
 summary: Provides information to generate reports.
 ---
 
-= Generate reports
+= Generate or schedule a report in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

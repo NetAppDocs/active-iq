@@ -5,7 +5,7 @@ keywords: tech refresh, tech support contract, hardware
 summary: Provides information to evaluate tech refresh of your Tech Support contract or hardware
 ---
 
-= Evaluate a technology refresh
+= Determine if a technology refresh is recommended for your storage system in  Digital Advisor 
 :toclevels: 1
 :hardbreaks:
 :nofooter:

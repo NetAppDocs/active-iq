@@ -5,7 +5,7 @@ keywords: renew, renewals, support contracts, support & entitlements, active sup
 summary: Provides information on how to renew support contracts for your systems.
 ---
 
-= Renew your support contracts
+= Renew your support contracts in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

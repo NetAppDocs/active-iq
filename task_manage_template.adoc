@@ -5,7 +5,7 @@ keywords: templates, share template, clone template, edit template, delete templ
 summary: Provides information to manage templates.
 ---
 
-= Manage a template
+= Manage config drift templates in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

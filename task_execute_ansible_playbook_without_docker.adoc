@@ -5,7 +5,7 @@ keywords: Ansible Playbook, Ansible, playbook, without docker
 summary: Provides information on how to execute Ansible Playbook using the docker image.
 ---
 
-= Execute Ansible Playbook without NetApp Docker image
+= Run the Ansible playbook without the NetApp Docker image
 :toclevels: 1
 :hardbreaks:
 :nofooter:

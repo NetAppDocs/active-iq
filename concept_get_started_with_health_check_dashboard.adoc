@@ -5,7 +5,7 @@ keywords: activeiq, health check, health, HCA, health check dashboard, autosuppo
 summary: Provides information about the dashboard, health scores, features, and the widgets.
 ---
 
-= Get started with Health Check dashboard
+= Get started with Digital Advisor Health Check dashboard
 :toclevels: 1
 :hardbreaks:
 :nofooter:
