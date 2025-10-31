@@ -5,7 +5,7 @@ keywords: dashboard, watchlist, add watchlist
 summary: Provides information to manage watchlists.
 ---
 
-= Manage a watchlist
+= Manage a watchlist in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -5,7 +5,7 @@ keywords: wellness history, risks, wellness, view all actions, risk history,
 summary: Provides information about system risks and how to view wellness history.
 ---
 
-= View wellness history
+= View your storage system risk history in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

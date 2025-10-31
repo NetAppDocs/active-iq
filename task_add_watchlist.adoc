@@ -5,7 +5,7 @@ keywords: dashboard, watchlist, add watchlist
 summary: Provides information to add a watchlist to the dashboard.
 ---
 
-= Create a watchlist
+= Create a watchlist in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

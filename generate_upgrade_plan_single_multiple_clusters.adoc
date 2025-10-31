@@ -5,7 +5,7 @@ keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters
 summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrade or revert for a single cluster and multiple clusters.
 ---
 
-= Generate an upgrade plan for single cluster and multiple clusters
+= Generate an ONTAP upgrade plan for single and multiple clusters in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

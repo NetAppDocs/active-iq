@@ -5,7 +5,7 @@ keywords: faq, frequently asked questions, non-technical, non-technical case, in
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
-= Frequently asked questions about Digital Advisor
+= FAQ about Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

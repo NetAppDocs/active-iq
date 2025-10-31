@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, recommended actions, digital advis
 summary: Provides steps to improve the sustainability score through the recommended actions.
 ---
 
-= Improve sustainability score
+= Improve your storage system sustainability score from Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

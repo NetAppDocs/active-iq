@@ -5,7 +5,7 @@ keywords: wellness, wellness review subscription, unsubscribe, supportedge exper
 summary:
 ---
 
-= Subscribe to wellness review email
+= Subscribe to storage system health notifications from Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -5,7 +5,7 @@ keywords: digital advisor, features, upgrade, support offering
 summary: Provides information about the dashboard, watchlists, features, and the widgets.
 ---
 
-= Understand Digital Advisor features
+= Learn about Digital Advisor features
 :toclevels: 1
 :hardbreaks:
 :nofooter:

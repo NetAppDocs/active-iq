@@ -5,7 +5,7 @@ keywords: protection, hackers, ransomware, ransomware attacks, attack
 summary: Provides information on how to increase protection against hackers and ransomware attacks.
 ---
 
-= Detect security vulnerability
+= Detect security risks with Digital Advisor and take corrective actions
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -5,7 +5,7 @@ keywords: digital advisor, integration, bluexp, NetApp Console
 summary: "Digital Advisor is now fully integrated with NetApp Console. You can now manage your clusters and access all the features of Digital Advisor from the NetApp Console user interface (UI)."
 ---
 
-= Digital Advisor integration with NetApp Console
+= Access Digital Advisor in NetApp Console
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -5,7 +5,7 @@ keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters
 summary: Provide an overview of Upgrade Advisor that simplifies the planning for an ONTAP upgrade.
 ---
 
-= Overview
+= Learn about generating an ONTAP upgrade plan in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

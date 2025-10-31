@@ -5,7 +5,7 @@ keywords: wellness, performance, efficiency, availability, capacity, security vu
 summary: Provides information to view and analyze the wellness of your storage system and acknowledge the risks.
 ---
 
-= View and acknowledge the risk
+= Analyze wellness attributes in Digital Advisor and acknowledge risks
 :toclevels: 1
 :hardbreaks:
 :nofooter:
