@@ -17,8 +17,6 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
-// tag::whats-new[]
-
 == 06 October 2025
 
 include::_whatsnew/2025-10-06.adoc[]
@@ -31,7 +29,6 @@ include::_whatsnew/2025-08-06.adoc[]
 
 include::_whatsnew/2025-07-09.adoc[]
 
-// end::whats-new[]
 
 == 08 May 2025
 
