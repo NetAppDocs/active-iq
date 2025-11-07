@@ -1,6 +1,8 @@
 ---
 settings:
   name: Digital Advisor
+  release_notes_autogen:
+    release_notes_repo: console-relnotes
   harmony_integration: maestro
   internal:
     pdf_enabled: true
