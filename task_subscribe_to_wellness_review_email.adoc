@@ -14,8 +14,8 @@ summary:
 :imagesdir: ./media/
 
 [.lead]
-You can subscribe to the wellness review email to receive a monthly email that summarizes wellness status, systems that are nearing their renewal dates, systems that require an upgrade for the NetApp products in your installed base.
-You will receive a wellness review email so that you can view a monthly summary and take action for your systems.
+You can subscribe to the wellness review email to receive a monthly email that summarizes wellness status, storage systems that are nearing their renewal dates, storage systems that require an upgrade for the NetApp products in your installed base.
+You will receive a wellness review email so that you can view a monthly summary and take action for your storage systems.
 You also have options to view, edit, share, and delete your subscriptions. At any time, if you decide to not receive the email, you can unsubscribe from getting email as well.
 
 After the subscription is enabled, you should select a start date when adding a subscription.

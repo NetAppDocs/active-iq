@@ -28,8 +28,6 @@ You don’t need a license or subscription to start using NetApp Console and you
 
 Learn more about the https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html[NetApp Console].
 
-== Access Digital Advisor in NetApp Console
-
 You can access Digital Advisor from the Console to manage your cluster.
 
 .Steps

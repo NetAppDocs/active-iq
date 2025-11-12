@@ -14,7 +14,7 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-You can create a watchlist to access a set of systems quickly and easily. You can add the systems based on category or serial number.
+You can create a watchlist to access a set of storage systems quickly and easily. You can add the storage systems based on category or serial number.
 
 NOTE: You can add a maximum of 15,000 systems under a category and 500 systems under a serial number.
 

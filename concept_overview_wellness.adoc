@@ -5,7 +5,7 @@ keywords: overview, wellness, risk types, risk definition, mitigate risks, perfo
 summary: Provides information about the wellness and the risk types, which helps you to improve your storage system.
 ---
 
-= Learn about wellness widget in Digital Advisor
+= Learn about watchlists in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:
