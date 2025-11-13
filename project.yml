@@ -39,7 +39,7 @@ sidebar:
               url: /task_add_watchlist.html
             - title: Manage a watchlist in Digital Advisor
               url: /task_manage_watchlists.html
-        - title: FAQ about Digital Advisor
+        - title: FAQ for Digital Advisor
           url: reference_aiq_faq.html
     - title: Use Digital Advisor
       entries:
