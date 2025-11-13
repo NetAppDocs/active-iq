@@ -18,6 +18,6 @@ You can proactively identify the software and hardware for your storage system t
 
 .Steps
 . Click *Renewals* from the *Planning* widget.
-. Select the systems that you want to renew and click *Renew*.
+. Select the storage systems that you want to renew and click *Renew*.
 . Optionally, provide additional comments.
 . Click *Send*.
