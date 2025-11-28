@@ -47,101 +47,101 @@ sidebar:
           entries:
             - title: Learn about wellness widget in Digital Advisor
               url: /concept_overview_wellness.html
-            - title: View storage system risks in Digital Advisor and take corrective actions
+            - title: View storage system risks and take corrective actions
               url: /task_view_risk_and_take_action.html
-            - title: Detect security risks with Digital Advisor and take corrective actions
+            - title: Detect security risks and take corrective actions
               url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
-            - title: Protect storage systems managed by Digital Advisor from ransomware risks
+            - title: Protect storage systems from ransomware risks
               url: /task_protect_systems_against_ransomware_risks.html
-            - title: Analyze wellness attributes in Digital Advisor and acknowledge risks
+            - title: Analyze wellness attributes and acknowledge risks
               url: /task_view_and_acknowledge_risks.html
-            - title: View your storage system risk history in Digital Advisor
+            - title: View storage system risk history
               url: /task_view_wellness_history.html
-            - title: View risks in Digital Advisor and mitigate risks using Unified Manager or Ansible Playbook
+            - title: View risks and mitigate risks using Unified Manager or Ansible Playbook
               url: /task_view_risks_remediated_unified_manager.html
-            - title: Use Digital Advisor to fix critical risks identified in the  Availability and Protection widget
+            - title: Use Digital Advisor to fix critical risks identified
               url: /task_avoid_the_downtime_and_possible_data_loss.html
-            - title: Subscribe to storage system health notifications from Digital Advisor
+            - title: Subscribe to storage system health notifications
               url: /task_subscribe_to_wellness_review_email.html
-            - title: Identify software and hardware renewals for your storage system from Digital Advisor
+            - title: Identify software and hardware renewals for storage system 
               url: /task_renew_software_and_hardware.html
-            - title: View the health of clusters and nodes using ClusterViewer widget in Digitial Advisor
+            - title: View the health of clusters and nodes using ClusterViewer widget
               url: /task_analyze_wellness_clusters_and_nodes.html
-        - title: Analyze the sustainability of your storage system
+        - title: Analyze the sustainability of storage system
           entries:
             - title: Learn about sustainability with Digital Advisor
               url: /learn-about-sustainability.html
             - title: Access the Sustainability dashboard in Digital Advisor
               url: /get_started_sustainability_dashboard.html
-            - title: Learn about Sustainability dashboard features in Digital Advisor
+            - title: Learn about Sustainability dashboard features
               url: /sustainability-dashboard-overview.html
-            - title: Improve your storage system sustainability score from Digital Advisor
+            - title: Improve storage system sustainability score 
               url: /improve_sustainability_score.html
         - title: Generate an upgrade plan
           entries:
-            - title: Learn about generating an ONTAP upgrade plan in Digital Advisor
+            - title: Learn about generating an ONTAP upgrade plan
               url: /upgrade_advisor_overview.html
-            - title: Generate an ONTAP upgrade plan for single and multiple clusters in Digital Advisor
+            - title: Generate an ONTAP upgrade plan for single and multiple clusters
               url: /generate_upgrade_plan_single_multiple_clusters.html      
-            - title: View firmware update recommendations in Digital Advisor
+            - title: View firmware update recommendations
               url: /view-firmware-update-recommendations.html            
         - title: View system details
           entries:
-            - title: View your storage system inventory details in Digital Advisor
+            - title: View storage system inventory details
               url: /task_view_inventory_details.html
-            - title: Use Digital Advisor to view virtual machines data available in Data Infrastructure Insights
+            - title: View virtual machines data available in Data Infrastructure Insights
               url: /task-integrating-with-cloud-insights-to-view-vm-details.html
-            - title: View support cases and storage system details with the Valuable Insights widget in Digital Advisor
+            - title: View support cases and storage system details with the Valuable Insights widget 
               url: /task_view_valuable_insight_widget.html
-            - title: View capacity utilization with NetApp Keystone subscription in Digital Advisor
+            - title: View capacity utilization with NetApp Keystone subscription
               url: /view_keystone_capacity_utilization.html
         - title: Identify system requirements proactively
           entries:
-            - title: Manage your storage system capacity requirements with Planning widget in Digital Advisor 
+            - title: Manage storage system capacity requirements with Planning widget 
               url: /concept_overview_planning.html
-            - title: Identify storage systems nearing capacity limits in Digital Advisor
+            - title: Identify storage systems nearing capacity limits
               url: /task_identify_capacity_system.html
-            - title: Manage volume storage capacity thresholds in Digital Advisor
+            - title: Manage volume storage capacity thresholds
               url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
-            - title: Determine if a technology refresh is recommended for your storage system in  Digital Advisor
+            - title: Determine if a technology refresh is recommended for storage system 
               url: /evaluate-tech-refresh.html
-            - title: Renew software and hardware of your storage system
+            - title: Renew software and hardware of storage system
               url: /task_renew_software_and_hardware.html
-        - title: Analyze your storage system health with cloud recommendations in Digital Advisor
+        - title: Analyze storage system health with cloud recommendations
           url: /task-informed-decisions-based-on-cloud-recommendations.html
         - title: Identify configuration deviation
           entries:
-            - title: Detect configuration deviations for your storage system with Digital Advisor 
+            - title: Detect configuration deviations for storage system 
               url: /concept_overview_config_drift.html
-            - title: Add a config drift template for your storage system in Digital Advisor
+            - title: Add a config drift template for storage system 
               url: /task_add_config_drift_template.html
-            - title: Compare config drift templates in Digital Advisor
+            - title: Compare config drift templates 
               url: /task_compare_config_drift_template.html
-            - title: Generate a config drift timeline report in Digital Advisor
+            - title: Generate a config drift timeline report 
               url: /task_generate_drift_timeline_report.html
-            - title: Manage config drift templates in Digital Advisor
+            - title: Manage config drift templates 
               url: /task_manage_template.html
-        - title: Improve the efficiency and performance of your storage system
+        - title: Improve the efficiency and performance of storage system
           entries:
-            - title: View capacity and storage efficiency savings in Digital Advisor
+            - title: View capacity and storage efficiency savings 
               url: /task_analyze_storage_efficiency.html
-            - title: View storage system performance graphs in Digital Advisor
+            - title: View storage system performance graphs
               url: /task_view_performance_graphs.html
-        - title: Analyze the health of your storage system
+        - title: Analyze the health of storage system
           entries:
             - title: Learn about Health Check dashboard in Digital Advisor
               url: /concept_understand_health_check_dashboard.html
             - title: Get started with Health Check dashboard
               url: /concept_get_started_with_health_check_dashboard.html
-            - title: Renew your support contracts in Digital Advisor
+            - title: Renew support contracts in Digital Advisor
               url: /task_renew_support_contracts_for_your_systems.html
         - title: Upgrade to optimize your install base
           entries:
-            - title: Upgrade your support offering in Digital Advisor
+            - title: Upgrade support offering in Digital Advisor
               url: /task_upgrade_support_offering.html
-            - title: Update your AFF and FAS firmware using Ansible Playbook
+            - title: Update AFF and FAS firmware using Ansible Playbook
               entries:
-                - title: Download the AFF and FAS firmware Ansible package from Digital Advisor
+                - title: Download the AFF and FAS firmware Ansible package
                   url: /task_update_AFF_FAS_firmware.html
                 - title: Update AFF and FAS firmware using an Ansible package (experienced users) 
                   url: /task_install_execute_firmware_update_exp_user.html
@@ -155,7 +155,7 @@ sidebar:
                       url: /task_execute_ansible_playbook_using_docker.html
                     - title: Run the Ansible playbook without the NetApp Docker image
                       url: /task_execute_ansible_playbook_without_docker.html
-                    - title: Validate the AFF and FAS firmware installation on your storage system
+                    - title: Validate the AFF and FAS firmware installation on storage system
                       url: /task_validate_firmware_installation.html
         - title: Integrate data using APIs
           entries:
@@ -169,7 +169,7 @@ sidebar:
           entries:
             - title: Learn about Digital Advisor reports
               url: /concept_report_types.html
-            - title: Generate or schedule a report in Digital Advisor
+            - title: Generate or schedule a report
               url: /task_generate_reports.html
     - title: Knowledge and support
       entries:
