@@ -13,9 +13,9 @@ sidebar:
       url: /index.html
     - title: Release notes
       entries:
-        - title: What's new in Digital Advisor
+        - title: What's new 
           url: /reference_new_activeiq.html
-        - title: Known limitations in Digital Advisor
+        - title: Known limitations
           url: /reference_limitations_activeiq.html
     - title: Get started
       entries:
@@ -27,17 +27,16 @@ sidebar:
           url: /digital-advisor-integration-with-console.html
         - title: Learn about Digital Advisor
           url: /concept_key_terms.html
-        - title: Learn about AutoSupport in Digital Advisor
+        - title: Learn about AutoSupport 
           url: /concept_autosupport.html
         - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
         - title: Provision watchlist
           entries:
-            - title: Learn about watchlists in Digital Advisor
+            - title: Learn about watchlists 
               url: /concept_overview_dashboard.html
-            - title: Create a watchlist in Digital Advisor
-              url: /task_add_watchlist.html
-            - title: Manage a watchlist in Digital Advisor
+            - title: Create a watchlist 
+            - title: Manage a watchlist 
               url: /task_manage_watchlists.html
         - title: FAQ for Digital Advisor
           url: reference_aiq_faq.html
@@ -45,7 +44,7 @@ sidebar:
       entries:
         - title: Analyze wellness attributes
           entries:
-            - title: Learn about wellness widget in Digital Advisor
+            - title: Learn about wellness widget
               url: /concept_overview_wellness.html
             - title: View storage system risks and take corrective actions
               url: /task_view_risk_and_take_action.html
@@ -69,9 +68,9 @@ sidebar:
               url: /task_analyze_wellness_clusters_and_nodes.html
         - title: Analyze the sustainability of storage system
           entries:
-            - title: Learn about sustainability with Digital Advisor
+            - title: Learn about sustainability
               url: /learn-about-sustainability.html
-            - title: Access the Sustainability dashboard in Digital Advisor
+            - title: Access the Sustainability dashboard 
               url: /get_started_sustainability_dashboard.html
             - title: Learn about Sustainability dashboard features
               url: /sustainability-dashboard-overview.html
@@ -129,15 +128,15 @@ sidebar:
               url: /task_view_performance_graphs.html
         - title: Analyze the health of storage system
           entries:
-            - title: Learn about Health Check dashboard in Digital Advisor
+            - title: Learn about Health Check dashboard 
               url: /concept_understand_health_check_dashboard.html
             - title: Get started with Health Check dashboard
               url: /concept_get_started_with_health_check_dashboard.html
-            - title: Renew support contracts in Digital Advisor
+            - title: Renew support contracts 
               url: /task_renew_support_contracts_for_your_systems.html
         - title: Upgrade to optimize your install base
           entries:
-            - title: Upgrade support offering in Digital Advisor
+            - title: Upgrade support offering 
               url: /task_upgrade_support_offering.html
             - title: Update AFF and FAS firmware using Ansible Playbook
               entries:
