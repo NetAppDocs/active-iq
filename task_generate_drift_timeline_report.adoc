@@ -5,7 +5,7 @@ keywords: reports, generate reports, drift timeline, drift timeline report, Auto
 summary: Provides information to generate drift timeline reports.
 ---
 
-= Generate a drift timeline report
+= Generate a config drift timeline report in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

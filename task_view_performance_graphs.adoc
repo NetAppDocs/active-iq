@@ -5,7 +5,7 @@ keywords: performance, performance graph, graphs, digital advisor, performance c
 summary: Provides information about the performance.
 ---
 
-= Analyze performance graphs
+= View storage system performance graphs in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

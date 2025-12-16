@@ -5,7 +5,7 @@ keywords: reports, report types, reporting, performance reports
 summary: Provides information about the different types of reports that are available to the user.
 ---
 
-= Types of reports
+= Learn about Digital Advisor reports
 :toclevels: 1
 :hardbreaks:
 :nofooter:

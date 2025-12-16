@@ -5,7 +5,7 @@ keywords: risks, actions, remediation, corrective action, unified manager
 summary: Provides information to view the risks that can be automatically remediated using Unified Manager.
 ---
 
-= View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
+= View risks for actions in Digital Advisor and mitigate using Unified Manager or Ansible Playbook
 :toclevels: 1
 :hardbreaks:
 :nofooter:

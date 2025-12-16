@@ -5,7 +5,7 @@ keywords: inventory, platforms, systems, clusters, sites
 summary: Provides information about the overall inventory that you own.
 ---
 
-= View inventory details
+= View your storage system inventory details in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

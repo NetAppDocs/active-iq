@@ -5,7 +5,7 @@ keywords: config deviation, drift, configuration, compare template
 summary: Provides information to compare a configuration drift template.
 ---
 
-= Compare a config drift template
+= Compare config drift templates in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

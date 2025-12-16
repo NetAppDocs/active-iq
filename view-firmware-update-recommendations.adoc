@@ -5,7 +5,7 @@ keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP/BMC fi
 summary: View update recommendations of storage firmware, SP/BMC firmware, system files, and security files.
 ---
 
-= View firmware update recommendations
+= View firmware update recommendations in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

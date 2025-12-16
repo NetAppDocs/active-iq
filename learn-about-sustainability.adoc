@@ -5,7 +5,7 @@ keywords: activeiq, sustainability, sustainability score, sustainability dashboa
 summary: Provides information about sustainability that allows you to reduce the energy consumption and enables you to work towards your environmental goals.
 ---
 
-= Learn about sustainability
+= Learn about sustainability with Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

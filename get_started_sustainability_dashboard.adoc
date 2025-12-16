@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, sustainability dashboard login, bl
 summary: Get started with the sustainability dashboard by accessing in NetApp Console or Digital Advisor.
 ---
 
-= Get started with Sustainability dashboard
+= Access the Sustainability dashboard in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

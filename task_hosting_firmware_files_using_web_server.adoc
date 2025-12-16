@@ -5,7 +5,7 @@ keywords: firmware, web server, hosting
 summary: Provides information about hosting the firmware files using a web server.
 ---
 
-= Host firmware files using web server
+= Host AFF and FAS firmware files on a web server 
 :toclevels: 1
 :hardbreaks:
 :nofooter:

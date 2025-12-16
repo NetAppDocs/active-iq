@@ -16,163 +16,163 @@ sidebar:
       url: /index.html
     - title: Release notes
       entries:
-        - title: What's new
+        - title: What's new 
           url: /reference_new_activeiq.html
         - title: Known limitations
           url: /reference_limitations_activeiq.html
     - title: Get started
       entries:
-        - title: Quick start
+        - title: Quick start for Digital Advisor
           url: /concept_getting_started_2.html
-        - title: Understand Digital Advisor features
+        - title: Learn about Digital Advisor features
           url: /concept_understand_activeiq_features.html
-        - title: Digital Advisor integration with NetApp Console
+        - title: Access Digital Advisor in NetApp Console
           url: /digital-advisor-integration-with-console.html
-        - title: Key concepts
+        - title: Learn about Digital Advisor
           url: /concept_key_terms.html
-        - title: What is AutoSupport
+        - title: Learn about AutoSupport 
           url: /concept_autosupport.html
         - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
         - title: Provision watchlist
           entries:
-            - title: Overview
+            - title: Learn about watchlists 
               url: /concept_overview_dashboard.html
             - title: Create a watchlist
-              url: /task_add_watchlist.html
-            - title: Manage a watchlist
+              url: /task_add_watchlist.html 
+            - title: Manage a watchlist 
               url: /task_manage_watchlists.html
-        - title: FAQs
+        - title: FAQ for Digital Advisor
           url: reference_aiq_faq.html
     - title: Use Digital Advisor
       entries:
         - title: Analyze wellness attributes
           entries:
-            - title: Overview
+            - title: Learn about wellness widget
               url: /concept_overview_wellness.html
-            - title: View risk and manually take corrective actions
+            - title: View storage system risks and take corrective actions
               url: /task_view_risk_and_take_action.html
-            - title: Detect security vulnerability
+            - title: Detect security risks and take corrective actions
               url: /task_increase_protection_against_hackers_and_Ransomware_attacks.html
-            - title: Protect systems against ransomware risks
+            - title: Protect storage systems from ransomware risks
               url: /task_protect_systems_against_ransomware_risks.html
-            - title: View and acknowledge the risk
+            - title: Analyze wellness attributes and acknowledge risks
               url: /task_view_and_acknowledge_risks.html
-            - title: View wellness history
+            - title: View storage system risk history
               url: /task_view_wellness_history.html
-            - title: View risks that can be automatically mitigated using Unified Manager or Ansible Playbook
+            - title: View risks and mitigate risks using Unified Manager or Ansible Playbook
               url: /task_view_risks_remediated_unified_manager.html
-            - title: Avoid downtime and possible data loss
+            - title: Use Digital Advisor to fix critical risks identified
               url: /task_avoid_the_downtime_and_possible_data_loss.html
-            - title: Subscribe to wellness review email
+            - title: Subscribe to storage system health notifications
               url: /task_subscribe_to_wellness_review_email.html
-            - title: Renew software and hardware of your storage system
+            - title: Identify software and hardware renewals for storage system 
               url: /task_renew_software_and_hardware.html
-            - title: Analyze wellness of clusters and nodes
+            - title: View the health of clusters and nodes using ClusterViewer widget
               url: /task_analyze_wellness_clusters_and_nodes.html
-        - title: Analyze the sustainability of your storage system
+        - title: Analyze the sustainability of storage system
           entries:
             - title: Learn about sustainability
               url: /learn-about-sustainability.html
-            - title: Get started with Sustainability dashboard
+            - title: Access the Sustainability dashboard 
               url: /get_started_sustainability_dashboard.html
-            - title: Sustainability dashboard overview
+            - title: Learn about Sustainability dashboard features
               url: /sustainability-dashboard-overview.html
-            - title: Improve sustainability score
+            - title: Improve storage system sustainability score 
               url: /improve_sustainability_score.html
         - title: Generate an upgrade plan
           entries:
-            - title: Overview
+            - title: Learn about generating an ONTAP upgrade plan
               url: /upgrade_advisor_overview.html
-            - title: Generate an upgrade plan for single cluster and multiple clusters
+            - title: Generate an ONTAP upgrade plan for single and multiple clusters
               url: /generate_upgrade_plan_single_multiple_clusters.html      
             - title: View firmware update recommendations
               url: /view-firmware-update-recommendations.html            
         - title: View system details
           entries:
-            - title: View inventory details
+            - title: View storage system inventory details
               url: /task_view_inventory_details.html
-            - title: Integrating with Data Infrastructure Insights to view virtual machines details
+            - title: View virtual machines data available in Data Infrastructure Insights
               url: /task-integrating-with-cloud-insights-to-view-vm-details.html
-            - title: View valuable insights
+            - title: View support cases and storage system details with the Valuable Insights widget 
               url: /task_view_valuable_insight_widget.html
             - title: View capacity utilization with NetApp Keystone subscription
               url: /view_keystone_capacity_utilization.html
         - title: Identify system requirements proactively
           entries:
-            - title: Overview
+            - title: Manage storage system capacity requirements with Planning widget 
               url: /concept_overview_planning.html
-            - title: Identify systems reaching capacity limits
+            - title: Identify storage systems nearing capacity limits
               url: /task_identify_capacity_system.html
-            - title: Avoid a volume filling up to prevent an outage
+            - title: Manage volume storage capacity thresholds
               url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
-            - title: Evaluate a technology refresh
+            - title: Determine if a technology refresh is recommended for storage system 
               url: /evaluate-tech-refresh.html
-            - title: Renew software and hardware of your storage system
+            - title: Renew software and hardware of storage system
               url: /task_renew_software_and_hardware.html
-        - title: Make informed decisions based on cloud recommendations
+        - title: Analyze storage system health with cloud recommendations
           url: /task-informed-decisions-based-on-cloud-recommendations.html
         - title: Identify configuration deviation
           entries:
-            - title: Overview
+            - title: Detect configuration deviations for storage system 
               url: /concept_overview_config_drift.html
-            - title: Add a config drift template
+            - title: Add a config drift template for storage system 
               url: /task_add_config_drift_template.html
-            - title: Compare a config drift template
+            - title: Compare config drift templates 
               url: /task_compare_config_drift_template.html
-            - title: Generate a drift timeline report
+            - title: Generate a config drift timeline report 
               url: /task_generate_drift_timeline_report.html
-            - title: Manage a template
+            - title: Manage config drift templates 
               url: /task_manage_template.html
-        - title: Improve the efficiency and performance of your storage system
+        - title: Improve the efficiency and performance of storage system
           entries:
-            - title: Analyze capacity and storage efficiency savings
+            - title: View capacity and storage efficiency savings 
               url: /task_analyze_storage_efficiency.html
-            - title: Analyze performance graphs
+            - title: View storage system performance graphs
               url: /task_view_performance_graphs.html
-        - title: Analyze the health of your storage system
+        - title: Analyze the health of storage system
           entries:
-            - title: Overview
+            - title: Learn about Health Check dashboard 
               url: /concept_understand_health_check_dashboard.html
             - title: Get started with Health Check dashboard
               url: /concept_get_started_with_health_check_dashboard.html
-            - title: Renew your support contracts
+            - title: Renew support contracts 
               url: /task_renew_support_contracts_for_your_systems.html
         - title: Upgrade to optimize your install base
           entries:
-            - title: Upgrade the support offering
+            - title: Upgrade support offering 
               url: /task_upgrade_support_offering.html
-            - title: Update your AFF and FAS firmware using Ansible Playbook
+            - title: Update AFF and FAS firmware using Ansible Playbook
               entries:
-                - title: Download AFF and FAS firmware Ansible Automation package
+                - title: Download the AFF and FAS firmware Ansible package
                   url: /task_update_AFF_FAS_firmware.html
-                - title: Install and execute AFF and FAS firmware Ansible automation package (experienced users)
+                - title: Update AFF and FAS firmware using an Ansible package (experienced users) 
                   url: /task_install_execute_firmware_update_exp_user.html
                 - title: Install and execute AFF and FAS firmware Ansible automation package (beginners)
                   entries:
-                    - title: Host firmware files using web server
+                    - title: Host AFF and FAS firmware files on a web server 
                       url: /task_hosting_firmware_files_using_web_server.html
-                    - title: Work with inventory file
+                    - title: Update the inventory file for the AFF and FAS firmware update 
                       url: /concept_working_with_inventory_file.html
-                    - title: Execute Ansible playbook using NetApp Docker image
+                    - title: Run the Ansible playbook using the NetApp Docker image
                       url: /task_execute_ansible_playbook_using_docker.html
-                    - title: Execute Ansible playbook without NetApp Docker image
+                    - title: Run the Ansible playbook without the NetApp Docker image
                       url: /task_execute_ansible_playbook_without_docker.html
-                    - title: Validate firmware installation
+                    - title: Validate the AFF and FAS firmware installation on storage system
                       url: /task_validate_firmware_installation.html
         - title: Integrate data using APIs
           entries:
-            - title: Overview
+            - title: Learn about Digital Advisor API services
               url: /concept_overview_API_service.html
-            - title: Generate tokens to use APIs
+            - title: Generate tokens to use Digital Advisor API services
               url: /task_generate_tokens_API_services.html
-            - title: Use API Catalog to execute APIs
+            - title: Use the Digital Advisor API catalog to execute the APIs
               url: /task_view_API_catalog.html
         - title: Generate custom reports
           entries:
-            - title: Types of reports
+            - title: Learn about Digital Advisor reports
               url: /concept_report_types.html
-            - title: Generate reports
+            - title: Generate or schedule a report
               url: /task_generate_reports.html
     - title: Knowledge and support
       entries:

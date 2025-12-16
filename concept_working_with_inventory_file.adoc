@@ -5,7 +5,7 @@ keywords: inventory file, file format
 summary: Provides information about working with the inventory file.
 ---
 
-= Work with inventory file
+= Update the inventory file for the AFF and FAS firmware update 
 :toclevels: 1
 :hardbreaks:
 :nofooter:
