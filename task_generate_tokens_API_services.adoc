@@ -5,7 +5,7 @@ keywords: generate token, access token, refresh token, API services
 summary: Provides information on how to generate token to access APIs.
 ---
 
-= Generate tokens to use APIs
+= Generate tokens to use Digital Advisor API services
 :toclevels: 1
 :hardbreaks:
 :nofooter:

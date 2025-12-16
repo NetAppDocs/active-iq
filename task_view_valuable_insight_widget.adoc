@@ -5,7 +5,7 @@ keywords: valuable insight, support cases, storage efficiency savings, mitigated
 summary: Provides information about the valuable insight widget.
 ---
 
-= View valuable insights
+= View support cases and storage system details with the Valuable Insights widget in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

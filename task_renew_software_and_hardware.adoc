@@ -5,7 +5,7 @@ keywords: renew, hardware, software
 summary: Provides information to renew the software and hardware of your storage system.
 ---
 
-= Renew software and hardware of your storage system
+= Identify software and hardware renewals for your storage system from Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:
@@ -14,10 +14,10 @@ summary: Provides information to renew the software and hardware of your storage
 :imagesdir: ./media/
 
 [.lead]
-You can proactively identify the software and hardware that have expired or are near expiration in the next 6 months, and send a request to renew the hardware and software.
+You can proactively identify the software and hardware for your storage system that have expired or are near expiration in the next 6 months, and send a request to renew the hardware and software.
 
 .Steps
 . Click *Renewals* from the *Planning* widget.
-. Select the systems that you want to renew and click *Renew*.
+. Select the storage systems that you want to renew and click *Renew*.
 . Optionally, provide additional comments.
 . Click *Send*.

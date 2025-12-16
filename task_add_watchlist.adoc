@@ -5,7 +5,7 @@ keywords: dashboard, watchlist, add watchlist
 summary: Provides information to add a watchlist to the dashboard.
 ---
 
-= Create a watchlist
+= Create a watchlist in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:
@@ -14,9 +14,9 @@ summary: Provides information to add a watchlist to the dashboard.
 :imagesdir: ./media/
 
 [.lead]
-You can create a watchlist to access a set of systems quickly and easily. You can add the systems based on category or serial number.
+You can create a watchlist to access a set of storage systems quickly and easily. You can add the storage systems based on category or serial number.
 
-NOTE: You can add a maximum of 15,000 systems under a category and 500 systems under a serial number.
+NOTE: You can add a maximum of 15,000 storage systems under a category and 500 storage systems under a serial number.
 
 
 .Steps
@@ -25,7 +25,7 @@ NOTE: You can add a maximum of 15,000 systems under a category and 500 systems u
 The *Manage Watchlist* screen is displayed.
 . Click *Create Watchlist*.
 . Provide a name for the watchlist.
-. Select one of the following options to add systems to the watchlist:
+. Select one of the following options to add storage systems to the watchlist:
 
  * *Category*: This option enables you to add the entire inventory associated with a specific category, such as customer, site, group, or Keystone subscriptions, to your watchlist.
 +  

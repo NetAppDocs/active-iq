@@ -5,7 +5,7 @@ keywords: limitation, issues, not supported, drawbacks
 summary: Provides information about the limitations in the release.
 ---
 
-= Known limitations
+= Known limitations in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

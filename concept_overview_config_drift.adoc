@@ -5,7 +5,7 @@ keywords: config drift, configuration deviation, add template, compare template
 summary: Provides an overview of the config drift feature
 ---
 
-= Understand configuration deviation
+= Detect configuration deviations for your storage system with Digital Advisor 
 :toclevels: 1
 :hardbreaks:
 :nofooter:

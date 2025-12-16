@@ -5,7 +5,7 @@ keywords: activeiq, sustainability dashboard, sustainability score, sustainabili
 summary: Provides information about the dashboard, sustainability score, systems, and the recommended actions.
 ---
 
-= Sustainability dashboard overview
+= Learn about Sustainability dashboard features in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

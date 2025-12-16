@@ -5,7 +5,7 @@ keywords: overview, inventory, wellness, widgets, actions
 summary: Provides information about the key terms used in Digital Advisor.
 ---
 
-= Key concepts
+= Learn about Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

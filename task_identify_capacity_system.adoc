@@ -5,7 +5,7 @@ keywords: capacity, space, increase, ONTAP systems, StorageGRID
 summary: Provides information to increase the capacity of the system.
 ---
 
-= Identify systems reaching capacity limits
+= Identify storage systems nearing capacity limits in Digital Advisor 
 :toclevels: 1
 :hardbreaks:
 :nofooter:

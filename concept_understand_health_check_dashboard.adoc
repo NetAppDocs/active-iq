@@ -5,7 +5,7 @@ keywords: activeiq, health check, health, HCA, health check dashboard, health ch
 summary: Provides information to familiarize yourself with the Health Check Dashboard.
 ---
 
-= Understand Health Check dashboard
+= Learn about Health Check dashboard in Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:
