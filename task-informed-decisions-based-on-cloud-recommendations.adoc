@@ -21,7 +21,7 @@ NOTE: Digital Advisor navigates you to NetApp Console to implement the recommend
 == Migration
 Provides information about the different types of workloads available within your storage system and identify the workloads that are cloud-ready. Moving workloads to the cloud result in cost savings and provide cloud disaster recovery.
 
-The volumes that meet the following criteria are recommended for migration to Cloud Volumes ONTAP (CVO) and Cloud Volumes Service (CVS):
+The volumes that meet the following criteria are recommended for migration to Cloud Volumes ONTAP (CVO):
 
 * Volumes should be using NFS, SMB, CIFS, FCP, or iSCSI protocol
 * Root volumes are excluded

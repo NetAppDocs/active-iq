@@ -16,6 +16,16 @@ summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrad
 [.lead]
 You can use Upgrade Advisor to view the list of clusters that are eligible or ineligible for an upgrade. You can view upgrade recommendations for an eligible cluster and generate an upgrade plan. You can fix the issues with an ineligible cluster to make it eligible for an upgrade. 
 
+
+== Before you begin
+
+Before generating an upgrade plan, you should:
+
+* Ensure that AutoSupport (ASUP) is enabled and configured correctly, and all required sections are included. For more information, see link:hhttps://kb.netapp.com/on-prem/ontap/Ontap_OS/OS-KBs/ONTAP_AutoSupport_Resolution_Guide[ONTAP AutoSupport Resolution Guide].
+* Verify the AutoSupport's cluster members match the SAP cluster configuration. For more information, link:https://kb.netapp.com/Support/NSS/Support_Site/How_to_open_a_non-technical_case[open a non-technical case].
+
+
+.Steps
 You can follow these steps to generate an upgrade plan for a single cluster and multiple clusters:
 
 [role="tabbed-block"]
