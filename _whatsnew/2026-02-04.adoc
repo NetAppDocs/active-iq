@@ -1,0 +1,11 @@
+=== New Security Report for comprehensive security oversight
+
+Digital Advisor now includes a Security Report that provides a unified view of ONTAP security risks across your storage environment. This report enables faster detection of misconfigurations, compliance gaps, and security issues across clusters, SVMs, and volumes, helping you maintain a secure storage infrastructure.
+
+=== Enhanced Upgrade Advisor support for mixed patch levels
+
+Upgrade Advisor now generates upgrade reports for clusters where nodes run different patch levels within the same ONTAP major release. This enhancement ensures that customers can proceed with upgrades seamlessly as long as the cluster is not mixed across major versions, providing greater flexibility in upgrade planning.
+
+=== Extended support for end-of-limited-support ONTAP versions
+
+Upgrade Advisor now supports generating upgrade plans for ONTAP versions that have reached end of limited support, with a 9‑month grace period. This feature helps customers take timely action and avoid upgrade disruptions by providing clear guidance during the transition period.

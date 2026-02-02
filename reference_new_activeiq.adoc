@@ -17,6 +17,10 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
+== 04 February 2026
+
+include::_whatsnew/2026-02-04.adoc[]
+
 == 06 October 2025
 
 include::_whatsnew/2025-10-06.adoc[]
