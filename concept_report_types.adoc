@@ -85,6 +85,11 @@ The following are the types of reports that are available in Digital Advisor:
 | Yes
 | Yes
 | No
+| Security
+| Provides a comprehensive, exportable overview of ONTAP storage security risks and compliance gaps across clusters, SVMs, and volumes.
+| Yes
+| No
+| No
 | Support Contracts / Hardware EOS
 | Provides information about the contract details and the list of controllers, shelves, and disks, that have reached end-of-support (EOS).
 | Yes
