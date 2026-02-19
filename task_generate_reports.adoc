@@ -35,7 +35,7 @@ a|
 . Select the format of the report.
 . Click *Submit*.
 
-NOTE: The report is saved in Digital Advisor for 3 days.
+NOTE: The report is saved in Digital Advisor for 3 months.
 
 a|
 . Click the *Schedule Report* tab.
