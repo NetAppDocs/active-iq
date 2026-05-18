@@ -1,3 +1,3 @@
-=== Wellness review
+=== Wellness Review
 
 Starting July 2026, the Wellness Review feature will no longer be available in Digital Advisor. For any questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#].
