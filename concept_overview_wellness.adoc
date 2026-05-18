@@ -15,8 +15,6 @@ summary: Provides information about the wellness and the risk types, which helps
 
 [.lead]
 
-NOTE: Starting July 2026, the Wellness Review feature will no longer be available in Digital Advisor. For any questions, send an email to mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#].
-
 Wellness widget provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security vulnerabilities, renewals, and others.
 
 
