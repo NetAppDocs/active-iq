@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_identify_capacity_system.html
-keywords: capacity, space, increase, ONTAP systems, StorageGRID
+keywords: capacity, space, increase, ONTAP systems, StorageGRID, storage expansion
 summary: Provides information to increase the capacity of the system.
 ---
 
@@ -19,7 +19,7 @@ Proactively identify systems reaching capacity limits and send a request to incr
 For ONTAP, you can view systems that have exceeded 90% capacity or are to exceed 90% capacity in 1, 3, and 6 months. For StorageGRID, you can view systems that have exceeded 70% capacity or are to exceed 70% capacity in 1, 3, and 6 months. 
 
 .Steps
-. In the *Planning* widget, click *Capacity Additions*.
+. In the *Planning* widget, click *Storage Expansion*.
 +
 By default, the ONTAP systems that have exceeded 90% capacity or are nearing 90% capacity are displayed.
 . Click *StorageGRID* tab to view the StorageGRID systems that have exceeded 70% capacity or are nearing 70% capacity.
@@ -27,4 +27,6 @@ By default, the ONTAP systems that have exceeded 90% capacity or are nearing 90%
 . Click *View Capacity Forecast* to view the capacity forecast for the next 6 months.
 . Click *Request to Add Capacity*.
 . Optionally, provide any comments.
-. Click *Send* to send the request to the NetApp storage team to assist with the capacity addition for the selected systems.
+. Click *Send* to send the request to the NetApp storage team to assist with the storage expansion for the selected systems.
+
+// 29-MAY-2026 AIQ-213609
