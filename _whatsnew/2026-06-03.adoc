@@ -1,0 +1,10 @@
+=== Digital Advisor widget name updates
+
+The following Digital Advisor features have name changes:
+
+ * The Tech Refresh feature is now called System Refresh. Learn how to link:https://docs.netapp.com/us-en/active-iq/evaluate-tech-refresh.html[evaluate a system refresh].
+ * The Capacity Additions feature is now called Storage Expansion. Learn about link:https://docs.netapp.com/us-en/active-iq/concept_getting_started_2.html[Digital Advisor widgets].
+ * The Renewals feature is now called Support Renewals. Learn about link:https://docs.netapp.com/us-en/active-iq/concept_getting_started_2.html[Digital Advisor widgets].
+
+
+// 29-MAY-2026 AIQ-213609
