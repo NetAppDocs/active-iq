@@ -106,7 +106,7 @@ sidebar:
               url: /task_identify_capacity_system.html
             - title: Manage volume storage capacity thresholds
               url: /task_avoid_a_volume_filling_up_to_prevent_an_outage.html  
-            - title: Determine if a technology refresh is recommended for storage system 
+            - title: Determine if a system refresh is recommended for storage system 
               url: /evaluate-tech-refresh.html
             - title: Renew software and hardware of storage system
               url: /task_renew_software_and_hardware.html
