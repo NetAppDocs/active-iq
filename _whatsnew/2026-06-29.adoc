@@ -1,0 +1,24 @@
+=== Health Check data accuracy improvements
+
+The Health Check module now provides more accurate data and aligns version recommendations with currency standards. It has been migrated from the Public API to GraphQL to improve performance, support flexible queries, and provide long-term support.
+
+==== Firmware currency
+
+The Health Check module includes the following firmware currency improvements:
+
+* Shelf and drive counts display the accurate per-system values and no longer include HA Pair counts.
+* Recommended software, including minimum and latest version recommendations, is now calculated at the cluster level based on the effective cluster version, in line with currency standards. Previously, version recommendations were calculated at the node level.
+
+==== AutoSupport data dependency
+
+Due to backend improvements, the AutoSupport adoption and recommended software views rely on the latest AutoSupport data. This might affect your current view in the following ways:
+
+[options="header", cols="30,70"]
+|===
+| Scenario | Impacted systems
+| No data displayed  | Systems that have not sent an AutoSupport since October 2025
+| Outdated values  | Systems that have not sent an AutoSupport in the last 30 days
+|===
+
+Re-trigger AutoSupport on the affected systems listed above to restore current data in Health Check views.
+
