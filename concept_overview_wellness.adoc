@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_overview_wellness.html
-keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, renewal, risk, remediation
+keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, support renewal, risk, remediation
 summary: Provides information about the wellness and the risk types, which helps you to improve your storage system.
 ---
 
@@ -15,7 +15,7 @@ summary: Provides information about the wellness and the risk types, which helps
 
 [.lead]
 
-Wellness widget provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security vulnerabilities, renewals, and others.
+Wellness widget provides detailed information about your storage system. It provides information about different attributes of your storage system, such as performance and efficiency, capacity, configuration settings, security vulnerabilities, support renewals, and others.
 
 
 image:wellness_workflow.png[wellness workflow]
@@ -37,3 +37,5 @@ The wellness widget also provides information about the risks and the actions th
 You can view the following video to understand the importance of the wellness attributes:
 
 video::-lTF3oWZB1M[youtube, width=848, height=480]
+
+// 29-MAY-2026 AIQ-213609

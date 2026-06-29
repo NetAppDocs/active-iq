@@ -34,9 +34,9 @@ Read the following information to be aware of the widgets that are supported on 
 
 | Wellness | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
+| Support Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Capacity Additions | Supported only on clustered Data ONTAP| Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
+| Storage Expansion | Supported only on clustered Data ONTAP| Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
 
 | Inventory  | Supported on all platforms | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
 
@@ -46,3 +46,5 @@ Read the following information to be aware of the widgets that are supported on 
 // | Interoperability | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
 
 |===
+
+// 29-MAY-2026 AIQ-213609
