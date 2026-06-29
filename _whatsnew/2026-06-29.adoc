@@ -1,13 +1,13 @@
-=== Health Check data accuracy improvements
+=== Health Check GraphQL migration and data accuracy improvements
 
-The Health Check module now provides more accurate data and aligns version recommendations with currency standards. It has been migrated from the Public API to GraphQL to improve performance, support flexible queries, and provide long-term support.
+Health Check module has been enhanced with improved data accuracy and version recommendations aligned to currency standards. As part of this release, it has been migrated from the Public API to GraphQL, delivering improved performance, flexible querying, and long-term support.
 
-==== Firmware currency
+==== Recommended software
 
-The Health Check module includes the following firmware currency improvements:
+Recommended Software enhancements in the Health Check module now provide more accurate and consistent data.
 
-* Shelf and drive counts display the accurate per-system values and no longer include HA Pair counts.
-* Recommended software, including minimum and latest version recommendations, is now calculated at the cluster level based on the effective cluster version, in line with currency standards. Previously, version recommendations were calculated at the node level.
+* Shelf and drive counts under the firmware currency display the accurate per-system values and no longer include HA Pair counts.
+* Minimum and Latest version recommendations are now calculated at the cluster level based on the effective cluster version, in line with currency standards - previously, these recommendations were calculated at the node level.
 
 ==== AutoSupport data dependency
 
