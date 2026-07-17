@@ -17,6 +17,10 @@ summary: Provides information about the new features in the release.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
+== 15 July 2026
+
+include::_whatsnew/2026-07-15.adoc[]
+
 == 29 June 2026
 
 include::_whatsnew/2026-06-29.adoc[]
@@ -678,4 +682,5 @@ See link:https://docs.netapp.com/us-en/active-iq/concept_overview_wellness.html[
 === Smarter and faster search
 Allows you to search parameters, such as serial number, system ID, host name, site name, group name, and cluster name using the single-system view. You can also search for group of systems, in addition, you can search by a customer name, site name, or group name by group of systems.
 
+// 15-JULY-2026 AIQ-219004
 // 29-MAY-2026 AIQ-213609
