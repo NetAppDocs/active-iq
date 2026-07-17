@@ -2,6 +2,6 @@
 
 The Wellness Review feature has been deprecated and is no longer available in Digital Advisor as of July 2026.
 
-For questions or to share feedback, contact us at [ng-activeiq-feedback@netapp.com|vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html].
+For questions or to share feedback, mailto:ng-activeiq-feedback@netapp.com[contact the Active IQ team].
 
 // 17-JULY-2026: Removed the Wellness Review feature from Digital Advisor.
