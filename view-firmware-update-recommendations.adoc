@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: view-firmware-update-recommendations.html
-keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP/BMC firmware, system files, security files
-summary: View update recommendations of storage firmware, SP/BMC firmware, system files, and security files.
+keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP and BMC firmware, system files, security files
+summary: View update recommendations of storage firmware, SP and BMC firmware, system files, and security files.
 ---
 
 = View firmware update recommendations in Digital Advisor
