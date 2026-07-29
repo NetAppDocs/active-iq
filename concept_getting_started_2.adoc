@@ -36,15 +36,17 @@ Read the following information to be aware of the widgets that are supported on 
 
 | Support Renewals | Supported on all platforms | Supported on all platforms | Supported on all platforms
 
-| Storage Expansion | Supported only on clustered Data ONTAP| Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
+| Storage Expansion | Supported only on ONTAP | Supported only on ONTAP | Supported only on ONTAP
 
-| Inventory  | Supported on all platforms | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
+| Inventory  | Supported on all platforms | Supported only on ONTAP | Supported only on ONTAP
 
-| Upgrades | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP | Supported only on clustered Data ONTAP
-
-// 2021-06-02, Jira AIQ-49239, Reenu
-// | Interoperability | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)
+| Upgrades | Supported only on ONTAP | Supported only on ONTAP | Supported only on ONTAP
 
 |===
 
+NOTE: All platforms means ONTAP, E-Series, StorageGRID, ONTAP Select, and Cloud Volumes ONTAP.
+
+// 29-JULY-2026 remove data cluster from ONTAP
 // 29-MAY-2026 AIQ-213609
+// 2021-06-02, Jira AIQ-49239, Reenu
+// | Interoperability | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP) | Supported only on ONTAP platforms (Data ONTAP operating in 7-Mode and clustered Data ONTAP)

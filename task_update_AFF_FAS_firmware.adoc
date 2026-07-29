@@ -22,7 +22,6 @@ Before updating AFF and FAS firmware using Ansible, you should:
 
 * link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/[Install and set up Ansible on your storage system^]
 * link:https://netapp.io/2019/09/17/coming-together-nicely/[Install Ansible 2.9 with collections on your storage system^]
-* Upgrade your storage system to ONTAP 9.1 or later
 * Configure your account with an administrator role
 
 .Steps
@@ -38,3 +37,5 @@ The zip file contains the following:
 	* Disk, Shelf, and Service Processor/BMC Firmware packages are named as *all.zip*, *all_shelf_fw.zip*, and *<SP/BMC>_<version_number>_fw.zip* respectively.
 
 NOTE: Manual addition of clusters and controllers to the inventory file is not supported.
+
+// 29-JULY-2026 remove references to outdated ONTAP versions
