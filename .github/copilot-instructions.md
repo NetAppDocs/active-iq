@@ -6,7 +6,7 @@ Product: NetApp Active IQ Digital Advisor
 *Active IQ Digital Advisor* (also called *Digital Advisor*) is a cloud-based service for monitoring and optimizing NetApp storage environments through predictive analytics, proactive support, and operational recommendations. In this repository, the product is presented as a service accessed through *NetApp Console* and driven by *AutoSupport* telemetry, dashboard widgets, and feature-specific workflows such as upgrade planning, config drift analysis, and API-based automation.
 
 ### Repository structure
-- `./` – Primary AsciiDoc topics for Digital Advisor concepts, tasks, references, and landing-page content, including watchlists, wellness, upgrades, sustainability, API services, and support workflows
+- – Primary AsciiDoc topics for Digital Advisor concepts, tasks, references, and landing-page content, including watchlists, wellness, upgrades, sustainability, API services, and support workflows
 - `_whatsnew/` – Date-stamped release note topics that describe feature changes and behavior updates for Digital Advisor
 - `media/` – Shared images and diagrams used across product topics for dashboards, workflows, widgets, and remediation flows
 - `store-redirects/` – Redirect stub pages that preserve legacy or alternate URLs, including earlier naming paths
@@ -28,11 +28,10 @@ Product: NetApp Active IQ Digital Advisor
 - Supported platform families referenced across this repo include *ONTAP*, *AFF*, *FAS*, *E-Series*, *StorageGRID*, and *Cloud Volumes ONTAP*; features are platform-dependent and not every feature applies to every system type.
 
 **Naming conventions and terminology:**
-- Use *Digital Advisor* and *Active IQ Digital Advisor* as the product names; repository metadata uses *Digital Advisor* as the site name.
+- Use *Digital Advisor* as the product names.
 - Treat *Watchlist*, *Wellness*, *Health Check*, *Upgrade Advisor*, *Config Drift*, *Valuable Insights*, *ClusterViewer*, and *API Services* as feature names, not generic labels.
 - Common platform and integration terms include *NSS* (*NetApp Support Site*), *UM* (*Unified Manager*), *Keystone STaaS*, *MetroCluster*, *AFF*, *FAS*, *ONTAP*, *E-Series*, and *StorageGRID*.
-- Risk language in this repo uses *High*, *Medium*, and *No risks* severity states, and also uses *Ack* and *un-ack* for acknowledge and unacknowledge actions.
-- Product constraints called out in the docs include feature entitlements tied to support offerings, *ClusterViewer* not being supported for *E-Series* systems, and *Health Check* or recommendation views depending on current *AutoSupport* data.
+- This repo uses *High*, *Medium*, and *No risks* severity states, and also uses *Ack* and *un-ack* for acknowledge and unacknowledge actions.
 
 ### Typical user workflows
 **Access and scope systems:** Open *NetApp Console* → authenticate to *Digital Advisor* with *NSS* credentials → search for a customer, cluster, site, group, serial number, or system ID, or create a *watchlist* → work from dashboard widgets and feature pages
