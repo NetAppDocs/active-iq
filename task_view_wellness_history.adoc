@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_view_wellness_history.html
-keywords: wellness history, risks, wellness, view all actions, risk history,
+keywords: wellness history, risks, wellness, view all actions, risk history
 summary: Provides information about system risks and how to view wellness history.
 ---
 

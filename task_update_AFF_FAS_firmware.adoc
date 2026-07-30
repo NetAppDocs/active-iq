@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_update_AFF_FAS_firmware.html
-keywords: update, AFF, FAS firmware, firmware
+keywords: update, aff, fas firmware, firmware
 summary: Provides information on how to update the AFF and FAS firmware.
 ---
 

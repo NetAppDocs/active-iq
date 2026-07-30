@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: evaluate-tech-refresh.html
-keywords: tech refresh, tech support contract, hardware, system refresh  
+keywords: tech refresh, tech support contract, hardware, system refresh
 summary: Provides information to evaluate system refresh of your Tech Support contract or hardware
 ---
 
@@ -18,8 +18,9 @@ If you want to identify whether a system refresh is recommended for your Tech Su
 
 You can access this feature either through Lifecycle planning (*Storage* > *Lifecycle planning*) or through Digital Advisor (*Dashboard > Planning widget > System Refresh*).
 
-For more information about this feature, see link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html[Evaluate a system refresh] in the Console documentation.
+For more information about this feature, see link:https://docs.netapp.com/us-en/console-lifecycle-planning/use/tech-refresh.html[Evaluate a system refresh] in the Console documentation.
 
 
 // 29-MAY-2026 AIQ-213609
+// 29-JULY-2026 console updates GH-140
 

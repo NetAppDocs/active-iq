@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: generate_upgrade_plan_single_multiple_clusters.html
-keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters
+keywords: upgrade advisor, upgrade plan, ontap, upgrade recommendation, clusters
 summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrade or revert for a single cluster and multiple clusters.
 ---
 
