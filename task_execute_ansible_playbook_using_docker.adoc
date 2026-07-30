@@ -16,7 +16,7 @@ summary: Provides information on how to execute Ansible Playbook using the docke
 [.lead]
 Before you execute the Ansible Playbook, ensure that the *NetApp_Ansible_**.*zip* file has been extracted and the web server with disk or shelf firmware files is ready.
 
-== Before you begin
+.Before you begin
 
 Before executing Ansible Playbook using NetApp docker, you should:
 

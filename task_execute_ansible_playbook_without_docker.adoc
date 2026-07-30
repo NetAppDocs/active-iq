@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_execute_ansible_playbook_without_docker.html
 keywords: ansible playbook, ansible, playbook, without docker
-summary: Provides information on how to execute Ansible Playbook using the docker image.
+summary: Provides information on how to execute Ansible Playbook without using the NetApp Docker image.
 ---
 
 = Run the Ansible playbook without the NetApp Docker image
@@ -14,6 +14,7 @@ summary: Provides information on how to execute Ansible Playbook using the docke
 :imagesdir: ./media/
 
 [.lead]
+This procedure provides information on how to execute Ansible Playbook without using the NetApp Docker image.
 
 .Steps
 . Install link:https://docs.python.org/3/using/windows.html[Python^] and link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html[Ansible^].

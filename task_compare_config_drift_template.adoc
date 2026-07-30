@@ -17,8 +17,8 @@ summary: Provides information to compare a configuration drift template.
 You can compare the system and cluster configurations and detect the configuration deviations in near real time.
 
 .Steps
-. From the left pane, click *Config Drift*.
-. Select one of the existing templates or click *Add Template* to add a new template.
+. From the left pane, select *Config Drift*.
+. Select one of the existing templates or select *Add Template* to add a new template.
 . Generate a config drift report
 +
 You can generate a report immediately or you can schedule the report to be generated on a weekly or monthly basis.
@@ -30,16 +30,16 @@ You can generate a report immediately or you can schedule the report to be gener
 a|
 . Select a category and provide the requested values for the report.
 . Select *Include only drifts* option to download only the configuration deviation changes.
-. Click *Submit*.
+. Select *Submit*.
 . link:task_generate_reports.html[Download and view the config drift report].
 . Run Ansible Playbook (included as part of the config drift report) to mitigate the drifts.
 a|
-. Click the *Schedule Report* tab.
+. Select the *Schedule Report* tab.
 . Select a category and provide the requested values for the report.
 . Select *Include only drifts* option to download only the configuration deviation changes.
 . Select the frequency of the report.
 . Select the start date and end date for the report.
-. Click *Submit*.
+. Select *Submit*.
 . link:task_generate_reports.html[Download and view the config drift report].
 . Run Ansible Playbook (included as part of the config drift report) to mitigate the drifts.
 |===

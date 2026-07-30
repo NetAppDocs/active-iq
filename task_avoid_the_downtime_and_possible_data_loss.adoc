@@ -18,16 +18,16 @@ When you log in to the Digital Advisor and notice the red badge on the *Availabi
 
 .Steps
 . Log in to the Digital Advisor.
-. Click *Actions* in the *Availability & Protection* widget.
+. Select *Actions* in the *Availability & Protection* widget.
 image:Availability and protection_image 1 downtime and data loss.png[Availability & Protection widget]
 +
 For the high-impact security risks, follow the recommended action that is to update disk firmware.
 +
-. Click the *Risk Name* link for viewing risk summary.
+. Select the *Risk Name* link for viewing risk summary.
 image:Risk summary_image 2 downtime and data loss.png[Risk summary]
-. Click the *Unique Risks* tab, and then click the link in the *Corrective Action* column.
+. Select the *Unique Risks* tab, and then select the link in the *Corrective Action* column.
 image:Corrective action_image 3 downtime and data loss.png[Corrective action]
 +
 Digital Advisor generates custom Ansible scripts or playbooks to update the required disk firmware, including the disk firmware files.
-. Click the *Ansible “A”* icon to generate and download the scripts.
+. Select the *Ansible “A”* icon to generate and download the scripts.
 image:Update AFF and FAS Firmware_image 4 downtime and data loss.png[AFF and FAS firmware]

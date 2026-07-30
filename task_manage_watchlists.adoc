@@ -17,9 +17,9 @@ summary: Provides information to manage watchlists.
 You can view the dashboard for different watchlists, edit the details of an existing watchlist, and delete a watchlist.
 
 .Steps
-. From the left pane, click *Watchlists*.
+. From the left pane, select *Watchlists*.
 +
 The *Manage Watchlist* screen is displayed.
-. Click the name of the watchlist to view the dashboard details of the watchlist.
-. Click *Edit* to update the details of the watchlist.
-. Click *Delete* to delete the watchlist.
+. Select the name of the watchlist to view the dashboard details of the watchlist.
+. Select *Edit* to update the details of the watchlist.
+. Select *Delete* to delete the watchlist.

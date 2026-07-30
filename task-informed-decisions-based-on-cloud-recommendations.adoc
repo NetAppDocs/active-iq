@@ -30,9 +30,9 @@ The volumes that meet the following criteria are recommended for migration to Cl
 * Support contract is ending in 6 months
 
 .Steps
-. From the left pane, click *Cloud Recommendations*.
-. Click on any one link in the *Migration* pane.
-. Click *Migrate to Cloud* to launch the *Console*.
+. From the left pane, select *Cloud Recommendations*.
+. Select any one link in the *Migration* pane.
+. Select *Migrate to Cloud* to launch the *Console*.
 
 == Tiering
 Provides information about inactive local tier (aggregate) data, inactive volume data, tiered data, and unmonitored data. You can reduce your storage footprint and associated costs by monitoring and tiering your cold or inactive data to low-cost object storage tiers.
@@ -47,9 +47,9 @@ The volumes that meet the following criteria are recommended for tiering:
 * Aggregate Capacity is more than 50%
 
 .Steps
-. From the left pane, click *Cloud Recommendations*.
-. Click on any one link in the *Tiering* pane.
-. Click *Tier Data* to launch the *Console*.
+. From the left pane, select *Cloud Recommendations*.
+. Select any one link in the *Tiering* pane.
+. Select *Tier Data* to launch the *Console*.
 
 To learn more about FabricPool, refer to link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf[FabricPool Best Practices^].
 
@@ -62,9 +62,9 @@ The volumes that meet the following criteria are recommended for backing up to t
 * Source volumes and destination systems and volumes that have SnapVault backup are excluded.
 
 .Steps
-. From the left pane, click *Cloud Recommendations*.
-. Click on any one link in the *Backup & Archive* pane.
-. Click *Backup to Cloud* to launch the *Console*.
+. From the left pane, select *Cloud Recommendations*.
+. Select any one link in the *Backup & Archive* pane.
+. Select *Backup to Cloud* to launch the *Console*.
 
 == Replication
 Provides information about the data that should be replicated to the cloud to help in case of disasters.
@@ -76,6 +76,6 @@ The volumes that meet the following criteria are recommended for replication to 
 * SnapMirror destination volumes (volume type LS and DP) are excluded
 
 .Steps
-. From the left pane, click *Cloud Recommendations*.
-. Click on any one link in the *Disaster Recovery* pane.
-. Click *Replicate to Cloud* to launch the *Console*.
+. From the left pane, select *Cloud Recommendations*.
+. Select any one link in the *Disaster Recovery* pane.
+. Select *Replicate to Cloud* to launch the *Console*.
