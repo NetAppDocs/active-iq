@@ -80,11 +80,11 @@ NOTE: The dashboards created using a watchlist will not be displayed in the Stor
 
 *Does Digital Advisor display ratios for all ONTAP systems?*
 
-Digital Advisor displays ratios.
+Yes, Digital Advisor displays ratios for all ONTAP systems.
 
 *What is the 'With snapshots copies' toggle on the efficiency dashboard?*
 
-The Digital Advisor Efficiency Dashboard calculates the data reduction ratio at multiple levels, including customer, site, group, cluster, and node. If you turn on the *With snapshots copies* toggle, the data reduction ratio calculation includes the following storage efficiency technologies:
+The Digital Advisor Efficiency Dashboard calculates the data reduction ratio at multiple levels, including customer, site, group, cluster, and node. If you turn on the *With snapshot copies* toggle, the data reduction ratio calculation includes the following storage efficiency technologies:
 
   * Deduplication
 	* Compression
@@ -92,7 +92,7 @@ The Digital Advisor Efficiency Dashboard calculates the data reduction ratio at 
 	* Clones
   * Snapshots 
 
-By default, the data reduction ratio calculation does not include snapshots storage efficiency technology.
+By default, the data reduction ratio calculation does not include snapshot storage efficiency technology.
 
 *What is physical data used and logical data used?*
 
@@ -165,7 +165,7 @@ Efficiency feature table calculations:
 		|Compaction Savings (for ONTAP 	9.1) | Sum of Space Saved by Aggregate Compaction of each aggregate of all nodes of a customer
     |Compaction Savings (for ONTAP 	9.2 and later) | Sum of Space Saved by Aggregate Data Reduction of each aggregate of all nodes of a customer
 		|FlexClone Savings | Sum of (Logical Size Used by FlexClone Volumes - Physical Sized Used by FlexClone Volumes) of each aggregate of all nodes of a customer
-    |snapshot copies Backup Savings | Sum of (Logical Size Used by snapshot copies - Physical Size Used by snapshot copies) of all aggregates of all nodes of a customer
+    |Snapshot copies Backup Savings | Sum of (Logical Size Used by snapshot copies - Physical Size Used by snapshot copies) of all aggregates of all nodes of a customer
 |===
 
 *Why does adding all individual data reduction savings not add up to data reduction savings?*
@@ -238,7 +238,7 @@ The capacities in Digital Advisor are calculated for cluster and node — exclud
 
 * Logical Capacity (Effective) Logical Data Used
 ** Displays the logical size used in the aggregate
-** The aggregate incudes Volumes, Clones, and snapshot copies.
+** The aggregate includes volumes, clones, and snapshot copies.
 ** The logical size is computed based on physical usage (real writes) and savings obtained in the aggregate.
 
 NOTE:	It does not include space reserved for future use.
