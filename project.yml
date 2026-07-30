@@ -35,7 +35,7 @@ sidebar:
         - title: Log in to Digital Advisor
           url: /task_login_activeiq.html
         - title: FAQ for Digital Advisor
-          url: reference_aiq_faq.html
+          url: /reference_aiq_faq.html
         - title: Provision watchlist
           entries:
             - title: Learn about watchlists 

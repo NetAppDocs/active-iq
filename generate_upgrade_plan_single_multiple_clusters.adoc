@@ -51,7 +51,8 @@ image:r_ua_select_target_OS_version_single_cluster.png[An image that shows how t
  +
 image:r_ua_resolve_issue.png[An image that shows the type of issue and required resolution to fix it.]
 
-. Select *Generate Upgrade Plan*. +
+. Select *Generate Upgrade Plan*.
++
   You are redirected to the *Upgrade Recommendation* page.
 . On the *Upgrade Recommendation* page, you can view the details of the risks associated with a cluster through the *Risk Advisor* tab. You can view the upgrade blockers, upgrade warnings, and required actions through the *Pre-upgrade Check* tab, and information about the new features and enhancements that are relevant to the selected target OS version through the *Enhanced and Updated ONTAP Features* tab.
 +
