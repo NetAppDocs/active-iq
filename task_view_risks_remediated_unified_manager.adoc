@@ -19,8 +19,8 @@ You can analyze your storage system by viewing the actions and risks, and mitiga
 video::XusFvXM7h-E[youtube, width=848, height=480]
 
 .Steps
-. Select *View All Actions* on the dashboard.
-. Select *Actions* to view the risks associated with the actions, select *Risks* to view all the risks, or select *Affected Systems* to view the systems that require attention.
+. Click *View All Actions* on the dashboard.
+. Click *Actions* to view the risks associated with the actions, click *Risks* to view all the risks, or click *Affected Systems* to view the systems that require attention.
 +
 If the risk can be mitigated using Active IQ Unified Manager, the image:spanner.png[Spanner] icon is highlighted and if the risk can be mitigated using Ansible Playbook, the image:update_ansible.png[Update Ansible] icon is highlighted.
 
@@ -29,13 +29,13 @@ If the risk can be mitigated using Active IQ Unified Manager, the image:spanner.
 | To mitigate the risk using Unified Manager
 | To mitigate the risk using Ansible Playbook
 a|
-. Select the image:spanner.png[Spanner] icon.
-. Select *Fix It* to launch Active IQ Unified Manager.
-. Select *Install* to install Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
-. Select *Upgrade* to upgrade to Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
+. Click the image:spanner.png[Spanner] icon.
+. Click *Fix It* to launch Active IQ Unified Manager.
+. Click *Install* to install Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
+. Click *Upgrade* to upgrade to Active IQ Unified Manager 9.7 or later to use the *Fix It* option.
 a|
-. Select the image:update_ansible.png[Update Ansible] icon.
-. Select *Download* to download the AFF and FAS firmware Ansible Automation package.
+. Click the image:update_ansible.png[Update Ansible] icon.
+. Click *Download* to download the AFF and FAS firmware Ansible Automation package.
 |===
 
 NOTE: A SupportEdge Advisor or SupportEdge Expert contract is required to use the *Fix It* option and the Ansible Playbook features.

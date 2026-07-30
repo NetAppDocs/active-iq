@@ -24,4 +24,4 @@ link:https://kb.netapp.com/Support/General_Support/How_to_register_for_a_NetApp_
 . Go to the link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor^] login page.
 +
 Digital Advisor shows systems with a valid support contract. If contracts expire, a grace period of 90 days is given in which systems continue to be visible. Thereafter, systems are not searchable or visible within Digital Advisor.
-. Provide your username and password and select *Sign In*.
+. Provide your username and password and click *Sign In*.

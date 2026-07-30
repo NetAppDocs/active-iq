@@ -25,7 +25,7 @@ The benefits of this integration are:
 NOTE: This feature is available only for SupportEdge Advisor, SupportEdge Expert, and Digital Advisor Upgrade contracts.
 
 .Steps
-. In the *Inventory* widget, select *Virtual Machines* to view the data available in Data Infrastructure Insights.
-. Select the *Virtual Machine Overview* tab.
-. Select the *Count of ESX Hosts* to view information about the host.
-. Select the *ESX Name* to navigate to Data Infrastructure Insights to view more information.
+. In the *Inventory* widget, click *Virtual Machines* to view the data available in Data Infrastructure Insights.
+. Click the *Virtual Machine Overview* tab.
+. Click the *Count of ESX Hosts* to view information about the host.
+. Click the *ESX Name* to navigate to Data Infrastructure Insights to view more information.

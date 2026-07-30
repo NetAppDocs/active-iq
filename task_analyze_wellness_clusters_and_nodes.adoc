@@ -24,5 +24,5 @@ video::FVbb2bbIY9E[youtube, width=848, height=480]
 
 .Steps
 . In the *Inventory* widget, select the cluster or node (host) that you want.
-. At the cluster or node level, select *ClusterViewer* next to the *Configuration* widget.
-. Select the *Visualization* tab to view a graphical representation of the cluster.
+. At the cluster or node level, click *ClusterViewer* next to the *Configuration* widget.
+. Click the *Visualization* tab to view a graphical representation of the cluster.

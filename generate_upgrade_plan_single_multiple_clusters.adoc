@@ -17,7 +17,7 @@ summary: Provide steps to generate an upgrade plan for a successful ONTAP upgrad
 You can use Upgrade Advisor to view the list of clusters that are eligible or ineligible for an upgrade. You can view upgrade recommendations for an eligible cluster and generate an upgrade plan. You can fix the issues with an ineligible cluster to make it eligible for an upgrade. 
 
 
-.Before you begin
+== Before you begin
 
 Before generating an upgrade plan, you should:
 
@@ -33,7 +33,7 @@ You can follow these steps to generate an upgrade plan for a single cluster and 
 
 .Single cluster
 --
-. On the dashboard, select number of clusters in the *Upgrade Advisor* widget.
+. On the dashboard, click number of clusters in the *Upgrade Advisor* widget.
 +
 image:ua_widget.png[A screenshot that shows number of clusters.]
 +
@@ -42,34 +42,33 @@ The *Upgrade Advisor-ONTAP* page appears.
 +
 image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
 . Select a cluster for an upgrade. 
-  The *Target OS Version* column displays the recommended target OS version. You can select the image:edit_icon.png[Image of the edit button] icon to select another target OS version of a cluster.
+  The *Target OS Version* column displays the recommended target OS version. You can click the image:edit_icon.png[Image of the edit button] icon to select another target OS version of a cluster.
 + 
 image:r_ua_select_target_OS_version_single_cluster.png[An image that shows how to select target version.] 
 +
- * You can select the number of nodes in the *Nodes* column to see the node summary of a cluster.
- * You can select *Resolve Issues* from the *Recommended Action* column to fix the issues with an ineligible cluster to make it eligible for an upgrade.
+ * You can click the number of nodes in the *Nodes* column to see the node summary of a cluster.
+ * You can click *Resolve Issues* from the *Recommended Action* column to fix the issues with an ineligible cluster to make it eligible for an upgrade.
  +
 image:r_ua_resolve_issue.png[An image that shows the type of issue and required resolution to fix it.]
 
-. Select *Generate Upgrade Plan*.
-+
-  You are redirected to the *Upgrade Recommendation* page.
+. Click *Generate Upgrade Plan*.
+  You will be redirected to the *Upgrade Recommendation* page.
 . On the *Upgrade Recommendation* page, you can view the details of the risks associated with a cluster through the *Risk Advisor* tab. You can view the upgrade blockers, upgrade warnings, and required actions through the *Pre-upgrade Check* tab, and information about the new features and enhancements that are relevant to the selected target OS version through the *Enhanced and Updated ONTAP Features* tab.
 +
 image:r_ua_upgrade_recommendation_page.png[A screenshot that shows the overall view of the upgrade recommendation page.]
 +
  * You can select another target OS version and view the risk summary, pre-upgrade check report, and information on new features and enhancements related to that target OS version. 
- * You can select the image:ua_export_icon.png[export button] icon to export the risk summary to an Excel sheet.
+ * You can click the image:ua_export_icon.png[export button] icon to export the risk summary to an Excel sheet.
  
-. Select *Generate Upgrade Plan* from the *Upgrade Recommendation* page.
+. Click *Generate Upgrade Plan* from the *Upgrade Recommendation* page.
 . Provide the details in the displayed pop-up.
   +
 image:ua_generate_single_clusters_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan.]
-. Select *Generate*.
+. Click *Generate*.
   You will be redirected to the *Reports* page.
 . You can download the upgrade plan from the *Reports* page once it is available.
 +
-TIP: You can select *View Upgrade Advisor Reports* to go to the *Reports* page.
+TIP: You can click *View Upgrade Advisor Reports* to go to the *Reports* page.
  +
 image:r_ua_view_reports.png[A screenshot that shows the position where View Upgrade Advisor is located for clicking. ]
 
@@ -81,7 +80,7 @@ There are some tasks you should perform to confirm the readiness of the cluster 
 .Multiple clusters
 --
 
-. On the dashboard, select number of clusters in the *Upgrade Advisor* widget.
+. On the dashboard, click number of clusters in the *Upgrade Advisor* widget.
 +
 image:ua_widget.png[A screenshot that shows number of clusters.]
 +
@@ -90,24 +89,24 @@ The *Upgrade Advisor-ONTAP* page appears.
 +
 image:r_enhanced_ua_toggle.png[A screenshot that shows the enhanced Upgrade Advisor toggle is on.]
 . Select clusters for an upgrade.
-  The *Target OS Version* column displays the recommended target OS version.You can select the image:edit_icon.png[Image of the edit button] icon to select another target OS version of a cluster.
+  The *Target OS Version* column displays the recommended target OS version.You can click the image:edit_icon.png[Image of the edit button] icon to select another target OS version of a cluster.
 +
 image:r_ua_select_target_OS_version.png[An image that shows how to select target version.]
 +
- * You can select the number of nodes in the *Nodes* column to see the node summary of a cluster.
- * You can select *Resolve Issues* from the *Recommended Action* column to fix the issues with ineligible clusters to make them eligible for an upgrade.
+ * You can click the number of nodes in the *Nodes* column to see the node summary of a cluster.
+ * You can click *Resolve Issues* from the *Recommended Action* column to fix the issues with ineligible clusters to make them eligible for an upgrade.
  +
 image:r_ua_resolve_issue.png[An image that shows the type of issue and required resolution to fix it.]
 
-. Select *Generate Upgrade Plan*.
+. Click *Generate Upgrade Plan*.
 . Provide the details in the displayed pop-up.
   +
 image:ua_generate_multiple_clusters_plan.png[A pop-up to fill the details to submit the request to generate the upgrade plan.]
-. Select *Generate*.
+. Click *Generate*.
   You will be redirected to the *Reports* page.
 . You can download the upgrade plan from the *Reports* page once it is available.
 +
-TIP: You can select *View Upgrade Advisor Reports* to go to the *Reports* page.
+TIP: You can click *View Upgrade Advisor Reports* to go to the *Reports* page.
  +
 image:r_ua_view_reports.png[A screenshot that shows the position where View Upgrade Advisor is located for clicking. ]
 

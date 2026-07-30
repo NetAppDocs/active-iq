@@ -31,7 +31,7 @@ The toggle at the top of the page allows the user to switch between the two mode
 Either view allows the user to browse through available items using the navigation pane on the left. The items are organized by service in alphabetical order. Within a given service, you can expand the heading to show the individual API Endpoints. Clicking on the service heading or an API Endpoint will take you to that section of the Catalog in the middle pane.
 
 
-== Use the APIs
+== Using the APIs
 
 Once you are authorized and can generate tokens, you can leverage the tokens to make programmatic queries and retrieve data. You can also test out an API from within the API Catalog to see first-hand how the query works and the type of data that is returned. This is a great way to make sure you understand how an API will work prior to building out the code framework in your system.
 

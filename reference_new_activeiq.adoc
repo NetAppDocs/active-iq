@@ -96,7 +96,7 @@ The older version of Upgrade Advisor is now deprecated. You can use the enhanced
 
 === Wellness
 
-* The Wellness workflow now includes the Sustainability widget, which provides the count of recommended actions at the customer, watchlist, site, and group levels. You can select the number of actions for a detailed view of these recommended actions on the Sustainability dashboard. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html[Analyze the sustainability of your storage systems].
+* The Wellness workflow now includes the Sustainability widget, which provides the count of recommended actions at the customer, watchlist, site, and group levels. You can click the number of actions for a detailed view of these recommended actions on the Sustainability dashboard. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html[Analyze the sustainability of your storage systems].
 * The Security Vulnerabilities and Ransomware Defense widgets in the Wellness workflow are combined into a single widget, which is now called Security & Ransomware Defense.
 
 === Health Check dashboard

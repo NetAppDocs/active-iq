@@ -19,8 +19,8 @@ Customers can now save time and effort by allowing Control Tower to automaticall
 Customers will receive timely notifications and alerts about the status of the firmware updates, with options to enable AutoSupport and auto-update settings.
 
 .Steps
-. On the dashboard page, select *Other recommendations* in the *Upgrade Advisor* widget.
-. Select *View recommendations* to view the list of recommendations.
-. In the *Update Status* column, select *See progress* to view the clusters that are eligible for an update.
-. In case of any issues, select the respective links to view the steps to mitigate the issues.
+. On the dashboard page, click *Other recommendations* in the *Upgrade Advisor* widget.
+. Click *View recommendations* to view the list of recommendations.
+. In the *Update Status* column, click *See progress* to view the clusters that are eligible for an update.
+. In case of any issues, click on the respective links to view the steps to mitigate the issues.
 

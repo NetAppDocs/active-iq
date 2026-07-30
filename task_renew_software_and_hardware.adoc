@@ -17,9 +17,9 @@ summary: Provides information to renew the software and hardware of your storage
 You can proactively identify the software and hardware for your storage system that have expired or are near expiration in the next 6 months, and send a request to renew the hardware and software.
 
 .Steps
-. Select *Support Renewals* from the *Planning* widget.
-. Select the storage systems that you want to renew and select *Renew*.
+. Click *Support Renewals* from the *Planning* widget.
+. Select the storage systems that you want to renew and click *Renew*.
 . Optionally, provide additional comments.
-. Select *Send*.
+. Click *Send*.
 
 // 29-MAY-2026 AIQ-213609

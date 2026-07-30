@@ -18,16 +18,16 @@ Performance graphs enable you to analyze the performance of your storage devices
 
 You have an option to set preferences, for example, you can view either one graph for three nodes or two graphs for three nodes.
 
-When the graph is first displayed, a 1-week tab is preselected and it presents data for a 1 week in a graphical format to make it easier to understand large quantities of data and its relationship between different series of data. If you want to reset the date range, for example, you can select 1-month tab and select dates in the calendar.
+When the graph is first displayed, a 1-week tab is preselected and it presents data for a 1 week in a graphical format to make it easier to understand large quantities of data and its relationship between different series of data. If you want to reset the date range, for example, you can click 1-month tab and select dates in the calendar.
 
 You also have an option to zoom in performance graph; the individual data points are displayed.
 
 video::fWrHYX17xT8[youtube, width=848, height=480]
 
 .Steps
-. On the Dashboard, select *Performance*.
+. On the Dashboard, click *Performance*.
 +
-For ONTAP systems, you can select the *Node* tab to view the performance of a single node of an ONTAP cluster, select the *Local Tier* tab to view the performance of the local tier, or select the *Volume* tab to view the performance of the volume. By default, the cluster performance is displayed.
+For ONTAP systems, you can click the *Node* tab to view the performance of a single node of an ONTAP cluster, click the *Local Tier* tab to view the performance of the local tier, or click the *Volume* tab to view the performance of the volume. By default, the cluster performance is displayed.
 +
 For E-Series systems, you can view the graphs only at a controller level.
 
@@ -36,7 +36,7 @@ For E-Series systems, you can view the graphs only at a controller level.
 +
 For example, select 2-months tab to view data for 2 months. This enables you to view specific data for a duration based on your performance requirements.
 . The following performance graphs with required metrics are available for ONTAP clusters and nodes:
-+
+
 [cols=4*,options="header",cols="25,25,25,25"]
 |===
 | For Cluster

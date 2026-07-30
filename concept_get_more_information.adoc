@@ -14,6 +14,7 @@ summary: Provides more information about Digital Advisor.
 :imagesdir: ./media/
 
 [.lead]
+
 You can get help and find more information through various resources.
 
 

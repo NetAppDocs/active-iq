@@ -47,7 +47,7 @@ You can follow these steps to improve the overall sustainability score and that 
 image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
   * If you plan to address the actions later, select *Later*.
   ** If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
-   ** You can also review the postponed actions anytime and can select *Consider* to move them to the *Recommended actions* tab.
+   ** You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
   +
  image:actions_for_later.png[A screenshot that shows recommended actions with the consider option.]
 
@@ -65,7 +65,7 @@ image:recommended_actions.png[A screenshot that shows the list of actions in the
 image:recommended_actions.png[A screenshot that shows the list of actions in the expanded view.]
   * If you plan to address the actions later, select *Later*.
   ** If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
-  ** You can also review the postponed actions anytime and can select *Consider* to move them to the *Recommended actions* tab.
+  ** You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
   +
  image:actions_for_later.png[A screenshot that shows recommended actions with the consider option.]
 
@@ -85,7 +85,7 @@ You can follow these steps to improve the cluster-level sustainability score tha
 
 . Go to *Sustainability* from the *Health* category available in the Console left navigation.
 . Go to the *Systems* table. 
-. Select the number of actions from the *Recommended actions* column for the target cluster.
+. Click the number of actions from the *Recommended actions* column for the target cluster.
 +
 image:recommended_actions_cluster.png[A screenshot that shows number of actions.]
 
@@ -93,7 +93,7 @@ image:recommended_actions_cluster.png[A screenshot that shows number of actions.
 +  
 image:recommended_actions_list.png[A screenshot that provides the details of recommended actions with the option of fix and later.]
   * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
-  * You can also review the postponed actions anytime and can select *Consider* to move them to the *Recommended actions* tab.
+  * You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
 
 TIP: You can add or remove the environmental parameters in the *Systems* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
  
@@ -105,7 +105,7 @@ TIP: You can add or remove the environmental parameters in the *Systems* table u
 . Go to *Sustainability* available in the left navigation of Digital Advisor dashboard.
 . Go to the *Recommended actions* tab. 
 . Go to the *Systems* table. 
-. Select the number of actions from the *Recommended actions* column for the target cluster.
+. Click the number of actions from the *Recommended actions* column for the target cluster.
 +
 image:recommended_actions_cluster.png[A screenshot that shows number of actions.]
 
@@ -113,7 +113,7 @@ image:recommended_actions_cluster.png[A screenshot that shows number of actions.
 +  
 image:recommended_actions_list.png[A screenshot that provides the details of recommended actions with the option of fix and later.]
   * If you select *Later*, it moves the selected recommended action to the *Actions for later* tab. The selected action will be postponed for 30 days. After 30 days, this action will move to the *Recommended actions* tab. 
-  *  You can also review the postponed actions anytime and can select *Consider* to move them to the *Recommended actions* tab.
+  *  You can also review the postponed actions anytime and can click *Consider* to move them to the *Recommended actions* tab.
 
 TIP: You can add or remove the environmental parameters in the *Systems* table using the image:add_icon.png[A plus icon to add or remove the parameters] icon, and can export this table in comma-separated values (.csv) format using the image:download_icon.png[A download symbol for exporting the parameter] icon. 
 

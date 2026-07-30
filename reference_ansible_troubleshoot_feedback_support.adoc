@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: reference_ansible_troubleshoot_feedback_support.html
 keywords: troubleshoot, feedback, support
-summary: Provides more information about Ansible. 
+summary: Provides more information about Ansible.
 ---
 
 = Get more information

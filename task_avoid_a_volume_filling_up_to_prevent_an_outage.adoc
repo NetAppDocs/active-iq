@@ -18,7 +18,7 @@ When you log in to Digital Advisor and notice the red badge on the *Configuratio
 
 .Steps
 . Log in to Digital Advisor.
-. Select *Actions* in the *Configuration* widget.
+. Click *Actions* in the *Configuration* widget.
 image:Configuration_image 1 prevent an outage.png[Configuration widget]
-. Select the *Unique Risks* tab. Upon clicking the *Corrective Action* link, you can either change the warning thresholds or allocate more space to the volume.
+. Click the *Unique Risks* tab. Upon clicking the *Corrective Action* link, you can either change the warning thresholds or allocate more space to the volume.
 image:Risk summary_image 2 prevent an outage.png[Risk summary]

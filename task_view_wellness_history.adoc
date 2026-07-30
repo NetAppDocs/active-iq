@@ -20,9 +20,9 @@ These risks are classified under four types of risks— *Unresolved*, *New*, *Re
 
 .Steps
 
-. On the dashboard, in the *Wellness* pane, select *View All Actions*.
-. Select *Wellness History*.
-. In the *Risk History* graph, select the category for which you want to view the risk history.
+. On the dashboard, in the *Wellness* pane, click *View All Actions*.
+. Click *Wellness History*.
+. In the *Risk History* graph, click the category for which you want to view the risk history.
 +
 When you hover over the colored bars, they display information on the number of risks in each category. Upon clicking the respective risk category, the information gets displayed in the *Risk Information* table.
 +

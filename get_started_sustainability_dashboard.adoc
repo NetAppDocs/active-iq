@@ -44,7 +44,7 @@ To log in to Digital Advisor, you can use your NetApp Support Site credentials.
 
 .Steps
 . Open a web browser, and go to the link:https://activeiq.netapp.com/?source=onlinedocs[Digital Advisor^] login page.
-. Provide your username and password and select *Sign In*.
+. Provide your username and password and click *Sign In*.
 . From the left navigation, select *Sustainability*.
 +
 image:sustainability_dashboard.png[A UI screenshot that gives the overview of the sustainability dashboard.]
