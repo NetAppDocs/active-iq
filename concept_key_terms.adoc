@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar: sidebar
 permalink: concept_key_terms.html
 keywords: overview, inventory, wellness, widgets, actions

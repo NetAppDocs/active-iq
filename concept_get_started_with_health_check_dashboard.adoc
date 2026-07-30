@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar: sidebar
 permalink: concept_get_started_with_health_check_dashboard.html
 keywords: activeiq, health check, health, hca, health check dashboard, autosupport, autosupport adoption, recommended configuration, best practices, support, support and entitlements, support contract, contracts, active contracts, expired contracts, nearing-expiration, key recommendations, recommendations, digital advisor, features, recommended software
