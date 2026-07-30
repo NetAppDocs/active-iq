@@ -15,7 +15,7 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 
 [.lead]
 
-The following questions give answers to your frequent queries about Digital Advisor.
+The following questions give answers to your frequent queries about Digital Advisor. 
 
 == Technical case
 
