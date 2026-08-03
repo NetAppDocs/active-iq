@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_autosupport.html
-keywords: AutoSupport
+keywords: autosupport
 summary: Provides an overview of AutoSupport.
 ---
 

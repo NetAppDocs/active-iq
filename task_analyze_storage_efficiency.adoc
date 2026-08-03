@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: task_analyze_storage_efficiency.html
-keywords: renew, hardware, software
-summary: Provides information to renew the software and hardware of your storage system.
+keywords: capacity, storage efficiency, data reduction, savings
+summary: View capacity details and storage efficiency savings for your storage system.
 ---
 
 = View capacity and storage efficiency savings in Digital Advisor
@@ -18,9 +18,9 @@ You can view the capacity details and the storage efficiency savings of your sys
 
 NOTE: This feature is not supported on E-Series systems.
 
-The capacity dashboard displays the capacity details and the capacity forecast of your system. Capacity forecast uses historical capacity information to identify the utilization of each system. Based on the historical data (a year’s data, if available) of utilized and allocated capacity, the algorithm considers the current utilization of each system and generates a forecast for the system’s utilization over the next 1 through 6 months.
+The capacity dashboard displays the capacity details and the capacity forecast of your system. Capacity forecast uses historical capacity information to identify the utilization of each system. Based on the historical data (a year's data, if available) of utilized and allocated capacity, the algorithm considers the current utilization of each system and generates a forecast for the system's utilization over the next 1 through 6 months.
 
-The storage efficiency dashboard displays the data reduction ratio, the logical space used, the physical space used, and the total data saved for storage systems running ONTAP 9.1 and later. The data reduction ratio and savings can be seen with and without Snapshot copies for AFF systems, non-AFF systems, or both. The total data savings across customer storage can be seen per efficiency feature such as volume deduplication, volume compression, compaction, FlexClone volumes, and Snapshot copies. You can view the top 5 storage systems with the best efficiency ratio. You can also view the SAN and NAS efficiency without Snapshot copies at a node level for ONTAP systems including AFF A-Series, AFF C190, All SAN Array, and FAS500 running ONTAP 9.10 and later. 
+The storage efficiency dashboard displays the data reduction ratio, the logical space used, the physical space used, and the total data saved. The data reduction ratio and savings can be seen with and without snapshot copies for AFF systems, non-AFF systems, or both. The total data savings across customer storage can be seen per efficiency feature such as volume deduplication, volume compression, compaction, FlexClone volumes, and snapshot copies. You can view the top 5 storage systems with the best efficiency ratio. You can also view the SAN and NAS efficiency without snapshot copies at a node level for ONTAP systems including AFF A-Series, AFF C190, All SAN Array, and FAS500. 
 
 video::8Ge3_0qlyxA[youtube, width=848, height=480]
 
@@ -39,3 +39,6 @@ For ONTAP systems, information about RAW capacity is available in ClusterViewer.
 .. If the storage efficiency ratio of your storage system is less than the average storage efficiency ratio, click *Contact Us* to let us know the configurations of your storage system.
 
 For more information about capacity and storage efficiency, see link:reference_aiq_faq.html[Frequently asked questions about Digital Advisor].
+
+// 29-JULY-2026 updated snapshot capitalization to meet current standards, also removed ONTAP 9.10 and earlier references
+// 29-JULY-2026 fix frontmatter keywords and summary

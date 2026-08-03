@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_execute_ansible_playbook_using_docker.html
-keywords: Ansible Playbook, Ansible, Playbook, docker
+keywords: ansible playbook, ansible, playbook, docker
 summary: Provides information on how to execute Ansible Playbook using the docker image.
 ---
 

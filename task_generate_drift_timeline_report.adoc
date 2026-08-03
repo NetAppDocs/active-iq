@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_generate_drift_timeline_report.html
-keywords: reports, generate reports, drift timeline, drift timeline report, AutoSupport data
+keywords: reports, generate reports, drift timeline, drift timeline report, autosupport data
 summary: Provides information to generate drift timeline reports.
 ---
 

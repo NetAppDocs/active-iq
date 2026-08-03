@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_install_execute_firmware_update_exp_user.html
-keywords: install, execute, firmware update, Ansible Playbook, ansible, playbook, docker, experienced user
+keywords: install, execute, firmware update, ansible playbook, ansible, playbook, docker, experienced user
 summary: Provides information on how to install and execute firmware update using Ansible Playbook.
 ---
 

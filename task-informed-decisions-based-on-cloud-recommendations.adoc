@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task-informed-decisions-based-on-cloud-recommendations.html
-keywords: cloud recommendations, migration, backup and archive, disaster recovery, FabricPool, FabricPool Advisor, inactive data, tiered data, IDR
+keywords: cloud recommendations, migration, backup and archive, disaster recovery, fabricpool, fabricpool advisor, inactive data, tiered data, idr
 summary: Provides recommendations based on which informed decisions can be taken.
 ---
 

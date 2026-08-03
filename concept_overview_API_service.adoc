@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: concept_overview_API_service.html
-keywords: API services, access token, refresh token, API Catalog
+keywords: api services, access token, refresh token, api catalog
 summary: Provides an overview of the API services feature.
 ---
 

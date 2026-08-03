@@ -56,7 +56,7 @@ The following are the types of reports that are available in Digital Advisor:
 | Yes
 | No
 | Health Assessment Executive Summary
-| Provides information about various Active IQ KPIs in a PowerPoint (PPT) format, with different KPI being described on different slides.
+| Provides information about various Digital Advisor KPIs in a PowerPoint (PPT) format, with different KPI being described on different slides.
 | Yes
 | Yes
 | No
@@ -121,3 +121,5 @@ The following are the types of reports that are available in Digital Advisor:
 | Yes
 | Yes
 |===
+
+// 29-JULY-2026 updated product name from Active IQ to Digital Advisor

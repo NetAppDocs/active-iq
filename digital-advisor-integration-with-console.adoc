@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: digital-advisor-integration-with-console.html
-keywords: digital advisor, integration, bluexp, NetApp Console
+keywords: digital advisor, integration, netapp console
 summary: "Digital Advisor is now fully integrated with NetApp Console. You can now manage your clusters and access all the features of Digital Advisor from the NetApp Console user interface (UI)."
 ---
 
@@ -24,9 +24,9 @@ Digital Advisor is accessible through the NetApp Console.
 
 The NetApp Console provides centralized management of NetApp storage and data services across on-premises and cloud environments at enterprise grade. The Console is required to access and use NetApp data services. As a management interface, it enables you to manage many storage resources from one interface. Console administrators can control access to storage and services for all systems within the enterprise.
 
-You don’t need a license or subscription to start using NetApp Console and you only incur charges when you need to deploy Console agents in your cloud to ensure connectivity to your storage systems or NetApp data services. However, some NetApp data services accessible from the Console are licensed or subscription-based.
+You don't need a license or subscription to start using NetApp Console and you only incur charges when you need to deploy Console agents in your cloud to ensure connectivity to your storage systems or NetApp data services. However, some NetApp data services accessible from the Console are licensed or subscription-based.
 
-Learn more about the https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html[NetApp Console].
+Learn more about the https://docs.netapp.com/us-en/console-setup-admin/concept-overview.html[NetApp Console].
 
 You can access Digital Advisor from the Console to manage your cluster.
 
@@ -35,14 +35,16 @@ You can access Digital Advisor from the Console to manage your cluster.
 
 . Select *Log in with your NetApp Support Site Credentials* and enter your credentials.
 +
-If you have previously created a Console login using an email and password, then you’ll need to continue using that login option instead.
+If you have previously created a Console login using an email and password, then you'll need to continue using that login option instead.
 
 . When prompted, log in with your NetApp Support Site credentials.
 +
-This login is different from the login completed in step 2. In step 2, you logged in to the Console. Now you’re logging in to Digital Advisor.
+This login is different from the login completed in step 2. In step 2, you logged in to the Console. Now you're logging in to Digital Advisor.
 
 *Result*
 
 All your existing watchlists and configurations show up and you can now use Digital Advisor like you typically do.
+
+// 29-JULY-2026 console updates GH-140
 
 
