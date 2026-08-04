@@ -16,13 +16,6 @@ summary: Provides information about the limitations in the release.
 [.lead]
 Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
 
-The following limitations exist:
-
-* For Data ONTAP storage systems operating in 7-Mode only (Data ONTAP storage systems operating in 7-Mode is nearing End of Support Life)
-** Performance charts
-** Storage efficiency
-* Upgrade Advisor will not support upgrade plans for clustered ONTAP earlier than 9.0.
-
 == Editing a watchlist may take 60 minutes to reflect in Digital Advisor
 Editing a watchlist does not update the information in Digital Advisor immediately. It may take up to 60 minutes for the changes to reflect in Digital Advisor.
 
@@ -40,3 +33,5 @@ On the AutoSupport Reporting page, clicking on any of the statuses, systems that
 
 == Filtering and sorting are not available in the Inventory widget
 You cannot filter and sort data in the inventory widget. No data is displayed if you select ONTAP AFF, ONTAP ASA, ONTAP Edge, or ONTAP Select in the "Filter by" drop-down.
+
+// 22-JULY-2026 removed references to data ONTAP/7-mode 

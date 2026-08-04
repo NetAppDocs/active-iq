@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: sustainability-dashboard-overview.html
-keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, systems, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives, NetApp Console
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, systems, best practices, support, recommendations, digital advisor, cluster, sustainability initatives, netapp console
 summary: Provides information about the dashboard, sustainability score, systems, and the recommended actions.
 ---
 
@@ -47,6 +47,8 @@ For more information on how to improve the sustainability score, see link:improv
 image:systems.png[A UI screenshot that shows various environmental parameters]
 
 * Enable monitoring from the *Real-time power* column to view the real-time power details at the cluster level. For more information, see link:https://docs.netapp.com/us-en/data-infrastructure-insights/task_getting_started_with_cloud_insights.html[Data Infrastructure Insights^].
+
+// 29-JULY-2026 console updates GH-140
 
 
 

@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task-integrating-with-cloud-insights-to-view-vm-details.html
-keywords: Cloud Insights, VMs, virtual machines, Data Infrastructure Insights
+keywords: cloud insights, vms, virtual machines, data infrastructure insights
 summary: Provides information about the virtual machines in Data Infrastructure Insights
 ---
 

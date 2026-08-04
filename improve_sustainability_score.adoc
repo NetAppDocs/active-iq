@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: improve_sustainability_score.html
-keywords: activeiq, sustainability dashboard, recommended actions, digital advisor, bluexp, sustainability core, cluster level, NetApp Console
+keywords: activeiq, sustainability dashboard, recommended actions, digital advisor, sustainability core, cluster level, netapp console
 summary: Provides steps to improve the sustainability score through the recommended actions.
 ---
 
@@ -32,6 +32,8 @@ You can follow these steps to improve the overall sustainability score and that 
 
 [role="tabbed-block"]
 ====
+
+// 29-JULY-2026 console updates GH-140
 
 .NetApp Console
 --

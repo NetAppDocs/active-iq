@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: get_started_sustainability_dashboard.html
-keywords: activeiq, sustainability dashboard, sustainability dashboard login, bluexp, NetApp Console
+keywords: activeiq, sustainability dashboard, sustainability dashboard login, netapp console
 summary: Get started with the sustainability dashboard by accessing in NetApp Console or Digital Advisor.
 ---
 
@@ -18,6 +18,8 @@ Sustainability dashboard provides AIOps-enabled reporting and scoring with actio
 
 [role="tabbed-block"]
 ====
+
+// 29-JULY-2026 console updates GH-140
 
 .NetApp Console
 --

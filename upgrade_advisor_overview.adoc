@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: upgrade_advisor_overview.html
-keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters, storage systems
+keywords: upgrade advisor, upgrade plan, ontap, upgrade recommendation, clusters, storage systems
 summary: Provide an overview of Upgrade Advisor that simplifies the planning for an ONTAP upgrade.
 ---
 
