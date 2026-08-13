@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: reference_new_activeiq.html
 keywords: what's new, features, new
-summary: Provides information about the new features in the release.
+summary: Learn about new features and enhancements in Digital Advisor.
 ---
 
 = What's new in Digital Advisor
