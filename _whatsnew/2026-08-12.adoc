@@ -1,0 +1,7 @@
+=== Deprecation notice for Config Drift
+
+The Config Drift feature will be deprecated in Digital Advisor in September 2026.
+
+For questions or to share feedback, mailto:ng-activeiq-feedback@netapp.com[contact the Active IQ team].
+
+// 12-AUGUST-2026: Announced deprecation of the Config Drift feature in Digital Advisor.
