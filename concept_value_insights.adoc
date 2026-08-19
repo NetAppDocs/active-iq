@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept_value_insights.html
 keywords: value insights, health, savings, stability, security, ontap systems
-summary: Provides information about the overall health, savings, stability, and security information for your ONTAP system.
+summary: Provides information about the overall health, savings, stability, and security metrics for your ONTAP system.
 ---
 
 = Discover Value Insights in Digital Advisor
@@ -52,8 +52,9 @@ Value Insights provides the following information:
 ** Click the image:edit_icon.png[Image of the edit button] icon next to Forecasted storage efficiency savings to edit the cost per PiB. 
 ** Click the Storage capacity headroom percentage to open the Capacity and Efficiency page.
 ** View Lifecycle planning.
-** Click the tool values to open the respective ONTAP detail pages: System refresh, Storage expansion, and Support renewals.+
-NOTE: insights and detailed information are only available for systems with active contracts. 
+** Click the tool values to open the respective ONTAP detail pages: System Refresh, Storage Expansion, and Support Renewals.
++
+NOTE: Insights and detailed information are only available for systems with active contracts.
 * How to maximize infrastructure value:
 ** Select one of the following values for further information: Active capabilities and Available optimization opportunities.
 
