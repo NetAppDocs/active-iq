@@ -4,6 +4,6 @@ The Value Insights feature consolidates overall health, savings, stability, and 
 
 NOTE: Value Insights is only available for ONTAP systems. 
 
-Learn more about link:https://docs.netapp.com/us-en/active-iq/value_insights.html[Value Insights].
+Learn more about link:https://docs.netapp.com/us-en/active-iq/concept_value_insights.html[Value Insights].
 
 // 20-AUGUST-2026 AIQ-221341
