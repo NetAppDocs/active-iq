@@ -17,6 +17,10 @@ summary: Learn about new features and enhancements in Digital Advisor.
 
 The following features and enhancements have been introduced in Digital Advisor:
 
+== 20 August 2026
+
+include::_whatsnew/2026-08-20.adoc[]
+
 == 12 August 2026
 
 include::_whatsnew/2026-08-12.adoc[]
