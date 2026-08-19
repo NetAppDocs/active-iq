@@ -5,7 +5,7 @@ keywords: cloud insights, vms, virtual machines, data infrastructure insights
 summary: Provides information about the virtual machines in Data Infrastructure Insights
 ---
 
-= Use Digital Advisor to view virtual machines data available in Data Infrastructure Insights
+= Use Digital Advisor to view virtual machine data available in Data Infrastructure Insights
 :toclevels: 1
 :hardbreaks:
 :nofooter:

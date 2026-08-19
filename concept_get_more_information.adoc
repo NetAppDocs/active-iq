@@ -5,7 +5,7 @@ keywords: overview, information, more details
 summary: Provides more information about Digital Advisor.
 ---
 
-= Get more information
+= Additional resources for Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:
