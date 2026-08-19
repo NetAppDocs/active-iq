@@ -168,6 +168,8 @@ sidebar:
               url: /concept_report_types.html
             - title: Generate or schedule a report
               url: /task_generate_reports.html
+        - title: Discover Value Insights
+          url: /concept_value_insights.html
     - title: Knowledge and support
       entries:
         - title: Register for support
