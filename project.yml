@@ -169,7 +169,11 @@ sidebar:
             - title: Generate or schedule a report
               url: /task_generate_reports.html
         - title: Discover Value Insights
-          url: /concept_value_insights.html
+          entries:
+            - title: Learn about Value Insights
+              url: /concept_value_insights.html
+            - title: View Value Insights dashboard
+              url: /task_view_value_insights_dashboard.html
     - title: Knowledge and support
       entries:
         - title: Register for support

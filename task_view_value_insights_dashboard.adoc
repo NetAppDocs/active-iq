@@ -1,0 +1,52 @@
+---
+sidebar: sidebar
+permalink: task_view_value_insights_dashboard.html
+keywords: value insights, health, savings, stability, security, ontap systems
+summary: View the Value Insights dashboard to view health, savings, stability, and security information for your ONTAP system.
+---
+
+= View the Value Insights dashboard
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+View the Value Insights dashboard to view health, savings, stability, and security information for your ONTAP system.  
+
+.Steps
+
+. Select *Health > Digital Advisor*.
+. Select *Value Insights*.
+. Navigate the dashboard display to one of the following features: 
+* Overall health, and how NetApp can help: 
+** Click *More recommendations* to see all KPIs.
+** Select *How is this calculated?* for specific KPI calculations.
+** Scroll down for system details, including: full score, partial score, and zero score.
+* NetApp-delivered savings and stability:
+** Select *NetApp delivered savings*.
+** Click the image:edit_icon.png[Image of the edit button] icon to edit the cost or expenditure per TiB. 
+** Click the storage efficiency value to open the Return on Investment (ROI) dashboard.
+** View the Storage Uptime value and click the System number value for more detail.
+** If applicable, click the *ASUP ID* to view the issue or event causing downtime or an outage. 
+** Click Risks detected and prevented.
+** Click View wellness history for a summarized view. 
+** Click each Risk value to access the associated data from the last 3 months. 
+* Security and planning for the future:
+** Click *Security threats neutralized*.
+** Security issues resolved opens the Wellness history page. 
+** Auto Firmware Updates opens firmware types and upgrade details.
+** Autonomous ransomware protection AI/ML model opens the related firmware page. 
+** Access Projected savings from efficiencies.
+** Click the image:edit_icon.png[Image of the edit button] icon next to Forecasted storage efficiency savings to edit the cost per PiB. 
+** Click the Storage capacity headroom percentage to open the Capacity and Efficiency page.
+** View Lifecycle planning.
+** Click the tool values to open the respective ONTAP detail pages: System Refresh, Storage Expansion, and Support Renewals.
++
+NOTE: Insights and detailed information are only available for systems with active contracts.
+* How to maximize infrastructure value:
+** Select one of the following values for further information: Active capabilities and Available optimization opportunities.
+
+// 20-AUGUST-2026 AIQ-221341
