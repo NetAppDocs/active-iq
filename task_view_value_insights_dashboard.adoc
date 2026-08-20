@@ -18,7 +18,7 @@ View the Value Insights dashboard to access health, savings, stability, and secu
 
 .Steps
 
-. Select *Storage Health > Value Insights*.
+. Select *Customer Success > Value Insights*.
 . In the *Overall health, and how NetApp can help* area, you can view the overall health score for your ONTAP system as a percentage. This score is based on the KPIs.
 * Select *More recommendations* to see all KPIs:
 +
@@ -33,13 +33,15 @@ View the Value Insights dashboard to access health, savings, stability, and secu
 | Plan firmware and system file updates
 | Checks if systems are running the latest firmware and suggests updates. This includes a detailed view for planning firmware updates.
 | Review tech refresh options (EOL)
-| Evaluates the need for technology refreshes. This includes information on end-of-support.
+| Evaluates the need for technology refreshes. 
 | Enabling AutoSupport (ASUP) on your clusters
 | Monitors the status of AutoSupport (ASUP) on clusters.
 | Plan an upgrade to the latest recommended ONTAP Version
 | Assesses the software version of systems and recommends updates.
 | Assess storage expansion options
 | Assesses current storage efficiency and expansion needs. Provides forecasting for future capacity requirements.
+| Contract renewals
+| Evaluates the status of support contracts and provides recommendations for renewals.
 | Proactively monitor to prevent unplanned cluster downtime
 | Provides the number of unplanned downtimes across clusters.
 |===

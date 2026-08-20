@@ -21,8 +21,8 @@ NOTE: Value Insights is only available for ONTAP systems.
 Value Insights provides the following information: 
 
 * Overall health of your ONTAP system is a health score metric made up of nine key performance indicators. Each section has a detailed KPI and score breakdown. 
-* Savings and stability scores indicate how to achieve capacity and storage savings through efficient resource use. Access trend information regarding storage, uptime, and event outages, including the capability to download EMS files.
-* Security and future planning details the risks avoided, issues prevented, and cost savings calculated from storage efficiencies. 
+* Savings and stability scores indicate how to achieve capacity and storage savings through efficient resource use. Access trend information regarding storage uptime and unplanned downtime, including the capability to download EMS files.
+* Security and future planning details the risks avoided and issues prevented. Cost savings are calculated from storage efficiencies. 
 * Maximize infrastructure value recommends additional features to further improve infrastructure performance for peak efficiency. 
 
 .What's next
