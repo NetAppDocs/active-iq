@@ -104,7 +104,7 @@ The older version of Upgrade Advisor is now deprecated. You can use the enhanced
 
 === Wellness
 
-* The Wellness workflow now includes the Sustainability widget, which provides the count of recommended actions at the customer, watchlist, site, and group levels. You can click the number of actions for a detailed view of these recommended actions on the Sustainability dashboard. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html[Analyze the sustainability of your storage systems].
+* The Wellness workflow now includes the Sustainability widget, which provides the count of recommended actions at the customer, watchlist, site, and group levels. You can select the number of actions for a detailed view of these recommended actions on the Sustainability dashboard. To learn more, refer to link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html[Analyze the sustainability of your storage systems].
 * The Security Vulnerabilities and Ransomware Defense widgets in the Wellness workflow are combined into a single widget, which is now called Security & Ransomware Defense.
 
 === Health Check dashboard
@@ -414,7 +414,7 @@ In the Grid Inventory tab, you can now view the node details based on site level
 Where clusters have mixed-hardware models, the OS version applied across the cluster is the one which all nodes can use. As a result, the OS version of some nodes of more recent hardware models might be downrev from where they should be. To make these mixed-model clusters more visible, we have applied a "mixed model" icon.
 
 === Recommended Configuration / Storage Virtual Machine (SVM) Health: Volume-level Summary
-Upon clicking the blue ‘Volume Summary' box in the SVM table, a "pop-out" displays detailed information about the volumes which are hosted or attached to the specific serial number or physical node.
+Upon selecting the blue ‘Volume Summary' box in the SVM table, a "pop-out" displays detailed information about the volumes which are hosted or attached to the specific serial number or physical node.
 
 == 12 July 2021
 
@@ -515,9 +515,9 @@ This release provides the following functionality:
 ** *Renewals:* For any StorageGRID systems for which the license contract has expired or is nearing expiration in the next 6 months, you'll be notified. You can select one or more systems to raise a request to the NetApp support team for renewal.
 * *GRID dashboard:* The GRID dashboard provides wellness, planning, and configuration details for the selected GRID.
 * *Configuration widget:* Provides basic details of the selected StorageGRID in the widget, such as GRID Name, Host Name, Serial Number, Model, OS Version, Customer Name, Shipped Location, and Contact Details.
-* *GRID Viewer:* From the *Configuration* widget, you can view the GRID configuration in detail by clicking the *GRID Viewer* link. From the *Configuration* widget, you can download the Site Details and Capacity Details for the selected StorageGRID by clicking the *Download* button in the *Grid Viewer* screen.
+* *GRID Viewer:* From the *Configuration* widget, you can view the GRID configuration in detail by selecting the *GRID Viewer* link. From the *Configuration* widget, you can download the Site Details and Capacity Details for the selected StorageGRID by selecting the *Download* button in the *Grid Viewer* screen.
 * *Site details:* This tab provides the Grid Summary and Storage Nodes available for each site.
-* *GRID summary:* Contains basic information, such as License Type, License Capacity, number of installed nodes, Support Term (Date of termination of license contract), Primary Admin Node, and Primary Site of the Primary Admin Node. This tab also provides the Site name and the number of storage nodes tagged under the corresponding site. In this release, you can view the list of node names upon clicking the hyperlink available for viewing storage nodes for the corresponding site.
+* *GRID summary:* Contains basic information, such as License Type, License Capacity, number of installed nodes, Support Term (Date of termination of license contract), Primary Admin Node, and Primary Site of the Primary Admin Node. This tab also provides the Site name and the number of storage nodes tagged under the corresponding site. In this release, you can view the list of node names upon selecting the hyperlink available for viewing storage nodes for the corresponding site.
 * *Capacity Details tab:* Provides the Grid Level and Site capacity details configured for the GRID. The Capacity details, such as Installed Storage Capacity, Available Storage Capacity, Total Used Storage Capacity, and Capacity used for Data and Metadata. These details are available at both the Grid and Site levels.
 
 === FabricPool Advisor

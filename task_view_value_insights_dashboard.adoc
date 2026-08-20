@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_view_value_insights_dashboard.html
 keywords: value insights, health, savings, stability, security, ontap systems
-summary: View the Value Insights dashboard to view health, savings, stability, and security information for your ONTAP system.
+summary: View the Value Insights dashboard to access health, savings, stability, and security information for your ONTAP system.
 ---
 
 = View the Value Insights dashboard
@@ -14,39 +14,86 @@ summary: View the Value Insights dashboard to view health, savings, stability, a
 :imagesdir: ./media/
 
 [.lead]
-View the Value Insights dashboard to view health, savings, stability, and security information for your ONTAP system.  
+View the Value Insights dashboard to access health, savings, stability, and security information for your ONTAP system.  
 
 .Steps
 
-. Select *Health > Digital Advisor*.
-. Select *Value Insights*.
-. Navigate the dashboard display to one of the following features: 
-* Overall health, and how NetApp can help: 
-** Click *More recommendations* to see all KPIs.
-** Select *How is this calculated?* for specific KPI calculations.
-** Scroll down for system details, including: full score, partial score, and zero score.
-* NetApp-delivered savings and stability:
-** Select *NetApp delivered savings*.
-** Click the image:edit_icon.png[Image of the edit button] icon to edit the cost or expenditure per TiB. 
-** Click the storage efficiency value to open the Return on Investment (ROI) dashboard.
-** View the Storage Uptime value and click the System number value for more detail.
-** If applicable, click the *ASUP ID* to view the issue or event causing downtime or an outage. 
-** Click Risks detected and prevented.
-** Click View wellness history for a summarized view. 
-** Click each Risk value to access the associated data from the last 3 months. 
-* Security and planning for the future:
-** Click *Security threats neutralized*.
-** Security issues resolved opens the Wellness history page. 
-** Auto Firmware Updates opens firmware types and upgrade details.
-** Autonomous ransomware protection AI/ML model opens the related firmware page. 
-** Access Projected savings from efficiencies.
-** Click the image:edit_icon.png[Image of the edit button] icon next to Forecasted storage efficiency savings to edit the cost per PiB. 
-** Click the Storage capacity headroom percentage to open the Capacity and Efficiency page.
-** View Lifecycle planning.
-** Click the tool values to open the respective ONTAP detail pages: System Refresh, Storage Expansion, and Support Renewals.
+. Select *Storage Health > Value Insights*.
+. In the *Overall health, and how NetApp can help* area, you can view the overall health score for your ONTAP system as a percentage. This score is based on the KPIs.
+* Select *More recommendations* to see all KPIs:
 +
-NOTE: Insights and detailed information are only available for systems with active contracts.
-* How to maximize infrastructure value:
-** Select one of the following values for further information: Active capabilities and Available optimization opportunities.
+[cols=2*,options="header"]
+|===
+| KPI
+| Description
+| Address suggestions for sustainable operations
+| Provides recommendations for sustainable system operations.
+| Resolve security hardening risks on your clusters
+| Evaluates security risks associated with each system.
+| Plan firmware and system file updates
+| Checks if systems are running the latest firmware and suggests updates. This includes a detailed view for planning firmware updates.
+| Review tech refresh options (EOL)
+| Evaluates the need for technology refreshes. This includes information on end-of-support.
+| Enabling AutoSupport (ASUP) on your clusters
+| Monitors the status of AutoSupport (ASUP) on clusters.
+| Plan an upgrade to the latest recommended ONTAP Version
+| Assesses the software version of systems and recommends updates.
+| Assess storage expansion options
+| Assesses current storage efficiency and expansion needs. Provides forecasting for future capacity requirements.
+| Proactively monitor to prevent unplanned cluster downtime
+| Provides the number of unplanned downtimes across clusters.
+|===
+
+* Select *How is this calculated?* for specific KPI calculations. Scroll down for system details, including: full score, partial score, and zero score.
+
+. Select *NetApp delivered savings and stability* to view details on your Return on Investment (ROI).
++
+[cols=2*,options="header"]
+|===
+| Feature
+| Description
+| image:edit_icon.png[Image of the edit button] 
+| Select to edit the cost or expenditure per TiB. 
+| Storage efficiency value
+| Select to open the ROI dashboard.
+| Storage uptime value 
+| View the value and select the System number value for more detail.
+| ASUP ID
+| If applicable, select to view the issue or event causing downtime or an outage. 
+| Risks detected and prevented
+| Select to view the associated data from the last 3 months.
+| View wellness history
+| Select for a summarized view. 
+| Risk value
+| Select each Risk value to access the associated data from the last 3 months. 
+|===
+
+. Select the *Security and planning for the future* area to view information about security.
++
+[cols=2*,options="header"]
+|===
+| Feature
+| Description
+| Security threats neutralized
+| Select to view security details.
+| Security issues resolved
+| Select to open the Wellness history page.
+| Auto Firmware Updates
+| Select to open firmware types and upgrade details.
+| Autonomous ransomware protection AI/ML model
+| Select to open details about the model.
+| Projected savings from efficiencies
+a| * Select the image:edit_icon.png[Image of the edit button] icon next to Forecasted storage efficiency savings to edit the cost per PiB. 
+* Select the Storage capacity headroom percentage to open the Capacity and Efficiency page.
+* Select *Lifecycle planning*.
+* Select the tool values to open the respective ONTAP detail pages: System Refresh, Storage Expansion, and Support Renewals.
++
+NOTE: This feature is exclusive to ONTAP systems and is not available for platforms such as Cloud Volumes ONTAP, ONTAP Select, StorageGRID, or E-Series.
+|===
+
+. Select *How to maximize infrastructure value* to view information on active capabilities and available optimization.
+
+* Select *Active capabilities* to view system details.
+* Select *Available optimization opportunities* to view suggestions.
 
 // 20-AUGUST-2026 AIQ-221341
