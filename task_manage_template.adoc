@@ -24,11 +24,11 @@ Sharing a template saves the time and effort required to create and customize a 
 * Shared users can delete this template from their account at any time.
 
 .Steps
-. From the left pane, click *Config Drift*.
-. Click image:clone_icon.png[clone] to make a copy of the template.
-. Click image:share_icon.png[share] and enter the usernames with whom you want to share the template.
+. From the left pane, select *Config Drift*.
+. Select image:clone_icon.png[clone] to make a copy of the template.
+. Select image:share_icon.png[share] and enter the usernames with whom you want to share the template.
 +
 NOTE: If you enter the email address of the user instead of the username, the template will not be shared.
 
-. Click image:edit_icon.png[edit] to update the details of the template.
-. Click image:delete_icon.png[delete] to delete the template.
+. Select image:edit_icon.png[edit] to update the details of the template.
+. Select image:delete_icon.png[delete] to delete the template.
