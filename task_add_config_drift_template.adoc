@@ -52,8 +52,8 @@ Using a regular expression, a user can create a config drift report that include
 
 
 .Steps
-. From the left pane, click *Config Drift*.
-. Click *Add Template*.
+. From the left pane, select *Config Drift*.
+. Select *Add Template*.
 . Provide the requested values.
 . Optional: You can customize the template by editing the groups or deleting the non-required groups for a template.
-. Click *Add Template*.
+. Select *Add Template*.

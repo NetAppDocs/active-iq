@@ -19,8 +19,8 @@ The *Valuable Insights* widget provides information about the number of support 
 video::QPJY2TWnRxQ[youtube, width=848, height=480]
 
 .Steps
-. In the *Inventory* widget, click *Systems* to view the system information of all platforms or click the platform type and then click *Systems* to view systems specific to that platform.
-. Click the node or cluster to view detailed information about the system.
+. In the *Inventory* widget, select *Systems* to view the system information of all platforms or select the platform type and then select *Systems* to view systems specific to that platform.
+. Select the node or cluster to view detailed information about the system.
 +
 The *Valuable Insights* widget is available on the dashboard.
 . Review the information in the widget to understand the business and technical value received from your support contract.

@@ -5,7 +5,7 @@ keywords: troubleshoot, feedback, support
 summary: Provides more information about Ansible.
 ---
 
-= Get more information
+= Troubleshooting and support resources for Digital Advisor
 :toclevels: 1
 :hardbreaks:
 :nofooter:

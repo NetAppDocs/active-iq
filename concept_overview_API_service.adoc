@@ -28,7 +28,7 @@ Automation with APIs is a great way to add efficiency and accuracy to daily or w
 
 The toggle at the top of the page allows the user to switch between the two modes to view the Catalog. The Code view focuses on the input parameters needed, the content and format of the return data, and code samples to get the user started with putting code in place. The Experiment view offers the user a chance to “try out” the API in the browser using a generated token obtained from the main API Services page.
 
-Either view allows the user to browse through available items using the navigation pane on the left. The items are organized by service in alphabetical order. Within a given service, you can expand the heading to show the individual API Endpoints. Clicking on the service heading or an API Endpoint will take you to that section of the Catalog in the middle pane.
+Either view allows the user to browse through available items using the navigation pane on the left. The items are organized by service in alphabetical order. Within a given service, you can expand the heading to show the individual API Endpoints. Selecting the service heading or an API Endpoint will take you to that section of the Catalog in the middle pane.
 
 
 == Using the APIs

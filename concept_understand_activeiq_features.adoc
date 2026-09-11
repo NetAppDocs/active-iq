@@ -36,7 +36,9 @@ The following are some of the features of Digital Advisor:
 * Provide cross-stack information and insights that are beneficial for troubleshooting, upgrade assessments, solution validation, and migration.
 * Check the compatibility of hosts, and provide upgrade recommendations for host operating systems, drivers, and .
 * Arrive at exactly what you want to find in a smarter and faster manner.
+* link:concept_value_insights.html[Discover Value Insights], which provides overall health, savings, stability, and security information for your ONTAP system.
 
 NOTE: You can upgrade the support offering from the *Configuration* widget on the system dashboard to gain insights on your install base and receive personalized support.
 
+// 20-AUGUST-2026 AIQ-221341
 // 29-JULY-2026 remove references to outdated ONTAP versions

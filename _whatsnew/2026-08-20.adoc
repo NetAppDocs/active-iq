@@ -1,0 +1,9 @@
+=== Introducing Value Insights
+
+The Value Insights feature consolidates overall health, savings, stability, and security information for ONTAP systems. You can use this information to improve system health and performance through a continuous, data-driven view of your ONTAP environment.
+
+NOTE: Value Insights is only available for ONTAP systems. 
+
+Learn more about link:https://docs.netapp.com/us-en/active-iq/concept_value_insights.html[Value Insights].
+
+// 20-AUGUST-2026 AIQ-221341

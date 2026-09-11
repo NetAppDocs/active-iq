@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: concept_value_insights.html
+keywords: value insights, health, savings, stability, security, ontap systems
+summary: Provides information about the overall health, savings, stability, and security metrics for your ONTAP system.
+---
+
+= Discover Value Insights in Digital Advisor
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The Value Insights feature consolidates overall health, savings, stability, and security information for your ONTAP system. You can use this information to improve system health and performance through a continuous, data-driven view of your ONTAP environment.
+
+NOTE: Value Insights is only available for ONTAP systems. 
+
+Value Insights provides the following information: 
+
+* Overall health of your ONTAP system is a health score metric made up of nine key performance indicators. Each section has a detailed KPI and score breakdown. 
+* Savings and stability scores indicate how to achieve capacity and storage savings through efficient resource use. Access trend information regarding storage uptime and unplanned downtime, including the capability to download EMS files.
+* Security and future planning details the risks avoided and issues prevented. Cost savings are calculated from storage efficiencies. 
+* Maximize infrastructure value recommends additional features to further improve infrastructure performance for peak efficiency. 
+
+.What's next
+link:task_view_value_insights_dashboard.html[View the Value Insights dashboard]
+
+
+// 20-AUGUST-2026 AIQ-221341
