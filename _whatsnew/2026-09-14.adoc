@@ -1,6 +1,6 @@
 === Deprecation notice for Virtual Machine
 
-The Virtual Machine feature is deprecated in Digital Advisor in October 2026.
+The Virtual Machine feature will be deprecated in Digital Advisor in October 2026.
 
 For questions or to share feedback, mailto:ng-activeiq-feedback@netapp.com[contact the Active IQ team].
 
