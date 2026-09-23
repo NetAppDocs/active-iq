@@ -1,0 +1,7 @@
+=== Update information on the Value Insights Dashboard
+
+Information on how to use the Value Insights Dashboard has been updated.
+
+Learn more about link:https://kb.netapp.com/data-mgmt/Digital-Advisor-KBs/How_to_use_Value_Insights_Dashboard_in_Digital_Advisor[how to use Value Insights Dashboard in Digital Advisor^].
+
+// 25-SEPTEMBER-2026: Announced content updates for the Value Insights Dashboard in Digital Advisor.

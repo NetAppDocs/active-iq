@@ -98,4 +98,8 @@ NOTE: This feature is exclusive to ONTAP systems and is not available for platfo
 * Select *Active capabilities* to view system details.
 * Select *Available optimization opportunities* to view suggestions.
 
+Learn more about link:https://kb.netapp.com/data-mgmt/Digital-Advisor-KBs/How_to_use_Value_Insights_Dashboard_in_Digital_Advisor[how to use Value Insights Dashboard in Digital Advisor^].
+
+
+// 25-SEPTEMBER-2026: Announced content updates for the Value Insights Dashboard in Digital Advisor.
 // 20-AUGUST-2026 AIQ-221341
