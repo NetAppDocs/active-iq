@@ -13,9 +13,15 @@ summary: Learn about new features and enhancements in Digital Advisor.
 :linkattrs:
 :imagesdir: ./media/
 
+// 25-SEPTEMBER-2026: Announced content updates for the Value Insights Dashboard in Digital Advisor.
+
 [.lead]
 
 The following features and enhancements have been introduced in Digital Advisor:
+
+== 25 September 2026
+
+include::_whatsnew/2026-09-25.adoc[]
 
 == 14 September 2026
 
