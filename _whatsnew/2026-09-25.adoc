@@ -4,4 +4,10 @@ An update to the documentation for the Value Insights Dashboard has been publish
 
 Learn more about link:https://kb.netapp.com/data-mgmt/Digital-Advisor-KBs/How_to_use_Value_Insights_Dashboard_in_Digital_Advisor[how to use Value Insights Dashboard in Digital Advisor^].
 
+=== Deprecation notice for Config Drift
+
+The Config Drift feature has been deprecated and is no longer available in Digital Advisor as of September 2026.
+
+For questions or to share feedback, mailto:ng-activeiq-feedback@netapp.com[contact the Active IQ team].
+
 // 25-SEPTEMBER-2026: Announced content updates for the Value Insights Dashboard in Digital Advisor.
