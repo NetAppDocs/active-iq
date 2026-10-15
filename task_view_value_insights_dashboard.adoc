@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_view_value_insights_dashboard.html
-keywords: value insights, health, savings, stability, security, ontap systems
+keywords: value insights, health, savings, stability, security, ontap, e-series, storagegrid
 summary: View the Value Insights dashboard to access health, savings, stability, and security information for your ONTAP system.
 ---
 
@@ -14,12 +14,12 @@ summary: View the Value Insights dashboard to access health, savings, stability,
 :imagesdir: ./media/
 
 [.lead]
-View the Value Insights dashboard to access health, savings, stability, and security information for your ONTAP system.  
+View the Value Insights dashboard to access health scores, savings, stability, and security information for your E-Series, ONTAP, and StorageGRID systems.
 
 .Steps
 
 . Select *Customer Success > Value Insights*.
-. In the *Overall health, and how NetApp can help* area, you can view the overall health score for your ONTAP system as a percentage. This score is based on the KPIs.
+. In the *Overall health, and how NetApp can help* area, you can view the overall health score for your E-Series, ONTAP, and StorageGRID systems as a percentage. This score is based on the KPIs.
 * Select *More recommendations* to see all KPIs:
 +
 [cols=2*,options="header"]

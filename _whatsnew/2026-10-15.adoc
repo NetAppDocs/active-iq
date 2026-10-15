@@ -1,0 +1,8 @@
+=== E-Series and StorageGRID support in Value Insights
+
+Value Insights now includes ONTAP, E-Series, and StorageGRID systems in health, risk, security risk, and lifecycle totals. You can filter the dashboard by platform to view platform-specific details. Delivered and projected savings remain available for ONTAP systems only.
+
+link:https://docs.netapp.com/us-en/active-iq/concept_value_insights.html[Discover Value Insights in Digital Advisor].
+
+
+// 15-OCTOBER-2026: Announced content updates for the Value Insights Dashboard in Digital Advisor.
